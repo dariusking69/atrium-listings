@@ -1,0 +1,28 @@
+name: Refresh Atrium listings
+
+# Rebuilds index.html + listings.json from the live AppFolio feed.
+# GitHub's runners have CA certs, so the fetch "just works" here.
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch:          # manual "Run workflow" button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 build.py          # fetch live + rebuild
+        working-directory: atrium-listings
+      - name: Commit if changed
+        run: |
+          cd atrium-listings
+          git config user.name  "atrium-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add index.html listings.json
+          git diff --cached --quiet || git commit -m "Refresh listings $(date -u +%FT%TZ)"
+          git push
