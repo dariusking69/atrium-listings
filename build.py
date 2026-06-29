@@ -213,7 +213,14 @@ def build(listings):
     grid = INDEX_TPL.replace("/*__DATA__*/", json.dumps(
         [{k: l.get(k) for k in ("id", "street", "city", "rent", "rent_val", "specs", "beds", "photo", "address")} for l in listings],
         separators=(",", ":"))).replace("__COUNT__", str(len(listings)))
-    (HERE / "index.html").write_text(grid, encoding="utf-8")
+    # widget.html (map + grid) is the canonical listings page; keep the plain grid as grid.html
+    (HERE / "grid.html").write_text(grid, encoding="utf-8")
+    # index.html / bare site URL -> redirect to the widget so there is one listings page
+    (HERE / "index.html").write_text(
+        '<!DOCTYPE html><meta charset="utf-8"><title>Atrium Residential Listings</title>'
+        '<meta http-equiv="refresh" content="0; url=widget.html">'
+        '<script>location.replace("widget.html"+location.search+location.hash)</script>'
+        '<a href="widget.html">View residential listings</a>', encoding="utf-8")
     (HERE / "listings.json").write_text(json.dumps(listings, indent=2), encoding="utf-8")
     print(f"Built index.html + {len(listings)} detail pages in homes/")
 
@@ -338,8 +345,8 @@ DETAIL_TPL = r"""<!DOCTYPE html><html lang="en"><head>
   .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
   @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
 </style></head><body>
-<header class="site"><div class="bar"><a class="brand" href="../index.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
-<div class="back"><a href="../index.html">← All listings</a></div>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="@@HERO@@" alt="">
