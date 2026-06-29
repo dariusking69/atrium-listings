@@ -250,7 +250,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
         {maxZoom:19,attribution:'&copy; OpenStreetMap, &copy; CARTO'}).addTo(api.map);
       api.layer=L.layerGroup().addTo(api.map);
-      setTimeout(function(){api.map.invalidateSize();if(api.last)api.render(api.last);},60);
+      try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
+      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api.last)api.render(api.last);},60);});
       if(api.pending){api.render(api.pending);api.pending=null;}
     });
     var icon=function(){return L.divIcon({className:'atr-pin',html:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
@@ -263,7 +264,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       });
       if(pts.length) api.map.fitBounds(pts,{padding:[40,40],maxZoom:13});
     };
-    return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; }};
+    return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
+            refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); }};
   }
 
   function makeGoogle(){
@@ -277,6 +279,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     };
     loadScript('https://maps.googleapis.com/maps/api/js?key='+encodeURIComponent(CONFIG.GOOGLE_MAPS_API_KEY)+'&callback=__atrGmapInit');
     api.render=function(rows){
+      api.last=rows;
       api.markers.forEach(function(m){m.setMap(null);}); api.markers=[];
       var b=new google.maps.LatLngBounds(), n=0;
       rows.forEach(function(l){ if(l.lat==null||l.lng==null)return;
@@ -286,8 +289,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       });
       if(n)api.map.fitBounds(b);
     };
-    return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; }};
+    return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
+            refresh:function(){ if(api.map){google.maps.event.trigger(api.map,'resize'); if(api.last)api.render(api.last);} }};
   }
+
+  // Repaint the map when the page is restored (bfcache back/forward, tab refocus, resize).
+  window.addEventListener('pageshow', function(){ if(MAP&&MAP.refresh)MAP.refresh(); });
 })();
 </script>
 <!-- WIDGET END -->
