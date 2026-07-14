@@ -228,7 +228,7 @@ def build(listings):
 # ===================== TEMPLATES =====================
 SHARED_CSS = r"""
   :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
-    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"IBM Plex Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
   *{box-sizing:border-box}html,body{margin:0}
   body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
   a{color:inherit;text-decoration:none}
@@ -243,7 +243,7 @@ INDEX_TPL = r"""<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Residential Listings — Atrium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
 <style>__CSS__
   .count{margin-left:auto;font-size:13px;color:var(--ink-2)}.count b{color:var(--ink)}
   .hero{max-width:1280px;margin:0 auto;padding:40px 24px 8px}
@@ -321,7 +321,7 @@ DETAIL_TPL = r"""<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>@@STREET@@ — Atrium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
 <style>__CSS__
   .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
   .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}

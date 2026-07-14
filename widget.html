@@ -46,9 +46,10 @@
 </div>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
 #atr-root{--red:#f13d3d;--ink:#070707;--line:#e6e6e6;--btn:#070707;--apply:#e6e6e6;--pin:#ea4335;
-  font-family:"IBM Plex Sans","Helvetica Neue",Helvetica,Arial,sans-serif;color:var(--ink);
+  --font:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:var(--font);color:var(--ink);
   max-width:1320px;margin:0 auto;padding:8px 16px 40px;box-sizing:border-box;-webkit-font-smoothing:antialiased}
 #atr-root *{box-sizing:border-box}
 #atr-root a{text-decoration:none;color:inherit}
@@ -295,6 +296,20 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // Repaint the map when the page is restored (bfcache back/forward, tab refocus, resize).
   window.addEventListener('pageshow', function(){ if(MAP&&MAP.refresh)MAP.refresh(); });
+
+  // Optional: adopt the host site's font. The Squarespace page can postMessage
+  // {type:'atr-font', font:'<family stack>'} and the widget switches to it live.
+  // Defaults to Open Sans if no message arrives. (See HANDOFF.md for the snippet.)
+  window.addEventListener('message', function(e){
+    var d=e.data;
+    if(d && d.type==='atr-font' && typeof d.font==='string'){
+      var f=d.font.trim();
+      if(f && f.length<200 && /^[\w\s,."'()\-]+$/.test(f)){
+        var root=document.getElementById('atr-root');
+        if(root) root.style.setProperty('--font', f);
+      }
+    }
+  });
 })();
 </script>
 <!-- WIDGET END -->
