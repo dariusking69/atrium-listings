@@ -50,6 +50,33 @@ Open this link in any browser. This is exactly what will appear on the site:
 
 ---
 
+## Optional: auto-match the site's font
+
+By default the widget uses **Open Sans** (the current meetatrium.com font). If you want it
+to always mirror whatever font the site theme uses — even if we change the brand font later —
+add this small script **in the same Code Block, right after the iframe**:
+
+```html
+<script>
+(function(){
+  function sync(){
+    var ifr = document.querySelector('iframe[src*="atrium-listings"]');
+    if(!ifr || !ifr.contentWindow) return;
+    ifr.contentWindow.postMessage(
+      {type:'atr-font', font:getComputedStyle(document.body).fontFamily},
+      'https://dariusking69.github.io');
+  }
+  window.addEventListener('load', sync);
+  setTimeout(sync, 1500); setTimeout(sync, 4000);
+})();
+</script>
+```
+
+It reads the page's font on load and tells the widget to use it. Works for standard/Google
+web fonts (like Open Sans). Note: if the site ever switches to a proprietary Adobe/Typekit
+font, the widget (hosted on a separate domain) can't load that licensed font file — tell Alex
+and we'll load a matching web font in the widget.
+
 ## Notes
 - **Map:** currently OpenStreetMap (zero setup, no API key). To switch to literal **Google Maps**
   to match the old map tile-for-tile, we just add a Google Maps API key — ask Alex.
