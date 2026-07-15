@@ -246,14 +246,23 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     var qs=p.toString();
     try{ history.replaceState(null,'', qs ? location.pathname+'?'+qs : location.pathname); }catch(e){}
   }
-  function copyText(t){                                     // clipboard API, with a legacy fallback for iframes
+  function copyText(t){
+    // execCommand('copy') FIRST — it's synchronous (keeps the click's user-activation) and works
+    // inside a cross-origin iframe, where the async Clipboard API is permission-gated and rejects
+    // unless the host page passes allow="clipboard-write". Fall back to the async API otherwise.
+    try{
+      var ta=document.createElement('textarea');
+      ta.value=t; ta.setAttribute('readonly','');
+      ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;padding:0;border:0;opacity:0';
+      document.body.appendChild(ta);
+      ta.focus(); ta.select();
+      try{ ta.setSelectionRange(0,t.length); }catch(e){}
+      var ok=document.execCommand('copy');
+      document.body.removeChild(ta);
+      if(ok) return Promise.resolve();
+    }catch(e){}
     if(navigator.clipboard && navigator.clipboard.writeText) return navigator.clipboard.writeText(t);
-    return new Promise(function(res,rej){
-      var ta=document.createElement('textarea'); ta.value=t; ta.setAttribute('readonly','');
-      ta.style.position='absolute'; ta.style.left='-9999px'; document.body.appendChild(ta);
-      ta.select(); var ok=false; try{ ok=document.execCommand('copy'); }catch(e){}
-      document.body.removeChild(ta); ok?res():rej();
-    });
+    return Promise.reject();
   }
   function share(){
     syncUrl();
