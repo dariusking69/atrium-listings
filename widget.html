@@ -36,6 +36,7 @@
     <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="new">Newest</option></select>
     <button id="atr-radius" class="atr-toggle" type="button" title="Search within a distance of a point on the map">◎ Radius</button>
     <select id="atr-radius-mi" class="atr-in" style="display:none"><option value="1">1 mi</option><option value="3">3 mi</option><option value="5" selected>5 mi</option><option value="10">10 mi</option><option value="25">25 mi</option><option value="50">50 mi</option></select>
+    <button id="atr-draw" class="atr-toggle" type="button" title="Draw an area on the map to filter listings inside it">✏️ Draw</button>
     <button id="atr-reset" class="atr-reset" type="button">Reset</button>
     <button id="atr-share" class="atr-share" type="button" title="Copy a link to these filtered results">
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
@@ -158,6 +159,31 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
     apply();
   }
+  var POLY = null, drawMode = false;     // pencil/lasso: [[lat,lng],...]
+  function inPolygon(lat,lng,poly){      // ray casting (lat=y, lng=x)
+    var inside=false;
+    for(var i=0,j=poly.length-1;i<poly.length;j=i++){
+      var yi=poly[i][0],xi=poly[i][1],yj=poly[j][0],xj=poly[j][1];
+      if(((yi>lat)!=(yj>lat)) && (lng < (xj-xi)*(lat-yi)/(yj-yi)+xi)) inside=!inside;
+    }
+    return inside;
+  }
+  function simplifyPoly(pts,max){        // decimate a freehand trace to keep the share URL short
+    if(pts.length<=max) return pts.slice();
+    var out=[], step=pts.length/max;
+    for(var i=0;i<pts.length;i+=step) out.push(pts[Math.floor(i)]);
+    return out;
+  }
+  function onPolyDone(latlngs){          // fired when the lasso is released
+    drawMode=false;
+    var b=$('#atr-draw');
+    if(MAP&&MAP.stopDraw)MAP.stopDraw();
+    if(!latlngs || latlngs.length<3){ b.classList.toggle('active',!!POLY); b.textContent=POLY?'✏️ Area ✕':'✏️ Draw'; return; }
+    POLY=simplifyPoly(latlngs,40);
+    if(MAP&&MAP.drawPolygon)MAP.drawPolygon(POLY);
+    b.classList.add('active'); b.textContent='✏️ Area ✕';
+    apply();
+  }
 
   // ================= LOAD =================
   fetch(CONFIG.DATA_URL).then(function(r){return r.json();}).then(function(rows){
@@ -179,6 +205,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     MAP = makeMap();
     if(MAP.onClick) MAP.onClick(onMapPick);
     if(RADIUS && MAP.drawCircle) MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
+    if(POLY && MAP.drawPolygon) MAP.drawPolygon(POLY);
     apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
 
@@ -202,6 +229,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       var mi=$('#atr-radius-mi'); mi.value=RADIUS.mi; mi.style.display='';
       var rb=$('#atr-radius'); rb.classList.add('active'); rb.textContent='◎ Radius ✕';
     }
+    if(p.has('poly')){
+      var nums=p.get('poly').split('_').map(parseFloat).filter(function(n){return !isNaN(n);});
+      var pl=[]; for(var i=0;i+1<nums.length;i+=2) pl.push([nums[i],nums[i+1]]);
+      if(pl.length>=3){ POLY=pl; var db=$('#atr-draw'); db.classList.add('active'); db.textContent='✏️ Area ✕'; }
+    }
   }
   function syncUrl(){                                       // reflect current filters back into the URL
     var p=new URLSearchParams();
@@ -210,6 +242,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(v!=='' && !(k==='sort' && v==='rent_desc')) p.set(k,v);   // omit empties + default sort
     });
     if(RADIUS){ p.set('rlat',RADIUS.lat.toFixed(5)); p.set('rlng',RADIUS.lng.toFixed(5)); p.set('rmi',RADIUS.mi); }
+    if(POLY && POLY.length>=3){ p.set('poly', POLY.map(function(pt){return pt[0].toFixed(4)+'_'+pt[1].toFixed(4);}).join('_')); }
     var qs=p.toString();
     try{ history.replaceState(null,'', qs ? location.pathname+'?'+qs : location.pathname); }catch(e){}
   }
@@ -244,6 +277,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(ci && l.city!==ci)return false;
       if(zp && l.zip!==zp)return false;
       if(RADIUS){ if(l.lat==null||l.lng==null)return false; if(milesBetween(RADIUS.lat,RADIUS.lng,l.lat,l.lng)>RADIUS.mi)return false; }
+      if(POLY){ if(l.lat==null||l.lng==null)return false; if(!inPolygon(l.lat,l.lng,POLY))return false; }
       return true;
     });
     var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
@@ -303,6 +337,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
       $('#atr-radius-mi').style.display='none';
       var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='◎ Radius';
+      POLY=null; drawMode=false; if(MAP&&MAP.stopDraw)MAP.stopDraw(); if(MAP&&MAP.clearPolygon)MAP.clearPolygon();
+      var db=$('#atr-draw'); db.classList.remove('active'); db.textContent='✏️ Draw';
       apply();
     });
     $('#atr-share').addEventListener('click', share);
@@ -314,11 +350,24 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         $('#atr-radius-mi').style.display='none';
         b.classList.remove('active'); b.textContent='◎ Radius'; apply();
       } else {                                        // arm: the next map click sets the center
+        if(drawMode){ drawMode=false; if(MAP&&MAP.stopDraw)MAP.stopDraw(); var db=$('#atr-draw'); db.classList.toggle('active',!!POLY); db.textContent=POLY?'✏️ Area ✕':'✏️ Draw'; }
         pickMode=true; b.classList.add('active'); b.textContent='Click the map…';
       }
     });
     $('#atr-radius-mi').addEventListener('change', function(){
       if(RADIUS){ RADIUS.mi=+this.value; if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi); apply(); }
+    });
+    $('#atr-draw').addEventListener('click', function(){
+      var b=$('#atr-draw');
+      if(POLY || drawMode){                           // clear the drawn area
+        POLY=null; drawMode=false;
+        if(MAP&&MAP.stopDraw)MAP.stopDraw(); if(MAP&&MAP.clearPolygon)MAP.clearPolygon();
+        b.classList.remove('active'); b.textContent='✏️ Draw'; apply();
+      } else {                                          // arm: drag on the map to lasso an area
+        if(pickMode){ pickMode=false; var rb=$('#atr-radius'); rb.classList.toggle('active',!!RADIUS); rb.textContent=RADIUS?'◎ Radius ✕':'◎ Radius'; }
+        drawMode=true; b.classList.add('active'); b.textContent='Draw on the map…';
+        if(MAP&&MAP.startDraw)MAP.startDraw(onPolyDone);
+      }
     });
   }
 
@@ -341,7 +390,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       api.layer=L.layerGroup().addTo(api.map);
       api.map.on('click',function(e){ if(api._onClick) api._onClick(e.latlng.lat,e.latlng.lng); });
       try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
-      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api.last)api.render(api.last);},60);});
+      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}if(api._pendingDraw){api._pendingDraw();api._pendingDraw=null;}if(api.last)api.render(api.last);},60);});
       if(api.pending){api.render(api.pending);api.pending=null;}
     });
     var icon=function(){return L.divIcon({className:'atr-pin',html:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
@@ -353,6 +402,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
       if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
+      else if(api._poly){ api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]}); }
       else if(pts.length){ api.map.fitBounds(pts,{padding:[40,40],maxZoom:13}); }
     };
     api.drawCircle=function(lat,lng,mi){
@@ -370,9 +420,35 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(api._center){api.map.removeLayer(api._center);api._center=null;}
       api._pendingCircle=null;
     };
+    api.drawPolygon=function(latlngs){
+      var doDraw=function(){
+        if(api._poly)api.map.removeLayer(api._poly);
+        api._poly=L.polygon(latlngs,{color:'#f13d3d',weight:2,fillColor:'#f13d3d',fillOpacity:.08,interactive:false}).addTo(api.map);
+        try{api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]});}catch(e){}
+      };
+      if(api.map)doDraw(); else api._pendingPoly=doDraw;
+    };
+    api.clearPolygon=function(){ if(api._poly){api.map.removeLayer(api._poly);api._poly=null;} api._pendingPoly=null; };
+    api.startDraw=function(onDone){
+      if(!api.map){ api._pendingDraw=function(){api.startDraw(onDone);}; return; }
+      var map=api.map, cont=map.getContainer();
+      map.dragging.disable(); if(map.tap)map.tap.disable(); cont.style.cursor='crosshair';
+      var drawing=false, pts=[], line=null;
+      var toLL=function(ev){ var t=ev.touches?ev.touches[0]:ev; var r=cont.getBoundingClientRect(); return map.containerPointToLatLng(L.point(t.clientX-r.left,t.clientY-r.top)); };
+      var down=function(ev){ ev.preventDefault(); drawing=true; pts=[toLL(ev)]; if(line)map.removeLayer(line); line=L.polyline(pts,{color:'#f13d3d',weight:2}).addTo(map); };
+      var move=function(ev){ if(!drawing)return; ev.preventDefault(); pts.push(toLL(ev)); line.setLatLngs(pts); };
+      var up=function(ev){ if(!drawing)return; drawing=false; if(line){map.removeLayer(line);line=null;} onDone(pts.map(function(p){return [p.lat,p.lng];})); };
+      api._draw={cont:cont,down:down,move:move,up:up};
+      cont.addEventListener('pointerdown',down); cont.addEventListener('pointermove',move); window.addEventListener('pointerup',up);
+    };
+    api.stopDraw=function(){
+      var d=api._draw; if(d){ d.cont.removeEventListener('pointerdown',d.down); d.cont.removeEventListener('pointermove',d.move); window.removeEventListener('pointerup',d.up); d.cont.style.cursor=''; api._draw=null; }
+      if(api.map){ api.map.dragging.enable(); if(api.map.tap)api.map.tap.enable(); }
+    };
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
             refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); },
-            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle};
+            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle,
+            drawPolygon:api.drawPolygon, clearPolygon:api.clearPolygon, startDraw:api.startDraw, stopDraw:api.stopDraw};
   }
 
   function makeGoogle(){
@@ -384,6 +460,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       api.info=new google.maps.InfoWindow();
       api.map.addListener('click',function(e){ if(api._onClick) api._onClick(e.latLng.lat(),e.latLng.lng()); });
       if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}
+      if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}
       if(api.pending){api.render(api.pending);api.pending=null;}
     };
     loadScript('https://maps.googleapis.com/maps/api/js?key='+encodeURIComponent(CONFIG.GOOGLE_MAPS_API_KEY)+'&callback=__atrGmapInit');
@@ -397,8 +474,18 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         api.markers.push(m); b.extend(m.getPosition()); n++;
       });
       if(api._circle){ api.map.fitBounds(api._circle.getBounds()); }
+      else if(api._poly){ var pb=new google.maps.LatLngBounds(); api._poly.getPath().forEach(function(pt){pb.extend(pt);}); api.map.fitBounds(pb); }
       else if(n)api.map.fitBounds(b);
     };
+    api.drawPolygon=function(latlngs){
+      var doDraw=function(){ if(api._poly)api._poly.setMap(null);
+        api._poly=new google.maps.Polygon({paths:latlngs.map(function(p){return {lat:p[0],lng:p[1]};}),map:api.map,strokeColor:'#f13d3d',strokeWeight:2,fillColor:'#f13d3d',fillOpacity:.08,clickable:false});
+        var pb=new google.maps.LatLngBounds(); api._poly.getPath().forEach(function(pt){pb.extend(pt);}); api.map.fitBounds(pb); };
+      if(api.map)doDraw(); else api._pendingPoly=doDraw;
+    };
+    api.clearPolygon=function(){ if(api._poly){api._poly.setMap(null);api._poly=null;} api._pendingPoly=null; };
+    api.startDraw=function(){ /* interactive freehand is Leaflet-only; Google renders shared/URL polygons */ };
+    api.stopDraw=function(){};
     api.drawCircle=function(lat,lng,mi){
       var doDraw=function(){
         if(api._circle)api._circle.setMap(null);
@@ -416,7 +503,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     };
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
             refresh:function(){ if(api.map){google.maps.event.trigger(api.map,'resize'); if(api.last)api.render(api.last);} },
-            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle};
+            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle,
+            drawPolygon:api.drawPolygon, clearPolygon:api.clearPolygon, startDraw:api.startDraw, stopDraw:api.stopDraw};
   }
 
   // Repaint the map when the page is restored (bfcache back/forward, tab refocus, resize).
