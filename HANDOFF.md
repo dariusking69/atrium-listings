@@ -11,7 +11,7 @@ nothing to maintain and **no more DevSpecial widget** ($8/mo).
 
 Open this link in any browser. This is exactly what will appear on the site:
 
-**https://dariusking69.github.io/atrium-listings/widget.html**
+**https://listings.meetatrium.com/widget.html**
 
 ---
 
@@ -24,7 +24,7 @@ Open this link in any browser. This is exactly what will appear on the site:
 3. Replace that block's contents (or add a new **Code Block**) with this snippet:
 
    ```html
-   <iframe src="https://dariusking69.github.io/atrium-listings/widget.html"
+   <iframe src="https://listings.meetatrium.com/widget.html"
            title="Atrium Residential Listings"
            style="width:100%; height:1600px; border:0;"
            loading="lazy" referrerpolicy="no-referrer-when-downgrade"
@@ -61,11 +61,11 @@ add this small script **in the same Code Block, right after the iframe**:
 <script>
 (function(){
   function sync(){
-    var ifr = document.querySelector('iframe[src*="atrium-listings"]');
+    var ifr = document.querySelector('iframe[src*="listings.meetatrium.com"]');
     if(!ifr || !ifr.contentWindow) return;
     ifr.contentWindow.postMessage(
       {type:'atr-font', font:getComputedStyle(document.body).fontFamily},
-      'https://dariusking69.github.io');
+      'https://listings.meetatrium.com');
   }
   window.addEventListener('load', sync);
   setTimeout(sync, 1500); setTimeout(sync, 4000);
