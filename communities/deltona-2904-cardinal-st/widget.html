@@ -35,7 +35,6 @@
     <select id="atr-city" class="atr-in"><option value="">City</option></select>
     <select id="atr-zip" class="atr-in"><option value="">Zip</option></select>
     <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="new">Newest</option></select>
-    <input id="atr-date" class="atr-in" type="date" title="Desired Move-In Date">
     <button id="atr-reset" class="atr-reset" type="button">Reset</button>
     <span id="atr-count" class="atr-count"></span>
   </div>
@@ -165,12 +164,10 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function fill(sel,arr){var s=$(sel);arr.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=v;s.appendChild(o);});}
 
   // ================= FILTER + RENDER =================
-  function parseAvail(a){ if(!a||a.toUpperCase()==='NOW')return 0; var m=a.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4})/); if(!m)return 0; var y=+m[3]; if(y<100)y+=2000; return new Date(y,(+m[1])-1,+m[2]).getTime(); }
   function apply(){
     var q=$('#atr-q').value.trim().toLowerCase();
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
-    var dt=$('#atr-date').value?new Date($('#atr-date').value+'T00:00:00').getTime():null;
     var rows=DATA.filter(function(l){
       if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0)return false;
       if(mn!=null && l.rent_val<mn)return false;
@@ -179,7 +176,6 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(ba!=='' && (l.baths||0)<+ba)return false;
       if(ci && l.city!==ci)return false;
       if(zp && l.zip!==zp)return false;
-      if(dt!=null){ var av=parseAvail(l.available); if(av>dt)return false; }
       return true;
     });
     var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
@@ -229,10 +225,10 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ================= EVENTS =================
   function wire(){
-    ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort','#atr-date']
+    ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort']
       .forEach(function(s){$(s).addEventListener('input',apply);});
     $('#atr-reset').addEventListener('click',function(){
-      ['#atr-q','#atr-min','#atr-max','#atr-date'].forEach(function(s){$(s).value='';});
+      ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip'].forEach(function(s){$(s).value='';});
       $('#atr-sort').value='rent_desc'; apply();
     });

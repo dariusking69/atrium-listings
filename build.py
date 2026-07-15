@@ -78,6 +78,16 @@ def rent_to_int(rent):
     return int(n[0].replace(",", "")) if n else 0
 
 
+def parse_city(address):
+    """City = the comma segment right before 'ST ZIP'. Handles addresses where the
+    unit is its own segment, e.g. '1600 Neo Landings Loop, Unit 405, Kissimmee, FL 34744'."""
+    parts = [p.strip() for p in (address or "").split(",")]
+    for i in range(len(parts) - 1, -1, -1):
+        if re.match(r"^[A-Za-z]{2}\.?\s*\d{5}", parts[i]):  # e.g. "FL 34744"
+            return parts[i - 1] if i - 1 >= 0 else ""
+    return parts[1] if len(parts) > 1 else ""
+
+
 def normalize_grid(raw):
     out = []
     for r in raw:
@@ -88,7 +98,7 @@ def normalize_grid(raw):
             "uuid": (r.get("detail_page_url", "").rstrip("/").split("/") or [""])[-1],
             "address": r.get("address", ""),
             "street": parts[0] if parts else "",
-            "city": parts[1] if len(parts) > 1 else "",
+            "city": parse_city(r.get("address", "")),
             "rent": r.get("rent_range", ""), "rent_val": rent_to_int(r.get("rent_range", "")),
             "specs": r.get("unit_specs", ""), "beds": beds, "baths": baths, "sqft": sqft,
             "photo": r.get("default_photo_url", ""),
@@ -207,6 +217,7 @@ def derive_available(terms):
 def build(listings):
     for l in listings:
         l["available"] = derive_available(l.get("terms"))
+        l["city"] = parse_city(l.get("address", ""))  # re-derive so cached data is corrected too
     (HERE / "homes").mkdir(exist_ok=True)
     for l in listings:
         (HERE / "homes" / f'{l["id"]}.html').write_text(build_detail_page(l), encoding="utf-8")
