@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1474 Sunshadow Dr. # 114 — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs</h1>
+    <div class="sub">1474 Sunshadow Dr. # 114, Casselberry</div>
+    <div class="pricerow"><span class="p">$1,324/mo</span><span class="s">1 bd, 1 ba, 742 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1fd59fab-0bea-436c-ad08-f309fce129e5&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">The Reserve at Lake Irene is Casselberry&#x27;s premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.<br><br>Stop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you&#x27;ll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment—it’s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,324 <br><br><br><br><br> Application Fee: $79 <br><br><br><br> Available 8/28/26</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,324</li><li>Application Fee: $79</li><li>Available 8/28/26</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

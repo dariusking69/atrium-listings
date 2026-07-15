@@ -1,12 +1,47 @@
 [
   {
+    "id": 5970,
+    "uuid": "357287b4-6f44-4728-ba62-5bd21e4021f8",
+    "address": "1520 Neo Landings Loop, Unit 314, Kissimmee, FL 34744",
+    "street": "1520 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$1,795",
+    "rent_val": 1795,
+    "specs": "1 bd, 1 ba, 774 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 774,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/357287b4-6f44-4728-ba62-5bd21e4021f8",
+    "lat": 28.3056952,
+    "lng": -81.3869162,
+    "title": "Aston Square- Cozy one Bedroom Luxury Apartment",
+    "description": "Discover Luxurious Living in the Heart of Historic Downtown Kissimmee, FL\r\n\r\nWelcome to Aston Square Luxury Apartments, the newest upscale community designed to elevate your lifestyle. Our cozy one-bedroom luxury apartment offers a perfect blend of modern elegance and comfort, ensuring an unparalleled living experience.\r\n\r\nThis thoughtfully designed apartment features a resort-style pool, stylish vinyl plank flooring, stainless steel appliances, spacious walk-in custom closets, keyless entry, and an expansive sun deck for outdoor relaxation.\r\n\r\nResidents can enjoy top-floor amenities, including a media lounge with a rooftop deck, a dedicated co-working space, package lockers, and electric vehicle charging stations. The 24/7 state-of-the-art fitness center allows you to stay active, while the private business lounge with work pods provides a productive environment.\r\n\r\nInside, the modern kitchen boasts quartz countertops and kitchen islands, while the spa-inspired bathroom includes soaking tubs. Smart thermostats ensure personalized climate control, and screened-in patios add an extra layer of comfort. Oversized storage units are also available to accommodate your belongings.\r\n\r\nIdeally located near Walt Disney World, The Loop Town Center, and major highways, Aston Square by Kimaya offers seamless access to premier entertainment, shopping, and dining destinations.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,795",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=357287b4-6f44-4728-ba62-5bd21e4021f8&source=Website",
+    "available": "8/10/26"
+  },
+  {
     "id": 5751,
     "uuid": "a4ecef3b-04a3-4bcb-929e-7687213eae92",
     "address": "1520 Neo Landings Loop, Unit 416, Kissimmee, FL 34744",
     "street": "1520 Neo Landings Loop",
     "city": "Kissimmee",
-    "rent": "$1,770",
-    "rent_val": 1770,
+    "rent": "$1,795",
+    "rent_val": 1795,
     "specs": "1 bd, 1 ba, 774 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -40,8 +75,8 @@
     "address": "1520 Neo Landings Loop, Unit 116, Kissimmee, FL 34744",
     "street": "1520 Neo Landings Loop",
     "city": "Kissimmee",
-    "rent": "$1,770",
-    "rent_val": 1770,
+    "rent": "$1,795",
+    "rent_val": 1795,
     "specs": "1 bd, 1 ba, 774 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -70,73 +105,38 @@
     "available": "7/10/26"
   },
   {
-    "id": 5750,
-    "uuid": "593641bd-f3cf-4ec2-a8f1-b4fbf5311815",
-    "address": "1520 Neo Landings Loop, Unit 406, Kissimmee, FL 34744",
+    "id": 3583,
+    "uuid": "0374b674-6eff-487c-b199-177447ea5ca3",
+    "address": "1520 Neo Landings Loop, Unit 304, Kissimmee, FL 34744",
     "street": "1520 Neo Landings Loop",
     "city": "Kissimmee",
-    "rent": "$1,995",
-    "rent_val": 1995,
-    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1132,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/593641bd-f3cf-4ec2-a8f1-b4fbf5311815",
+    "rent": "$1,810",
+    "rent_val": 1810,
+    "specs": "1 bd, 1 ba, 805 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 805,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/27a292cc-a827-4d21-838c-eae26643dafd/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0374b674-6eff-487c-b199-177447ea5ca3",
     "lat": 28.3056952,
     "lng": -81.3869162,
-    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
-    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 7/10/26",
+    "title": "Aston Square- Newly Constructed Aston Square Luxury Apartments",
+    "description": "Welcome to the newly constructed Aston Square Luxury Apartments in Kissimmee, FL.\r\n\r\nThis elegant one-bedroom, one-bathroom apartment offers a sophisticated and modern living experience.\r\n\r\nInside, you'll be captivated by the chef-inspired kitchen, featuring sleek stainless steel appliances, quartz countertops, and an open-concept floor plan designed for both style and functionality.\r\n\r\nIndulge in resort-style amenities, including a sparkling pool, a top-floor media lounge with a rooftop deck, and an expansive sun deck.\r\n\r\nEnjoy seamless convenience with keyless entry, secure package lockers, and an interactive thermostat.\r\n\r\nStay active in the 24/7 fitness center, boost productivity in the business lounge with private work pods, and take advantage of electric vehicle charging stations.\r\n\r\nUnwind in the luxurious soaking tub or enjoy the fresh air from your screened-in patio.\r\n\r\nWith thoughtfully designed co-working spaces, spacious kitchen islands, and oversized storage units, Aston Square Luxury Apartments offers everything you need for an exceptional lifestyle.\r\n\r\nContact us today to join our tour waitlist!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,810 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $1,995",
+      "Rent: $1,810",
       "Application Fee: $99",
       "Security Deposit: $500",
-      "Available 7/10/26"
+      "Available 8/10/26"
     ],
     "pets": [
       "Cats allowed",
       "Dogs allowed"
     ],
     "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/27a292cc-a827-4d21-838c-eae26643dafd/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=593641bd-f3cf-4ec2-a8f1-b4fbf5311815&source=Website",
-    "available": "7/10/26"
-  },
-  {
-    "id": 3429,
-    "uuid": "86e18e93-7bab-4eba-836d-68e09cbb6c8d",
-    "address": "1520 Neo Landings Loop, Unit 105, Kissimmee, FL 34744",
-    "street": "1520 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$1,995",
-    "rent_val": 1995,
-    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1132,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/86e18e93-7bab-4eba-836d-68e09cbb6c8d",
-    "lat": 28.3056952,
-    "lng": -81.3869162,
-    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
-    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 7/10/26",
-    "terms": [
-      "Rent: $1,995",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 7/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=86e18e93-7bab-4eba-836d-68e09cbb6c8d&source=Website",
-    "available": "7/10/26"
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0374b674-6eff-487c-b199-177447ea5ca3&source=Website",
+    "available": "8/10/26"
   }
 ]

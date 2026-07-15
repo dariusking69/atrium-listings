@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3005 E Jefferson Street — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/b32786b1-ab99-484d-97fb-3a0e3b1bfd68/large.jpg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b32786b1-ab99-484d-97fb-3a0e3b1bfd68/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/15458f80-572a-4ade-b200-468d2c667459/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/e363afcf-5cdc-4364-a85b-0450c4b4d0f1/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/991a3c75-bfaf-4ee1-b26b-b36e6e400fbc/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c011bce6-0dcb-410e-b399-64aab9d58fe6/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a26c8a98-a3ea-4a7d-aa2e-237c4792ec8a/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/fee85589-cb94-49bf-9b22-10a8b74f38bf/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/fcf12981-f2ec-492f-8a1a-01462dc04760/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/e4b935d1-a261-4967-b01c-f28334554547/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5b2c28da-8e84-451b-8bc5-302431d2cb7d/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/32dbe24f-099f-4eb1-a9f8-56724774da82/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/02b1b5f3-efdf-4d38-98b7-7484b87e344c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/39a599fb-9e66-4508-b6f3-ff5ac05f9a4b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5e2b5e5b-0b54-4f79-a86b-114c324e640b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c448bc9a-b6a1-4ec8-ba75-6acedcd01a95/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/aa6a3708-1683-4813-a140-61d7530b6e5a/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(16)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Spacious Duplex in Orlando’s Trendy Milk District with Garage and Washer/Dryer!</h1>
+    <div class="sub">3005 E Jefferson Street, Orlando</div>
+    <div class="pricerow"><span class="p">$1,695/mo</span><span class="s">2 bd, 2 ba, 900 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=53bf8f98-bb91-4d82-b57f-b5bae679afc9&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Welcome to 3005 E Jefferson St, a rare gem in the heart of Orlando’s vibrant Milk District.<br><br>This spacious duplex unit offers an abundance of living space that’s hard to find in downtown Orlando. Featuring a one-car garage with a convenient washer and dryer, this home is perfect for those seeking both comfort and practicality.<br><br>Nestled on a quiet road, you’ll enjoy the tranquility of suburban living while being just minutes away from the bustling city life. The Milk District is renowned for its eclectic mix of shops, eateries, and entertainment venues, making it one of Orlando’s most sought-after neighborhoods. From trendy cafes to unique boutiques, everything you need is right at your doorstep.<br><br>Additionally, this prime location offers easy access to Colonial Drive, where you’ll find an array of stores and services to cater to all your needs. Commuting is a breeze with the East-West Expressway nearby, connecting you to the rest of Orlando and beyond.<br><br>Key Features:<br><br>- Spacious duplex unit with ample living space<br>- One-car garage with washer and dryer included<br>- Located in the trendy Milk District<br>- Quiet road offering suburban tranquility<br>- Close to Colonial Drive with numerous shops and stores<br>- Easy access to the East-West Expressway for convenient commuting<br><br>Don’t miss out on this exceptional opportunity to live in a spacious duplex in one of Orlando’s most dynamic and convenient areas. Schedule a viewing today and experience the best of the Milk District living!<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,695 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $1,695 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,695</li><li>Application Fee: $95</li><li>Security Deposit: $1,695</li><li>Available Now</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/b32786b1-ab99-484d-97fb-3a0e3b1bfd68/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/15458f80-572a-4ade-b200-468d2c667459/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/e363afcf-5cdc-4364-a85b-0450c4b4d0f1/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/991a3c75-bfaf-4ee1-b26b-b36e6e400fbc/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/c011bce6-0dcb-410e-b399-64aab9d58fe6/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/a26c8a98-a3ea-4a7d-aa2e-237c4792ec8a/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/fee85589-cb94-49bf-9b22-10a8b74f38bf/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/fcf12981-f2ec-492f-8a1a-01462dc04760/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/e4b935d1-a261-4967-b01c-f28334554547/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/5b2c28da-8e84-451b-8bc5-302431d2cb7d/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/32dbe24f-099f-4eb1-a9f8-56724774da82/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/02b1b5f3-efdf-4d38-98b7-7484b87e344c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/39a599fb-9e66-4508-b6f3-ff5ac05f9a4b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/5e2b5e5b-0b54-4f79-a86b-114c324e640b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/c448bc9a-b6a1-4ec8-ba75-6acedcd01a95/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/aa6a3708-1683-4813-a140-61d7530b6e5a/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

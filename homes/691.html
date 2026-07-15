@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1181 Dekleva Drive — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/01a322e4-7ac0-44f6-a1dd-3f1e97304f45/large.jpg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/01a322e4-7ac0-44f6-a1dd-3f1e97304f45/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c4c43583-b04e-4ce4-962e-3cbbcb0dcf91/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/57e57612-2fa3-47a9-9ab4-f0684044dc8a/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/7b75fb19-95cd-49b1-b71b-c22b397ecf3b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a204be8c-cafd-453b-878f-7fe4c5210b95/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/360343bf-12c2-4fbc-98e5-94482ee43698/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/73116dac-a070-445b-b2b0-7d2d8b587cff/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/468dcc5d-aa5b-49e6-9731-8394245cd9b4/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/2460ef7e-40d0-4404-9265-79ffcc176457/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/998247bd-64a7-4e4e-82ca-6fb16a295851/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/e2ad103e-a07b-4279-80cb-90682f2a9a0b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/2d092c44-9542-47e8-8976-93e05ef699e2/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/64a3f3df-c918-4fd4-9dc5-6039d53af2e2/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/699b2f16-1225-410e-950e-074d030a0053/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/bfe3f901-ca26-4c3e-9a77-4e3ce15fa890/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/6847d47a-34fd-476e-ada7-bbcd9892862c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(16)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/33a41854-53dd-407b-9019-da15c707282c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(17)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ecf23f69-2b3e-4501-ad27-e2808c08cb00/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(18)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Dazzling 3 Bed, 2 Bath Updated Gem in Apopka – LIMITED TIME SPECIAL $500 OFF ONE&#x27;S MONTH&#x27;S RENT!</h1>
+    <div class="sub">1181 Dekleva Drive, Apopka</div>
+    <div class="pricerow"><span class="p">$2,150/mo</span><span class="s">3 bd, 2 ba, 1,467 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=879c78d0-c04d-4f97-8961-c357b99485cf&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">*** LIMITED TIME SPECIAL FOR APPROVED APPLICANTS***<br>Approved applicants with a move in date by 07/15/25 receive $500 OFF ONE&#x27;S MONTH&#x27;S RENT<br><br>Welcome home to this beautifully renovated 3 bedroom, 2 bathroom retreat in the heart of Apopka with convenient access to the 414 and all major highways! This stunning home has been fully updated from top to bottom and is ready for you to move in and make it yours.<br><br>Step inside to find brand new vinyl plank flooring flowing throughout and an abundance of natural light flooding the SPACIOUS open-concept living area, enhanced by vaulted ceilings that elevate the space. The modern kitchen is a chef’s dream, featuring new stainless steel appliances, with breakfast bar, and ample cabinetry perfect for all your culinary needs.<br><br>The large primary suite is your private escape with a walk-in shower and generous space for relaxation. Two additional bedrooms offer flexibility for family, guests, or a home office.<br><br>Located near top-rated schools including Wolf Lake Elementary, Wolf Lake Middle, and Apopka High, and just minutes from dining, shopping, and entertainment options.<br><br>Pets are negotiable with owner approval. <br><br>Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE NOW!<br><br>**BONUS AMENITY INCLUDED** A portion of Tenant&#x27;s total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility &amp; Maintenance Reduction Program.**<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $2,150 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $2,135 <br><br><br> Available 8/10/26</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $2,150</li><li>Application Fee: $95</li><li>Security Deposit: $2,135</li><li>Available 8/10/26</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/01a322e4-7ac0-44f6-a1dd-3f1e97304f45/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/c4c43583-b04e-4ce4-962e-3cbbcb0dcf91/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/57e57612-2fa3-47a9-9ab4-f0684044dc8a/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/7b75fb19-95cd-49b1-b71b-c22b397ecf3b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/a204be8c-cafd-453b-878f-7fe4c5210b95/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/360343bf-12c2-4fbc-98e5-94482ee43698/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/73116dac-a070-445b-b2b0-7d2d8b587cff/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/468dcc5d-aa5b-49e6-9731-8394245cd9b4/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/2460ef7e-40d0-4404-9265-79ffcc176457/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/998247bd-64a7-4e4e-82ca-6fb16a295851/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/e2ad103e-a07b-4279-80cb-90682f2a9a0b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/2d092c44-9542-47e8-8976-93e05ef699e2/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/64a3f3df-c918-4fd4-9dc5-6039d53af2e2/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/699b2f16-1225-410e-950e-074d030a0053/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/bfe3f901-ca26-4c3e-9a77-4e3ce15fa890/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/6847d47a-34fd-476e-ada7-bbcd9892862c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/33a41854-53dd-407b-9019-da15c707282c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/ecf23f69-2b3e-4501-ad27-e2808c08cb00/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

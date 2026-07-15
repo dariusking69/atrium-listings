@@ -1,5 +1,81 @@
 [
   {
+    "id": 5493,
+    "uuid": "6ca53e3d-e370-4d2d-8b07-43edb8c5c49c",
+    "address": "2904 Cardinal St. Unit 106, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 106",
+    "city": "Deltona",
+    "rent": "$1,542",
+    "rent_val": 1542,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d81036b3-4aac-484c-a8af-14da42d503b5/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6ca53e3d-e370-4d2d-8b07-43edb8c5c49c",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,542 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,542",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d81036b3-4aac-484c-a8af-14da42d503b5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/799728c7-8a49-485b-b2fa-ec5613350799/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6de9b4a3-dedd-43f5-af06-5ef3131c560e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/72658244-0ee2-4efc-bd43-3d8175f184bb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f6147b8f-ae75-4bb2-9f4b-f1a817c145a2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6ca53e3d-e370-4d2d-8b07-43edb8c5c49c&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5492,
+    "uuid": "2bc7f268-26af-4a0a-a851-3e53fa7cd6da",
+    "address": "2904 Cardinal St. Unit 105, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 105",
+    "city": "Deltona",
+    "rent": "$1,542",
+    "rent_val": 1542,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6c9021e2-1a29-4fce-874d-a7dcff841b11/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2bc7f268-26af-4a0a-a851-3e53fa7cd6da",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,542 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,542",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6c9021e2-1a29-4fce-874d-a7dcff841b11/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/93e28eed-ce2d-4d2d-b217-e6ef410fd77f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/264b6032-411c-4878-bd7d-79448c8e6c57/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/547112d9-ba63-4174-a4ee-132fcd316863/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d0967348-ec0f-405c-a1e2-eabaacadd736/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2bc7f268-26af-4a0a-a851-3e53fa7cd6da&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5654,
     "uuid": "4b8ac1d6-97ba-42ee-ac76-db6c4e4bc008",
     "address": "2904 Cardinal St. Unit 205, Deltona, FL 32738",
@@ -228,6 +304,120 @@
     "available": "NOW"
   },
   {
+    "id": 5496,
+    "uuid": "b9643aad-f3ca-4125-8a81-531931170499",
+    "address": "2904 Cardinal St. Unit 109, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 109",
+    "city": "Deltona",
+    "rent": "$1,725",
+    "rent_val": 1725,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3537756e-c37e-4cc1-9f4a-6a39cce68815/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b9643aad-f3ca-4125-8a81-531931170499",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,725 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,725",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3537756e-c37e-4cc1-9f4a-6a39cce68815/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dc56b3ff-dfad-4c2b-b0ed-624147585c5c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2852236f-1b50-4f6b-96e4-75b00873630d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f35a51a0-5227-457b-bfee-6ccb47f058b5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c5800389-9a19-4d6b-8718-0d0a9142bcef/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b9643aad-f3ca-4125-8a81-531931170499&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5495,
+    "uuid": "269be8c5-4823-4421-bee9-29d9e8b1340e",
+    "address": "2904 Cardinal St. Unit 108, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 108",
+    "city": "Deltona",
+    "rent": "$1,725",
+    "rent_val": 1725,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/431b21bc-4d44-4a53-9393-aa443215e8e6/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/269be8c5-4823-4421-bee9-29d9e8b1340e",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,725 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,725",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/431b21bc-4d44-4a53-9393-aa443215e8e6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/74725b40-9bb4-4415-a660-4f722e55c57a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cb5571c5-17e7-4a90-a7e4-09a574bb3a49/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7818eae6-3a9d-4cb4-9706-bc9fcca8f70d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/49d59135-6353-460e-a2ef-7dd416d2e229/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=269be8c5-4823-4421-bee9-29d9e8b1340e&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5489,
+    "uuid": "73293e23-5f67-4e95-8162-86c60e9fc3ee",
+    "address": "2904 Cardinal St. Unit 102, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 102",
+    "city": "Deltona",
+    "rent": "$1,725",
+    "rent_val": 1725,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/536c4c9d-a406-4026-90b7-d97dbc033406/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/73293e23-5f67-4e95-8162-86c60e9fc3ee",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,725 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,725",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/536c4c9d-a406-4026-90b7-d97dbc033406/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/83f7ba17-907e-4834-8a4a-304a93b6a61f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/445f8bd9-ac60-44ef-b8d1-e6c3b1baf34a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8b149529-0961-4ff9-a39e-0c15eb5abab3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/09f217ff-a120-458a-bed0-a5c10ce998e0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=73293e23-5f67-4e95-8162-86c60e9fc3ee&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5656,
     "uuid": "f33479ba-622e-4de6-b6ad-8d7916f9ed1a",
     "address": "2904 Cardinal St. Unit 207, Deltona, FL 32738",
@@ -453,6 +643,196 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d8103159-5d60-45f6-88f0-c4d838719d58&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5490,
+    "uuid": "21793ceb-a953-4edd-bafb-caeebb724d0c",
+    "address": "2904 Cardinal St. Unit 104, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 104",
+    "city": "Deltona",
+    "rent": "$1,836",
+    "rent_val": 1836,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/72d037b9-d8aa-4191-9d8e-b026d48508db/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/21793ceb-a953-4edd-bafb-caeebb724d0c",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,836 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,836",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/72d037b9-d8aa-4191-9d8e-b026d48508db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b5c3d04d-9fd1-4507-b2db-5f2ee4e1c1e7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/28d2c379-d137-4bbf-b87c-9f5c8cdb598f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0ee5d82a-426b-401f-8492-30a914de54fe/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cd416c3e-7782-4bc1-ab20-77eed0054bdd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=21793ceb-a953-4edd-bafb-caeebb724d0c&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5494,
+    "uuid": "58a968b2-bacf-4680-8232-4d54a1dfd4b6",
+    "address": "2904 Cardinal St. Unit 107, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 107",
+    "city": "Deltona",
+    "rent": "$1,950",
+    "rent_val": 1950,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e631828c-46e7-4323-a2aa-3d9696175c5b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/58a968b2-bacf-4680-8232-4d54a1dfd4b6",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,950 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,950",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e631828c-46e7-4323-a2aa-3d9696175c5b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8708f7bf-c4d2-42ba-bd68-0c27075439bf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f83ba987-55d3-48c1-913c-fa776d993c1b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b60c4147-cb0a-4ff8-8453-aa711007007a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5778fc07-02e0-4c7c-addf-b16ffd7de2b0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=58a968b2-bacf-4680-8232-4d54a1dfd4b6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5491,
+    "uuid": "5039ae9e-2c1e-4ded-bd75-3d97e463157e",
+    "address": "2904 Cardinal St. Unit 104, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 104",
+    "city": "Deltona",
+    "rent": "$1,950",
+    "rent_val": 1950,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b159317e-f6ab-443b-8663-d1ff226298fc/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5039ae9e-2c1e-4ded-bd75-3d97e463157e",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,950 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,950",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/b159317e-f6ab-443b-8663-d1ff226298fc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d14d6771-28c7-4e11-83ee-403161b9d43c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6886492b-708b-4a07-bf97-0e7a7d3cda11/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4f83db37-ed61-4e80-b3b8-fbc2dc2c5ef7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7dfc796a-800c-41de-9724-964b87114004/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5039ae9e-2c1e-4ded-bd75-3d97e463157e&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5497,
+    "uuid": "34d58822-bef4-4681-acaf-e9dfe4481459",
+    "address": "2904 Cardinal St. Unit 110, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 110",
+    "city": "Deltona",
+    "rent": "$2,000",
+    "rent_val": 2000,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2b2e4dc9-8de7-46f6-acb4-f5600003de10/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/34d58822-bef4-4681-acaf-e9dfe4481459",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $2,000",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2b2e4dc9-8de7-46f6-acb4-f5600003de10/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a7ce6890-5b53-4c64-aa42-bb410b20ff0e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eb57878a-585b-4bc3-a7a3-aca164b35607/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/78c0fead-a7b0-4ddb-839c-28f47bd4b184/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7607a1ba-29b8-4c9a-abc0-ac5f3539fe81/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=34d58822-bef4-4681-acaf-e9dfe4481459&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5488,
+    "uuid": "60080d16-111d-4213-873b-2cbde8944a0d",
+    "address": "2904 Cardinal St. Unit 101, Deltona, FL 32738",
+    "street": "2904 Cardinal St. Unit 101",
+    "city": "Deltona",
+    "rent": "$2,000",
+    "rent_val": 2000,
+    "specs": "2 bd, 2 ba, 1,100 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1100,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1b14975a-fd3a-4687-aefe-b59716a6a061/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/60080d16-111d-4213-873b-2cbde8944a0d",
+    "lat": 28.9230955,
+    "lng": -81.1860782,
+    "title": "NEW LUXURY APARTMENTS IN DELTONA OFFERING UPTO 2 MONTHS FREE!",
+    "description": "Discover Cardinal Village in Deltona, FL \u2014Offering up to 2 Months Free on select models if applied by July 15th! Already Prorated through the term of the lease on the displayed rental rate.*\r\nCardinal Village is a well-appointed community offering a fitness center, pool, and scenic lake views. Spacious floor plans provide comfortable living with easy access to on-site amenities for active and relaxed lifestyles alike. Located in Deltona, Cardinal Village combines convenient community features with pleasant outdoor vistas to help you feel at home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $2,000",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/1b14975a-fd3a-4687-aefe-b59716a6a061/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/01b267ea-0010-4226-9a93-e5469183f2b9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4b03ed79-d4a2-4bac-918e-243eac4c910b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2eb1faa2-af1d-4d3c-a549-a4ab900fbec5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9e703258-38ad-44f7-9e1e-7831e2ac56eb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=60080d16-111d-4213-873b-2cbde8944a0d&source=Website",
     "available": "NOW"
   },
   {

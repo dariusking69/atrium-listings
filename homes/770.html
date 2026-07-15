@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2585 Grassy Pt. Dr. #203 — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/c4d4f268-c13a-4206-b35e-fbd1662ff6d8/large.jpg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c4d4f268-c13a-4206-b35e-fbd1662ff6d8/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/271d7f1b-3e39-4fe3-88b9-514c84487164/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0c72aaeb-c5ee-44ed-a41e-bd61da265c70/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4f195e5d-08eb-4a72-b04f-e6058ab316ad/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ee9a8421-6cf6-4051-9428-af689676f20b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/3f90f2f5-c5a4-42d2-b337-3c29eeeadcb0/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/894a8c96-d98b-4892-a4ab-9c3c54ccf7ed/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d0357d44-9738-425c-a217-4b88bd3b2308/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c4652d3b-675c-4ff1-9128-c28f93429fc4/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1e12ee02-60e8-40e9-88f3-c9ab87710f44/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Beautiful 1 Bed 1 Bath Gated Second Floor Condo for Rent in Lake Mary, FL! AVAILABLE MAY!</h1>
+    <div class="sub">2585 Grassy Pt. Dr. #203, Lake Mary</div>
+    <div class="pricerow"><span class="p">$1,250/mo</span><span class="s">1 bd, 1 ba, 648 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=02b1ba45-c5d9-49f4-8536-ef540c2315fc&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Beautiful 1 Bed 1 Bath Gated Second Floor Condo for Rent in Lake Mary, FL! <br>Welcome home to the gated community of Regency Park in Lake Mary! SPACIOUS second floor unit features direct access to the open patio/balcony with a view of the community. CHARMING kitchen with a breakfast bar, wine rack and dining nook. One bedroom with a walk-in closet and private bath. The community has two swimming pools, exercise facility, playground and on-site laundry facility. Conveniently located to shopping plaza&#x27;s, restaurants, Seminole Walking and Biking Trail, Library, YMCA and more. Zoned for Lake Mary Elementary School, Greenwood Lakes Middle School, and Lake Mary High School.Pets are negotiable with owner approval. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE MAY!!!<br><br>Additional Monthly Charges include: <br>$15 Filter Program Fee<br>$15.50 Renters Insurance Fee<br><br><br>***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***<br><br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,250 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $1,250 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,250</li><li>Application Fee: $95</li><li>Security Deposit: $1,250</li><li>Available Now</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/c4d4f268-c13a-4206-b35e-fbd1662ff6d8/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/271d7f1b-3e39-4fe3-88b9-514c84487164/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/0c72aaeb-c5ee-44ed-a41e-bd61da265c70/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/4f195e5d-08eb-4a72-b04f-e6058ab316ad/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/ee9a8421-6cf6-4051-9428-af689676f20b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/3f90f2f5-c5a4-42d2-b337-3c29eeeadcb0/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/894a8c96-d98b-4892-a4ab-9c3c54ccf7ed/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/d0357d44-9738-425c-a217-4b88bd3b2308/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/c4652d3b-675c-4ff1-9128-c28f93429fc4/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/1e12ee02-60e8-40e9-88f3-c9ab87710f44/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

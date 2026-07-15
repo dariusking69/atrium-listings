@@ -1,0 +1,790 @@
+[
+  {
+    "id": 5486,
+    "uuid": "5232f953-e042-41cb-8995-f741e7270d74",
+    "address": "1363 W. Broad Street, # 230, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,499",
+    "rent_val": 1499,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5232f953-e042-41cb-8995-f741e7270d74",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.1",
+    "description": "Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,499",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5232f953-e042-41cb-8995-f741e7270d74&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5109,
+    "uuid": "9b32e865-8a55-43af-acb2-a02baa3d0ab6",
+    "address": "1363 W. Broad Street, # 352, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,499",
+    "rent_val": 1499,
+    "specs": "2 bd, 2 ba, 890 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 890,
+    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9b32e865-8a55-43af-acb2-a02baa3d0ab6",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,499 \n\n\n\n\n\n\n\n Available 8/16/26",
+    "terms": [
+      "Rent: $1,499",
+      "Available 8/16/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9b32e865-8a55-43af-acb2-a02baa3d0ab6&source=Website",
+    "available": "8/16/26"
+  },
+  {
+    "id": 5036,
+    "uuid": "8d7213f5-fc29-4839-a4fe-6038a6e32b93",
+    "address": "1363 W. Broad Street, # 354, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,499",
+    "rent_val": 1499,
+    "specs": "2 bd, 2 ba, 894 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 894,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c9884723-b103-4f11-9b8e-35b807793a3a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8d7213f5-fc29-4839-a4fe-6038a6e32b93",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B5.1",
+    "description": "Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,499",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/c9884723-b103-4f11-9b8e-35b807793a3a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8d7213f5-fc29-4839-a4fe-6038a6e32b93&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3802,
+    "uuid": "5aaefb1e-1c38-4bc8-9619-0b4a836932dc",
+    "address": "1363 W. Broad Street, # 305, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,499",
+    "rent_val": 1499,
+    "specs": "2 bd, 2 ba, 703 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 703,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/24ba695e-6039-4c71-aea1-d0da02a23f99/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5aaefb1e-1c38-4bc8-9619-0b4a836932dc",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B2.2",
+    "description": "Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 9/15/26",
+    "terms": [
+      "Rent: $1,499",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 9/15/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/24ba695e-6039-4c71-aea1-d0da02a23f99/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5aaefb1e-1c38-4bc8-9619-0b4a836932dc&source=Website",
+    "available": "9/15/26"
+  },
+  {
+    "id": 5117,
+    "uuid": "dff9f724-19f0-48b1-a842-e29a9c081f42",
+    "address": "1363 W. Broad Street, # 307, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,599",
+    "rent_val": 1599,
+    "specs": "2 bd, 2 ba, 1,079 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1079,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dff9f724-19f0-48b1-a842-e29a9c081f42",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B3",
+    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 9/4/26",
+    "terms": [
+      "Rent: $1,599",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 9/4/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=dff9f724-19f0-48b1-a842-e29a9c081f42&source=Website",
+    "available": "9/4/26"
+  },
+  {
+    "id": 5106,
+    "uuid": "5c888291-93ff-4a51-b627-2c022adf9dbb",
+    "address": "1363 W. Broad Street, # 333, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,599",
+    "rent_val": 1599,
+    "specs": "2 bd, 2 ba, 698 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 698,
+    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5c888291-93ff-4a51-b627-2c022adf9dbb",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n\n\n\n Available 8/28/26",
+    "terms": [
+      "Rent: $1,599",
+      "Available 8/28/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5c888291-93ff-4a51-b627-2c022adf9dbb&source=Website",
+    "available": "8/28/26"
+  },
+  {
+    "id": 5102,
+    "uuid": "947b1b17-54b5-45ac-9ab1-3b9798b24ac9",
+    "address": "1363 W. Broad Street, # 309, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,599",
+    "rent_val": 1599,
+    "specs": "2 bd, 2 ba, 1,079 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1079,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/947b1b17-54b5-45ac-9ab1-3b9798b24ac9",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B3",
+    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 8/25/26",
+    "terms": [
+      "Rent: $1,599",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 8/25/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=947b1b17-54b5-45ac-9ab1-3b9798b24ac9&source=Website",
+    "available": "8/25/26"
+  },
+  {
+    "id": 3452,
+    "uuid": "7991d553-009f-4e88-93a6-3308f8d2c449",
+    "address": "1363 W. Broad Street, # 348, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,673",
+    "rent_val": 1673,
+    "specs": "2 bd, 2 ba, 804 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 804,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7f2ab570-effe-421f-b79f-e8b17f02c6a7/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7991d553-009f-4e88-93a6-3308f8d2c449",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.8",
+    "description": "Rental Terms \n \n Rent: $1,673 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,673",
+      "Application Fee: $55",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7f2ab570-effe-421f-b79f-e8b17f02c6a7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7991d553-009f-4e88-93a6-3308f8d2c449&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5125,
+    "uuid": "3d76739c-4f7d-4cbe-ba19-e87ec3ea1edc",
+    "address": "1363 W. Broad Street, # 236, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3d76739c-4f7d-4cbe-ba19-e87ec3ea1edc",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.1",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3d76739c-4f7d-4cbe-ba19-e87ec3ea1edc&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5112,
+    "uuid": "4eeeae01-f7ca-40b9-b9e2-6300d567533d",
+    "address": "1363 W. Broad Street, # 221, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4eeeae01-f7ca-40b9-b9e2-6300d567533d",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.1",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 8/24/26",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 8/24/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4eeeae01-f7ca-40b9-b9e2-6300d567533d&source=Website",
+    "available": "8/24/26"
+  },
+  {
+    "id": 5099,
+    "uuid": "5b86c480-e0bb-4e37-966f-3bd5a22ba06f",
+    "address": "1363 W. Broad Street, # 227, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 767 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 767,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7702da44-67e7-464a-bb6c-46960aeee9ff/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5b86c480-e0bb-4e37-966f-3bd5a22ba06f",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.2",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7702da44-67e7-464a-bb6c-46960aeee9ff/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5b86c480-e0bb-4e37-966f-3bd5a22ba06f&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3408,
+    "uuid": "a09efeb8-2350-41cb-ae7e-09497d1adc06",
+    "address": "1363 W. Broad Street, # 311, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 698 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 698,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/707c1c6b-0b60-44bd-97d3-1cf9c70be607/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a09efeb8-2350-41cb-ae7e-09497d1adc06",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B2",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 8/8/26",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 8/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/707c1c6b-0b60-44bd-97d3-1cf9c70be607/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a09efeb8-2350-41cb-ae7e-09497d1adc06&source=Website",
+    "available": "8/8/26"
+  },
+  {
+    "id": 3359,
+    "uuid": "a141c699-0267-445f-8e49-1200f3506f48",
+    "address": "1363 W. Broad Street, # 238, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a141c699-0267-445f-8e49-1200f3506f48",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.1",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a141c699-0267-445f-8e49-1200f3506f48&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3758,
+    "uuid": "550d57ad-42c9-4669-b710-0fd514ed9d66",
+    "address": "1363 W. Broad Street, # 317, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,749",
+    "rent_val": 1749,
+    "specs": "2 bd, 2 ba, 1,079 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1079,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/550d57ad-42c9-4669-b710-0fd514ed9d66",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B3",
+    "description": "Rental Terms \n \n Rent: $1,749 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,749",
+      "Application Fee: $55",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=550d57ad-42c9-4669-b710-0fd514ed9d66&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3471,
+    "uuid": "2448266d-71ea-4b0c-aa7b-76871bd4a721",
+    "address": "1363 W. Broad Street, # 254, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,760",
+    "rent_val": 1760,
+    "specs": "2 bd, 2 ba, 912 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 912,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/581ca3d5-bcbc-4b2f-badd-73fe031a8d76/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2448266d-71ea-4b0c-aa7b-76871bd4a721",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.6",
+    "description": "Rental Terms \n \n Rent: $1,760 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,760",
+      "Application Fee: $55",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/581ca3d5-bcbc-4b2f-badd-73fe031a8d76/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2448266d-71ea-4b0c-aa7b-76871bd4a721&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4544,
+    "uuid": "296f1ace-3dad-4846-97ba-a1a19c137599",
+    "address": "1363 W. Broad Street, # 216, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,850",
+    "rent_val": 1850,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/296f1ace-3dad-4846-97ba-a1a19c137599",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "Completely updated unit",
+    "description": "Rental Terms \n \n Rent: $1,850 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,850",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=296f1ace-3dad-4846-97ba-a1a19c137599&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5105,
+    "uuid": "6395a2f7-926f-4565-83f6-d42e15e65de1",
+    "address": "1363 W. Broad Street, # 329, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,863",
+    "rent_val": 1863,
+    "specs": "2 bd, 2 ba, 1,084 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1084,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f2bae607-b948-4d19-8115-b6893e85b6bd/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6395a2f7-926f-4565-83f6-d42e15e65de1",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B3.6",
+    "description": "Rental Terms \n \n Rent: $1,863 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,863",
+      "Application Fee: $55",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/f2bae607-b948-4d19-8115-b6893e85b6bd/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6395a2f7-926f-4565-83f6-d42e15e65de1&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5108,
+    "uuid": "af3a2b55-3817-460a-a859-d72935296a3d",
+    "address": "1363 W. Broad Street, # 351, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,993",
+    "rent_val": 1993,
+    "specs": "2 bd, 2 ba, 1,108 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1108,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/01a4ce42-93ec-49c1-8c32-5d036113945d/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/af3a2b55-3817-460a-a859-d72935296a3d",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.9",
+    "description": "Rental Terms \n \n Rent: $1,993 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 7/18/26",
+    "terms": [
+      "Rent: $1,993",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 7/18/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/01a4ce42-93ec-49c1-8c32-5d036113945d/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=af3a2b55-3817-460a-a859-d72935296a3d&source=Website",
+    "available": "7/18/26"
+  },
+  {
+    "id": 3451,
+    "uuid": "ec8cf005-e21b-4a1d-bf2c-dcc83d977f48",
+    "address": "1363 W. Broad Street, # 308, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,999",
+    "rent_val": 1999,
+    "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 1084,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ec8cf005-e21b-4a1d-bf2c-dcc83d977f48",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "C",
+    "description": "Rental Terms \n \n Rent: $1,999 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,999",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec8cf005-e21b-4a1d-bf2c-dcc83d977f48&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3805,
+    "uuid": "833f531f-339a-42bc-98e2-ecdc5ad2b8a7",
+    "address": "1363 W. Broad Street, # 322, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$2,199",
+    "rent_val": 2199,
+    "specs": "3 bd, 3 ba, 1,079 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 1079,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e50bc706-149c-49ee-a281-5bb02f9541a6/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/833f531f-339a-42bc-98e2-ecdc5ad2b8a7",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "C1",
+    "description": "Rental Terms \n \n Rent: $2,199 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $2,199",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e50bc706-149c-49ee-a281-5bb02f9541a6/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=833f531f-339a-42bc-98e2-ecdc5ad2b8a7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3472,
+    "uuid": "477f70da-a9f8-4a89-9d26-fa97882e0732",
+    "address": "1363 W. Broad Street, # 316, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$2,259",
+    "rent_val": 2259,
+    "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 1084,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/477f70da-a9f8-4a89-9d26-fa97882e0732",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "C",
+    "description": "Rental Terms \n \n Rent: $2,259 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 8/8/26",
+    "terms": [
+      "Rent: $2,259",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available 8/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=477f70da-a9f8-4a89-9d26-fa97882e0732&source=Website",
+    "available": "8/8/26"
+  },
+  {
+    "id": 3366,
+    "uuid": "f17d686a-d819-4fd2-b549-04d3e790d73c",
+    "address": "1363 W. Broad Street, # 338, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$2,299",
+    "rent_val": 2299,
+    "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 1084,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f17d686a-d819-4fd2-b549-04d3e790d73c",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "C",
+    "description": "Rental Terms \n \n Rent: $2,299 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $2,299",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f17d686a-d819-4fd2-b549-04d3e790d73c&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5103,
+    "uuid": "ec46a35c-b221-4283-a73a-fb3a7323627b",
+    "address": "1363 W. Broad Street, # 306, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$2,869",
+    "rent_val": 2869,
+    "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 3.0,
+    "sqft": 1084,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ec46a35c-b221-4283-a73a-fb3a7323627b",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "C",
+    "description": "Rental Terms \n \n Rent: $2,869 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $2,869",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec46a35c-b221-4283-a73a-fb3a7323627b&source=Website",
+    "available": "NOW"
+  }
+]

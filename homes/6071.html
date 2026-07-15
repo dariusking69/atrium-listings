@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>4001 Rosepointe Ct — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/1a35d568-55ec-4f67-9f9d-32761aba623e/large.png" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1a35d568-55ec-4f67-9f9d-32761aba623e/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b2d5785f-d70b-441f-832c-59f4a0b463e8/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/bbe0b7bd-862a-4864-88b5-6e080f50c1c6/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a392ed17-6cea-467e-9b7d-4fbfb21381d6/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/bca675d9-aaef-4041-a672-528bc5fc4e82/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Beautifully Renovated 2 Bedroom, 2.5 Bathroom Townhome with Oversized Two-Car Garage in Tampa, FL</h1>
+    <div class="sub">4001 Rosepointe Ct, Tampa</div>
+    <div class="pricerow"><span class="p">$2,600/mo</span><span class="s">2 bd, 2.5 ba, 1,662 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9030307b-1fbf-4944-a6c9-840ac2237293&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">COMING SOON – AVAILABLE FOR AN AUGUST 1ST MOVE-IN!<br><br>Welcome home to 4001 Rosepointe Ct, Tampa, FL 33614 a beautifully updated residence offering the perfect blend of modern upgrades, comfort, and convenience in a highly desirable Tampa location. This spacious 2-bedroom, 2.5-bathroom home is currently undergoing thoughtful renovations and will be ready for its next resident beginning August 1st.<br><br>Step inside and enjoy a refreshed interior featuring: brand-new flooring throughout, a complete bathroom remodel, and fresh modern paint that creates a clean, bright, and inviting atmosphere. The open and comfortable layout provides plenty of space for everyday living, entertaining, and relaxing.<br><br>One of the standout features of this home is the cozy wood-burning fireplace, creating the perfect setting for relaxing evenings and adding a warm, inviting touch to the living space. The home also includes an oversized two-car garage, providing exceptional convenience with ample room for parking, storage, hobbies, or additional workspace.<br><br>Located in Tampa, this home offers easy access to some of the area’s most popular destinations, including shopping, dining, entertainment, major roadways, and employment centers. Enjoy convenient access to Tampa International Airport, downtown Tampa, Westshore business district, International Plaza, Raymond James Stadium, and nearby parks and recreational areas. Whether commuting, exploring the city, or enjoying everything Tampa Bay has to offer, this location puts you close to it all.<br><br>Home Features:<br>* 2 Bedrooms<br>* 2.5 Bathrooms<br>* Oversized Two-Car Garage<br>* Brand-New Flooring Throughout<br>* Fully Remodeled Bathrooms<br>* Fresh Interior Paint<br>* Wood-Burning Fireplace<br>* Spacious Living Areas<br>* Updated Modern Finishes<br>* Convenient Tampa Location<br><br>Lease Details:<br>* Monthly Rent: $2,600/month<br>* Utilities: Resident responsibility utilities are not included<br>* Pets: Pets must be screened and approved prior to approval<br><br>Don’t miss the opportunity to call this beautifully renovated Tampa home yours. Schedule your private tour today and be among the first to experience this updated residence!<br><br>*more photos coming soon*<br><br>Professionally managed by: Atrium Management. Call today to schedule a tour: 813.428.8643<br><br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $2,600 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $2,600 <br><br><br> Available 8/1/26</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $2,600</li><li>Application Fee: $95</li><li>Security Deposit: $2,600</li><li>Available 8/1/26</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/1a35d568-55ec-4f67-9f9d-32761aba623e/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/b2d5785f-d70b-441f-832c-59f4a0b463e8/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/bbe0b7bd-862a-4864-88b5-6e080f50c1c6/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/a392ed17-6cea-467e-9b7d-4fbfb21381d6/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/bca675d9-aaef-4041-a672-528bc5fc4e82/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

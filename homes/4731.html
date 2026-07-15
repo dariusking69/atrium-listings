@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2607 Emerald Lake Ct — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/ce1bc576-ca41-4e67-9dd2-56231c236b0d/large.png" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ce1bc576-ca41-4e67-9dd2-56231c236b0d/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/3634a5ed-f9b7-46c7-b152-5575d8f94888/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d00f9bd6-e35a-4a43-b05d-ccfbbc1a6298/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ce28a159-bccf-463f-9afb-40853b446541/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/09d87903-ac2a-4f0a-9284-83bb1363561a/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d6324796-7043-4629-b45c-ea35b1c87dd7/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/9bc438e2-0a94-42ff-b433-a078935417b7/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5a3c06a9-3c62-4371-a84b-85b68a5a8dc1/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/7e099226-013a-41cd-a479-76fae60d44ac/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1d966b21-c329-4b74-9164-67324c8f6e06/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1847af7a-fe5e-4d0f-b651-69fd9e932758/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c420e9f3-0159-4f40-9025-fa11351e5174/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/df73600b-943c-4583-bdf8-cb3113323944/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ea58b50c-aeed-4aff-b1b7-b2f9ff30b132/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Gated Community Gem: Turnkey 2/2 in Emerald Lake</h1>
+    <div class="sub">2607 Emerald Lake Ct, Kissimmee</div>
+    <div class="pricerow"><span class="p">$1,800/mo</span><span class="s">2 bd, 2 ba, 1,212 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec2bd829-ae0a-42c0-8b54-c6865428f9d7&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Welcome Home to 2609 Emerald Lake Ct, Kissimmee, FL 34744<br><br>Discover the perfect blend of comfort, convenience, and Central Florida living in this beautifully maintained 2 Bedroom, 2 Bathroom residence. Located within the highly sought-after, private gated community of Emerald Lake, this home is clean, bright, and absolutely move-in ready—ideal for first-time buyers, empty nesters, or savvy investors!<br><br>Key Features You&#x27;ll Love<br>Pristine &amp; Ready: The interior has been professionally refreshed (as shown in your bright, clean photos) creating a welcoming, neutral canvas ready for your personal touch.<br><br>Ideal Layout: A spacious and practical 2 bedroom, 2 bathroom floor plan offers privacy and comfort, perfect for roommates, a guest suite, or a dedicated home office.<br><br>Convenient Location: Enjoy quick access to the Florida Turnpike, making commutes and travel easy. You&#x27;re also just minutes from local shopping, dining, parks, and the area&#x27;s top attractions.<br><br>Community Living: As a resident of Emerald Lake, you benefit from a secure, gated environment. This property is a fantastic opportunity to own a piece of desirable Kissimmee real estate. Don&#x27;t miss your chance to secure this low-maintenance, high-value home!<br><br>Schedule your private viewing today—this turnkey gem won&#x27;t last long!<br>Professionally managed by Atrium Management. Call 407-585-2721 to schedule your private showing<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,800 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $1,800 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,800</li><li>Application Fee: $95</li><li>Security Deposit: $1,800</li><li>Available Now</li></ul></div>
+    
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/ce1bc576-ca41-4e67-9dd2-56231c236b0d/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/3634a5ed-f9b7-46c7-b152-5575d8f94888/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/d00f9bd6-e35a-4a43-b05d-ccfbbc1a6298/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/ce28a159-bccf-463f-9afb-40853b446541/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/09d87903-ac2a-4f0a-9284-83bb1363561a/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/d6324796-7043-4629-b45c-ea35b1c87dd7/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/9bc438e2-0a94-42ff-b433-a078935417b7/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/5a3c06a9-3c62-4371-a84b-85b68a5a8dc1/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/7e099226-013a-41cd-a479-76fae60d44ac/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/1d966b21-c329-4b74-9164-67324c8f6e06/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/1847af7a-fe5e-4d0f-b651-69fd9e932758/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/c420e9f3-0159-4f40-9025-fa11351e5174/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/df73600b-943c-4583-bdf8-cb3113323944/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/ea58b50c-aeed-4aff-b1b7-b2f9ff30b132/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

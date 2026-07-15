@@ -48,19 +48,42 @@ def get(url):
 
 
 # ---------- grid feed ----------
-def fetch_grid():
-    page = get(LISTINGS_URL)
-    s = page.find("markers: [")
-    i = page.find("[", s)
+def _extract_markers(html):
+    s = html.find("markers: [")
+    if s < 0:
+        return []
+    i = html.find("[", s)
     depth = 0
-    for j in range(i, len(page)):
-        if page[j] == "[":
+    for j in range(i, len(html)):
+        if html[j] == "[":
             depth += 1
-        elif page[j] == "]":
+        elif html[j] == "]":
             depth -= 1
             if depth == 0:
-                return json.loads(page[i:j + 1])
-    raise RuntimeError("markers[] not found")
+                return json.loads(html[i:j + 1])
+    return []
+
+
+def fetch_grid():
+    """Walk EVERY page of the public listings feed. AppFolio caps the page (and the
+    map markers) at ~300, so page 1 alone silently drops the rest of the portfolio."""
+    combined = {}
+    page = 1
+    while page <= 50:  # safety bound
+        url = LISTINGS_URL if page == 1 else f"{LISTINGS_URL}?page={page}"
+        markers = _extract_markers(get(url))
+        if not markers:
+            break
+        new = sum(1 for m in markers if m["listing_id"] not in combined)
+        for m in markers:
+            combined.setdefault(m["listing_id"], m)
+        print(f"  page {page}: {len(markers)} listings ({new} new, {len(combined)} total)")
+        if len(markers) < 300:  # short page => last page
+            break
+        page += 1
+    if not combined:
+        raise RuntimeError("markers[] not found on any page")
+    return list(combined.values())
 
 
 def parse_specs(spec):
@@ -229,6 +252,11 @@ def build(listings):
     (HERE / "homes").mkdir(exist_ok=True)
     for l in listings:
         (HERE / "homes" / f'{l["id"]}.html').write_text(build_detail_page(l), encoding="utf-8")
+    # prune detail pages for listings no longer in the feed (leased/removed)
+    ids = {str(l["id"]) for l in listings}
+    for f in (HERE / "homes").glob("*.html"):
+        if f.stem not in ids:
+            f.unlink()
     grid = INDEX_TPL.replace("/*__DATA__*/", json.dumps(
         [{k: l.get(k) for k in ("id", "street", "city", "rent", "rent_val", "specs", "beds", "photo", "address")} for l in listings],
         separators=(",", ":"))).replace("__COUNT__", str(len(listings)))

@@ -1,62 +1,0 @@
-<!DOCTYPE html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>2401 Arlington Blvd #55 — Atrium</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
-<style>
-  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
-    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
-  *{box-sizing:border-box}html,body{margin:0}
-  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
-  a{color:inherit;text-decoration:none}
-  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
-    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
-  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
-  .brand{display:flex;align-items:center}
-  .brand img{height:30px;width:auto;display:block}
-
-  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
-  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
-  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
-  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
-  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
-  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
-  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
-  .thumb.on{border-color:var(--red)}
-  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
-  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
-  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
-  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
-  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
-    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
-  .apply:hover{background:var(--red-dk)}
-  .note{font-size:12px;color:#9aa0a6;text-align:center}
-  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
-  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
-  .terms{list-style:none;padding:0;margin:0}
-  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
-  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
-</style></head><body>
-<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
-<div class="back"><a href="../widget.html">← All listings</a></div>
-<div class="wrap">
-  <div class="gallery">
-    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/66648ff8-a2f3-4da9-9d3e-4d47ffb58edd/large.jpeg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/66648ff8-a2f3-4da9-9d3e-4d47ffb58edd/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/bf22ab1d-5966-4d20-acd0-f0faa37258d7/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/df984307-b8fb-43f9-a1a0-ed2ab19ba562/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/6bb63233-7d7e-46ae-bb24-a54f750b4e03/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a635126b-90ec-47ee-9598-b85df5193fe4/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0f76d60a-6baa-4517-97d2-15073bd2908f/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/f75d6c44-1bd6-40f2-8f58-f1d7bf38f0e0/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/631044b0-b671-430b-b125-edbe1a4fa27d/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/da041820-a0d3-4225-8785-86b6c777a037/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/fd93dd93-a0b0-4340-897e-ba5c2137acc4/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/74594a28-d4fb-4990-8dcb-7bd9c6072aec/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4dfe3658-fb19-4c18-9335-757dac709a3b/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4ddf01c9-476f-435a-8861-557e2df9ed91/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0e534371-7877-458c-992d-ab80e55346ab/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d80a5d60-0643-4032-bcfe-27fb92e56ddc/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
-  </div>
-  <div class="info">
-    <h1>Spacious 2-Bedroom Apartments in Charlottesville: Walk to UVA Law &amp; Barracks Road</h1>
-    <div class="sub">2401 Arlington Blvd #55, Charlottesville</div>
-    <div class="pricerow"><span class="p">$2,175/mo</span><span class="s">2 bd, 1 ba, 795 Sq. Ft.</span></div>
-    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=abc5f9c2-b710-4fc1-9f3f-594fe60d182e&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
-    <div class="note">Secure application — opens Atrium’s online form.</div>
-    <div class="block"><h3>About this home</h3><div class="desc">Our two-bedroom apartments at The Jeffersonian deliver the perfect balance of space, comfort, and ultimate convenience in Charlottesville, VA. Designed with graduate students, roommates, and working professionals in mind, this thoughtfully designed floor plan is located within a short walking distance to the UVA School of Law, Darden, and premier local shopping.<br><br>Inside Your 2-Bedroom Home<br>Each two-bedroom apartment is optimized for comfortable, everyday living, offering a layout that maximizes both privacy and shared spaces:<br><br>Bright, Open Living Areas: Generous natural light and a spacious central layout ideal for studying, working from home, or entertaining guests.<br><br>Fully Equipped Kitchens: Functional kitchens featuring modern appliances and plenty of cabinet space for meal prep.<br><br>Private Patio or Balcony: Your own personal outdoor retreat to seamlessly extend your living space.<br><br>Access to Community Perks: Enjoy the convenience of our on-site laundry facilities and unbeatable pedestrian access directly to Barracks Road Shopping Center.<br><br>Ready to secure your two-bedroom apartment? View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $2,175 <br><br><br><br> Admin Fee: $250 <br><br> Application Fee: $60 <br><br> Security Deposit: $500 <br><br><br> Available 8/10/26</div></div>
-    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $2,175</li><li>Admin Fee: $250</li><li>Application Fee: $60</li><li>Security Deposit: $500</li><li>Available 8/10/26</li></ul></div>
-    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
-  </div>
-</div>
-<script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/66648ff8-a2f3-4da9-9d3e-4d47ffb58edd/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/bf22ab1d-5966-4d20-acd0-f0faa37258d7/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/df984307-b8fb-43f9-a1a0-ed2ab19ba562/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/6bb63233-7d7e-46ae-bb24-a54f750b4e03/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/a635126b-90ec-47ee-9598-b85df5193fe4/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/0f76d60a-6baa-4517-97d2-15073bd2908f/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/f75d6c44-1bd6-40f2-8f58-f1d7bf38f0e0/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/631044b0-b671-430b-b125-edbe1a4fa27d/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/da041820-a0d3-4225-8785-86b6c777a037/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/fd93dd93-a0b0-4340-897e-ba5c2137acc4/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/74594a28-d4fb-4990-8dcb-7bd9c6072aec/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/4dfe3658-fb19-4c18-9335-757dac709a3b/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/4ddf01c9-476f-435a-8861-557e2df9ed91/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/0e534371-7877-458c-992d-ab80e55346ab/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/d80a5d60-0643-4032-bcfe-27fb92e56ddc/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
-function pick(i){document.getElementById('main').src=PHOTOS[i];
-  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
-</script></body></html>

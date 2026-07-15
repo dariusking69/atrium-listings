@@ -1,28 +1,28 @@
 [
   {
-    "id": 4900,
-    "uuid": "0097c406-9691-48bd-992f-33d4589718d1",
-    "address": "600 W. Main Street #204, Charlottesville, VA 22903",
-    "street": "600 W. Main Street #204",
+    "id": 5916,
+    "uuid": "0fab4274-c950-453a-b7f9-fe2ef6d01e56",
+    "address": "600 W. Main Street #405, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #405",
     "city": "Charlottesville",
-    "rent": "$2,190",
-    "rent_val": 2190,
+    "rent": "$1,995",
+    "rent_val": 1995,
     "specs": "1 bd, 1 ba, 661 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 661,
     "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0097c406-9691-48bd-992f-33d4589718d1",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0fab4274-c950-453a-b7f9-fe2ef6d01e56",
     "lat": 38.0307473,
     "lng": -78.4883703,
     "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,190 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available Now",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 7/24/26",
     "terms": [
-      "Rent: $2,190",
+      "Rent: $1,995",
       "Admin Fee: $400",
       "Application Fee: $65",
       "Security Deposit: $2,512",
-      "Available Now"
+      "Available 7/24/26"
     ],
     "pets": [
       "Cats allowed",
@@ -32,8 +32,44 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0097c406-9691-48bd-992f-33d4589718d1&source=Website",
-    "available": "NOW"
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0fab4274-c950-453a-b7f9-fe2ef6d01e56&source=Website",
+    "available": "7/24/26"
+  },
+  {
+    "id": 3437,
+    "uuid": "4a08d40b-5622-4034-a444-10757711120c",
+    "address": "600 W. Main Street #101, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #101",
+    "city": "Charlottesville",
+    "rent": "$2,199",
+    "rent_val": 2199,
+    "specs": "1 bd, 1 ba, 652 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 652,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2a67f4c7-6581-42e2-8bf4-700acabeb2f6/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4a08d40b-5622-4034-a444-10757711120c",
+    "lat": 38.0307473,
+    "lng": -78.4883703,
+    "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,199 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,318 \n\n\n Available 8/29/26",
+    "terms": [
+      "Rent: $2,199",
+      "Admin Fee: $400",
+      "Application Fee: $65",
+      "Security Deposit: $2,318",
+      "Available 8/29/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2a67f4c7-6581-42e2-8bf4-700acabeb2f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4a08d40b-5622-4034-a444-10757711120c&source=Website",
+    "available": "8/29/26"
   },
   {
     "id": 5802,
@@ -72,6 +108,42 @@
     "available": "8/29/26"
   },
   {
+    "id": 3579,
+    "uuid": "93f2cf30-65f8-4a3c-9376-76138a0f6f16",
+    "address": "600 W. Main Street #301, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #301",
+    "city": "Charlottesville",
+    "rent": "$2,298",
+    "rent_val": 2298,
+    "specs": "1 bd, 1 ba, 662 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 662,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d61f4bc5-954a-4fa4-af8e-d98eff52fe5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/93f2cf30-65f8-4a3c-9376-76138a0f6f16",
+    "lat": 38.0307473,
+    "lng": -78.4883703,
+    "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,298 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,409 \n\n\n Available 8/18/26",
+    "terms": [
+      "Rent: $2,298",
+      "Admin Fee: $400",
+      "Application Fee: $65",
+      "Security Deposit: $2,409",
+      "Available 8/18/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d61f4bc5-954a-4fa4-af8e-d98eff52fe5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=93f2cf30-65f8-4a3c-9376-76138a0f6f16&source=Website",
+    "available": "8/18/26"
+  },
+  {
     "id": 3284,
     "uuid": "5a7d2262-9c9a-42b0-9bfe-3e8faeb965fa",
     "address": "600 W. Main Street #601, Charlottesville, VA 22903",
@@ -108,46 +180,10 @@
     "available": "8/22/26"
   },
   {
-    "id": 3439,
-    "uuid": "0f2f755f-08f7-4104-a1ab-51e646f84de9",
-    "address": "600 W. Main Street #403, Charlottesville, VA 22903",
-    "street": "600 W. Main Street #403",
-    "city": "Charlottesville",
-    "rent": "$2,507",
-    "rent_val": 2507,
-    "specs": "1 bd, 1 ba, 661 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 661,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0f2f755f-08f7-4104-a1ab-51e646f84de9",
-    "lat": 38.0307473,
-    "lng": -78.4883703,
-    "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,507 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 6/22/26",
-    "terms": [
-      "Rent: $2,507",
-      "Admin Fee: $400",
-      "Application Fee: $65",
-      "Security Deposit: $2,512",
-      "Available 6/22/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0f2f755f-08f7-4104-a1ab-51e646f84de9&source=Website",
-    "available": "6/22/26"
-  },
-  {
-    "id": 5731,
-    "uuid": "ab02dc09-9bca-4651-96c1-92b8ee18702c",
-    "address": "600 W. Main Street #604, Charlottesville, VA 22903",
-    "street": "600 W. Main Street #604",
+    "id": 3522,
+    "uuid": "ab8dccef-d6e6-4474-8abf-337f2cce93d5",
+    "address": "600 W. Main Street #406, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #406",
     "city": "Charlottesville",
     "rent": "$2,512",
     "rent_val": 2512,
@@ -156,17 +192,17 @@
     "baths": 1.0,
     "sqft": 661,
     "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ab02dc09-9bca-4651-96c1-92b8ee18702c",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ab8dccef-d6e6-4474-8abf-337f2cce93d5",
     "lat": 38.0307473,
     "lng": -78.4883703,
     "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,512 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 7/14/26",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,512 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 8/10/26",
     "terms": [
       "Rent: $2,512",
       "Admin Fee: $400",
       "Application Fee: $65",
       "Security Deposit: $2,512",
-      "Available 7/14/26"
+      "Available 8/10/26"
     ],
     "pets": [
       "Cats allowed",
@@ -176,7 +212,115 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/9bcc2e0c-6347-4047-aca0-a80d5f42f97a/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ab02dc09-9bca-4651-96c1-92b8ee18702c&source=Website",
-    "available": "7/14/26"
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ab8dccef-d6e6-4474-8abf-337f2cce93d5&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 4902,
+    "uuid": "35955e75-b4da-41d5-93f1-8ec8e6654e93",
+    "address": "600 W. Main Street #606, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #606",
+    "city": "Charlottesville",
+    "rent": "$3,385",
+    "rent_val": 3385,
+    "specs": "1 bd, 1 ba, 812 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 812,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/150c8f5b-6e47-46ea-98d2-370bde1512bb/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/35955e75-b4da-41d5-93f1-8ec8e6654e93",
+    "lat": 38.0307473,
+    "lng": -78.4883703,
+    "title": "Located in the heart of the city",
+    "description": "Apartment home-interior features: custom roller window shades, floor to ceiling windows, Black Matte Appliances, oversized walk-in closets, Quartz Counter tops. \r\n \r\nSix Hundred West Main has been thoughtfully designed to support both sustainability and the community. The building utilizes 40% less energy than similar construction, provides residents with energy efficient heating and cooling systems, and ensures a positive impact to downstream waterways. Both its interior and exterior materials were selected for their friendliness to the earth, and \u2014 consistent with the city\u2019s mission to increase housing stock \n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,385 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $4,224 \n\n\n Available Now",
+    "terms": [
+      "Rent: $3,385",
+      "Admin Fee: $400",
+      "Application Fee: $65",
+      "Security Deposit: $4,224",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/150c8f5b-6e47-46ea-98d2-370bde1512bb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=35955e75-b4da-41d5-93f1-8ec8e6654e93&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3450,
+    "uuid": "9c75ebb3-654a-4df8-9d68-89522fc05ead",
+    "address": "600 W. Main Street #508, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #508",
+    "city": "Charlottesville",
+    "rent": "$3,899",
+    "rent_val": 3899,
+    "specs": "2 bd, 2 ba, 1,109 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1109,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/391b750a-5af9-47a2-9cf3-18094c229c3b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c75ebb3-654a-4df8-9d68-89522fc05ead",
+    "lat": 38.0307473,
+    "lng": -78.4883703,
+    "title": "2 Bed 2 Bathroom Apartment In The Heart Of Charlottesville",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,899 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $3,911 \n\n\n Available 7/24/26",
+    "terms": [
+      "Rent: $3,899",
+      "Admin Fee: $400",
+      "Application Fee: $65",
+      "Security Deposit: $3,911",
+      "Available 7/24/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/391b750a-5af9-47a2-9cf3-18094c229c3b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c75ebb3-654a-4df8-9d68-89522fc05ead&source=Website",
+    "available": "7/24/26"
+  },
+  {
+    "id": 4358,
+    "uuid": "1486fe32-184c-4509-a1a0-f5f8795d7874",
+    "address": "600 W. Main Street #507, Charlottesville, VA 22903",
+    "street": "600 W. Main Street #507",
+    "city": "Charlottesville",
+    "rent": "$4,677",
+    "rent_val": 4677,
+    "specs": "2 bd, 2 ba, 1,053 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1053,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5bf86665-4bb6-4bac-bed6-0870f34f3080/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1486fe32-184c-4509-a1a0-f5f8795d7874",
+    "lat": 38.0307473,
+    "lng": -78.4883703,
+    "title": "2 Bed 2 Bathroom Apartment In The Heart Of Charlottesville",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $4,677 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $4,677 \n\n\n Available 10/16/26",
+    "terms": [
+      "Rent: $4,677",
+      "Admin Fee: $400",
+      "Application Fee: $65",
+      "Security Deposit: $4,677",
+      "Available 10/16/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5bf86665-4bb6-4bac-bed6-0870f34f3080/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1486fe32-184c-4509-a1a0-f5f8795d7874&source=Website",
+    "available": "10/16/26"
   }
 ]

@@ -1,5 +1,75 @@
 [
   {
+    "id": 6041,
+    "uuid": "098dae2e-b41b-414d-b6a5-2f62697ddc24",
+    "address": "5200 Lewis Road #33, Sandston, VA 23150",
+    "street": "5200 Lewis Road #33",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/098dae2e-b41b-414d-b6a5-2f62697ddc24",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=098dae2e-b41b-414d-b6a5-2f62697ddc24&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5998,
+    "uuid": "50eaa245-c19f-4046-944c-032774c51d56",
+    "address": "5200 Lewis Road #23, Sandston, VA 23150",
+    "street": "5200 Lewis Road #23",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/50eaa245-c19f-4046-944c-032774c51d56",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/6/26",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 10/6/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=50eaa245-c19f-4046-944c-032774c51d56&source=Website",
+    "available": "10/6/26"
+  },
+  {
     "id": 5837,
     "uuid": "6515eb44-9555-4143-806d-5c9f8a4cd13f",
     "address": "5200 Lewis Road #21, Sandston, VA 23150",
@@ -175,10 +245,10 @@
     "available": "NOW"
   },
   {
-    "id": 5633,
-    "uuid": "20adc64f-d954-437b-b166-9c05546d87eb",
-    "address": "5200 Lewis Road #7, Sandston, VA 23150",
-    "street": "5200 Lewis Road #7",
+    "id": 5562,
+    "uuid": "7f5d15aa-bbc6-4bb0-9c09-c0ce1d3eb7f3",
+    "address": "5200 Lewis Road #100, Sandston, VA 23150",
+    "street": "5200 Lewis Road #100",
     "city": "Sandston",
     "rent": "$1,373",
     "rent_val": 1373,
@@ -187,7 +257,7 @@
     "baths": 1.0,
     "sqft": 900,
     "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/20adc64f-d954-437b-b166-9c05546d87eb",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7f5d15aa-bbc6-4bb0-9c09-c0ce1d3eb7f3",
     "lat": 37.5163935,
     "lng": -77.3415454,
     "title": "",
@@ -206,7 +276,216 @@
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=20adc64f-d954-437b-b166-9c05546d87eb&source=Website",
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7f5d15aa-bbc6-4bb0-9c09-c0ce1d3eb7f3&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5557,
+    "uuid": "2856a1da-e792-4945-acfa-33512c2eab86",
+    "address": "5200 Lewis Road #72, Sandston, VA 23150",
+    "street": "5200 Lewis Road #72",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2856a1da-e792-4945-acfa-33512c2eab86",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2856a1da-e792-4945-acfa-33512c2eab86&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5556,
+    "uuid": "4f565a6e-e2a1-435e-8b6f-65f890ddfc07",
+    "address": "5200 Lewis Road #28, Sandston, VA 23150",
+    "street": "5200 Lewis Road #28",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4f565a6e-e2a1-435e-8b6f-65f890ddfc07",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4f565a6e-e2a1-435e-8b6f-65f890ddfc07&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5378,
+    "uuid": "bf58d461-6cc6-4953-becf-f6f3edc78ed7",
+    "address": "5200 Lewis Road #11, Sandston, VA 23150",
+    "street": "5200 Lewis Road #11",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bf58d461-6cc6-4953-becf-f6f3edc78ed7",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/7/26",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bf58d461-6cc6-4953-becf-f6f3edc78ed7&source=Website",
+    "available": "9/7/26"
+  },
+  {
+    "id": 4809,
+    "uuid": "2118fd65-ff68-4a49-a646-e09a3c8671c6",
+    "address": "5200 Lewis Road #51, Sandston, VA 23150",
+    "street": "5200 Lewis Road #51",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2118fd65-ff68-4a49-a646-e09a3c8671c6",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2118fd65-ff68-4a49-a646-e09a3c8671c6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3652,
+    "uuid": "d96b56d5-e1a5-4d5a-bdca-d2644a5361ab",
+    "address": "5200 Lewis Road #31, Sandston, VA 23150",
+    "street": "5200 Lewis Road #31",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d96b56d5-e1a5-4d5a-bdca-d2644a5361ab",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d96b56d5-e1a5-4d5a-bdca-d2644a5361ab&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3487,
+    "uuid": "a6029dba-6c3e-41fe-945e-35cf3ae01b30",
+    "address": "5200 Lewis Road #4, Sandston, VA 23150",
+    "street": "5200 Lewis Road #4",
+    "city": "Sandston",
+    "rent": "$1,373",
+    "rent_val": 1373,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a6029dba-6c3e-41fe-945e-35cf3ae01b30",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,373",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a6029dba-6c3e-41fe-945e-35cf3ae01b30&source=Website",
     "available": "NOW"
   }
 ]

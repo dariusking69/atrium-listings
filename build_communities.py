@@ -118,6 +118,8 @@ def main():
     listings = json.loads((HERE / "listings.json").read_text())
     for l in listings:  # ensure 'available' present (build.py adds it; be safe offline)
         l.setdefault("available", build.derive_available(l.get("terms")))
+    if OUT.exists():
+        shutil.rmtree(OUT)  # clear stale community folders (buildings that emptied out)
     OUT.mkdir(exist_ok=True)
     built = [build_one(c) for c in clusters(listings)]
     menu(built)
