@@ -26,7 +26,7 @@
 <!-- WIDGET START -->
 <div id="atr-root">
   <div class="atr-bar">
-    <input id="atr-q" class="atr-in" type="search" placeholder="Search by address…" autocomplete="off">
+    <input id="atr-q" class="atr-in" type="search" placeholder="Search by address, city, or ZIP…" autocomplete="off">
     <input id="atr-min" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Min Rent">
     <input id="atr-max" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Max Rent">
     <select id="atr-beds" class="atr-in"><option value="">Beds</option><option value="0">Studio</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option></select>
@@ -34,6 +34,8 @@
     <select id="atr-city" class="atr-in"><option value="">City</option></select>
     <select id="atr-zip" class="atr-in"><option value="">Zip</option></select>
     <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="new">Newest</option></select>
+    <button id="atr-radius" class="atr-toggle" type="button" title="Search within a distance of a point on the map">◎ Radius</button>
+    <select id="atr-radius-mi" class="atr-in" style="display:none"><option value="1">1 mi</option><option value="3">3 mi</option><option value="5" selected>5 mi</option><option value="10">10 mi</option><option value="25">25 mi</option><option value="50">50 mi</option></select>
     <button id="atr-reset" class="atr-reset" type="button">Reset</button>
     <button id="atr-share" class="atr-share" type="button" title="Copy a link to these filtered results">
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
@@ -71,6 +73,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 .atr-share:hover{background:#e82121}
 .atr-share.ok{background:#1a7f37}
 .atr-share.err{background:#8a6d00}
+.atr-toggle{font:inherit;font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:8px;height:38px;padding:0 12px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.atr-toggle:hover{border-color:var(--red)}
+.atr-toggle.active{background:var(--red);color:#fff;border-color:var(--red)}
 .atr-count{font-size:13px;color:#666;margin-left:auto}
 /* two-pane */
 .atr-split{display:flex;gap:18px;align-items:flex-start}
@@ -138,6 +143,21 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   };
   var $ = function(s){return document.querySelector(s);};
   var DATA = [], MAP = null;
+  var RADIUS = null, pickMode = false;   // radius dropper: {lat,lng,mi}
+  function milesBetween(la1,lo1,la2,lo2){
+    var R=3958.8, r=Math.PI/180, dLa=(la2-la1)*r, dLo=(lo2-lo1)*r;
+    var a=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*r)*Math.cos(la2*r)*Math.sin(dLo/2)*Math.sin(dLo/2);
+    return 2*R*Math.asin(Math.sqrt(a));
+  }
+  function onMapPick(lat,lng){                 // fired when the map is clicked in radius pick mode
+    if(!pickMode) return;
+    pickMode=false;
+    RADIUS={lat:lat,lng:lng,mi:+$('#atr-radius-mi').value||5};
+    $('#atr-radius-mi').style.display='';
+    var b=$('#atr-radius'); b.classList.add('active'); b.textContent='◎ Radius ✕';
+    if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
+    apply();
+  }
 
   // ================= LOAD =================
   fetch(CONFIG.DATA_URL).then(function(r){return r.json();}).then(function(rows){
@@ -155,7 +175,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         apply: l.apply_url||l.appfolio_url||'#'
       };
     });
-    buildOptions(); readParams(); wire(); MAP = makeMap(); apply();
+    buildOptions(); readParams(); wire();
+    MAP = makeMap();
+    if(MAP.onClick) MAP.onClick(onMapPick);
+    if(RADIUS && MAP.drawCircle) MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
+    apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
 
   // ================= FILTER OPTIONS =================
@@ -173,6 +197,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function readParams(){                                    // pre-populate inputs from the URL on load
     var p=new URLSearchParams(location.search);
     Object.keys(FILTERS).forEach(function(k){ if(p.has(k)){ var el=$(FILTERS[k]); if(el) el.value=p.get(k); } });
+    if(p.has('rlat') && p.has('rlng')){
+      RADIUS={lat:parseFloat(p.get('rlat')),lng:parseFloat(p.get('rlng')),mi:parseFloat(p.get('rmi'))||5};
+      var mi=$('#atr-radius-mi'); mi.value=RADIUS.mi; mi.style.display='';
+      var rb=$('#atr-radius'); rb.classList.add('active'); rb.textContent='◎ Radius ✕';
+    }
   }
   function syncUrl(){                                       // reflect current filters back into the URL
     var p=new URLSearchParams();
@@ -180,6 +209,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       var v=$(FILTERS[k]).value;
       if(v!=='' && !(k==='sort' && v==='rent_desc')) p.set(k,v);   // omit empties + default sort
     });
+    if(RADIUS){ p.set('rlat',RADIUS.lat.toFixed(5)); p.set('rlng',RADIUS.lng.toFixed(5)); p.set('rmi',RADIUS.mi); }
     var qs=p.toString();
     try{ history.replaceState(null,'', qs ? location.pathname+'?'+qs : location.pathname); }catch(e){}
   }
@@ -206,13 +236,14 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
     var rows=DATA.filter(function(l){
-      if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0)return false;
+      if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0)return false;
       if(mn!=null && l.rent_val<mn)return false;
       if(mx!=null && l.rent_val>0 && l.rent_val>mx)return false;
       if(bd!=='' ){ if(bd==='0'){ if(l.beds!==0)return false; } else if((l.beds||0)<+bd)return false; }
       if(ba!=='' && (l.baths||0)<+ba)return false;
       if(ci && l.city!==ci)return false;
       if(zp && l.zip!==zp)return false;
+      if(RADIUS){ if(l.lat==null||l.lng==null)return false; if(milesBetween(RADIUS.lat,RADIUS.lng,l.lat,l.lng)>RADIUS.mi)return false; }
       return true;
     });
     var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
@@ -268,9 +299,27 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     $('#atr-reset').addEventListener('click',function(){
       ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip'].forEach(function(s){$(s).value='';});
-      $('#atr-sort').value='rent_desc'; apply();
+      $('#atr-sort').value='rent_desc';
+      RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
+      $('#atr-radius-mi').style.display='none';
+      var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='◎ Radius';
+      apply();
     });
     $('#atr-share').addEventListener('click', share);
+    $('#atr-radius').addEventListener('click', function(){
+      var b=$('#atr-radius');
+      if(RADIUS || pickMode){                       // turn radius off
+        RADIUS=null; pickMode=false;
+        if(MAP&&MAP.clearCircle)MAP.clearCircle();
+        $('#atr-radius-mi').style.display='none';
+        b.classList.remove('active'); b.textContent='◎ Radius'; apply();
+      } else {                                        // arm: the next map click sets the center
+        pickMode=true; b.classList.add('active'); b.textContent='Click the map…';
+      }
+    });
+    $('#atr-radius-mi').addEventListener('change', function(){
+      if(RADIUS){ RADIUS.mi=+this.value; if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi); apply(); }
+    });
   }
 
   // ================= MAP (Google if key, else Leaflet/OSM) =================
@@ -290,8 +339,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
         {maxZoom:19,attribution:'&copy; OpenStreetMap, &copy; CARTO'}).addTo(api.map);
       api.layer=L.layerGroup().addTo(api.map);
+      api.map.on('click',function(e){ if(api._onClick) api._onClick(e.latlng.lat,e.latlng.lng); });
       try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
-      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api.last)api.render(api.last);},60);});
+      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api.last)api.render(api.last);},60);});
       if(api.pending){api.render(api.pending);api.pending=null;}
     });
     var icon=function(){return L.divIcon({className:'atr-pin',html:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
@@ -302,10 +352,27 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         var m=L.marker([l.lat,l.lng],{icon:icon()}).bindPopup(popHtml(l));
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
-      if(pts.length) api.map.fitBounds(pts,{padding:[40,40],maxZoom:13});
+      if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
+      else if(pts.length){ api.map.fitBounds(pts,{padding:[40,40],maxZoom:13}); }
+    };
+    api.drawCircle=function(lat,lng,mi){
+      var doDraw=function(){
+        if(api._circle)api.map.removeLayer(api._circle);
+        if(api._center)api.map.removeLayer(api._center);
+        api._circle=L.circle([lat,lng],{radius:mi*1609.34,color:'#f13d3d',weight:2,fillColor:'#f13d3d',fillOpacity:.07,interactive:false}).addTo(api.map);
+        api._center=L.circleMarker([lat,lng],{radius:5,color:'#fff',weight:2,fillColor:'#f13d3d',fillOpacity:1,interactive:false}).addTo(api.map);
+        api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]});
+      };
+      if(api.map)doDraw(); else api._pendingCircle=doDraw;
+    };
+    api.clearCircle=function(){
+      if(api._circle){api.map.removeLayer(api._circle);api._circle=null;}
+      if(api._center){api.map.removeLayer(api._center);api._center=null;}
+      api._pendingCircle=null;
     };
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
-            refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); }};
+            refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); },
+            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle};
   }
 
   function makeGoogle(){
@@ -315,6 +382,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         {center:{lat:CONFIG.MAP_CENTER[0],lng:CONFIG.MAP_CENTER[1]},zoom:CONFIG.MAP_ZOOM,
          mapTypeControl:false,streetViewControl:false,fullscreenControl:false});
       api.info=new google.maps.InfoWindow();
+      api.map.addListener('click',function(e){ if(api._onClick) api._onClick(e.latLng.lat(),e.latLng.lng()); });
+      if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}
       if(api.pending){api.render(api.pending);api.pending=null;}
     };
     loadScript('https://maps.googleapis.com/maps/api/js?key='+encodeURIComponent(CONFIG.GOOGLE_MAPS_API_KEY)+'&callback=__atrGmapInit');
@@ -327,10 +396,27 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         m.addListener('click',function(){api.info.setContent(popHtml(l));api.info.open(api.map,m);highlight(l.id);});
         api.markers.push(m); b.extend(m.getPosition()); n++;
       });
-      if(n)api.map.fitBounds(b);
+      if(api._circle){ api.map.fitBounds(api._circle.getBounds()); }
+      else if(n)api.map.fitBounds(b);
+    };
+    api.drawCircle=function(lat,lng,mi){
+      var doDraw=function(){
+        if(api._circle)api._circle.setMap(null);
+        if(api._center)api._center.setMap(null);
+        api._circle=new google.maps.Circle({center:{lat:lat,lng:lng},radius:mi*1609.34,map:api.map,strokeColor:'#f13d3d',strokeWeight:2,fillColor:'#f13d3d',fillOpacity:.07,clickable:false});
+        api._center=new google.maps.Marker({position:{lat:lat,lng:lng},map:api.map});
+        api.map.fitBounds(api._circle.getBounds());
+      };
+      if(api.map)doDraw(); else api._pendingCircle=doDraw;
+    };
+    api.clearCircle=function(){
+      if(api._circle){api._circle.setMap(null);api._circle=null;}
+      if(api._center){api._center.setMap(null);api._center=null;}
+      api._pendingCircle=null;
     };
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
-            refresh:function(){ if(api.map){google.maps.event.trigger(api.map,'resize'); if(api.last)api.render(api.last);} }};
+            refresh:function(){ if(api.map){google.maps.event.trigger(api.map,'resize'); if(api.last)api.render(api.last);} },
+            onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle};
   }
 
   // Repaint the map when the page is restored (bfcache back/forward, tab refocus, resize).
