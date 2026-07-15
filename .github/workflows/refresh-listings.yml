@@ -18,13 +18,11 @@ jobs:
           python-version: "3.12"
       - run: python3 build.py               # fetch live feed + rebuild grid/detail pages
         working-directory: atrium-listings
-      - run: python3 build_communities.py   # regenerate per-community widgets
-        working-directory: atrium-listings
       - name: Commit if changed
         run: |
           cd atrium-listings
           git config user.name  "atrium-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add index.html grid.html listings.json homes communities
+          git add index.html grid.html listings.json homes
           git diff --cached --quiet || git commit -m "Refresh listings $(date -u +%FT%TZ)"
           git push

@@ -25,7 +25,6 @@
 
 <!-- WIDGET START -->
 <div id="atr-root">
-  <!--ATR-HEAD-->
   <div class="atr-bar">
     <input id="atr-q" class="atr-in" type="search" placeholder="Search by address…" autocomplete="off">
     <input id="atr-min" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Min Rent">
@@ -96,9 +95,6 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 #atr-root a.atr-apply{background:var(--apply);color:var(--ink)}
 #atr-root a.atr-apply:hover{background:#d8d8d8}
 .atr-empty{text-align:center;padding:60px 20px;color:#666}
-.atr-head{padding:6px 4px 2px}
-.atr-head span{display:block;font-size:13px;font-weight:600;color:var(--red);text-transform:uppercase;letter-spacing:.06em;margin-top:2px}
-.atr-head{font-size:24px;font-weight:700;line-height:1.15}
 /* map popup */
 .atr-pop{width:190px;font-family:inherit}
 .atr-pop img{width:100%;height:104px;object-fit:cover;border-radius:6px;display:block;margin-bottom:6px}
@@ -263,11 +259,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         var m=L.marker([l.lat,l.lng],{icon:icon()}).bindPopup(popHtml(l));
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
-      if(pts.length){
-        var bb=L.latLngBounds(pts);
-        if(bb.getNorth()-bb.getSouth()<0.004 && bb.getEast()-bb.getWest()<0.004){ api.map.setView(bb.getCenter(),15); }
-        else { api.map.fitBounds(pts,{padding:[40,40],maxZoom:13}); }
-      }
+      if(pts.length) api.map.fitBounds(pts,{padding:[40,40],maxZoom:13});
     };
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
             refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); }};
