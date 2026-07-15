@@ -25,8 +25,9 @@ PAGES_BASE = "https://dariusking69.github.io/atrium-listings/communities"
 MIN_UNITS = 4
 
 # Optional: friendly community names keyed by generated slug (override the address label).
+# (Pulled from each listing's own marketing title; confirm exact wording with marketing.)
 NAMES = {
-    # "winter-park-3440-n-goldenrod-road": "The Grove at Goldenrod",
+    "winter-springs-07-loblolly-ct": "The Avenues at Winter Springs",
 }
 
 

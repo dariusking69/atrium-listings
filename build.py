@@ -78,14 +78,22 @@ def rent_to_int(rent):
     return int(n[0].replace(",", "")) if n else 0
 
 
+# Normalize source-data city spelling/casing variants so the City dropdown doesn't duplicate.
+CITY_FIXES = {"gainsville": "Gainesville", "deland": "DeLand"}
+
+
 def parse_city(address):
     """City = the comma segment right before 'ST ZIP'. Handles addresses where the
     unit is its own segment, e.g. '1600 Neo Landings Loop, Unit 405, Kissimmee, FL 34744'."""
     parts = [p.strip() for p in (address or "").split(",")]
+    city = ""
     for i in range(len(parts) - 1, -1, -1):
         if re.match(r"^[A-Za-z]{2}\.?\s*\d{5}", parts[i]):  # e.g. "FL 34744"
-            return parts[i - 1] if i - 1 >= 0 else ""
-    return parts[1] if len(parts) > 1 else ""
+            city = parts[i - 1] if i - 1 >= 0 else ""
+            break
+    else:
+        city = parts[1] if len(parts) > 1 else ""
+    return CITY_FIXES.get(city.strip().lower(), city.strip())
 
 
 def normalize_grid(raw):
