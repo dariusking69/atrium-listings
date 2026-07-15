@@ -27,7 +27,8 @@ Open this link in any browser. This is exactly what will appear on the site:
    <iframe src="https://dariusking69.github.io/atrium-listings/widget.html"
            title="Atrium Residential Listings"
            style="width:100%; height:1600px; border:0;"
-           loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+           loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+           allow="clipboard-write"></iframe>
    ```
 
 4. Make sure the Code Block's **"Display Source" toggle is OFF** (otherwise the code shows as

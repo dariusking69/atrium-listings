@@ -35,6 +35,9 @@
     <select id="atr-zip" class="atr-in"><option value="">Zip</option></select>
     <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="new">Newest</option></select>
     <button id="atr-reset" class="atr-reset" type="button">Reset</button>
+    <button id="atr-share" class="atr-share" type="button" title="Copy a link to these filtered results">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
+      <span class="atr-share-label">Share</span></button>
     <span id="atr-count" class="atr-count"></span>
   </div>
   <div class="atr-split">
@@ -63,6 +66,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='none' stroke='%23666' stroke-width='2'><path d='M1 3l4 4 4-4'/></svg>");
   background-repeat:no-repeat;background-position:right 10px center}
 .atr-reset{font:inherit;font-size:13px;font-weight:600;color:var(--red);background:none;border:0;cursor:pointer;padding:8px}
+.atr-share{font:inherit;font-size:13px;font-weight:700;color:#fff;background:var(--red);border:0;border-radius:8px;
+  height:38px;padding:0 14px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.atr-share:hover{background:#e82121}
+.atr-share.ok{background:#1a7f37}
+.atr-share.err{background:#8a6d00}
 .atr-count{font-size:13px;color:#666;margin-left:auto}
 /* two-pane */
 .atr-split{display:flex;gap:18px;align-items:flex-start}
@@ -147,7 +155,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         apply: l.apply_url||l.appfolio_url||'#'
       };
     });
-    buildOptions(); wire(); MAP = makeMap(); apply();
+    buildOptions(); readParams(); wire(); MAP = makeMap(); apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
 
   // ================= FILTER OPTIONS =================
@@ -158,6 +166,39 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     fill('#atr-zip', Object.keys(zips).sort());
   }
   function fill(sel,arr){var s=$(sel);arr.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=v;s.appendChild(o);});}
+
+  // ================= SHAREABLE URL =================
+  // Filters live in the query string so a link like ?city=Tampa&beds=2 reopens the same view.
+  var FILTERS = {q:'#atr-q', min:'#atr-min', max:'#atr-max', beds:'#atr-beds', baths:'#atr-baths', city:'#atr-city', zip:'#atr-zip', sort:'#atr-sort'};
+  function readParams(){                                    // pre-populate inputs from the URL on load
+    var p=new URLSearchParams(location.search);
+    Object.keys(FILTERS).forEach(function(k){ if(p.has(k)){ var el=$(FILTERS[k]); if(el) el.value=p.get(k); } });
+  }
+  function syncUrl(){                                       // reflect current filters back into the URL
+    var p=new URLSearchParams();
+    Object.keys(FILTERS).forEach(function(k){
+      var v=$(FILTERS[k]).value;
+      if(v!=='' && !(k==='sort' && v==='rent_desc')) p.set(k,v);   // omit empties + default sort
+    });
+    var qs=p.toString();
+    try{ history.replaceState(null,'', qs ? location.pathname+'?'+qs : location.pathname); }catch(e){}
+  }
+  function copyText(t){                                     // clipboard API, with a legacy fallback for iframes
+    if(navigator.clipboard && navigator.clipboard.writeText) return navigator.clipboard.writeText(t);
+    return new Promise(function(res,rej){
+      var ta=document.createElement('textarea'); ta.value=t; ta.setAttribute('readonly','');
+      ta.style.position='absolute'; ta.style.left='-9999px'; document.body.appendChild(ta);
+      ta.select(); var ok=false; try{ ok=document.execCommand('copy'); }catch(e){}
+      document.body.removeChild(ta); ok?res():rej();
+    });
+  }
+  function share(){
+    syncUrl();
+    var url=location.href, btn=$('#atr-share'), lbl=btn.querySelector('.atr-share-label');
+    var flash=function(msg,ok){ lbl.textContent=msg; btn.classList.toggle('ok',!!ok); btn.classList.toggle('err',!ok);
+      setTimeout(function(){ lbl.textContent='Share'; btn.classList.remove('ok'); btn.classList.remove('err'); },1800); };
+    copyText(url).then(function(){ flash('Link copied', true); }, function(){ flash('Press ⌘/Ctrl+C', false); });
+  }
 
   // ================= FILTER + RENDER =================
   function apply(){
@@ -179,6 +220,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     renderGrid(rows); if(MAP)MAP.setData(rows);
     $('#atr-count').textContent=rows.length+(rows.length===1?' home':' homes');
     $('#atr-empty').style.display=rows.length?'none':'block';
+    syncUrl();
   }
   function specVal(l){
     var b=l.beds===0?'Studio':(l.beds!=null?l.beds+' Beds':'N/A');
@@ -228,6 +270,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip'].forEach(function(s){$(s).value='';});
       $('#atr-sort').value='rent_desc'; apply();
     });
+    $('#atr-share').addEventListener('click', share);
   }
 
   // ================= MAP (Google if key, else Leaflet/OSM) =================
