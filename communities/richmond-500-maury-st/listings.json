@@ -1,0 +1,285 @@
+[
+  {
+    "id": 5780,
+    "uuid": "9c74dcba-e26b-4235-bc41-9ae95d07df4a",
+    "address": "500 Maury St - 207, Richmond, VA 23224",
+    "street": "500 Maury St - 207",
+    "city": "Richmond",
+    "rent": "$1,199",
+    "rent_val": 1199,
+    "specs": "Studio, 1 ba, 386 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 386,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c74dcba-e26b-4235-bc41-9ae95d07df4a",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "Studio Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,199",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c74dcba-e26b-4235-bc41-9ae95d07df4a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4818,
+    "uuid": "ed0e0e72-a167-4844-ba39-f665c3730d1f",
+    "address": "500 Maury St Unit 246, Richmond, VA 23224",
+    "street": "500 Maury St Unit 246",
+    "city": "Richmond",
+    "rent": "$1,485",
+    "rent_val": 1485,
+    "specs": "Studio, 1 ba, 402 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 402,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/88784ed2-0a49-44f6-bfbc-7fa273a85ba1/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ed0e0e72-a167-4844-ba39-f665c3730d1f",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "Studio Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,485 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,485",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/88784ed2-0a49-44f6-bfbc-7fa273a85ba1/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ed0e0e72-a167-4844-ba39-f665c3730d1f&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4766,
+    "uuid": "eb3e1d67-470f-4480-8faf-81862b8f4f94",
+    "address": "500 Maury St Unit 218, Richmond, VA 23224",
+    "street": "500 Maury St Unit 218",
+    "city": "Richmond",
+    "rent": "$2,099",
+    "rent_val": 2099,
+    "specs": "2 bd, 2 ba, 945 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 945,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/eb3e1d67-470f-4480-8faf-81862b8f4f94",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,099 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $2,099",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=eb3e1d67-470f-4480-8faf-81862b8f4f94&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5597,
+    "uuid": "a52b6f26-5d2b-4b68-be93-158f15d91add",
+    "address": "500 Maury St Unit 427, Richmond, VA 23224",
+    "street": "500 Maury St Unit 427",
+    "city": "Richmond",
+    "rent": "$2,195",
+    "rent_val": 2195,
+    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 923,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a52b6f26-5d2b-4b68-be93-158f15d91add",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,195 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $2,195",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a52b6f26-5d2b-4b68-be93-158f15d91add&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5845,
+    "uuid": "a36b60b7-9972-4df8-b18b-05861ce04d6d",
+    "address": "500 Maury St Unit 527, Richmond, VA 23224",
+    "street": "500 Maury St Unit 527",
+    "city": "Richmond",
+    "rent": "$2,205",
+    "rent_val": 2205,
+    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 923,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a36b60b7-9972-4df8-b18b-05861ce04d6d",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,205 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $2,205",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a36b60b7-9972-4df8-b18b-05861ce04d6d&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5701,
+    "uuid": "db765d29-be4a-4f31-9bdc-7fafdc59a6f4",
+    "address": "500 Maury St Unit 524, Richmond, VA 23224",
+    "street": "500 Maury St Unit 524",
+    "city": "Richmond",
+    "rent": "$2,205",
+    "rent_val": 2205,
+    "specs": "2 bd, 2 ba, 945 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 945,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/db765d29-be4a-4f31-9bdc-7fafdc59a6f4",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,205 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $2,205",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=db765d29-be4a-4f31-9bdc-7fafdc59a6f4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5463,
+    "uuid": "89863e03-36a3-4cde-a7d9-ff21ad8f30fe",
+    "address": "500 Maury St Unit 511, Richmond, VA 23224",
+    "street": "500 Maury St Unit 511",
+    "city": "Richmond",
+    "rent": "$2,205",
+    "rent_val": 2205,
+    "specs": "2 bd, 2 ba, 936 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 936,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7ef60a20-11ab-4b36-a8ca-9babbb8c1964/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/89863e03-36a3-4cde-a7d9-ff21ad8f30fe",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Conveinent to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,205 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $2,205",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7ef60a20-11ab-4b36-a8ca-9babbb8c1964/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=89863e03-36a3-4cde-a7d9-ff21ad8f30fe&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5846,
+    "uuid": "6d53a3db-5245-4884-8988-5fb5a722b11c",
+    "address": "500 Maury St Unit 627, Richmond, VA 23224",
+    "street": "500 Maury St Unit 627",
+    "city": "Richmond",
+    "rent": "$2,295",
+    "rent_val": 2295,
+    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 923,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6d53a3db-5245-4884-8988-5fb5a722b11c",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,295 \n\n\n\n Admin Fee: $225 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $2,295",
+      "Admin Fee: $225",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6d53a3db-5245-4884-8988-5fb5a722b11c&source=Website",
+    "available": "NOW"
+  }
+]

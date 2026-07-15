@@ -1,0 +1,397 @@
+[
+  {
+    "id": 3557,
+    "uuid": "900e99d2-3ab7-4bc3-8e99-8c9e6ead1268",
+    "address": "3113 W. Marshall Street #616, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #616",
+    "city": "Richmond",
+    "rent": "$1,611",
+    "rent_val": 1611,
+    "specs": "1 bd, 1 ba, 597 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 597,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/900e99d2-3ab7-4bc3-8e99-8c9e6ead1268",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Aerie",
+    "description": "Rental Terms \n \n Rent: $1,611 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/4/26",
+    "terms": [
+      "Rent: $1,611",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/4/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=900e99d2-3ab7-4bc3-8e99-8c9e6ead1268&source=Website",
+    "available": "9/4/26"
+  },
+  {
+    "id": 3495,
+    "uuid": "6468dd9e-5fa9-4a25-9056-ca09419d70c0",
+    "address": "3113 W. Marshall Street #319, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #319",
+    "city": "Richmond",
+    "rent": "$1,611",
+    "rent_val": 1611,
+    "specs": "1 bd, 1 ba, 597 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 597,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6468dd9e-5fa9-4a25-9056-ca09419d70c0",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Aerie",
+    "description": "Rental Terms \n \n Rent: $1,611 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/12/26",
+    "terms": [
+      "Rent: $1,611",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 8/12/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6468dd9e-5fa9-4a25-9056-ca09419d70c0&source=Website",
+    "available": "8/12/26"
+  },
+  {
+    "id": 3313,
+    "uuid": "77fcd252-e7f4-4034-ac9a-f0d9e5d5890b",
+    "address": "3113 W. Marshall Street #418, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #418",
+    "city": "Richmond",
+    "rent": "$1,621",
+    "rent_val": 1621,
+    "specs": "1 bd, 1 ba, 597 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 597,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/77fcd252-e7f4-4034-ac9a-f0d9e5d5890b",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Aerie",
+    "description": "Rental Terms \n \n Rent: $1,621 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $1,621",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=77fcd252-e7f4-4034-ac9a-f0d9e5d5890b&source=Website",
+    "available": "9/10/26"
+  },
+  {
+    "id": 3293,
+    "uuid": "a25f3c27-23b4-49ce-ad15-acd8354b0769",
+    "address": "3113 W. Marshall Street #409, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #409",
+    "city": "Richmond",
+    "rent": "$1,633",
+    "rent_val": 1633,
+    "specs": "1 bd, 1 ba, 597 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 597,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a25f3c27-23b4-49ce-ad15-acd8354b0769",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Aerie",
+    "description": "Rental Terms \n \n Rent: $1,633 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,633",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8febbbf9-8307-4fab-bd22-d47c1d0ae2d7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a25f3c27-23b4-49ce-ad15-acd8354b0769&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5796,
+    "uuid": "5e757ac0-b7dc-44aa-8175-7ffa0b55cecb",
+    "address": "3113 W. Marshall Street #605, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #605",
+    "city": "Richmond",
+    "rent": "$1,642",
+    "rent_val": 1642,
+    "specs": "1 bd, 1 ba, 632 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 632,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5e757ac0-b7dc-44aa-8175-7ffa0b55cecb",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Haven",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/14/26",
+    "terms": [
+      "Rent: $1,642",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/14/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5e757ac0-b7dc-44aa-8175-7ffa0b55cecb&source=Website",
+    "available": "9/14/26"
+  },
+  {
+    "id": 5697,
+    "uuid": "4ae6d929-34a2-471e-b57d-96811bd30608",
+    "address": "3113 W. Marshall Street #220, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #220",
+    "city": "Richmond",
+    "rent": "$1,642",
+    "rent_val": 1642,
+    "specs": "1 bd, 1 ba, 632 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 632,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4ae6d929-34a2-471e-b57d-96811bd30608",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Haven",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 7/30/26",
+    "terms": [
+      "Rent: $1,642",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 7/30/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ae6d929-34a2-471e-b57d-96811bd30608&source=Website",
+    "available": "7/30/26"
+  },
+  {
+    "id": 5282,
+    "uuid": "16e416b9-5774-46b9-98dd-7d9beb1e29c6",
+    "address": "3113 W. Marshall Street #305, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #305",
+    "city": "Richmond",
+    "rent": "$1,642",
+    "rent_val": 1642,
+    "specs": "1 bd, 1 ba, 632 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 632,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/16e416b9-5774-46b9-98dd-7d9beb1e29c6",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Haven",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $1,642",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=16e416b9-5774-46b9-98dd-7d9beb1e29c6&source=Website",
+    "available": "9/10/26"
+  },
+  {
+    "id": 4000,
+    "uuid": "d118751e-0696-4cfa-8858-92f40aca0cd6",
+    "address": "3113 W. Marshall Street #321, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #321",
+    "city": "Richmond",
+    "rent": "$1,642",
+    "rent_val": 1642,
+    "specs": "1 bd, 1 ba, 632 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 632,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d118751e-0696-4cfa-8858-92f40aca0cd6",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Haven",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/4/26",
+    "terms": [
+      "Rent: $1,642",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 9/4/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d118751e-0696-4cfa-8858-92f40aca0cd6&source=Website",
+    "available": "9/4/26"
+  },
+  {
+    "id": 3303,
+    "uuid": "598432d5-ee27-4d16-a455-c784b44cf455",
+    "address": "3113 W. Marshall Street #512, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #512",
+    "city": "Richmond",
+    "rent": "$1,798",
+    "rent_val": 1798,
+    "specs": "1 bd, 1 ba, 773 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 773,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/51578460-5441-4be6-a09b-a342778b49ab/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/598432d5-ee27-4d16-a455-c784b44cf455",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Landing",
+    "description": "Rental Terms \n \n Rent: $1,798 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,798",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/51578460-5441-4be6-a09b-a342778b49ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=598432d5-ee27-4d16-a455-c784b44cf455&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 5728,
+    "uuid": "1cf44535-0672-4a1a-af6a-76cc5c2f0ff1",
+    "address": "3113 W. Marshall Street #423, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #423",
+    "city": "Richmond",
+    "rent": "$2,119",
+    "rent_val": 2119,
+    "specs": "2 bd, 2 ba, 976 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 976,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0b02fd67-65c1-47f0-92a6-186c3c19e5c5/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1cf44535-0672-4a1a-af6a-76cc5c2f0ff1",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Bliss",
+    "description": "Rental Terms \n \n Rent: $2,119 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/21/26",
+    "terms": [
+      "Rent: $2,119",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 8/21/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0b02fd67-65c1-47f0-92a6-186c3c19e5c5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1cf44535-0672-4a1a-af6a-76cc5c2f0ff1&source=Website",
+    "available": "8/21/26"
+  },
+  {
+    "id": 5693,
+    "uuid": "3bd1c1e2-54b6-4a33-8400-92d4277841a1",
+    "address": "3113 W. Marshall Street #524, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #524",
+    "city": "Richmond",
+    "rent": "$2,435",
+    "rent_val": 2435,
+    "specs": "2 bd, 2 ba, 1,091 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1091,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/de4d863b-7fa0-465e-864a-08eb26be106c/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3bd1c1e2-54b6-4a33-8400-92d4277841a1",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Homestead",
+    "description": "Rental Terms \n \n Rent: $2,435 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 7/23/26",
+    "terms": [
+      "Rent: $2,435",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 7/23/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/de4d863b-7fa0-465e-864a-08eb26be106c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3bd1c1e2-54b6-4a33-8400-92d4277841a1&source=Website",
+    "available": "7/23/26"
+  }
+]
