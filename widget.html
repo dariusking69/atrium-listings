@@ -26,7 +26,7 @@
 <!-- WIDGET START -->
 <div id="atr-root">
   <div class="atr-bar">
-    <input id="atr-q" class="atr-in" type="search" placeholder="Search by address, city, or ZIP…" autocomplete="off">
+    <input id="atr-q" class="atr-in" type="search" placeholder="Search by address, city, ZIP, or area (e.g. Four Corners)…" autocomplete="off">
     <input id="atr-min" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Min Rent">
     <input id="atr-max" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Max Rent">
     <select id="atr-beds" class="atr-in"><option value="">Beds</option><option value="0">Studio</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option></select>
@@ -43,6 +43,7 @@
       <span class="atr-share-label">Share</span></button>
     <span id="atr-count" class="atr-count"></span>
   </div>
+  <div id="atr-area-note" class="atr-area-note" style="display:none"></div>
   <div class="atr-split">
     <div class="atr-map-wrap"><div id="atr-map"></div></div>
     <div id="atr-grid" class="atr-grid"></div>
@@ -109,6 +110,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 #atr-root a.atr-apply{background:var(--apply);color:var(--ink)}
 #atr-root a.atr-apply:hover{background:#d8d8d8}
 .atr-empty{text-align:center;padding:60px 20px;color:#666}
+.atr-area-note{font-size:13px;color:#444;background:#faf7f2;border:1px solid var(--line);
+  border-left:3px solid var(--red);border-radius:6px;padding:8px 12px;margin:0 4px 12px}
 /* map popup */
 .atr-pop{width:190px;font-family:inherit}
 .atr-pop img{width:100%;height:104px;object-fit:cover;border-radius:6px;display:block;margin-bottom:6px}
@@ -135,6 +138,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     DATA_URL: 'listings.json',          // hosted listings.json for Squarespace
     DETAIL_BASE: 'homes/',              // folder of detail pages ('' to send to AppFolio)
     GOOGLE_MAPS_API_KEY: '',            // set for true Google Maps; blank => OpenStreetMap
+    SMART_GEOCODE: true,                // look up unknown place names (free OSM) when a search finds nothing
     MAP_CENTER: [28.4, -81.3], MAP_ZOOM: 8
   };
   var ICONS = {
@@ -145,10 +149,150 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   var $ = function(s){return document.querySelector(s);};
   var DATA = [], MAP = null;
   var RADIUS = null, pickMode = false;   // radius dropper: {lat,lng,mi}
+  var SORT_TOUCHED = false;              // user explicitly picked a sort order
   function milesBetween(la1,lo1,la2,lo2){
     var R=3958.8, r=Math.PI/180, dLa=(la2-la1)*r, dLo=(lo2-lo1)*r;
     var a=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*r)*Math.cos(la2*r)*Math.sin(dLo/2)*Math.sin(dLo/2);
     return 2*R*Math.asin(Math.sqrt(a));
+  }
+  // ================= SMART AREA SEARCH =================
+  // The plain search box matches text against address/city/ZIP, so a COLLOQUIAL
+  // region or landmark ("Four Corners", "ChampionsGate", "near Disney", "by UCF")
+  // matched nothing and showed an empty map — even when we had homes right there.
+  // Fix: resolve such a phrase to a CENTER + RADIUS and reuse the existing
+  // distance filter. Tier 1 is this static table: instant, offline, zero cost.
+  // AREAS_TABLE_START (generated + verified; safe to hand-edit)
+  var AREAS = [
+    {name:"AdventHealth Orlando",aliases:["advent","advent health","advent hospital","adventhealth","adventhealth orlando","florida hospital","health village"],lat:28.5735,lng:-81.3735,mi:3.0},
+    {name:"Baldwin Park",aliases:["baldwin","baldwin park","baldwinpark","new broad street"],lat:28.568,lng:-81.3375,mi:2.5},
+    {name:"Brandon / Valrico",aliases:["bloomingdale","brandon","brandon fl","brandon florida","brandon mall","east brandon","seffner","valrico","westfield brandon"],lat:27.938,lng:-82.286,mi:7.0},
+    {name:"Buenaventura Lakes",aliases:["buena ventura lakes","buenaventura","buenaventura lakes","bvl"],lat:28.335,lng:-81.3539,mi:3.0},
+    {name:"Carrollwood",aliases:["carrollwood","carrollwood village","lake carroll","north dale mabry","old carrollwood"],lat:28.0522,lng:-82.5079,mi:4.0},
+    {name:"Carytown",aliases:["byrd theatre","cary street","cary town","carytown","museum district","the museum district","vmfa"],lat:37.554,lng:-77.481,mi:2.5},
+    {name:"Celebration",aliases:["celebration","celebration fl","celebration florida","celebration village","town of celebration"],lat:28.3103,lng:-81.5508,mi:4.0},
+    {name:"ChampionsGate",aliases:["champion gate","champion's gate","champions gate","champions gate fl","championsgate","championsgate fl","championsgate resort","omni championsgate"],lat:28.2604,lng:-81.6223,mi:4.0},
+    {name:"Church Hill",aliases:["chimborazo","church hill","churchhill","east end richmond","libby hill","st johns church","the east end","union hill"],lat:37.5349,lng:-77.4219,mi:2.0},
+    {name:"Clearwater Beach & Gulf Beaches",aliases:["belleair beach","clearwater beach","dunedin","gulf beaches","honeymoon island","indian rocks beach","pinellas beaches","sand key","the gulf beaches"],lat:27.9775,lng:-82.8271,mi:7.0},
+    {name:"Clermont / South Lake",aliases:["clermont","clermont fl","highway 27","kings ridge","south clermont","south lake county","us 27 corridor"],lat:28.53,lng:-81.74,mi:10.0},
+    {name:"College Park",aliases:["college park","collegepark","dubsdread","edgewater dr","edgewater drive","princeton edgewater"],lat:28.5725,lng:-81.3897,mi:2.5},
+    {name:"Cville / Albemarle",aliases:["albemarle","albemarle county","barracks road","c-ville","charlottesville area","cville","pantops"],lat:38.033,lng:-78.49,mi:8.0},
+    {name:"Downtown Kissimmee",aliases:["downtown kissimmee","kissimmee downtown","kissimmee lakefront","old downtown kissimmee","the loop"],lat:28.292,lng:-81.408,mi:4.0},
+    {name:"Downtown Lakeland",aliases:["dixieland","downtown lakeland","florida southern","florida southern college","historic lakeland","lake hollingsworth","lake mirror","lake morton"],lat:28.04,lng:-81.95,mi:4.0},
+    {name:"Downtown Macon",aliases:["cherry street","downtown macon","intown macon","macon downtown","ocmulgee mounds","vineville"],lat:32.8385,lng:-83.632,mi:3.0},
+    {name:"Downtown Mall",aliases:["belmont","charlottesville downtown","downtown charlottesville","downtown mall","historic downtown mall","the downtown mall","the pavilion"],lat:38.0303,lng:-78.48,mi:3.0},
+    {name:"Downtown Orlando",aliases:["central business district orlando","church street","church street district","downtown orl","downtown orlando","dt orlando","dtown orlando","eola","lake eola","orlando downtown","south eola","thornton park"],lat:28.541,lng:-81.376,mi:3.0},
+    {name:"Downtown Richmond",aliases:["arts district","downtown richmond","downtown rva","jackson ward","monroe ward","richmond downtown"],lat:37.5407,lng:-77.4367,mi:3.0},
+    {name:"Downtown Tampa / Channel District",aliases:["armature works","channel district","channelside","downtown tampa","harbour island","sparkman wharf","tampa heights","tampa riverwalk","the riverwalk","water street","water street tampa"],lat:27.945,lng:-82.455,mi:3.0},
+    {name:"Dr. Phillips",aliases:["bay hill","doctor phillips","dr phillips","dr. phillips","drphillips","restaurant row","sand lake restaurant row"],lat:28.452,lng:-81.496,mi:5.0},
+    {name:"Four Corners",aliases:["4 corners","four corners","four corners area","four corners fl","four corners florida","four-corners","fourcorners","the four corners"],lat:28.3,lng:-81.63,mi:12.0},
+    {name:"Greater Richmond (RVA)",aliases:["greater richmond","metro richmond","richmond area","richmond metro","rva"],lat:37.5407,lng:-77.4367,mi:12.0},
+    {name:"Highland Springs",aliases:["east henrico","eastern henrico","highland springs","ric airport","richmond airport","richmond international airport"],lat:37.546,lng:-77.3278,mi:4.0},
+    {name:"Horizon West / Hamlin",aliases:["hamlin","horizon west","horizonwest","independence","summerport","village of bridgewater","waterleigh"],lat:28.462,lng:-81.61,mi:7.0},
+    {name:"International Drive / Convention Center",aliases:["convention center","i drive","i-drive","icon park","idrive","international dr","international drive","occc","orange county convention center","pointe orlando","the wheel","tourist corridor"],lat:28.438,lng:-81.469,mi:5.0},
+    {name:"Lake Buena Vista",aliases:["buena vista","disney springs","downtown disney","hotel plaza","lake buena vista","lbv"],lat:28.3747,lng:-81.5247,mi:4.0},
+    {name:"Lake Nona",aliases:["lake nona","lake nona town center","lakenona","laureate park","medical city","narcoossee area","nemours","nona","usta campus"],lat:28.378,lng:-81.262,mi:5.0},
+    {name:"MCO / Orlando International Airport",aliases:["airport area","by the airport","mco","near mco","oia","orlando airport","orlando international airport"],lat:28.4294,lng:-81.3089,mi:5.0},
+    {name:"MacDill AFB",aliases:["air force base","mac dill","macdill","macdill afb","macdill air force base","mcdill","near the base","socom"],lat:27.85,lng:-82.51,mi:6.0},
+    {name:"Manchester",aliases:["manchester","manchester district","manchester richmond","south of the james","south richmond","southside richmond"],lat:37.5255,lng:-77.4425,mi:2.5},
+    {name:"Mercer University",aliases:["college hill","college hill corridor","mercer","mercer campus","mercer university","mercer village","near mercer","tattnall square"],lat:32.829,lng:-83.649,mi:3.0},
+    {name:"Midlothian",aliases:["brandermill","chesterfield","chesterfield county","midlo","midlothian","westchester commons","woodlake"],lat:37.506,lng:-77.6492,mi:6.0},
+    {name:"Millenia",aliases:["conroy road","mall at millenia","milenia","millenia","millenia area","millennia"],lat:28.4855,lng:-81.4305,mi:4.0},
+    {name:"Mills 50",aliases:["little vietnam","milk district","mills 50","mills ave","mills avenue district","mills fifty","mills50","viet town"],lat:28.5525,lng:-81.3648,mi:2.5},
+    {name:"Old Town / West US-192",aliases:["192 corridor","highway 192","hwy 192","irlo bronson","main gate","maingate","maingate east","margaritaville","old town","old town kissimmee","sunset walk","us 192","w 192","west 192"],lat:28.3324,lng:-81.5159,mi:5.0},
+    {name:"Oviedo",aliases:["downtown oviedo","oviedo","oviedo area","oviedo fl","oviedo on the park"],lat:28.67,lng:-81.2081,mi:7.0},
+    {name:"Pinellas County / St. Pete",aliases:["downtown st pete","largo","pinellas","pinellas county","pinellas park","saint pete","saint petersburg","seminole fl","st pete","st petersburg","st. pete","st. petersburg"],lat:27.87,lng:-82.73,mi:12.0},
+    {name:"Plant City",aliases:["dover fl","plant city","strawberry festival","walden lake"],lat:28.0186,lng:-82.114,mi:11.0},
+    {name:"Poinciana",aliases:["poinciana","poinciana fl","poinciana florida","poinciana village","solivita"],lat:28.1567,lng:-81.4731,mi:7.0},
+    {name:"Posner Park",aliases:["posner","posner park","posner park davenport","posner village"],lat:28.228,lng:-81.645,mi:5.0},
+    {name:"Quantico",aliases:["dumfries","fbi academy","marine corps base quantico","marine corps museum","mcb quantico","quantico","quantico base","quantico marine base"],lat:38.535,lng:-77.32,mi:7.0},
+    {name:"Reunion Resort",aliases:["reunion","reunion fl","reunion resort","reunion resort orlando","reunion village"],lat:28.2803,lng:-81.6081,mi:3.0},
+    {name:"Scott's Addition",aliases:["diamond district","scott addition","scott's addition","scotts addition","scottsaddition","the diamond"],lat:37.5683,lng:-77.4725,mi:2.0},
+    {name:"Seminole Heights",aliases:["heights tampa","old seminole heights","sem heights","seminole heights","south seminole heights","southeast seminole heights"],lat:28.005,lng:-82.458,mi:3.0},
+    {name:"Shockoe Bottom",aliases:["shockoe","shockoe bottom","shockoe slip","shockoe valley","the bottom","tobacco row"],lat:37.534,lng:-77.4261,mi:2.0},
+    {name:"Short Pump",aliases:["far west end","glen allen","innsbrook","richmond west end","short pump","shortpump","west broad village","west end richmond"],lat:37.6504,lng:-77.6125,mi:6.0},
+    {name:"SoDo / Orlando Health",aliases:["arnold palmer hospital","delaney park","orlando health","orlando regional","orlando regional medical center","ormc","so do","sodo","south of downtown","winnie palmer"],lat:28.521,lng:-81.378,mi:3.0},
+    {name:"South Tampa",aliases:["ballast point","bayshore","bayshore blvd","bayshore boulevard","davis islands","historic hyde park","hyde park","hyde park tampa","palma ceia","s tampa","soho","soho tampa","south tampa"],lat:27.925,lng:-82.483,mi:4.0},
+    {name:"SouthShore",aliases:["apollo beach","big bend","gibsonton","ruskin","south shore","south shore tampa","southshore","sun city","sun city center"],lat:27.72,lng:-82.39,mi:11.0},
+    {name:"The Fan",aliases:["fan district","fan richmond","monument ave","monument avenue","the fan","the fan district"],lat:37.5525,lng:-77.4656,mi:2.0},
+    {name:"UCF / East Orlando",aliases:["alafaya","by ucf","east orlando","knights","near ucf","research park","u c f","ucf","ucf area","university of central florida","waterford lakes"],lat:28.6024,lng:-81.2001,mi:5.0},
+    {name:"USF / Busch Gardens Area",aliases:["busch gardens","by usf","moffitt","moffitt cancer center","near busch gardens","near usf","temple terrace","university area","university of south florida","usf","usf area","usf health","usf tampa"],lat:28.048,lng:-82.418,mi:5.0},
+    {name:"UVA",aliases:["near uva","the corner","the grounds","u va","university of virginia","uva","uva campus","uva grounds","uva hospital"],lat:38.0356,lng:-78.5034,mi:3.0},
+    {name:"Universal Orlando",aliases:["by universal","citywalk","epic universe","islands of adventure","near universal","universal","universal orlando","universal studios","volcano bay"],lat:28.472,lng:-81.467,mi:5.0},
+    {name:"VCU",aliases:["mcv","monroe park","near vcu","vcu","vcu campus","vcu medical center","virginia commonwealth","virginia commonwealth university"],lat:37.548,lng:-77.452,mi:3.0},
+    {name:"Walt Disney World / Theme Parks",aliases:["animal kingdom","attractions area","by disney","close to disney","disney","disney area","disney world","epcot","hollywood studios","magic kingdom","near disney","near the parks","theme park area","theme parks","walt disney world","wdw"],lat:28.37,lng:-81.56,mi:9.0},
+    {name:"Westshore / Tampa International",aliases:["international plaza","midtown tampa","rocky point","tampa airport","tpa airport","west shore","westshore","westshore district","westshore tampa"],lat:27.955,lng:-82.525,mi:4.0},
+    {name:"Winter Haven / Legoland",aliases:["chain of lakes","cypress gardens","lego land","legoland","legoland florida","polk chain","winter haven"],lat:28.01,lng:-81.72,mi:8.0},
+    {name:"Winter Park / Park Avenue",aliases:["downtown winter park","hannibal square","park ave","park avenue","rollins","rollins college","winter park village","wp village"],lat:28.596,lng:-81.35,mi:3.0},
+    {name:"Ybor City",aliases:["historic ybor","v.m. ybor","vm ybor","ybor","ybor city","ybor city tampa"],lat:27.9606,lng:-82.437,mi:3.0}
+  ];
+  // AREAS_TABLE_END
+  var AREA_INDEX = null;
+  function normQ(s){
+    return String(s==null?'':s).toLowerCase()
+      .replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim();
+  }
+  function buildAreaIndex(){
+    AREA_INDEX = {};
+    AREAS.forEach(function(a){
+      (a.aliases||[]).concat([a.name]).forEach(function(al){
+        var k=normQ(al); if(!k) return;
+        if(!AREA_INDEX[k]) AREA_INDEX[k]=a;
+        var tight=k.replace(/ /g,'');            // "fourcorners" == "four corners"
+        if(tight && !AREA_INDEX[tight]) AREA_INDEX[tight]=a;
+      });
+    });
+  }
+  // Strip the filler people actually type: "anything near four corners area"
+  var _LEAD = /^(?:show me|find me|looking for|any(?:thing)?|homes?|houses?|apartments?|rentals?|places?|units?|available|for rent|rent(?:als)?)\b\s*/;
+  var _PREP = /^(?:in|near|around|by|at|close to|next to|the)\b\s*/;
+  var _TAIL = /\s*\b(?:area|region|neighborhood|neighbourhood|district|florida|fl|virginia|va|georgia|ga|usa)\b$/;
+  function matchArea(q){
+    if(!AREA_INDEX) buildAreaIndex();
+    var k=normQ(q); if(!k) return null;
+    for(var i=0;i<4;i++){                        // peel filler words, retry each time
+      if(AREA_INDEX[k]) return AREA_INDEX[k];
+      var tight=k.replace(/ /g,'');
+      if(AREA_INDEX[tight]) return AREA_INDEX[tight];
+      var before=k;
+      k=k.replace(_LEAD,'').replace(_PREP,'').replace(_TAIL,'').trim();
+      if(k===before) break;
+    }
+    return null;
+  }
+  // Tier 2 (optional): anything not in the table. Only fires when the plain text
+  // search would show an EMPTY map, so volume stays tiny; results are cached.
+  // Free OSM/Nominatim; set SMART_GEOCODE=false to disable entirely.
+  var GEO_CACHE = {};
+  try { GEO_CACHE = JSON.parse(localStorage.getItem('atrGeo')||'{}'); } catch(e){}
+  var GEO_PENDING = {};
+  function geocodeArea(q, cb){
+    var k=normQ(q);
+    if(!CONFIG.SMART_GEOCODE || k.length<3){ cb(null); return; }
+    if(GEO_CACHE[k]!==undefined){ cb(GEO_CACHE[k]); return; }
+    if(GEO_PENDING[k]){ cb(null); return; }
+    GEO_PENDING[k]=1;
+    // viewbox+countrycodes keep results in the states we actually operate in.
+    var url='https://nominatim.openstreetmap.org/search?format=json&limit=1'
+      +'&countrycodes=us&viewbox=-88,25,-76,40&bounded=1&q='+encodeURIComponent(q);
+    fetch(url,{headers:{'Accept':'application/json'}})
+      .then(function(r){return r.ok?r.json():[];})
+      .then(function(j){
+        var hit=(j&&j[0])?{name:(j[0].display_name||q).split(',')[0],
+                           lat:parseFloat(j[0].lat), lng:parseFloat(j[0].lon),
+                           mi:10, geocoded:true}:null;
+        GEO_CACHE[k]=hit;
+        try { localStorage.setItem('atrGeo', JSON.stringify(GEO_CACHE)); } catch(e){}
+        delete GEO_PENDING[k]; cb(hit);
+      })
+      .catch(function(){ GEO_CACHE[k]=null; delete GEO_PENDING[k]; cb(null); });
+  }
+  function setAreaNotice(area){
+    var el=$('#atr-area-note');
+    if(!el) return;
+    if(!area){ el.style.display='none'; el.textContent=''; return; }
+    el.style.display='';
+    el.textContent='Showing homes within '+area.mi+' mi of '+area.name
+      +(area.geocoded?' (nearest match)':'');
   }
   function onMapPick(lat,lng){                 // fired when the map is clicked in radius pick mode
     if(!pickMode) return;
@@ -273,12 +417,34 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   }
 
   // ================= FILTER + RENDER =================
+  function resolveArea(qRaw){
+    if(!qRaw) return null;
+    var a=matchArea(qRaw);
+    if(a) return a;
+    var cached=GEO_CACHE[normQ(qRaw)];      // filled in by a previous geocodeArea()
+    return cached||null;
+  }
   function apply(){
-    var q=$('#atr-q').value.trim().toLowerCase();
+    var qRaw=$('#atr-q').value.trim();
+    var q=qRaw.toLowerCase();
+    // A colloquial place ("four corners") can't match text — resolve it to a
+    // center+radius and search geographically instead of literally.
+    var AREA=resolveArea(qRaw);
+    // Literal text still wins when it actually hits something (e.g. someone
+    // typing a street or community name that IS in the data).
+    if(AREA && q && DATA.some(function(l){
+      return l.address.toLowerCase().indexOf(q)>=0 || (l.title||'').toLowerCase().indexOf(q)>=0
+          || (l.city||'').toLowerCase().indexOf(q)===0;
+    })) AREA=null;
+    setAreaNotice(AREA);
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
     var rows=DATA.filter(function(l){
-      if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0)return false;
+      if(AREA){                                   // geographic search
+        if(l.lat==null||l.lng==null)return false;
+        if(milesBetween(AREA.lat,AREA.lng,l.lat,l.lng)>AREA.mi)return false;
+      }
+      else if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0)return false;
       if(mn!=null && l.rent_val<mn)return false;
       if(mx!=null && l.rent_val>0 && l.rent_val>mx)return false;
       if(bd!=='' ){ if(bd==='0'){ if(l.beds!==0)return false; } else if((l.beds||0)<+bd)return false; }
@@ -290,11 +456,24 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       return true;
     });
     var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
+    if(AREA && !SORT_TOUCHED){
+      // Area search: closest homes first, so the ones actually IN the area lead
+      // (a rent sort would top the list with the farthest, priciest outliers).
+      // An explicit sort choice by the user still wins.
+      rows.sort(function(a,b){
+        return milesBetween(AREA.lat,AREA.lng,a.lat,a.lng)-milesBetween(AREA.lat,AREA.lng,b.lat,b.lng);
+      });
+    } else
     rows.sort(function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?(b.id||0)-(a.id||0):b.rent_val-a.rent_val; });
     renderGrid(rows); if(MAP)MAP.setData(rows);
     $('#atr-count').textContent=rows.length+(rows.length===1?' home':' homes');
     $('#atr-empty').style.display=rows.length?'none':'block';
     syncUrl();
+    // Tier 2: a place we don't know, and the literal search found nothing —
+    // exactly the "empty map" bug. Look the place up once (cached), then redraw.
+    if(qRaw && !AREA && rows.length===0){
+      geocodeArea(qRaw, function(hit){ if(hit) apply(); });
+    }
   }
   function specVal(l){
     var b=l.beds===0?'Studio':(l.beds!=null?l.beds+' Beds':'N/A');
@@ -339,10 +518,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function wire(){
     ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort']
       .forEach(function(s){$(s).addEventListener('input',apply);});
+    // Remember an explicit sort choice so it outranks the area "closest first" default.
+    $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
     $('#atr-reset').addEventListener('click',function(){
       ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip'].forEach(function(s){$(s).value='';});
-      $('#atr-sort').value='rent_desc';
+      $('#atr-sort').value='rent_desc'; SORT_TOUCHED=false;
       RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
       $('#atr-radius-mi').style.display='none';
       var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='◎ Radius';
