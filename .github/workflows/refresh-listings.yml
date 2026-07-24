@@ -5,7 +5,7 @@ name: Refresh Atrium listings
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # every 4 hours
+    - cron: "7,37 * * * *"   # every 30 min, offset off the busy top-of-hour for reliability
   workflow_dispatch:          # manual "Run workflow" button
 
 jobs:
