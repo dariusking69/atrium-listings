@@ -41,8 +41,8 @@
 <div class="back"><a href="../widget.html">← All listings</a></div>
 <div class="wrap">
   <div class="gallery">
-    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/04da2e27-1c06-4297-82dd-a43a64e06459/large.jpeg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/04da2e27-1c06-4297-82dd-a43a64e06459/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ea04dd6a-bfcb-4779-b068-f6d5cdfa572f/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/83277223-dd46-4c9e-a0f1-a561649a3b07/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>Amazing Location!</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/04da2e27-1c06-4297-82dd-a43a64e06459/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/ea04dd6a-bfcb-4779-b068-f6d5cdfa572f/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/83277223-dd46-4c9e-a0f1-a561649a3b07/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>
