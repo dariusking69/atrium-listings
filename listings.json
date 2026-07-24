@@ -1,5 +1,575 @@
 [
   {
+    "id": 6230,
+    "uuid": "f34ac386-ce8b-46e7-af06-8976b6015ac4",
+    "address": "6822 S Shamrock Rd Unit 214, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 214",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f34ac386-ce8b-46e7-af06-8976b6015ac4",
+    "lat": 27.8660827,
+    "lng": -82.5232393,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f34ac386-ce8b-46e7-af06-8976b6015ac4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6229,
+    "uuid": "e67cc88f-ca1a-4431-b3b1-4f99b740f544",
+    "address": "6822 S Shamrock Rd Unit 212, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 212",
+    "city": "Tampa",
+    "rent": "$1,525",
+    "rent_val": 1525,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e67cc88f-ca1a-4431-b3b1-4f99b740f544",
+    "lat": 27.8661699,
+    "lng": -82.5232419,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,525 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,525",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e67cc88f-ca1a-4431-b3b1-4f99b740f544&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6228,
+    "uuid": "4ed10922-35b4-41f1-8759-9fa0856478af",
+    "address": "6822 S Shamrock Rd Unit 211, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 211",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4ed10922-35b4-41f1-8759-9fa0856478af",
+    "lat": 27.8662145,
+    "lng": -82.5232444,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ed10922-35b4-41f1-8759-9fa0856478af&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6227,
+    "uuid": "4ae3b6e8-9863-44b2-893f-2eb72136631a",
+    "address": "6822 S Shamrock Rd Unit 210, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 210",
+    "city": "Tampa",
+    "rent": "$1,600",
+    "rent_val": 1600,
+    "specs": "Studio, 1 ba, 561 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4ae3b6e8-9863-44b2-893f-2eb72136631a",
+    "lat": 27.8662556,
+    "lng": -82.5232596,
+    "title": "The William at Westshore | Studio Flat, Port Tampa City, Tampa",
+    "description": "Enjoy efficient, restored living in this 561-square-foot studio at The William at Westshore, featuring a private entry and hardwood-style flooring throughout. Upgraded homes offer granite- or quartz-style countertops and stainless steel appliances, with select units including a balcony or screened-in patio for extra outdoor space. Just outside your door, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to see this efficient home in person.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,600 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,600",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ae3b6e8-9863-44b2-893f-2eb72136631a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6226,
+    "uuid": "ee8d2c6a-3964-42fc-89f8-0b270f1e9082",
+    "address": "6822 S Shamrock Rd Unit 204, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 204",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ee8d2c6a-3964-42fc-89f8-0b270f1e9082",
+    "lat": 27.8664935,
+    "lng": -82.5232677,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ee8d2c6a-3964-42fc-89f8-0b270f1e9082&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6225,
+    "uuid": "6b361666-27a8-481b-b68c-2531cd4b34bc",
+    "address": "6822 S Shamrock Rd Unit 203, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 203",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6b361666-27a8-481b-b68c-2531cd4b34bc",
+    "lat": 27.8665702,
+    "lng": -82.5232702,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6b361666-27a8-481b-b68c-2531cd4b34bc&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6224,
+    "uuid": "33c0fef9-827a-404a-ac45-6196bc2bab46",
+    "address": "6822 S Shamrock Rd Unit 202, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 202",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/33c0fef9-827a-404a-ac45-6196bc2bab46",
+    "lat": 27.8666152,
+    "lng": -82.5232701,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=33c0fef9-827a-404a-ac45-6196bc2bab46&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6223,
+    "uuid": "f0ff4cc9-8c68-4caa-90e8-b8df411543c5",
+    "address": "6822 S Shamrock Rd Unit 201, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 201",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f0ff4cc9-8c68-4caa-90e8-b8df411543c5",
+    "lat": 27.8666599,
+    "lng": -82.5232726,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f0ff4cc9-8c68-4caa-90e8-b8df411543c5&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6222,
+    "uuid": "4d2bd3c3-5b25-4e70-9706-158e73e3c6a6",
+    "address": "6822 S Shamrock Rd Unit 114, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 114",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4d2bd3c3-5b25-4e70-9706-158e73e3c6a6",
+    "lat": 27.8660818,
+    "lng": -82.5232159,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4d2bd3c3-5b25-4e70-9706-158e73e3c6a6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6221,
+    "uuid": "910b0b56-4a0c-4e01-8ded-5d4cb7a8a451",
+    "address": "6822 S Shamrock Rd Unit 113, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 113",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/910b0b56-4a0c-4e01-8ded-5d4cb7a8a451",
+    "lat": 27.8661267,
+    "lng": -82.5232161,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=910b0b56-4a0c-4e01-8ded-5d4cb7a8a451&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6220,
+    "uuid": "e8644484-496f-4307-88bf-9b9a32a45657",
+    "address": "6822 S Shamrock Rd Unit 112, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 112",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e8644484-496f-4307-88bf-9b9a32a45657",
+    "lat": 27.8661715,
+    "lng": -82.5232163,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e8644484-496f-4307-88bf-9b9a32a45657&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6219,
+    "uuid": "76bd09cb-78a4-4459-b132-40fe1adabda1",
+    "address": "6822 S Shamrock Rd Unit 110, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 110",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/76bd09cb-78a4-4459-b132-40fe1adabda1",
+    "lat": 27.8662572,
+    "lng": -82.5232322,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=76bd09cb-78a4-4459-b132-40fe1adabda1&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6218,
+    "uuid": "9db275f3-173b-4374-9a22-75360627aaec",
+    "address": "6822 S Shamrock Rd Unit 109, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 109",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9db275f3-173b-4374-9a22-75360627aaec",
+    "lat": 27.866302,
+    "lng": -82.5232324,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9db275f3-173b-4374-9a22-75360627aaec&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6217,
+    "uuid": "a923dfc0-d56e-4143-9163-eb2c29d2c99e",
+    "address": "6822 S Shamrock Rd Unit 108, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 108",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a923dfc0-d56e-4143-9163-eb2c29d2c99e",
+    "lat": 27.8663469,
+    "lng": -82.5232326,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a923dfc0-d56e-4143-9163-eb2c29d2c99e&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6216,
+    "uuid": "3abc1da9-38c8-444d-9c5e-4d31b7176c81",
+    "address": "6822 S Shamrock Rd Unit 107, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 107",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3abc1da9-38c8-444d-9c5e-4d31b7176c81",
+    "lat": 27.8663917,
+    "lng": -82.5232328,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3abc1da9-38c8-444d-9c5e-4d31b7176c81&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6215,
+    "uuid": "60764376-54f8-4765-8ec6-a6d48b59b2f2",
+    "address": "6822 S Shamrock Rd Unit 106, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 106",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/60764376-54f8-4765-8ec6-a6d48b59b2f2",
+    "lat": 27.8664365,
+    "lng": -82.523233,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=60764376-54f8-4765-8ec6-a6d48b59b2f2&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6214,
+    "uuid": "91a0642c-570c-4992-9a8e-1d71cf4cabb6",
+    "address": "6822 S Shamrock Rd Unit 105, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 105",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/91a0642c-570c-4992-9a8e-1d71cf4cabb6",
+    "lat": 27.8664814,
+    "lng": -82.5232332,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=91a0642c-570c-4992-9a8e-1d71cf4cabb6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6213,
+    "uuid": "252db29a-cb3c-49b7-bf0c-2ef3bc491893",
+    "address": "6822 S Shamrock Rd Unit 103, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 103",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/252db29a-cb3c-49b7-bf0c-2ef3bc491893",
+    "lat": 27.866571,
+    "lng": -82.5232336,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=252db29a-cb3c-49b7-bf0c-2ef3bc491893&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6212,
+    "uuid": "037ab6d9-ce03-441e-8769-860bcb80a085",
+    "address": "6822 S Shamrock Rd Unit 102, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 102",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/037ab6d9-ce03-441e-8769-860bcb80a085",
+    "lat": 27.8666159,
+    "lng": -82.5232339,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=037ab6d9-ce03-441e-8769-860bcb80a085&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6211,
     "uuid": "1366fa26-f7ad-475d-8a17-fed409f655a7",
     "address": "5484 Lake Margaret Drive Unit # 484 - 1704, Orlando, FL 32812",
@@ -290,7 +860,7 @@
     "beds": 2.0,
     "baths": 2.0,
     "sqft": 976,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6eeec806-f363-4aa4-a8fb-b049f37780f0/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/03628e93-7b2d-475e-9268-5cbcc86390f9",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -1535,37 +2105,6 @@
     "available": "10/27/26"
   },
   {
-    "id": 6161,
-    "uuid": "cd2f10d1-1583-40f1-ac41-53a08853c18e",
-    "address": "5009 S West Shore Blvd Unit 59-5215, Tampa, FL 33611",
-    "street": "5009 S West Shore Blvd Unit 59-5215",
-    "city": "Tampa",
-    "rent": "$1,724",
-    "rent_val": 1724,
-    "specs": "2 bd, 1 ba, 889 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 889,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cd2f10d1-1583-40f1-ac41-53a08853c18e",
-    "lat": 27.8909617,
-    "lng": -82.5270743,
-    "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,724 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
-    "terms": [
-      "Rent: $1,724",
-      "Application Fee: $95",
-      "Available 8/5/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cd2f10d1-1583-40f1-ac41-53a08853c18e&source=Website",
-    "available": "8/5/26"
-  },
-  {
     "id": 6160,
     "uuid": "eecd5802-8eb8-4864-9ff0-71ec93b4c357",
     "address": "5009 S West Shore Blvd Unit 58-5215, Tampa, FL 33611",
@@ -2431,6 +2970,285 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7da99b99-de7a-4c21-9793-771323d96560&source=Website",
     "available": "8/5/26"
+  },
+  {
+    "id": 6130,
+    "uuid": "bfce731f-8fa7-489b-8f7d-51e02c11bb93",
+    "address": "6822 S Shamrock Rd Unit 213, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 213",
+    "city": "Tampa",
+    "rent": "$1,525",
+    "rent_val": 1525,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bfce731f-8fa7-489b-8f7d-51e02c11bb93",
+    "lat": 27.8661274,
+    "lng": -82.5232419,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,525 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 7/29/26",
+    "terms": [
+      "Rent: $1,525",
+      "Application Fee: $95",
+      "Available 7/29/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bfce731f-8fa7-489b-8f7d-51e02c11bb93&source=Website",
+    "available": "7/29/26"
+  },
+  {
+    "id": 6129,
+    "uuid": "a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed",
+    "address": "6822 S Shamrock Rd Unit 209, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 209",
+    "city": "Tampa",
+    "rent": "$1,725",
+    "rent_val": 1725,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed",
+    "lat": 27.8663002,
+    "lng": -82.5232622,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,725 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 7/29/26",
+    "terms": [
+      "Rent: $1,725",
+      "Application Fee: $95",
+      "Available 7/29/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed&source=Website",
+    "available": "7/29/26"
+  },
+  {
+    "id": 6128,
+    "uuid": "460c3dbc-280f-42cf-9776-ee3e10cdc08e",
+    "address": "6822 S Shamrock Rd Unit 208, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 208",
+    "city": "Tampa",
+    "rent": "$1,525",
+    "rent_val": 1525,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/460c3dbc-280f-42cf-9776-ee3e10cdc08e",
+    "lat": 27.8663473,
+    "lng": -82.5232651,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,525 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 7/29/26",
+    "terms": [
+      "Rent: $1,525",
+      "Application Fee: $95",
+      "Available 7/29/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=460c3dbc-280f-42cf-9776-ee3e10cdc08e&source=Website",
+    "available": "7/29/26"
+  },
+  {
+    "id": 6127,
+    "uuid": "6b6a4965-35dd-4526-a5cc-1c7a164293b4",
+    "address": "6822 S Shamrock Rd Unit 207, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 207",
+    "city": "Tampa",
+    "rent": "$1,750",
+    "rent_val": 1750,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6b6a4965-35dd-4526-a5cc-1c7a164293b4",
+    "lat": 27.866392,
+    "lng": -82.5232676,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,750 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,750",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6b6a4965-35dd-4526-a5cc-1c7a164293b4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6126,
+    "uuid": "6c5ae434-6d10-4436-a8e8-47f9f449435b",
+    "address": "6822 S Shamrock Rd Unit 206, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 206",
+    "city": "Tampa",
+    "rent": "$1,625",
+    "rent_val": 1625,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6c5ae434-6d10-4436-a8e8-47f9f449435b",
+    "lat": 27.866437,
+    "lng": -82.5232675,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,625 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/14/26",
+    "terms": [
+      "Rent: $1,625",
+      "Application Fee: $95",
+      "Available 8/14/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6c5ae434-6d10-4436-a8e8-47f9f449435b&source=Website",
+    "available": "8/14/26"
+  },
+  {
+    "id": 6125,
+    "uuid": "d763bf75-56bc-499d-ad02-f15da72a42d8",
+    "address": "6822 S Shamrock Rd Unit 205, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 205",
+    "city": "Tampa",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d763bf75-56bc-499d-ad02-f15da72a42d8",
+    "lat": 27.8664817,
+    "lng": -82.52327,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 7/29/26",
+    "terms": [
+      "Rent: $1,500",
+      "Application Fee: $95",
+      "Available 7/29/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d763bf75-56bc-499d-ad02-f15da72a42d8&source=Website",
+    "available": "7/29/26"
+  },
+  {
+    "id": 6124,
+    "uuid": "75ef86bc-ab0e-4b20-86af-64f9c5790450",
+    "address": "6822 S Shamrock Rd Unit 111, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 111",
+    "city": "Tampa",
+    "rent": "$1,565",
+    "rent_val": 1565,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/75ef86bc-ab0e-4b20-86af-64f9c5790450",
+    "lat": 27.8662164,
+    "lng": -82.5232166,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,565 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 7/29/26",
+    "terms": [
+      "Rent: $1,565",
+      "Application Fee: $95",
+      "Available 7/29/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=75ef86bc-ab0e-4b20-86af-64f9c5790450&source=Website",
+    "available": "7/29/26"
+  },
+  {
+    "id": 6123,
+    "uuid": "a09af91e-a02e-4d2b-b534-084ce604ca20",
+    "address": "6822 S Shamrock Rd Unit 104, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 104",
+    "city": "Tampa",
+    "rent": "$1,665",
+    "rent_val": 1665,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a09af91e-a02e-4d2b-b534-084ce604ca20",
+    "lat": 27.8664935,
+    "lng": -82.5232335,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,665 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,665",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a09af91e-a02e-4d2b-b534-084ce604ca20&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6122,
+    "uuid": "ca49dded-449d-4cab-8e4f-bd0db70aa0a0",
+    "address": "6822 S Shamrock Rd Unit 101, Tampa, FL 33616",
+    "street": "6822 S Shamrock Rd Unit 101",
+    "city": "Tampa",
+    "rent": "$1,540",
+    "rent_val": 1540,
+    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 561,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ca49dded-449d-4cab-8e4f-bd0db70aa0a0",
+    "lat": 27.8666607,
+    "lng": -82.5232341,
+    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,540 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,540",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ca49dded-449d-4cab-8e4f-bd0db70aa0a0&source=Website",
+    "available": "NOW"
   },
   {
     "id": 6121,
@@ -3306,6 +4124,37 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d95d9b3d-491f-4492-954d-8511917c6af1&source=Website",
     "available": "8/8/26"
+  },
+  {
+    "id": 6091,
+    "uuid": "fab77b83-495d-453e-97f3-7414053c67c1",
+    "address": "5476 Lake Margaret Drive Unit # 476 - 1617, Orlando, FL 32812",
+    "street": "5476 Lake Margaret Drive Unit # 476 - 1617",
+    "city": "Orlando",
+    "rent": "$1,112 - $1,182",
+    "rent_val": 1112,
+    "specs": "Studio, 1 ba, 450 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 450,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c7180e4f-5808-46ce-b249-697eb0673bd6/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fab77b83-495d-453e-97f3-7414053c67c1",
+    "lat": 28.50578,
+    "lng": -81.3157,
+    "title": "Laketree",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,112 - $1,182 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $1,112 - $1,182",
+      "Application Fee: $99",
+      "Available 10/10/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/c7180e4f-5808-46ce-b249-697eb0673bd6/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fab77b83-495d-453e-97f3-7414053c67c1&source=Website",
+    "available": "10/10/26"
   },
   {
     "id": 6090,
@@ -6817,7 +7666,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 838,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/e3f71fde-eb77-430d-9e75-26b4a5c07aee/original.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/90965c71-b264-4c49-97c5-0de96a2b2379/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a7821f37-a9f6-4dd0-9361-f11e2bdd2414",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -13548,41 +14397,6 @@
     "available": "NOW"
   },
   {
-    "id": 5036,
-    "uuid": "8d7213f5-fc29-4839-a4fe-6038a6e32b93",
-    "address": "1363 W. Broad Street, # 354, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$1,499",
-    "rent_val": 1499,
-    "specs": "2 bd, 2 ba, 894 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 894,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c9884723-b103-4f11-9b8e-35b807793a3a/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8d7213f5-fc29-4839-a4fe-6038a6e32b93",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "B5.1",
-    "description": "Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,499",
-      "Application Fee: $55",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c9884723-b103-4f11-9b8e-35b807793a3a/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8d7213f5-fc29-4839-a4fe-6038a6e32b93&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5019,
     "uuid": "f91039a6-18dd-4aef-8722-742c44046795",
     "address": "1 E King St, Orlando, FL 32804",
@@ -13647,7 +14461,7 @@
     "beds": 2.0,
     "baths": 2.0,
     "sqft": 1180,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/23f22ff7-e07e-47d6-a1e8-e2f81cc1f765/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/18a41785-b694-4e8f-a257-a6e9ae85af0e",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -14393,7 +15207,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 908,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/73fe9adc-82d8-4485-b193-b32320a034e3/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/13fa5fe9-e779-4360-8a03-23ccee01edc5",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -14647,51 +15461,6 @@
     "available": "9/10/26"
   },
   {
-    "id": 4384,
-    "uuid": "20325878-c36b-451e-9287-80ad07ea24e3",
-    "address": "5434 Lake Margaret Drive Unit # 434 - 1218, Orlando, FL 32812",
-    "street": "5434 Lake Margaret Drive Unit # 434 - 1218",
-    "city": "Orlando",
-    "rent": "$1,359 - $1,447",
-    "rent_val": 1359,
-    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 923,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/20325878-c36b-451e-9287-80ad07ea24e3",
-    "lat": 28.5049079,
-    "lng": -81.3153228,
-    "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,359 - $1,447 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/22/26",
-    "terms": [
-      "Rent: $1,359 - $1,447",
-      "Application Fee: $99",
-      "Available 8/22/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a938281-c825-408f-895e-cfcdc4b8aa39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ce0e5ea-2721-4dbf-b7e4-13078bc80100/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/607cd82b-28d6-440c-a26b-504fff885ad9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a814fae-adc3-4046-a761-14ff28635d02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ee06a70-d861-4f28-b5c2-9da1dbf2ebeb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03439119-a3ac-424f-b9ca-c3230bf572ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee9015b3-39d6-43ce-9600-c0a95148fe5d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ee6c7f-41c9-4010-8820-5ed2f3f0ab1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a643af-2409-47f5-86ba-6948cbd1077b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/735122b0-7a49-4360-b4df-c3b4fbac31e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b4384c7-60ea-499a-9240-8c3447455689/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=20325878-c36b-451e-9287-80ad07ea24e3&source=Website",
-    "available": "8/22/26"
-  },
-  {
     "id": 4358,
     "uuid": "1486fe32-184c-4509-a1a0-f5f8795d7874",
     "address": "600 W. Main Street #507, Charlottesville, VA 22903",
@@ -14873,7 +15642,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 856,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/32329f29-a3db-45c2-bba9-529b12d142bf/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0cf47b97-3bb2-4a3e-b037-8e25063a9f92",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -15383,7 +16152,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 820,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/42a889a0-284f-4d79-b98c-31e3ffb20731/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3ab373b1-d87f-44c4-b36c-342570b0e073",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -16359,7 +17128,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 908,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/73fe9adc-82d8-4485-b193-b32320a034e3/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9f915333-3ba4-43b0-b2b3-0d18a17f5534",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -16559,7 +17328,7 @@
     "beds": 2.0,
     "baths": 2.0,
     "sqft": 976,
-    "photo": "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6eeec806-f363-4aa4-a8fb-b049f37780f0/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/eed73076-dd84-45f1-8284-d3ad4aaf3c5b",
     "lat": 37.5360498,
     "lng": -77.4256982,
@@ -17292,45 +18061,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1480d23d-f46f-43c3-bfe1-2cb336fc05b3&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 3317,
-    "uuid": "89312b45-c338-42a2-be37-9d49426469e9",
-    "address": "2188 Shenfield Way, St. Cloud, FL 34771",
-    "street": "2188 Shenfield Way",
-    "city": "St. Cloud",
-    "rent": "$2,200",
-    "rent_val": 2200,
-    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.5,
-    "sqft": 1704,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2c1cda36-4c7f-4688-8e2a-76ddc24e4cb2/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/89312b45-c338-42a2-be37-9d49426469e9",
-    "lat": 28.31434,
-    "lng": -81.240617,
-    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
-    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,200 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,200",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2c1cda36-4c7f-4688-8e2a-76ddc24e4cb2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ae007b7a-3dc0-4ccd-a901-8b39643fd194/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c1c19b28-a2af-4982-94da-9eb367a1b4ca/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ec4ec76-ef4b-4a11-96d3-d3c384be2fec/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2979626f-8ae8-450e-bdf4-ed964fa99734/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=89312b45-c338-42a2-be37-9d49426469e9&source=Website",
     "available": "NOW"
   },
   {
