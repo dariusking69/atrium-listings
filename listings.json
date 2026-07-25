@@ -1,5 +1,40 @@
 [
   {
+    "id": 6233,
+    "uuid": "31551fb9-c5e4-4b52-848d-b5a64eeae877",
+    "address": "3440 N. Goldenrod Road Unit # 1413, Winter Park, FL 32792",
+    "street": "3440 N. Goldenrod Road Unit # 1413",
+    "city": "Winter Park",
+    "rent": "$2,190",
+    "rent_val": 2190,
+    "specs": "3 bd, 2 ba, 1,200 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1200,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/453cbca4-33a0-4310-bf9b-da7b9be856f9/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/31551fb9-c5e4-4b52-848d-b5a64eeae877",
+    "lat": 28.5892965,
+    "lng": -81.2887011,
+    "title": "*Renovated* 3 Bed 2 Bathroom Apartment in Prime Winter Park Location",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,190 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,982 \n\n\n Available 9/30/26",
+    "terms": [
+      "Rent: $2,190",
+      "Application Fee: $79",
+      "Security Deposit: $1,982",
+      "Available 9/30/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/453cbca4-33a0-4310-bf9b-da7b9be856f9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=31551fb9-c5e4-4b52-848d-b5a64eeae877&source=Website",
+    "available": "9/30/26"
+  },
+  {
     "id": 6230,
     "uuid": "f34ac386-ce8b-46e7-af06-8976b6015ac4",
     "address": "6822 S Shamrock Rd Unit 214, Tampa, FL 33616",
@@ -12140,51 +12175,6 @@
     "available": "NOW"
   },
   {
-    "id": 5507,
-    "uuid": "7cc7de5b-3e13-4715-a3a6-c8813bd3a2da",
-    "address": "5468 Lake Margaret Drive Unit # 468 - 1515, Orlando, FL 32812",
-    "street": "5468 Lake Margaret Drive Unit # 468 - 1515",
-    "city": "Orlando",
-    "rent": "$1,550",
-    "rent_val": 1550,
-    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 923,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7cc7de5b-3e13-4715-a3a6-c8813bd3a2da",
-    "lat": 28.5057499,
-    "lng": -81.3156581,
-    "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,550 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/10/26",
-    "terms": [
-      "Rent: $1,550",
-      "Application Fee: $99",
-      "Available 8/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a938281-c825-408f-895e-cfcdc4b8aa39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ce0e5ea-2721-4dbf-b7e4-13078bc80100/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/607cd82b-28d6-440c-a26b-504fff885ad9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a814fae-adc3-4046-a761-14ff28635d02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ee06a70-d861-4f28-b5c2-9da1dbf2ebeb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03439119-a3ac-424f-b9ca-c3230bf572ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee9015b3-39d6-43ce-9600-c0a95148fe5d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ee6c7f-41c9-4010-8820-5ed2f3f0ab1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a643af-2409-47f5-86ba-6948cbd1077b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/735122b0-7a49-4360-b4df-c3b4fbac31e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b4384c7-60ea-499a-9240-8c3447455689/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7cc7de5b-3e13-4715-a3a6-c8813bd3a2da&source=Website",
-    "available": "8/10/26"
-  },
-  {
     "id": 5497,
     "uuid": "34d58822-bef4-4681-acaf-e9dfe4481459",
     "address": "2904 Cardinal St. Unit 110, Deltona, FL 32738",
@@ -12765,40 +12755,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a624a6f7-8520-46bd-8bda-d57b9dde698d&source=Website",
     "available": "8/15/26"
-  },
-  {
-    "id": 5403,
-    "uuid": "252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "address": "6624 Mission Club Blvd # 10-310, Orlando, FL 32821",
-    "street": "6624 Mission Club Blvd # 10-310",
-    "city": "Orlando",
-    "rent": "$1,443",
-    "rent_val": 1443,
-    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 688,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "lat": 28.3878162,
-    "lng": -81.4714856,
-    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,443 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,443",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=252a1ef3-ccb2-47e3-b71e-fd53924f62af&source=Website",
-    "available": "NOW"
   },
   {
     "id": 5399,
