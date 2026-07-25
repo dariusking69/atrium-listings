@@ -20373,6 +20373,46 @@
     "available": "NOW"
   },
   {
+    "id": 2210,
+    "uuid": "6beeb511-9c48-4e30-b682-d0032a33fffe",
+    "address": "106 S Foushee Street #203, Richmond, VA 23220",
+    "street": "106 S Foushee Street #203",
+    "city": "Richmond",
+    "rent": "$1,369",
+    "rent_val": 1369,
+    "specs": "1 bd, 1 ba, 730 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 730,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/64a29812-82c1-4d64-9d76-32830ad53333/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6beeb511-9c48-4e30-b682-d0032a33fffe",
+    "lat": 37.5419747,
+    "lng": -77.4455249,
+    "title": "106 S Foushee Street #203",
+    "description": "Welcome to 106 S Foushee Street #203, located in the beautiful city of Richmond, VA. This cozy and modern apartment features one bedroom and one bathroom, perfect for those seeking a comfortable and affordable living space. One of the standout amenities of this apartment is the in-unit washer and dryer, giving you the convenience and flexibility to do your laundry in the comfort of your own home. Take advantage of the sleek and efficient appliances, including a dishwasher and refrigerator, to make your daily routines a breeze. With its excellent location, you'll have easy access to everything the city has to offer, including shops, restaurants, and entertainment hotspots. Come and experience the best of Richmond at 106 S Foushee Street #203!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,369 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $1,000 \n\n\n Available 8/14/26",
+    "terms": [
+      "Rent: $1,369",
+      "Application Fee: $50",
+      "Security Deposit: $1,000",
+      "Available 8/14/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/64a29812-82c1-4d64-9d76-32830ad53333/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eb9afbdc-2231-4d61-8384-73cfcb5ae38d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ca02ddc8-dceb-4704-bc3a-e82a43752416/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/430b6d19-3fb9-4290-a05c-019391e40119/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ad2d1501-f13a-4b9f-8a76-bd70ef8cd0fd/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8da0452a-fc86-4bee-ac63-6857a0796998/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6beeb511-9c48-4e30-b682-d0032a33fffe&source=Website",
+    "available": "8/14/26"
+  },
+  {
     "id": 2189,
     "uuid": "95a13319-e9b9-497a-afd4-935c8af64d77",
     "address": "3425 SW 2nd Ave  - 151, Gainesville, FL 32607",
