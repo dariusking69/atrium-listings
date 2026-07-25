@@ -17564,51 +17564,6 @@
     "available": "10/13/26"
   },
   {
-    "id": 3484,
-    "uuid": "8f2df13e-c1df-4985-8052-b0b7c29ea1c0",
-    "address": "10218 N. Ojus Dr - Unit B, Tampa, FL 33617",
-    "street": "10218 N. Ojus Dr - Unit B",
-    "city": "Tampa",
-    "rent": "$1,300",
-    "rent_val": 1300,
-    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1a67cd7c-fcf9-4f8b-9cf2-c2fe8c8df802/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8f2df13e-c1df-4985-8052-b0b7c29ea1c0",
-    "lat": 28.0422799,
-    "lng": -82.4077749,
-    "title": "Now Leasing! 2 Bed / 1 Bath Townhome in the Heart of Temple Terrace \u2013 Pet Friendly!",
-    "description": "Welcome home to this inviting 2-bedroom, 1-bathroom townhome offering comfort, convenience, and great outdoor space. Enjoy a functional layout with spacious living areas, washer and dryer hookups, and a private back patio that's perfect for relaxing after a long day or enjoying your morning coffee.\r\n\r\nThe home also includes free off-street parking for up to two vehicles and is located in a pet-friendly community, making it easy to enjoy your lifestyle with your furry companions.\r\n\r\nConveniently located near Temple Terrace with easy access to USF, Busch Gardens, I-275, shopping, dining, parks, and more.\r\n\r\nContact us today to schedule a tour and learn more about your next home!\r\n\r\nProfessional Managed By: Atrium Management\r\nCall: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,300 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,300 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,300",
-      "Application Fee: $95",
-      "Security Deposit: $1,300",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/1a67cd7c-fcf9-4f8b-9cf2-c2fe8c8df802/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/73b6d89a-9407-4e4a-b506-7c3a6e9beaef/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/072db8f2-5cbf-46ed-9237-1f9574d5cd08/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bd9f4664-f747-4308-a077-6eaa5226ecd3/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/02e49359-5d30-4374-a958-eced929422c3/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c07cdc38-4fb0-4ac7-8207-edb8af73bd2f/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/76baca60-6f8c-49d9-b672-f11562377ce2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7ad36b78-614d-45f9-b3b8-de9b55e18205/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9a2fe71e-34d6-460c-8fc6-1bf476a91b0f/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2bbc3a94-f467-4bed-97a8-4a47b94d7b75/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/44a2bb84-dac6-4f60-ab5c-b4fcd3e44bb4/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8f2df13e-c1df-4985-8052-b0b7c29ea1c0&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 3472,
     "uuid": "477f70da-a9f8-4a89-9d26-fa97882e0732",
     "address": "1363 W. Broad Street, # 316, Richmond, VA 23220",
@@ -20733,51 +20688,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2cb4ba16-24dc-4acd-8eea-4d873d9bf0a1&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 2133,
-    "uuid": "3e1bbcb3-9de7-4501-a4a3-0617fec9dc82",
-    "address": "4219 E Okara Rd - Unit A, Tampa, FL 33617",
-    "street": "4219 E Okara Rd - Unit A",
-    "city": "Tampa",
-    "rent": "$1,150",
-    "rent_val": 1150,
-    "specs": "1 bd, 1 ba, 550 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 550,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/51ab93a6-4730-49b9-8020-5dcd80aec447/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3e1bbcb3-9de7-4501-a4a3-0617fec9dc82",
-    "lat": 28.0368292,
-    "lng": -82.4112112,
-    "title": "One bedroom apartment available now!",
-    "description": "Renovated 1 Bedroom 1 Bathroom Apartment in Tampa Florida\r\n\r\n-Spacious living room area for entertaining family and friends.\r\n-Tile flooring throughout entire unit.\r\n-Charming kitchen with plenty of cabinet space, top of the line stainless steel appliances, double sinks and Formica counter tops.\r\n\r\nTemple Terrace is home to dozens of urban diners and local family friendly hang out spots.\r\nConveniently located 10 mins from University of South Florida, Busch Gardens & the Tampa zoo.\r\n\r\nCall 813-553-3444 to schedule your tour.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,150 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,150 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,150",
-      "Application Fee: $95",
-      "Security Deposit: $1,150",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ab93a6-4730-49b9-8020-5dcd80aec447/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d3628a88-f20f-4a63-ace5-a0ffbc5a13cb/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f7c66eb6-2ecc-4685-ab84-92414b6ebd0b/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b7ac5e3e-03aa-4096-b764-daf9003346cf/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cab6eda5-1262-4f83-9f32-43ef75cc8921/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8ba7891-85b8-413c-9963-daf10c8b9067/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e909b28-d1e0-4262-a6ba-8903d9ebd9de/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/62885e74-2f59-4571-9846-09cb3967b453/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11e4efea-8fe5-477c-8c63-dbeb5147ead5/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b82e189a-0327-4039-a3ca-4e9269b1be49/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f5441682-01e9-4274-b38d-07b2f05390a7/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3e1bbcb3-9de7-4501-a4a3-0617fec9dc82&source=Website",
     "available": "NOW"
   },
   {
