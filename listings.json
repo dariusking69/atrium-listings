@@ -1947,8 +1947,8 @@
     "address": "12837 Madison Pointe Circle #206, Orlando, FL 32821",
     "street": "12837 Madison Pointe Circle #206",
     "city": "Orlando",
-    "rent": "$1,595",
-    "rent_val": 1595,
+    "rent": "$1,550",
+    "rent_val": 1550,
     "specs": "1 bd, 1 ba, 696 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -5996,52 +5996,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5f0d19a0-7eff-458d-90da-954559020d81&source=Website",
     "available": "10/4/26"
-  },
-  {
-    "id": 6002,
-    "uuid": "12a48fe5-5890-4918-a2e0-08c54a64d277",
-    "address": "23 Andrea Dr Unit # 23-104, Winter Springs, FL 32708",
-    "street": "23 Andrea Dr Unit # 23-104",
-    "city": "Winter Springs",
-    "rent": "$1,299",
-    "rent_val": 1299,
-    "specs": "1 bd, 1 ba, 733 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 733,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/12a48fe5-5890-4918-a2e0-08c54a64d277",
-    "lat": 28.7015654,
-    "lng": -81.3236929,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,396 \n\n\n Available 9/5/26",
-    "terms": [
-      "Rent: $1,299",
-      "Application Fee: $79",
-      "Security Deposit: $1,396",
-      "Available 9/5/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c3e0ad68-0c1b-47f8-bc8a-87a0569b4ef5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e484747-ad17-4c72-8841-054411c2436c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2e342813-3453-4ad8-8268-b463bd772624/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51d820e4-e473-4aeb-8370-9876464c9b48/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1cc533fc-3b18-4953-a758-7668cff03d1b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/913e23c2-fa92-4e29-98d6-d2c99d80d02f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8ef6561-aa4b-4860-8e4e-8abc46f08a09/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81ddd919-68b1-4f1e-855a-b45b60be2f2e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/13bcb5e7-5e16-4768-a7b7-32be412f8341/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d559668d-5eee-461d-9093-14233332cc71/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/70d1c316-d388-4f25-a330-05f9660188e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=12a48fe5-5890-4918-a2e0-08c54a64d277&source=Website",
-    "available": "9/5/26"
   },
   {
     "id": 5998,
