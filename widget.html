@@ -43,6 +43,11 @@
       <span class="atr-share-label">Share</span></button>
     <span id="atr-count" class="atr-count"></span>
   </div>
+  <div id="atr-embed-head" class="atr-embed-head" style="display:none">
+    <span id="atr-embed-title"></span>
+    <button id="atr-embed-map" class="atr-embed-btn" type="button">Map</button>
+    <a id="atr-embed-open" class="atr-embed-btn atr-embed-open" target="_blank" rel="noopener">Full search ↗</a>
+  </div>
   <div id="atr-area-note" class="atr-area-note" style="display:none"></div>
   <div class="atr-split">
     <div class="atr-map-wrap"><div id="atr-map"></div></div>
@@ -112,6 +117,55 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 .atr-empty{text-align:center;padding:60px 20px;color:#666}
 .atr-area-note{font-size:13px;color:#444;background:#faf7f2;border:1px solid var(--line);
   border-left:3px solid var(--red);border-radius:6px;padding:8px 12px;margin:0 4px 12px}
+
+/* ===== EMBED MODE (?embed=1) — sized for a narrow chat panel =====
+   The full page spends ~250px of height on the filter bar + a tall map, which
+   in a ~700x520 chat iframe means the prospect sees NO homes without scrolling.
+   Embed mode drops the filter bar (Marty already applied the filters), hides the
+   map behind a toggle, and switches the card grid to compact rows so ~5 homes
+   are visible at once. */
+#atr-root.atr-embed{padding:0;max-width:none}
+.atr-embed .atr-bar{display:none}
+.atr-embed .atr-area-note{display:none !important}
+.atr-embed-head{display:flex;align-items:center;gap:8px;padding:9px 12px;
+  border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:5}
+#atr-embed-title{font-size:13px;font-weight:600;color:var(--ink);flex:1 1 auto;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.atr-embed-btn{font:inherit;font-size:12px;font-weight:600;color:var(--ink);background:#fff;
+  border:1px solid var(--line);border-radius:6px;padding:5px 9px;cursor:pointer;white-space:nowrap}
+.atr-embed-btn:hover{border-color:var(--red)}
+.atr-embed-btn.active{background:var(--red);color:#fff;border-color:var(--red)}
+#atr-root.atr-embed a.atr-embed-open{color:var(--ink)}
+.atr-embed .atr-split{display:block}
+.atr-embed .atr-map-wrap{display:none;position:static;width:100%;padding:8px 8px 0}
+.atr-embed.atr-embed-map .atr-map-wrap{display:block}
+.atr-embed #atr-map{height:230px;min-height:0}
+.atr-embed .atr-grid{display:block;padding:8px}
+.atr-embed .atr-empty{padding:28px 16px;font-size:13px}
+/* compact horizontal row */
+.atr-embed .atr-card{flex-direction:row;align-items:stretch;margin-bottom:8px;border-radius:8px}
+.atr-embed .atr-card:hover{transform:none;box-shadow:0 6px 18px -12px rgba(7,7,7,.5)}
+.atr-embed .atr-rmedia{position:relative;flex:0 0 104px;width:104px;background:#eceff3;display:block}
+.atr-embed .atr-rmedia img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  opacity:0;transition:opacity .3s}
+.atr-embed .atr-rmedia img.on{opacity:1}
+.atr-embed .atr-rbody{flex:1 1 auto;min-width:0;display:block;padding:8px 10px}
+.atr-embed .atr-rtop{display:flex;align-items:baseline;gap:8px;margin-bottom:2px}
+.atr-embed .atr-rprice{font-size:15px;font-weight:700;color:var(--ink)}
+.atr-embed .atr-ravail{font-size:11px;font-weight:600;color:#666;text-transform:uppercase;letter-spacing:.5px}
+.atr-embed .atr-raddr{font-size:12.5px;font-weight:600;color:var(--ink);line-height:1.3;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.atr-embed .atr-rspecs{font-size:12px;color:#555;margin-top:3px}
+.atr-embed .atr-ract{flex:0 0 auto;display:flex;flex-direction:column;justify-content:center;gap:4px;
+  padding:8px 8px 8px 0}
+.atr-embed .atr-ract a{font-size:11.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;
+  text-align:center;padding:6px 10px;border-radius:5px}
+#atr-root.atr-embed a.atr-rdetails{background:var(--btn);color:#fff}
+#atr-root.atr-embed a.atr-rapply{background:var(--apply);color:var(--ink)}
+@media (max-width:520px){
+  .atr-embed .atr-ract{display:none}
+  .atr-embed .atr-rmedia{flex-basis:84px;width:84px}
+}
 /* map popup */
 .atr-pop{width:190px;font-family:inherit}
 .atr-pop img{width:100%;height:104px;object-fit:cover;border-radius:6px;display:block;margin-bottom:6px}
@@ -150,6 +204,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   var DATA = [], MAP = null;
   var RADIUS = null, pickMode = false;   // radius dropper: {lat,lng,mi}
   var SORT_TOUCHED = false;              // user explicitly picked a sort order
+  // Embed mode: compact layout for a narrow panel (Marty's chat). See the CSS note.
+  var EMBED = /(?:^|[?&])embed=1(?:&|$)/.test(location.search);
+  var AREA_CIRCLE = null;                // the radius ring WE drew for an area search
   function milesBetween(la1,lo1,la2,lo2){
     var R=3958.8, r=Math.PI/180, dLa=(la2-la1)*r, dLo=(lo2-lo1)*r;
     var a=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*r)*Math.cos(la2*r)*Math.sin(dLo/2)*Math.sin(dLo/2);
@@ -345,13 +402,33 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         apply: l.apply_url||l.appfolio_url||'#'
       };
     });
-    buildOptions(); readParams(); wire();
+    buildOptions(); readParams(); wire(); initEmbed();
     MAP = makeMap();
     if(MAP.onClick) MAP.onClick(onMapPick);
     if(RADIUS && MAP.drawCircle) MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
     if(POLY && MAP.drawPolygon) MAP.drawPolygon(POLY);
     apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
+
+  function initEmbed(){
+    if(!EMBED) return;
+    document.getElementById('atr-root').classList.add('atr-embed');
+    $('#atr-embed-head').style.display='';
+    // "Full search" opens the same filtered view as a normal page.
+    var p=new URLSearchParams(location.search); p.delete('embed');
+    $('#atr-embed-open').href='widget.html'+(p.toString()?'?'+p:'');
+    $('#atr-embed-map').addEventListener('click',function(){
+      var root=document.getElementById('atr-root');
+      var on=root.classList.toggle('atr-embed-map');
+      this.classList.toggle('active',on);
+      // The map is created inside a display:none container here, so it measured
+      // 0x0 and fitted useless bounds. refresh() re-measures (invalidateSize)
+      // and re-renders the last rows, which re-fits to the visible pins.
+      // NB: the map api exposes refresh()/setData() but NOT .map — don't reach
+      // for MAP.map, it's undefined and the call silently no-ops.
+      if(on&&MAP&&MAP.refresh) setTimeout(function(){ MAP.refresh(); },60);
+    });
+  }
 
   // ================= FILTER OPTIONS =================
   function buildOptions(){
@@ -466,8 +543,31 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     } else
     rows.sort(function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?(b.id||0)-(a.id||0):b.rent_val-a.rent_val; });
     renderGrid(rows); if(MAP)MAP.setData(rows);
-    $('#atr-count').textContent=rows.length+(rows.length===1?' home':' homes');
+    // Draw the search radius for an area search: it shows the prospect exactly
+    // what "near Four Corners" means, and gives fitBounds a deterministic target
+    // (fitting to a short, wide container from scattered points zoomed oddly).
+    // Only touch the circle when WE own it — the manual Radius tool uses the
+    // same layer.
+    if(MAP&&MAP.drawCircle){
+      if(AREA && (!AREA_CIRCLE || AREA_CIRCLE.lat!==AREA.lat || AREA_CIRCLE.lng!==AREA.lng || AREA_CIRCLE.mi!==AREA.mi)){
+        AREA_CIRCLE={lat:AREA.lat,lng:AREA.lng,mi:AREA.mi};
+        MAP.drawCircle(AREA.lat,AREA.lng,AREA.mi);
+      } else if(!AREA && AREA_CIRCLE && !RADIUS){
+        AREA_CIRCLE=null; if(MAP.clearCircle)MAP.clearCircle();
+      }
+    }
+    var countTxt=rows.length+(rows.length===1?' home':' homes');
+    $('#atr-count').textContent=countTxt;
     $('#atr-empty').style.display=rows.length?'none':'block';
+    if(EMBED){
+      // The embed hides the filter bar + area banner, so fold both into one line.
+      $('#atr-embed-title').textContent=countTxt+(AREA?' within '+AREA.mi+' mi of '+AREA.name:'');
+      // The prospect can't change filters here — point them somewhere useful
+      // instead of "No homes match your filters."
+      if(!rows.length) $('#atr-empty').textContent=
+        'No homes match that search right now. Tell me a different area, price, or '+
+        'size and I’ll look again — or open the full search above.';
+    }
     syncUrl();
     // Tier 2: a place we don't know, and the literal search found nothing —
     // exactly the "empty map" bug. Look the place up once (cached), then redraw.
@@ -482,7 +582,36 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     return '<span>'+ICONS.bed+b+'</span><span>'+ICONS.bath+ba+'</span><span>'+ICONS.ruler+sf+'</span>';
   }
   function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function specText(l){
+    var b=l.beds===0?'Studio':(l.beds!=null?l.beds+' bd':null);
+    var ba=l.baths!=null?l.baths+' ba':null;
+    var sf=l.sqft!=null?l.sqft.toLocaleString()+' sqft':null;
+    return [b,ba,sf].filter(Boolean).join(' · ');
+  }
+  function renderRows(rows){
+    // Compact one-line-per-home layout for embed mode: photo | price/address/
+    // specs | actions. ~90px tall, so several homes are visible without scrolling.
+    var g=$('#atr-grid'); g.innerHTML='';
+    rows.forEach(function(l){
+      var price=l.rent_val>0?esc(l.rent):'Contact';
+      var c=document.createElement('div'); c.className='atr-card'; c.dataset.id=l.id;
+      c.innerHTML=
+        '<a class="atr-rmedia" href="'+esc(l.detail)+'" target="_blank" rel="noopener">'+
+          (l.photo?'<img loading="lazy" src="'+esc(l.photo)+'" alt="">':'')+'</a>'+
+        '<a class="atr-rbody" href="'+esc(l.detail)+'" target="_blank" rel="noopener">'+
+          '<div class="atr-rtop"><span class="atr-rprice">'+price+'</span>'+
+            '<span class="atr-ravail">'+esc(l.available)+'</span></div>'+
+          '<div class="atr-raddr">'+esc(l.address)+'</div>'+
+          '<div class="atr-rspecs">'+esc(specText(l))+'</div></a>'+
+        '<div class="atr-ract">'+
+          '<a class="atr-rdetails" href="'+esc(l.detail)+'" target="_blank" rel="noopener">Details</a>'+
+          '<a class="atr-rapply" href="'+esc(l.apply)+'" target="_blank" rel="noopener">Apply</a></div>';
+      var img=c.querySelector('img'); if(img){img.onload=function(){img.classList.add('on');}; if(img.complete)img.classList.add('on');}
+      g.appendChild(c);
+    });
+  }
   function renderGrid(rows){
+    if(EMBED) return renderRows(rows);
     var g=$('#atr-grid'); g.innerHTML='';
     rows.forEach(function(l){
       var price=l.rent_val>0?esc(l.rent):'Contact';
