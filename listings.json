@@ -3725,8 +3725,8 @@
     "address": "210 W Hyde Park Pl Unit 211-6, Tampa, FL 33606",
     "street": "210 W Hyde Park Pl Unit 211-6",
     "city": "Tampa",
-    "rent": "$1,699",
-    "rent_val": 1699,
+    "rent": "$1,599",
+    "rent_val": 1599,
     "specs": "1 bd, 1 ba, 465 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -17716,53 +17716,6 @@
     "available": "8/22/26"
   },
   {
-    "id": 3281,
-    "uuid": "f6e3b763-7c64-4cd7-a959-f163b9256ded",
-    "address": "2615 Sable Run Way, Ocoee, FL 34761",
-    "street": "2615 Sable Run Way",
-    "city": "Ocoee",
-    "rent": "$2,300",
-    "rent_val": 2300,
-    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.5,
-    "sqft": 1648,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ca8ee4e1-ca38-4d93-b2c9-822721deaf34/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f6e3b763-7c64-4cd7-a959-f163b9256ded",
-    "lat": 28.5948,
-    "lng": -81.5405059,
-    "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "*TWELVE WEEKS FREE ON ALL WASHINGTON MODELS!! 12 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,300 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/1/26",
-    "terms": [
-      "Rent: $2,300",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/1/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/ca8ee4e1-ca38-4d93-b2c9-822721deaf34/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c411100b-8296-4076-96f7-6842b549618f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3c88f015-0e9c-4ace-a616-1ba2c26811c3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/aa3b401c-5531-4641-9920-9839fbdbb501/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2f6550f7-497e-4311-b228-ec0b6882901a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/14a5e8ef-f8cc-4a47-a8cc-a23423bbf077/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c7eb813d-1736-442c-94cf-8c799428628c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8cd29c98-e3f5-4db1-9931-2177eb8074c6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/78fb7c38-42f3-438f-8eb6-35645c2e5ecd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7359401d-c116-41f1-ade7-81169e06cd6b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a48c13e2-850e-4307-aba2-83a196ab06c3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51f8a2fc-c74a-413e-b4c1-32ae822b0736/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5c279341-e911-4177-be35-ef583799c31c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f6e3b763-7c64-4cd7-a959-f163b9256ded&source=Website",
-    "available": "8/1/26"
-  },
-  {
     "id": 3269,
     "uuid": "818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5",
     "address": "2136 Shenfield Way, St. Cloud, FL 34771",
@@ -18427,6 +18380,53 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b9e15ec8-e966-41a0-a460-436401984bf9&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 3047,
+    "uuid": "d40dbe49-2f93-4fbd-8f7a-61e3996f0aa5",
+    "address": "1924 Lilybean Loop, Ocoee, FL 34761",
+    "street": "1924 Lilybean Loop",
+    "city": "Ocoee",
+    "rent": "$2,699",
+    "rent_val": 2699,
+    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1648,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ca8ee4e1-ca38-4d93-b2c9-822721deaf34/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d40dbe49-2f93-4fbd-8f7a-61e3996f0aa5",
+    "lat": 28.595402,
+    "lng": -81.540981,
+    "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
+    "description": "*TWELVE WEEKS FREE ON ALL WASHINGTON MODELS!! 12 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,699 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $2,699",
+      "Application Fee: $95",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/ca8ee4e1-ca38-4d93-b2c9-822721deaf34/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c411100b-8296-4076-96f7-6842b549618f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3c88f015-0e9c-4ace-a616-1ba2c26811c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/aa3b401c-5531-4641-9920-9839fbdbb501/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2f6550f7-497e-4311-b228-ec0b6882901a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/14a5e8ef-f8cc-4a47-a8cc-a23423bbf077/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c7eb813d-1736-442c-94cf-8c799428628c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8cd29c98-e3f5-4db1-9931-2177eb8074c6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/78fb7c38-42f3-438f-8eb6-35645c2e5ecd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7359401d-c116-41f1-ade7-81169e06cd6b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a48c13e2-850e-4307-aba2-83a196ab06c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51f8a2fc-c74a-413e-b4c1-32ae822b0736/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5c279341-e911-4177-be35-ef583799c31c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d40dbe49-2f93-4fbd-8f7a-61e3996f0aa5&source=Website",
     "available": "NOW"
   },
   {
