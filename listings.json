@@ -1,5 +1,166 @@
 [
   {
+    "id": 6245,
+    "uuid": "944decd6-0946-4fa7-861d-835b642d510f",
+    "address": "5840 Auvers Blvd #306, Orlando, FL 32807",
+    "street": "5840 Auvers Blvd #306",
+    "city": "Orlando",
+    "rent": "$1,815",
+    "rent_val": 1815,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/54a32d94-c3d3-4dce-95cf-9bb999fcb885/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/944decd6-0946-4fa7-861d-835b642d510f",
+    "lat": 28.5737063,
+    "lng": -81.304395,
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nHome Features:\r\n\r\n1,023 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\r\nSplit Floor Plan for Added Privacy\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nModern Kitchen & Open Living Space\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nHigh Speed Internet\r\nDog Park\r\n\r\nEnjoy the perfect balance of comfort, convenience, and community at The Avenue at Baldwin Park.\r\nTour The Anson today and discover your new home!\r\n#407-671-0200\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nCommunity Park\r\nCommunity Playground\r\nCommunity Lake\r\nIn Unit Washer and Dryer\r\nCarpet\r\nCommunity Swimming Pool\r\nHigh Speed Internet\r\nPrivate Patio\r\nCommunity Grill\r\nbasketball court\r\nCommunity Dog Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,815 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,536 \n\n\n Available 9/3/26",
+    "terms": [
+      "Rent: $1,815",
+      "Application Fee: $95",
+      "Security Deposit: $1,536",
+      "Available 9/3/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/54a32d94-c3d3-4dce-95cf-9bb999fcb885/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d4e55349-7e07-4bb8-a4f2-4bf9b277fc18/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2c49792c-d0ae-4219-adf0-340339aba94a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/497409e3-95f7-40fc-a310-be5a80194c39/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bba8b308-98ac-4975-aa41-e597324e878c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a063b873-9409-4aed-9188-2bec8b5ed186/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f54bee61-0f6b-4400-95fc-6d7f665e3d0a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cab43826-c6e0-4e9c-81fd-9fbc6ef87a67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/124e1105-5580-4825-bbb2-7f6af5e29a9e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b72d6bde-dba2-47d2-ad29-041747620cf4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/33a5ab98-e310-4422-bae8-62ec646fb9ca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=944decd6-0946-4fa7-861d-835b642d510f&source=Website",
+    "available": "9/3/26"
+  },
+  {
+    "id": 6243,
+    "uuid": "25075905-4722-486f-a867-a32b1cb154d9",
+    "address": "3440 N. Goldenrod Road Unit # 234, Winter Park, FL 32792",
+    "street": "3440 N. Goldenrod Road Unit # 234",
+    "city": "Winter Park",
+    "rent": "$1,412",
+    "rent_val": 1412,
+    "specs": "1 bd, 1 ba, 800 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 800,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/25075905-4722-486f-a867-a32b1cb154d9",
+    "lat": 28.5892965,
+    "lng": -81.2887011,
+    "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,412 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,383 \n\n\n Available 10/7/26",
+    "terms": [
+      "Rent: $1,412",
+      "Application Fee: $79",
+      "Security Deposit: $1,383",
+      "Available 10/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=25075905-4722-486f-a867-a32b1cb154d9&source=Website",
+    "available": "10/7/26"
+  },
+  {
+    "id": 6242,
+    "uuid": "a02af1e3-3221-41fe-a0f0-5202dedffa9f",
+    "address": "12 Sara Nicole Ln Unit # 12-205, Winter Springs, FL 32708",
+    "street": "12 Sara Nicole Ln Unit # 12-205",
+    "city": "Winter Springs",
+    "rent": "$1,496",
+    "rent_val": 1496,
+    "specs": "2 bd, 2 ba, 1,020 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1020,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a02af1e3-3221-41fe-a0f0-5202dedffa9f",
+    "lat": 28.7024286,
+    "lng": -81.322394,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,496 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,496 \n\n\n Available 10/23/26",
+    "terms": [
+      "Rent: $1,496",
+      "Application Fee: $79",
+      "Security Deposit: $1,496",
+      "Available 10/23/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d20908c2-563c-4ec1-be06-57f05e6a6128/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0e98723e-09be-451d-ad6e-15cc889789d8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2019993d-065c-47ee-a594-b3f44724c87e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a209439c-e1ee-4785-9c52-360f387206f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a43dc411-277a-4e95-aada-3dd7719c1e1f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/610d2599-760a-4561-8c71-b3776d10f21e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c8bbbe62-75e0-47fd-a36e-f03bfdca67f5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/699798f9-f881-4773-8967-9795d2e94385/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51413db8-8c3c-47d0-975a-9ba2302cb41b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/86392436-089d-4453-b561-97193d5865c1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0f2b6e3a-0b45-41be-8bc6-091b3e4fcef0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a02af1e3-3221-41fe-a0f0-5202dedffa9f&source=Website",
+    "available": "10/23/26"
+  },
+  {
+    "id": 6241,
+    "uuid": "3573dd6d-60b9-4025-919d-c539765cb04e",
+    "address": "1046 Green Cypress Loop, Davenport, FL 33896",
+    "street": "1046 Green Cypress Loop",
+    "city": "Davenport",
+    "rent": "$2,405",
+    "rent_val": 2405,
+    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1648,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8abb10cd-bdc5-4b87-8366-1d3138e5d36c/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3573dd6d-60b9-4025-919d-c539765cb04e",
+    "lat": 28.253593,
+    "lng": -81.6227633,
+    "title": "The Washington - 3 Bedroom with 2 Car Garage!",
+    "description": "Experience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,405 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 9/11/26",
+    "terms": [
+      "Rent: $2,405",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 9/11/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8abb10cd-bdc5-4b87-8366-1d3138e5d36c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3573dd6d-60b9-4025-919d-c539765cb04e&source=Website",
+    "available": "9/11/26"
+  },
+  {
     "id": 6240,
     "uuid": "944ab71d-2f39-434b-b88b-af7004f116dc",
     "address": "31 David&#39;s Ln Unit # 31-204, Winter Springs, FL 32708",
@@ -3702,37 +3863,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=71319bba-2d01-4dbf-bbe9-c7e587196ec0&source=Website",
     "available": "8/5/26"
-  },
-  {
-    "id": 6109,
-    "uuid": "8ab2641f-07a1-474c-bb98-0bff0a01bde4",
-    "address": "210 W Hyde Park Pl Unit 214-8, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 214-8",
-    "city": "Tampa",
-    "rent": "$1,399",
-    "rent_val": 1399,
-    "specs": "1 bd, 1 ba, 500 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 500,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8ab2641f-07a1-474c-bb98-0bff0a01bde4",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
-    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,399",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8ab2641f-07a1-474c-bb98-0bff0a01bde4&source=Website",
-    "available": "NOW"
   },
   {
     "id": 6107,
@@ -9685,50 +9815,6 @@
     "available": "8/1/26"
   },
   {
-    "id": 5767,
-    "uuid": "ed952f58-6050-403c-9f9c-c99bc73d0fa8",
-    "address": "5832 Auvers Blvd #201, Orlando, FL 32807",
-    "street": "5832 Auvers Blvd #201",
-    "city": "Orlando",
-    "rent": "$1,475",
-    "rent_val": 1475,
-    "specs": "2 bd, 2 ba, 1,030 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1030,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ed952f58-6050-403c-9f9c-c99bc73d0fa8",
-    "lat": 28.5743926,
-    "lng": -81.3051884,
-    "title": "Spacious 2-Bedroom Apartment in Baldwin Park \u2013 Pet Friendly!",
-    "description": "Welcome home to The Avenue at Baldwin Park, where comfort and convenience meet style! This beautiful 2-bedroom, 2-bathroom apartment features a split floor plan for added privacy, perfect for roommates or families. Enjoy the ease of having your washer and dryer in-unit, plus modern finishes throughout.\r\n\r\nStep outside and take advantage of the incredible community amenities \u2014 relax by the resort-style pool, shoot hoops on the basketball court, let the kids play at the playground, or spend quality time with your furry friends at the dog park.\r\n\r\nLocated in the desirable Baldwin Park area of Orlando, you\u2019ll be just minutes from shopping, dining, and entertainment, with easy access to major highways.\r\n\r\nHighlights:\r\n\r\n2 Bedrooms / 2 Bathrooms\r\nSplit Floor Plan\r\nHigh speed Internet\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nPool, Basketball Court, Playground & Dog Park\r\n\r\nDon\u2019t miss your chance to call this stunning apartment home \u2014 schedule your tour today (407) 917-7786!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\ncommunity pool\r\nCommunity Dog Park\r\n1st Floor\r\nWasherDryer\r\nBlack Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,475 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/1/26",
-    "terms": [
-      "Rent: $1,475",
-      "Application Fee: $95",
-      "Available 9/1/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/05e74dec-8639-463b-a341-e1dfca339902/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/539fe314-e09a-43f1-ba1f-eaa2c370a6d0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d708842c-d604-4b90-a864-91e6a69801a0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/85dfc10c-809a-4796-9b33-87cd563c0895/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/88a85442-c30d-4665-8549-5409acc99bdb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c541ce2a-442f-40c6-858a-fef8c047c144/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/484d1796-50f3-480c-ab35-7e3d17d3ec58/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81352627-93b0-48e2-b1de-d10e03ffff88/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b933e6a9-91f3-47e1-8c81-f283a261e883/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a6754711-36ca-415f-b175-36c6e65faa80/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ed952f58-6050-403c-9f9c-c99bc73d0fa8&source=Website",
-    "available": "9/1/26"
-  },
-  {
     "id": 5766,
     "uuid": "9d2a4d0a-49c4-413b-afbe-b2041a284a25",
     "address": "3440 N. Goldenrod Road Unit # 1331, Winter Park, FL 32792",
@@ -14948,8 +15034,8 @@
     "address": "3113 W. Marshall Street #219, Richmond, VA 23230",
     "street": "3113 W. Marshall Street #219",
     "city": "Richmond",
-    "rent": "$1,500",
-    "rent_val": 1500,
+    "rent": "$1,499",
+    "rent_val": 1499,
     "specs": "1 bd, 1 ba, 597 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -16345,8 +16431,8 @@
     "address": "5020 Hutton Drive, St. Cloud, FL 34771",
     "street": "5020 Hutton Drive",
     "city": "St. Cloud",
-    "rent": "$2,750",
-    "rent_val": 2750,
+    "rent": "$2,200",
+    "rent_val": 2200,
     "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
     "beds": 4.0,
     "baths": 2.5,
@@ -16713,41 +16799,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=900e99d2-3ab7-4bc3-8e99-8c9e6ead1268&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 3554,
-    "uuid": "a81cbe5e-dd8f-49dc-81b1-ec44189bd712",
-    "address": "1018 Green Cypress Loop, Davenport, FL 33896",
-    "street": "1018 Green Cypress Loop",
-    "city": "Davenport",
-    "rent": "$2,361",
-    "rent_val": 2361,
-    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.5,
-    "sqft": 1704,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a81cbe5e-dd8f-49dc-81b1-ec44189bd712",
-    "lat": 28.253904,
-    "lng": -81.622363,
-    "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
-    "description": "Experience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,361 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,361",
-      "Application Fee: $95",
-      "Security Deposit: $600",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a81cbe5e-dd8f-49dc-81b1-ec44189bd712&source=Website",
     "available": "NOW"
   },
   {
@@ -17617,8 +17668,8 @@
     "address": "3113 W. Marshall Street #513, Richmond, VA 23230",
     "street": "3113 W. Marshall Street #513",
     "city": "Richmond",
-    "rent": "$1,675",
-    "rent_val": 1675,
+    "rent": "$1,599",
+    "rent_val": 1599,
     "specs": "1 bd, 1 ba, 727 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -18067,6 +18118,41 @@
     "available": "8/10/26"
   },
   {
+    "id": 3194,
+    "uuid": "d8c80c5a-277b-41d0-8a69-e8ad1c00a5d3",
+    "address": "1117 Green Cypress Loop, Davenport, FL 33896",
+    "street": "1117 Green Cypress Loop",
+    "city": "Davenport",
+    "rent": "$2,545",
+    "rent_val": 2545,
+    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
+    "beds": 4.0,
+    "baths": 2.5,
+    "sqft": 1704,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d8c80c5a-277b-41d0-8a69-e8ad1c00a5d3",
+    "lat": 28.254444,
+    "lng": -81.623019,
+    "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
+    "description": "Experience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,545 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/14/26",
+    "terms": [
+      "Rent: $2,545",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 8/14/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d8c80c5a-277b-41d0-8a69-e8ad1c00a5d3&source=Website",
+    "available": "8/14/26"
+  },
+  {
     "id": 3189,
     "uuid": "cefe7318-4e31-426f-be39-99a4a810fb6e",
     "address": "3281 Overstreet East #223, Kissimmee, FL 34747",
@@ -18243,8 +18329,8 @@
     "address": "947 Valencia Isle Dr., Orlando, FL 32825",
     "street": "947 Valencia Isle Dr.",
     "city": "Orlando",
-    "rent": "$2,727",
-    "rent_val": 2727,
+    "rent": "$2,608",
+    "rent_val": 2608,
     "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
@@ -18594,45 +18680,39 @@
     "available": "9/11/26"
   },
   {
-    "id": 3016,
-    "uuid": "9aa98488-1809-43f7-99b9-8c0833dfd2ef",
-    "address": "2192 Shenfield Way, St. Cloud, FL 34771",
-    "street": "2192 Shenfield Way",
-    "city": "St. Cloud",
-    "rent": "$2,700",
-    "rent_val": 2700,
-    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
-    "beds": 3.0,
+    "id": 2995,
+    "uuid": "32b4c632-c392-4d33-ad81-4e6dfd98e80c",
+    "address": "1070 Green Cypress Loop, Davenport, FL 33896",
+    "street": "1070 Green Cypress Loop",
+    "city": "Davenport",
+    "rent": "$2,575",
+    "rent_val": 2575,
+    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
+    "beds": 4.0,
     "baths": 2.5,
-    "sqft": 1648,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/387cd34d-c1b7-46b9-8e92-3ce77027da26/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9aa98488-1809-43f7-99b9-8c0833dfd2ef",
-    "lat": 28.314396,
-    "lng": -81.240611,
-    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
+    "sqft": 1704,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/32b4c632-c392-4d33-ad81-4e6dfd98e80c",
+    "lat": 28.253627,
+    "lng": -81.623389,
+    "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
+    "description": "Experience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,575 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 10/10/26",
     "terms": [
-      "Rent: $2,700",
+      "Rent: $2,575",
       "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/31/26"
+      "Security Deposit: $600",
+      "Available 10/10/26"
     ],
     "pets": [
       "Cats allowed",
       "Dogs allowed"
     ],
     "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/387cd34d-c1b7-46b9-8e92-3ce77027da26/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ff3154ee-48da-470e-b187-ce3b1d630efb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/599ab76c-b80a-4977-994e-392a252896f8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f7f9b371-f9db-4dbf-865c-b3f90ffa27b8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d2443090-70c4-4811-883f-faf669192e62/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ad8eff6-97e3-4a7f-a8eb-dd139c335380/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d9f48813-0a71-4a61-8eba-fe46a6f70784/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9aa98488-1809-43f7-99b9-8c0833dfd2ef&source=Website",
-    "available": "8/31/26"
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=32b4c632-c392-4d33-ad81-4e6dfd98e80c&source=Website",
+    "available": "10/10/26"
   },
   {
     "id": 2979,
@@ -21488,8 +21568,8 @@
     "address": "5520 Lake Underhill Rd Unit #305, Orlando, FL 32807",
     "street": "5520 Lake Underhill Rd Unit #305",
     "city": "Orlando",
-    "rent": "$1,750",
-    "rent_val": 1750,
+    "rent": "$1,695",
+    "rent_val": 1695,
     "specs": "3 bd, 2 ba, 1,050 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.0,
@@ -22755,49 +22835,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=879c78d0-c04d-4f97-8961-c357b99485cf&source=Website",
     "available": "8/10/26"
-  },
-  {
-    "id": 625,
-    "uuid": "c485eda5-302e-4c3a-9f35-f4b9b27133e1",
-    "address": "112 Cory Lane, Winter Springs, FL 32708",
-    "street": "112 Cory Lane",
-    "city": "Winter Springs",
-    "rent": "$1,395",
-    "rent_val": 1395,
-    "specs": "2 bd, 2 ba, 938 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 938,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0f230ba4-8065-4f27-a6b0-62f00076d3c7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c485eda5-302e-4c3a-9f35-f4b9b27133e1",
-    "lat": 28.7027193,
-    "lng": -81.3040052,
-    "title": "Bright 2BR/2BA Apartment Near Winter Springs Town Center \u2013 Available July 10th!",
-    "description": "Welcome to 112 Cory Lane, a bright and spacious 2-bedroom, 2-bathroom apartment that perfectly balances comfort and convenience. Step inside to find an open-concept living and dining area, designed for seamless entertaining and a relaxed Florida lifestyle. Both bedrooms are generously sized with ample closet space, providing a quiet retreat at the end of the day.\r\n\r\nAvailability Note: Current residents vacate June 30th. The property will be fully turned, refreshed, and available for move-in on July 10th! (Note: Photos and layout are of a neighboring mirror unit. Finishes are identical).\r\n\r\nProperty Highlights:\r\n\r\nPrime Location: Just a 7-minute walk to the Winter Springs Town Center, featuring Publix, local dining favorites like Huey Magoo's, and various boutiques.\r\n\r\nOutdoor Recreation: Minutes from Central Winds Park and the Cross Seminole Trail, perfect for jogging, biking, or enjoying a weekend picnic.\r\n\r\nCommuter Friendly: Easy access to major roadways for a smooth commute to Orlando or nearby Seminole State College.\r\n\r\nHighly-Rated Schools:\r\nLocated within the prestigious Seminole County School District, this home is zoned for:\r\n\r\nLayer Elementary School (9/10 GreatSchools Rating)\r\n\r\nIndian Trails Middle School\r\n\r\nWinter Springs High School\r\n\r\nLease Details & Apply:\r\n\r\nAvailability: July 10th\r\n\r\nPets: Negotiable with owner approval.\r\n\r\n\r\nAdditional monthly charges include:\r\n$15 for filter fee\r\n$15.50 for renters insurance\r\n$60 for internet (1 gig down)\r\n\r\nRESIDENT INTERNET PACKAGE: \r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\n\r\n\r\nManagement: Professionally managed by Atrium Management.\r\n\r\nShowings: Please call 407-585-2721 to schedule your private tour!\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,395 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,395",
-      "Application Fee: $95",
-      "Security Deposit: $1,395",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f230ba4-8065-4f27-a6b0-62f00076d3c7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/457f2d62-5a5f-4ab8-92d1-1df575df61c8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/443b5f08-9d29-43a4-992c-fc7f61dd3328/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/421e0ab3-72c8-43d5-b9b1-1b752b4b4379/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/361e9482-29d9-4f0c-be06-1f3cd6725cb0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2c2a3264-ced4-4bed-a775-8f1589e036a0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f188229-819a-42f6-8a05-b6220e3c69dd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8423aaaf-8182-484f-b87c-d2ebb87bbc4a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/33053879-5412-4171-a278-3b8fa5a0ce7c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c485eda5-302e-4c3a-9f35-f4b9b27133e1&source=Website",
-    "available": "NOW"
   },
   {
     "id": 615,
