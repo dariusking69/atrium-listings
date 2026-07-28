@@ -6450,52 +6450,6 @@
     "available": "NOW"
   },
   {
-    "id": 5950,
-    "uuid": "626a51ce-7ac5-419c-8d15-227c3b084ba6",
-    "address": "14 Cherry Laurel Ct Unit # 14-204, Winter Springs, FL 32708",
-    "street": "14 Cherry Laurel Ct Unit # 14-204",
-    "city": "Winter Springs",
-    "rent": "$1,264",
-    "rent_val": 1264,
-    "specs": "1 bd, 1 ba, 788 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 788,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2c424fa5-17fa-4f6b-bf6c-bfc4bc8594d1/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/626a51ce-7ac5-419c-8d15-227c3b084ba6",
-    "lat": 28.7018817,
-    "lng": -81.3224444,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,264 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,264 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,264",
-      "Application Fee: $79",
-      "Security Deposit: $1,264",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2c424fa5-17fa-4f6b-bf6c-bfc4bc8594d1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d665aa1b-b269-40e6-af9e-e565ac9a3bc9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/eef3298a-46a1-48c1-9a32-44b9b8dc2913/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e26d88ab-bd98-4dbc-9ca5-3c2862c45790/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/02ede866-46b7-473d-9a3a-f648a6ffa5c2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8c2b68cd-fed9-4773-8040-aaa58a98df0a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/06d8c0c6-53eb-4cd8-963a-c303ae2eb56f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d63c593c-07b8-4f70-ba40-4df7b2d2e1cd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4dfa118c-7d47-4e40-8cd4-4087d438282b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/44433d26-dfc9-4e63-a85a-c277b2b02fe6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/71e1ff77-f0ce-4ec4-8141-e28817133643/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/19a514a4-841e-4150-9b8f-5c9999119b95/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=626a51ce-7ac5-419c-8d15-227c3b084ba6&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5949,
     "uuid": "1d91db04-da3d-45af-aca7-0ec2ad7a209d",
     "address": "5916 Auvers Blvd #204, Orlando, FL 32807",
