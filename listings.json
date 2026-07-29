@@ -1,5 +1,42 @@
 [
   {
+    "id": 6250,
+    "uuid": "d1567e9c-4dc9-4ec6-a642-0f132dca5d3c",
+    "address": "1540 Neo Landings Loop, Unit 102, Kissimmee, FL 34744",
+    "street": "1540 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,299",
+    "rent_val": 2299,
+    "specs": "2 bd, 2 ba, 1,309 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1309,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d1567e9c-4dc9-4ec6-a642-0f132dca5d3c",
+    "lat": 28.3064464,
+    "lng": -81.3869467,
+    "title": "Aston Square- Spacious 2 Bedroom apartment with a Den",
+    "description": "This contemporary apartment boasts elegant vinyl plank flooring, sleek stainless steel appliances, and sophisticated quartz countertops.\r\n\r\nIndulge in resort-style amenities, including a sparkling pool, a 24/7 state-of-the-art fitness center, and an exclusive top-floor media lounge with a rooftop deck.\r\n\r\nDesigned for both comfort and functionality, the custom walk-in closets offer generous storage, while the screened-in patio provides a serene outdoor retreat.\r\n\r\nEnhance your productivity in the modern co-working space and business lounge, featuring private work pods. Additional conveniences such as electric vehicle charging stations, secure package lockers, and oversized storage units ensure a seamless living experience.\r\n\r\nDiscover the pinnacle of luxury living in this exceptional apartment.\r\n\r\nWe look forward to welcoming you\u2014contact us today to join our tour waitlist!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,299 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $2,299",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bc4d3599-c825-4d29-b916-1c75696f8fbe/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ad282c78-a46c-48aa-86d8-c94e1919f8e7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d1567e9c-4dc9-4ec6-a642-0f132dca5d3c&source=Website",
+    "available": "10/10/26"
+  },
+  {
     "id": 6249,
     "uuid": "08ce0509-cbff-45eb-bdf5-8dbc1454de1f",
     "address": "1944 Marigold Park Drive, Ocoee, FL 34761",
@@ -407,8 +444,8 @@
     "address": "3440 N. Goldenrod Road Unit # 531, Winter Park, FL 32792",
     "street": "3440 N. Goldenrod Road Unit # 531",
     "city": "Winter Park",
-    "rent": "$1,798",
-    "rent_val": 1798,
+    "rent": "$1,698",
+    "rent_val": 1698,
     "specs": "2 bd, 2 ba, 950 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -418,9 +455,9 @@
     "lat": 28.5892965,
     "lng": -81.2887011,
     "title": "*Renovated* 2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,798 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,595 \n\n\n Available 10/23/26",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,698 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,595 \n\n\n Available 10/23/26",
     "terms": [
-      "Rent: $1,798",
+      "Rent: $1,698",
       "Application Fee: $79",
       "Security Deposit: $1,595",
       "Available 10/23/26"
@@ -4246,8 +4283,8 @@
     "address": "9137 Grand Island Way, Winter Garden, FL 34787",
     "street": "9137 Grand Island Way",
     "city": "Winter Garden",
-    "rent": "$3,000",
-    "rent_val": 3000,
+    "rent": "$2,900",
+    "rent_val": 2900,
     "specs": "3 bd, 2.5 ba, 1,850 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
@@ -4257,11 +4294,11 @@
     "lat": 28.4269245,
     "lng": -81.6171302,
     "title": "3-bedroom 2-bath home in the heart of Winter Garden AVAILABLE NOW!!",
-    "description": "Welcome home to this beautifully maintained 3-bedroom, 2.5-bath residence in the highly desirable Winter Garden area. Designed with both comfort and functionality in mind, this home features a bright, open-concept layout that seamlessly connects the living, dining, and kitchen spaces\u2014perfect for everyday living and entertaining.\r\n\r\nUpstairs, you'll find a versatile loft/den that can easily serve as a home office, media room, playroom, or additional living space to fit your lifestyle. The spacious primary suite offers a private retreat with an en-suite bath, while two additional bedrooms provide plenty of room for family or guests.\r\n\r\nEnjoy the convenience of a 2-car garage, electric car charger, ample storage, and a thoughtfully designed floor plan that maximizes space throughout. Located just minutes from shopping, dining, parks, top-rated schools, and all that Winter Garden has to offer, this home combines modern comfort with an unbeatable location.\r\n\r\nAdditional Monthly Fees - $15.50 renter's insurance, $15.00 monthly filter program, $60 high speed internet. \r\n\r\nFur babies welcome per owner approval. Breed restrictions may apply. \r\n\r\nCall Atrium Management today to schedule your tour!! 407-585-2721\r\n\r\nDon't miss the opportunity to make this exceptional property your next home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $3,000 \n\n\n Available Now",
+    "description": "Welcome home to this beautifully maintained 3-bedroom, 2.5-bath residence in the highly desirable Winter Garden area. Designed with both comfort and functionality in mind, this home features a bright, open-concept layout that seamlessly connects the living, dining, and kitchen spaces\u2014perfect for everyday living and entertaining.\r\n\r\nUpstairs, you'll find a versatile loft/den that can easily serve as a home office, media room, playroom, or additional living space to fit your lifestyle. The spacious primary suite offers a private retreat with an en-suite bath, while two additional bedrooms provide plenty of room for family or guests.\r\n\r\nEnjoy the convenience of a 2-car garage, electric car charger, ample storage, and a thoughtfully designed floor plan that maximizes space throughout. Located just minutes from shopping, dining, parks, top-rated schools, and all that Winter Garden has to offer, this home combines modern comfort with an unbeatable location.\r\n\r\nAdditional Monthly Fees - $15.50 renter's insurance, $15.00 monthly filter program, $60 high speed internet. \r\n\r\nFur babies welcome per owner approval. Breed restrictions may apply. \r\n\r\nCall Atrium Management today to schedule your tour!! 407-585-2721\r\n\r\nDon't miss the opportunity to make this exceptional property your next home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,900 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,900 \n\n\n Available Now",
     "terms": [
-      "Rent: $3,000",
+      "Rent: $2,900",
       "Application Fee: $95",
-      "Security Deposit: $3,000",
+      "Security Deposit: $2,900",
       "Available Now"
     ],
     "pets": [
@@ -4489,8 +4526,8 @@
     "address": "3440 N. Goldenrod Road Unit # 936, Winter Park, FL 32792",
     "street": "3440 N. Goldenrod Road Unit # 936",
     "city": "Winter Park",
-    "rent": "$1,800",
-    "rent_val": 1800,
+    "rent": "$1,595",
+    "rent_val": 1595,
     "specs": "2 bd, 2 ba, 950 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -4500,9 +4537,9 @@
     "lat": 28.5892965,
     "lng": -81.2887011,
     "title": "*Upgraded* 2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,800 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,595 \n\n\n Available 9/9/26",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,595 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,595 \n\n\n Available 9/9/26",
     "terms": [
-      "Rent: $1,800",
+      "Rent: $1,595",
       "Application Fee: $79",
       "Security Deposit: $1,595",
       "Available 9/9/26"
@@ -6129,8 +6166,8 @@
     "address": "3440 N. Goldenrod Road Unit # 1423, Winter Park, FL 32792",
     "street": "3440 N. Goldenrod Road Unit # 1423",
     "city": "Winter Park",
-    "rent": "$2,205",
-    "rent_val": 2205,
+    "rent": "$2,055",
+    "rent_val": 2055,
     "specs": "3 bd, 2 ba, 1,200 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.0,
@@ -6140,9 +6177,9 @@
     "lat": 28.5892965,
     "lng": -81.2887011,
     "title": "*Renovated* 3 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,205 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,982 \n\n\n Available 8/7/26",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,055 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,982 \n\n\n Available 8/7/26",
     "terms": [
-      "Rent: $2,205",
+      "Rent: $2,055",
       "Application Fee: $79",
       "Security Deposit: $1,982",
       "Available 8/7/26"
@@ -7710,11 +7747,11 @@
     "lat": 28.5737063,
     "lng": -81.304395,
     "title": "The Union \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,163 sq.ft.",
-    "description": "Discover elevated living with The Union floor plan at The Avenue at Baldwin Park. Offering 1,163 sq.ft. of thoughtfully designed space, this home combines comfort, functionality, and modern style.\r\n\r\nThe open-concept layout features a generous living and dining area that seamlessly connects to a fully equipped kitchen, perfect for entertaining or relaxing at home. Each of the two bedrooms includes a private bathroom and ample closet space, providing the perfect blend of privacy and convenience.\r\n\r\nEnjoy the added luxury of having a washer and dryer in-unit, along with premium community amenities \u2014 including a resort-style pool, basketball court, dog park, and playground.\r\n\r\nHome Features:\r\n1,163 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\r\nOpen-Concept Living & Dining Area\r\nWasher & Dryer in Unit\r\nSpacious Bedrooms with Private Baths\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nExperience comfort, space, and style all in one \u2014 The Union at The Avenue of Baldwin Park is ready to welcome you home.\r\nSchedule your tour today 407-671-0200\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nCommunity Clubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nPet Friendly\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/12/26",
+    "description": "Discover elevated living with The Union floor plan at The Avenue at Baldwin Park. Offering 1,163 sq.ft. of thoughtfully designed space, this home combines comfort, functionality, and modern style.\r\n\r\nThe open-concept layout features a generous living and dining area that seamlessly connects to a fully equipped kitchen, perfect for entertaining or relaxing at home. Each of the two bedrooms includes a private bathroom and ample closet space, providing the perfect blend of privacy and convenience.\r\n\r\nEnjoy the added luxury of having a washer and dryer in-unit, along with premium community amenities \u2014 including a resort-style pool, basketball court, dog park, and playground.\r\n\r\nHome Features:\r\n1,163 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\r\nOpen-Concept Living & Dining Area\r\nWasher & Dryer in Unit\r\nSpacious Bedrooms with Private Baths\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nExperience comfort, space, and style all in one \u2014 The Union at The Avenue of Baldwin Park is ready to welcome you home.\r\nSchedule your tour today 407-671-0200\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nCommunity Clubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nPet Friendly\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/14/26",
     "terms": [
       "Rent: $1,599",
       "Application Fee: $95",
-      "Available 9/12/26"
+      "Available 9/14/26"
     ],
     "pets": [
       "Cats allowed",
@@ -7735,7 +7772,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5effb75d-71eb-45db-a3c6-3afe40943c44&source=Website",
-    "available": "9/12/26"
+    "available": "9/14/26"
   },
   {
     "id": 5852,
@@ -11026,6 +11063,52 @@
     "available": "NOW"
   },
   {
+    "id": 5595,
+    "uuid": "c2cd4481-7038-4c5b-9012-72a352be7793",
+    "address": "16 Parkinsonia Ct Unit # 16-103, Winter Springs, FL 32708",
+    "street": "16 Parkinsonia Ct Unit # 16-103",
+    "city": "Winter Springs",
+    "rent": "$1,180 - $1,264",
+    "rent_val": 1180,
+    "specs": "1 bd, 1 ba, 764 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 764,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fa3d653d-db75-48e4-8a16-9b80346d7d5a/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c2cd4481-7038-4c5b-9012-72a352be7793",
+    "lat": 28.7012827,
+    "lng": -81.3225966,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,180 - $1,264 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,316 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,180 - $1,264",
+      "Application Fee: $79",
+      "Security Deposit: $1,316",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/fa3d653d-db75-48e4-8a16-9b80346d7d5a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/80665d4d-4820-4a77-83b7-636155d66c2c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4d4f009e-5543-41fa-b077-cf6b233fbb47/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/27cb0309-4d8b-49f2-8422-af0bc73eec1e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/354bf4a2-d206-4be3-829f-e4ed51c23036/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2c4fb765-89aa-40d9-b916-ce6abcfbf503/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8f597848-ba08-4cd9-8a71-1b9308a20b0e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fde3ca21-a8f0-4fe4-bebf-bf7a4ce98933/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3b87184a-c2d1-4c06-94af-5360f5044afb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7682b84f-c9bd-4239-9c56-4386b9ce52b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/72f95548-f1d4-47c7-aff5-efc377503adf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/397acb05-63b3-4be9-a09a-1ca2e87a5366/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c2cd4481-7038-4c5b-9012-72a352be7793&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5581,
     "uuid": "366752c1-b552-4963-a37f-f506c32225f9",
     "address": "500 Maury St Unit 411, Richmond, VA 23224",
@@ -11213,6 +11296,41 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4f565a6e-e2a1-435e-8b6f-65f890ddfc07&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5547,
+    "uuid": "32461ed2-b323-44a2-8af2-7d0ae996ebc0",
+    "address": "1363 W. Broad Street, # 222, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,694",
+    "rent_val": 1694,
+    "specs": "2 bd, 2 ba, 768 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 768,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/32461ed2-b323-44a2-8af2-7d0ae996ebc0",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "B4.1",
+    "description": "Rental Terms \n \n Rent: $1,694 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,694",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4fab4361-a14d-43de-aef4-93fba7306b9e/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=32461ed2-b323-44a2-8af2-7d0ae996ebc0&source=Website",
     "available": "NOW"
   },
   {
@@ -11849,6 +11967,52 @@
     "available": "8/15/26"
   },
   {
+    "id": 5436,
+    "uuid": "ab8a30da-47e6-4c7c-b236-a45fe8933dd8",
+    "address": "16 Parkinsonia Ct Unit # 16-208, Winter Springs, FL 32708",
+    "street": "16 Parkinsonia Ct Unit # 16-208",
+    "city": "Winter Springs",
+    "rent": "$1,137 - $1,220",
+    "rent_val": 1137,
+    "specs": "1 bd, 1 ba, 764 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 764,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fa3d653d-db75-48e4-8a16-9b80346d7d5a/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ab8a30da-47e6-4c7c-b236-a45fe8933dd8",
+    "lat": 28.7012827,
+    "lng": -81.3225966,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,137 - $1,220 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,316 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,137 - $1,220",
+      "Application Fee: $79",
+      "Security Deposit: $1,316",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/fa3d653d-db75-48e4-8a16-9b80346d7d5a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/80665d4d-4820-4a77-83b7-636155d66c2c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4d4f009e-5543-41fa-b077-cf6b233fbb47/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/27cb0309-4d8b-49f2-8422-af0bc73eec1e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/354bf4a2-d206-4be3-829f-e4ed51c23036/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2c4fb765-89aa-40d9-b916-ce6abcfbf503/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8f597848-ba08-4cd9-8a71-1b9308a20b0e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fde3ca21-a8f0-4fe4-bebf-bf7a4ce98933/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3b87184a-c2d1-4c06-94af-5360f5044afb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7682b84f-c9bd-4239-9c56-4386b9ce52b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/72f95548-f1d4-47c7-aff5-efc377503adf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/397acb05-63b3-4be9-a09a-1ca2e87a5366/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ab8a30da-47e6-4c7c-b236-a45fe8933dd8&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5399,
     "uuid": "393deeb5-1a8c-4978-b6a4-b2d81958d08f",
     "address": "500 Maury St Unit 304, Richmond, VA 23224",
@@ -12076,55 +12240,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d3add8b9-743c-4cb5-9f5e-7ee28f73e94f&source=Website",
     "available": "8/10/26"
-  },
-  {
-    "id": 5304,
-    "uuid": "6d1c252b-964c-49e4-b64a-a339a56bba67",
-    "address": "2401 Arlington Blvd #58, Charlottesville, VA 22903",
-    "street": "2401 Arlington Blvd #58",
-    "city": "Charlottesville",
-    "rent": "$1,995",
-    "rent_val": 1995,
-    "specs": "2 bd, 1 ba, 925 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 925,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0aa8221f-22bf-47ec-97b8-cc08f4c5a307/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6d1c252b-964c-49e4-b64a-a339a56bba67",
-    "lat": 38.0507285,
-    "lng": -78.507156,
-    "title": "Spacious 2-Bedroom Apartments in Charlottesville: Walk to UVA Law & Barracks Road",
-    "description": "Our two-bedroom apartments at The Jeffersonian deliver the perfect balance of space, comfort, and ultimate convenience in Charlottesville, VA. Designed with graduate students, roommates, and working professionals in mind, this thoughtfully designed floor plan is located within a short walking distance to the UVA School of Law, Darden, and premier local shopping.\r\n\r\nInside Your 2-Bedroom Home\r\nEach two-bedroom apartment is optimized for comfortable, everyday living, offering a layout that maximizes both privacy and shared spaces:\r\n\r\nBright, Open Living Areas: Generous natural light and a spacious central layout ideal for studying, working from home, or entertaining guests.\r\n\r\nFully Equipped Kitchens: Functional kitchens featuring modern appliances and plenty of cabinet space for meal prep.\r\n\r\nPrivate Patio or Balcony: Your own personal outdoor retreat to seamlessly extend your living space.\r\n\r\nAccess to Community Perks: Enjoy the convenience of our on-site laundry facilities and unbeatable pedestrian access directly to Barracks Road Shopping Center.\r\n\r\nReady to secure your two-bedroom apartment? View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n Admin Fee: $250 \n\n Application Fee: $60 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,995",
-      "Admin Fee: $250",
-      "Application Fee: $60",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0aa8221f-22bf-47ec-97b8-cc08f4c5a307/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/db474ac2-9bee-4f8f-805b-5660efba18ac/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f4557268-a999-4788-af82-1c03ed55760a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ddcfa10-3363-4a98-999e-3c2df39ec978/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0c3bbce8-7142-4706-926c-0ff9a1839248/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d7f5fb09-4379-4f62-89e5-702bb960f385/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/74ee5a66-fff6-4dbb-9b57-b703797a7ee0/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c90100f6-3018-4941-aa69-db97bbf92e8b/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cfc4ca6e-3c79-4248-9613-bb5f9c5157e3/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9bee71df-86e3-456d-8a9b-588a5fdaa5d3/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/acf987c7-d476-4f32-93d1-1945f5eed12c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e7b0cac9-1903-4fe8-bf00-470b4a268f0e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b5e1b2c9-c94a-4ef0-88ef-f2b036b8bd57/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2105f56f-a9c6-4ae2-8fd4-4ecae2c1994c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6d1c252b-964c-49e4-b64a-a339a56bba67&source=Website",
-    "available": "NOW"
   },
   {
     "id": 5301,
@@ -13420,52 +13535,6 @@
     "available": "NOW"
   },
   {
-    "id": 4890,
-    "uuid": "416bd8b8-1424-4d2c-8a51-d53f49d98dc9",
-    "address": "27 Golf Terrace Dr Unit # 27-210, Winter Springs, FL 32708",
-    "street": "27 Golf Terrace Dr Unit # 27-210",
-    "city": "Winter Springs",
-    "rent": "$1,199",
-    "rent_val": 1199,
-    "specs": "1 bd, 1 ba, 733 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 733,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/416bd8b8-1424-4d2c-8a51-d53f49d98dc9",
-    "lat": 28.7031476,
-    "lng": -81.3229124,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,396 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,199",
-      "Application Fee: $79",
-      "Security Deposit: $1,396",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c3e0ad68-0c1b-47f8-bc8a-87a0569b4ef5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e484747-ad17-4c72-8841-054411c2436c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2e342813-3453-4ad8-8268-b463bd772624/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51d820e4-e473-4aeb-8370-9876464c9b48/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1cc533fc-3b18-4953-a758-7668cff03d1b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/913e23c2-fa92-4e29-98d6-d2c99d80d02f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8ef6561-aa4b-4860-8e4e-8abc46f08a09/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81ddd919-68b1-4f1e-855a-b45b60be2f2e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/13bcb5e7-5e16-4768-a7b7-32be412f8341/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d559668d-5eee-461d-9093-14233332cc71/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/70d1c316-d388-4f25-a330-05f9660188e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=416bd8b8-1424-4d2c-8a51-d53f49d98dc9&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 4878,
     "uuid": "e1206b8d-5631-464d-82e5-cf324a053035",
     "address": "23 Andrea Dr Unit # 23-306, Winter Springs, FL 32708",
@@ -14252,6 +14321,51 @@
     "available": "NOW"
   },
   {
+    "id": 4435,
+    "uuid": "e940942f-efaf-4681-bc75-27efbc5cedbc",
+    "address": "10 Photina Ct Unit # 10-208, Winter Springs, FL 32708",
+    "street": "10 Photina Ct Unit # 10-208",
+    "city": "Winter Springs",
+    "rent": "$1,119 - $1,192",
+    "rent_val": 1119,
+    "specs": "1 bd, 1 ba, 788 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 788,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2c424fa5-17fa-4f6b-bf6c-bfc4bc8594d1/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e940942f-efaf-4681-bc75-27efbc5cedbc",
+    "lat": 28.7024594,
+    "lng": -81.322047,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,119 - $1,192 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,264",
+    "terms": [
+      "Rent: $1,119 - $1,192",
+      "Application Fee: $79",
+      "Security Deposit: $1,264"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2c424fa5-17fa-4f6b-bf6c-bfc4bc8594d1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d665aa1b-b269-40e6-af9e-e565ac9a3bc9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eef3298a-46a1-48c1-9a32-44b9b8dc2913/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e26d88ab-bd98-4dbc-9ca5-3c2862c45790/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/02ede866-46b7-473d-9a3a-f648a6ffa5c2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8c2b68cd-fed9-4773-8040-aaa58a98df0a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/06d8c0c6-53eb-4cd8-963a-c303ae2eb56f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d63c593c-07b8-4f70-ba40-4df7b2d2e1cd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4dfa118c-7d47-4e40-8cd4-4087d438282b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/44433d26-dfc9-4e63-a85a-c277b2b02fe6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/71e1ff77-f0ce-4ec4-8141-e28817133643/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/19a514a4-841e-4150-9b8f-5c9999119b95/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e940942f-efaf-4681-bc75-27efbc5cedbc&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 4418,
     "uuid": "757e2d86-0ec1-47c4-bfc9-b21e29e03bcc",
     "address": "3113 W. Marshall Street #219, Richmond, VA 23230",
@@ -14541,8 +14655,8 @@
     "address": "3440 N. Goldenrod Road Unit # 1016, Winter Park, FL 32792",
     "street": "3440 N. Goldenrod Road Unit # 1016",
     "city": "Winter Park",
-    "rent": "$1,889 - $1,993",
-    "rent_val": 1889,
+    "rent": "$1,939 - $2,043",
+    "rent_val": 1939,
     "specs": "3 bd, 2 ba, 1,200 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.0,
@@ -14552,9 +14666,9 @@
     "lat": 28.5892965,
     "lng": -81.2887011,
     "title": "3 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,889 - $1,993 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $2,000 \n\n\n Available 8/10/26",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,939 - $2,043 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $2,000 \n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $1,889 - $1,993",
+      "Rent: $1,939 - $2,043",
       "Application Fee: $79",
       "Security Deposit: $2,000",
       "Available 8/10/26"
@@ -19069,7 +19183,7 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1c12a63e-dff7-4c92-b302-7038ae6a77e7",
     "lat": 29.7066258,
     "lng": -82.3554654,
-    "title": "Charming 2 Bedroom, 1 Bath Apartment - Newly Renovated! $500.00 Giff card Immediately move in \"",
+    "title": "Charming 2 Bedroom, 1 Bath Apartment - Newly Renovated!",
     "description": "Beautifully Renovated 2 Bedroom, 1 Bathroom Apartment \u2013 Move-In Ready!\r\n\r\nWelcome to your new home! This beautifully renovated 2-bedroom, 1-bathroom apartment offers modern finishes and comfortable living in a stylish space.\r\n\r\nApartment Features:\r\n\r\nLuxury vinyl plank flooring throughout\r\nFreshly painted interior\r\nBrand-new quartz countertops\r\nNew bathroom vanity and updated light fixtures\r\nStainless steel kitchen appliances, including:\r\nRefrigerator\r\nRange\r\nDishwasher\r\nWasher and dryer hookups\r\nCentral air conditioning and heating\r\nLinen closet for extra storage\r\nPrivate patio\r\n\r\nThis thoughtfully updated home combines style, comfort, and functionality\u2014perfect for modern living.\r\n\r\nRental Requirements:\r\n\r\nMinimum 600 credit score\r\nMonthly income must be at least 3 times the rent\r\nNo prior evictions\r\n\r\nFees:\r\n\r\nSecurity Deposit: $1,250\r\nMonthly Pest Control Fee: $10.00\r\nPet Fee: $250 non-refundable (per pet)\r\nMonthly Pet Rent: $25 (per pet)\r\n\r\nContact us today to schedule your tour and make this beautiful apartment your new home!\r\n\r\nGladys Weeks/ Leasing Coordination \r\nCall me at 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,275 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,275 \n\n\n Available Now",
     "terms": [
       "Rent: $1,275",
@@ -21506,8 +21620,8 @@
     "address": "2502 Kilgore Street, #44, Orlando, FL 32803",
     "street": "2502 Kilgore Street",
     "city": "Orlando",
-    "rent": "$1,400",
-    "rent_val": 1400,
+    "rent": "$1,295",
+    "rent_val": 1295,
     "specs": "1 bd, 1 ba, 524 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -21517,11 +21631,11 @@
     "lat": 28.5430782,
     "lng": -81.3508542,
     "title": "Adorable 1 Bed 1 Bath in the Milk District!",
-    "description": "Enjoy the views of the lush garden courtyard from your second-floor condo in the highly sought after Grand Central Square Condominiums. The apartment includes your water, sewer, AND trash! Community includes a pool, laundry center, and assigned parking! Kitchen offers LOTS of cabinet space, island bar, and all appliances! One pet, 20 lb limit. Conveniently located minutes from Downtown Orlando, restaurants, shopping, 408, and so much MORE! This property is professionally managed by Atrium Management Company. Please call today for your private showing 407-585-2721.\r\n\r\nAdditional Fees-\r\nRenters Insurance: $15.50\r\nFilter Fee: $15\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,400 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,400 \n\n\n Available Now",
+    "description": "Enjoy the views of the lush garden courtyard from your second-floor condo in the highly sought after Grand Central Square Condominiums. The apartment includes your water, sewer, AND trash! Community includes a pool, laundry center, and assigned parking! Kitchen offers LOTS of cabinet space, island bar, and all appliances! One pet, 20 lb limit. Conveniently located minutes from Downtown Orlando, restaurants, shopping, 408, and so much MORE! This property is professionally managed by Atrium Management Company. Please call today for your private showing 407-585-2721.\r\n\r\nAdditional Fees-\r\nRenters Insurance: $15.50\r\nFilter Fee: $15\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,295 \n\n\n Available Now",
     "terms": [
-      "Rent: $1,400",
+      "Rent: $1,295",
       "Application Fee: $95",
-      "Security Deposit: $1,400",
+      "Security Deposit: $1,295",
       "Available Now"
     ],
     "pets": [
