@@ -8709,41 +8709,6 @@
     "available": "NOW"
   },
   {
-    "id": 5807,
-    "uuid": "998df957-8056-4b8e-a0f7-eab890635556",
-    "address": "3440 N. Goldenrod Road Unit # 1333, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 1333",
-    "city": "Winter Park",
-    "rent": "$1,525",
-    "rent_val": 1525,
-    "specs": "2 bd, 2 ba, 1,050 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1050,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/998df957-8056-4b8e-a0f7-eab890635556",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,525 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,462 \n\n\n Available 8/7/26",
-    "terms": [
-      "Rent: $1,525",
-      "Application Fee: $79",
-      "Security Deposit: $1,462",
-      "Available 8/7/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=998df957-8056-4b8e-a0f7-eab890635556&source=Website",
-    "available": "8/7/26"
-  },
-  {
     "id": 5802,
     "uuid": "95e509f5-ba71-4ff3-b76b-8dd9a3b5a657",
     "address": "600 W. Main Street #306, Charlottesville, VA 22903",
@@ -14387,42 +14352,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=757e2d86-0ec1-47c4-bfc9-b21e29e03bcc&source=Website",
     "available": "9/10/26"
-  },
-  {
-    "id": 4358,
-    "uuid": "1486fe32-184c-4509-a1a0-f5f8795d7874",
-    "address": "600 W. Main Street #507, Charlottesville, VA 22903",
-    "street": "600 W. Main Street #507",
-    "city": "Charlottesville",
-    "rent": "$4,677",
-    "rent_val": 4677,
-    "specs": "2 bd, 2 ba, 1,053 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1053,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5bf86665-4bb6-4bac-bed6-0870f34f3080/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1486fe32-184c-4509-a1a0-f5f8795d7874",
-    "lat": 38.0307473,
-    "lng": -78.4883703,
-    "title": "2 Bed 2 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $4,677 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $4,677 \n\n\n Available 8/15/26",
-    "terms": [
-      "Rent: $4,677",
-      "Admin Fee: $400",
-      "Application Fee: $65",
-      "Security Deposit: $4,677",
-      "Available 8/15/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5bf86665-4bb6-4bac-bed6-0870f34f3080/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2a7e4a9-c81c-412b-a949-b23006db5bdb/large.jpg"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1486fe32-184c-4509-a1a0-f5f8795d7874&source=Website",
-    "available": "8/15/26"
   },
   {
     "id": 4288,
