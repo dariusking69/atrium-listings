@@ -1,5 +1,199 @@
 [
   {
+    "id": 6266,
+    "uuid": "5c08bb7f-bf19-486d-8d76-db3feec3881f",
+    "address": "3330 Dale Dr, Lakeland, FL 33805",
+    "street": "3330 Dale Dr",
+    "city": "Lakeland",
+    "rent": "$1,495",
+    "rent_val": 1495,
+    "specs": "2 bd, 1 ba, 672 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 672,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/068c5a54-17c0-4a6d-bd51-fed15557baec/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5c08bb7f-bf19-486d-8d76-db3feec3881f",
+    "lat": 28.085274,
+    "lng": -81.9673955,
+    "title": "2 Bedroom, 1 Bath House in North Lakeland",
+    "description": "Charming 2-bedroom, 1-bath home in Lakeland, FL, offering covered parking and a convenient storage shed. The layout includes washer/dryer hookup for easy laundry setup. Located close to shopping centers and with quick access to I-4, this property provides a practical combination of storage, parking, and commuter-friendly location.\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per pet)\r\n$25 Per month pet rent\r\n\r\n$95 Application Fee\r\n$295 Admin Fee\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,495",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/068c5a54-17c0-4a6d-bd51-fed15557baec/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6a6c0e62-13d1-48f0-9e84-adfcaf318492/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47c79fc4-b198-4893-9660-5a3c4dd94e83/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e59a8ae8-f61f-4498-bcf1-f2b8adca90f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6fc04a82-68ee-42e2-ab5d-31234f70f102/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/60966705-12e0-4f3e-b7e5-54fbc5a34fcf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/decf6a72-78b6-41c4-a948-85193b74bc5a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5887ec01-e1f6-4282-9cac-0b8af5e21876/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/04294153-b1a5-4b77-ae87-f70ecddd2476/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a51dc4fe-ef71-4ebd-aa49-073244820538/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3897798c-4a2e-45a6-8aa8-8b188e013946/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/edafec36-b004-40f4-af6e-11b7c65fb074/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5c08bb7f-bf19-486d-8d76-db3feec3881f&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6265,
+    "uuid": "bdfd2358-76f9-4df4-a120-2902361d50f0",
+    "address": "1102 Elmwood St #G, Orlando, FL 32801",
+    "street": "1102 Elmwood St #G",
+    "city": "Orlando",
+    "rent": "$1,500",
+    "rent_val": 1500,
+    "specs": "2 bd, 1 ba, 766 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 766,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0ad0c1df-e7ae-4df8-93f1-84684fb344c4/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bdfd2358-76f9-4df4-a120-2902361d50f0",
+    "lat": 28.5356577,
+    "lng": -81.3651522,
+    "title": "Charming & Bright Downtown Living in Lake Davis / Lake Cherokee!",
+    "description": "1102 Elmwood St #G, Orlando, FL 32801\r\n\r\nListing Price: $1,500/month\r\n\r\nWelcome to your light-filled, updated sanctuary located in one of Downtown Orlando's most desirable, historic neighborhoods! Nestled near Lake Davis and Lake Cherokee, this beautifully maintained home offers a serene, quiet retreat with easy access to all the vibrant energy of Thornton Park, Lake Eola, and Downtown Orlando.\r\n\r\nHome Highlights\r\nBright & Airy Interiors: Large windows flood the unit with natural light, showcasing lovely neutral paint tones and warm wood-look flooring throughout.\r\n\r\nModern Kitchen: Updated stainless steel appliances, ample upper/lower cabinet storage, granite-style countertops, and tile flooring make cooking a joy.\r\n\r\nComfortable Layout: Features a spacious primary bedroom, a full bathroom with full-tile shower/tub surround, and generous closet space with built-in storage solutions.\r\n\r\nConvenient Amenities: Enjoy access to onsite washer and dryer facilities right outside your door, as well as charming communal courtyard spaces.\r\n\r\nRental Terms & Required Monthly Fees\r\nBase Rent: $1,500/month\r\n\r\nWater Utility: $45/month\r\n\r\nGroup Rate High-Speed Internet: $60/month\r\n\r\nHVAC Filter Delivery Program: $15/month (Filters conveniently delivered every 60 days for hassle-free maintenance!)\r\n\r\nMove-In Fees & Rental Requirements\r\nApplication Fee: $95 per adult\r\n\r\nAdministrative Fee: $295 due at signing\r\n\r\nCredit Score: Minimum 600 or higher required\r\n\r\nIncome Requirement: Gross monthly income must equal at least 3x the monthly rent\r\n\r\nRental History: Strong, verifiable rental history required (no prior evictions or outstanding landlord balances)\r\n\r\nLocation Features\r\nMinutes from Lake Eola Park, Delaney Park, and local dining, shopping, and entertainment hubs.\r\n\r\nQuick access to Orlando Health, SR-408, I-4, and major transit options.\r\n\r\nDon't miss out on this fantastic opportunity\u2014schedule your private tour today!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n Admin Fee: $295 \n\n Application Fee: $95 \n\n Security Deposit: $1,500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,500",
+      "Admin Fee: $295",
+      "Application Fee: $95",
+      "Security Deposit: $1,500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0ad0c1df-e7ae-4df8-93f1-84684fb344c4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/683dbd3d-cc35-4248-9696-09d8dfea8563/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1fb6c197-ed96-4355-afeb-e195696e40cb/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7e45f66b-4f8a-41ef-bdd3-cfbe544876e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0216b5f8-27b1-450d-ac2d-4414c6d40ff2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ff15de3-6811-4b6b-9731-31e05a686290/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/30ac7d17-a640-474f-b240-781f0cbe70ac/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d54fcb0e-4305-479e-95aa-dc6610fc6549/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d1ab604b-e983-4278-94fa-d6a9ad36b3c5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/93111d8e-3194-4833-a714-9f3a502ffc55/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/859178cb-3d37-4b1e-8787-56a7a778d9c7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b6105090-7668-4b69-a196-2193d380fe12/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bdfd2358-76f9-4df4-a120-2902361d50f0&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6264,
+    "uuid": "4bfa08d2-48a4-4c30-affd-a71268ff798a",
+    "address": "1478 Sunshadow Dr. # 100, Casselberry, FL 32707",
+    "street": "1478 Sunshadow Dr. # 100",
+    "city": "Casselberry",
+    "rent": "$1,419",
+    "rent_val": 1419,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4bfa08d2-48a4-4c30-affd-a71268ff798a",
+    "lat": 28.6953971,
+    "lng": -81.3225605,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,419 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/11/26",
+    "terms": [
+      "Rent: $1,419",
+      "Application Fee: $79",
+      "Available 8/11/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47f1322e-8341-425b-b4b2-88b503d12480/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/87c8904d-fef1-4c19-9c2d-07a506b48e35/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/92be7ef9-4dce-406f-826e-b5d38724efae/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f7feac11-b95d-42e3-80a7-2388fa3fb8ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e3dcf803-dfa5-4139-9011-8a2ad81ac851/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81cb7668-9406-490d-894b-fd0486be3421/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/803da989-d3ec-422f-855a-0bad2ed8ae67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd634cd1-4920-4d95-aa03-89cc054e2821/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc62a193-9420-4571-a0b6-048505bc8f58/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/417650c8-5ae4-4ec7-a9c6-6e5ff6764f70/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eb80cf8e-e99e-4bd6-99f6-48061200db4e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/866ecd63-14a0-4a69-a9cf-0ee7c39279e6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6448bd58-936b-4ab0-a4b9-081bae9b3fb9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e8a0e8e-3d04-4cbe-9534-c1f59d711459/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5fa8957a-bdd2-4371-9576-86d25585deb0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/90182590-c6eb-4b81-ac9f-10feaef278db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e8b6fada-e945-44f9-b3db-e8b5b3d10418/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a88f296b-f6eb-4304-9aa2-d4dda05a075b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4bfa08d2-48a4-4c30-affd-a71268ff798a&source=Website",
+    "available": "8/11/26"
+  },
+  {
+    "id": 6263,
+    "uuid": "ca07b30c-69f9-42c4-ac92-701e09f16530",
+    "address": "2706 E Grant Ave, Orlando, FL 32806",
+    "street": "2706 E Grant Ave",
+    "city": "Orlando",
+    "rent": "$1,350",
+    "rent_val": 1350,
+    "specs": "1 bd, 1 ba, 600 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 600,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3ae1ebb5-04b8-4d69-bef0-0e0118bf14a4/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ca07b30c-69f9-42c4-ac92-701e09f16530",
+    "lat": 28.5165681,
+    "lng": -81.3484438,
+    "title": "Charming 1BR Duplex in Orlando \u2013 Prime Location",
+    "description": "Welcome home to this charming 1-bedroom, 1-bath duplex in Orlando! This well-maintained home offers a bright, functional layout with central A/C, comfortable living spaces, and convenient access to shopping, dining, major roadways, and downtown Orlando. Don\u2019t miss the opportunity to make this conveniently located home yours!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), cats and small dogs only. 2 pets maximum .This property is professionally managed by Atrium Management. \r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,350 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,350 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,350",
+      "Application Fee: $95",
+      "Security Deposit: $1,350",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3ae1ebb5-04b8-4d69-bef0-0e0118bf14a4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a11acaa5-7de3-422a-8434-5d9fd045a043/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e175ea55-dd34-4408-b2ff-3ba3e9520e5b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f51be4cb-e097-4d3c-8c0a-c61defb5c5a3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/62af8251-944f-4283-a44b-b9c2cb833973/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/17e74874-722f-45f2-aa9a-05f5b39115a8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/99b1e635-d237-4f02-8ac9-25ffe9094445/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6efa17ac-6601-4dbc-95ba-21cf58f16a13/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/742c03f5-ecfa-4992-818c-06ad1bac85e7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b4f80b8e-1d8a-4b09-ad9a-7e1992dcdf87/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6eed67de-c1c8-4139-b9e4-37e9a713c115/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c0192ad8-2ca2-4938-855b-a8b72a01c406/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5b25bc6b-2cdb-4ccb-ac51-96a812ee317c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/580e4520-47d5-408e-8a00-39222ea50da3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f9e4a4b7-52ce-4913-9411-06ae73082714/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7a5bbae0-09f5-43b2-9c13-64bd6c6884d8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ca07b30c-69f9-42c4-ac92-701e09f16530&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6262,
     "uuid": "d9ea9593-a828-442a-ad6d-85d561d9bd76",
     "address": "5492 Lake Margaret Drive Unit # 492 - 1811, Orlando, FL 32812",
@@ -213,36 +407,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5e494e93-99f1-4774-a7c2-3714e2406764&source=Website",
     "available": "9/17/26"
-  },
-  {
-    "id": 6254,
-    "uuid": "d36987f6-4fdc-47c9-a817-acf61e211399",
-    "address": "210 W Hyde Park Pl Unit 214-1, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 214-1",
-    "city": "Tampa",
-    "rent": "$1,174",
-    "rent_val": 1174,
-    "specs": "Studio, 1 ba, 329 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 329,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d36987f6-4fdc-47c9-a817-acf61e211399",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | Studio Flat, Hyde Park, Tampa",
-    "description": "Start your Tampa story in a smartly designed Hyde Park studio, ranging from 329 to 492 square feet at Beach Flats. Each home is finished with custom tile and stainless steel appliances, and residents share access to a gated courtyard, fire-pit lounge, outdoor grill kitchen, and covered bike storage. It's a smoke-free, pet-friendly community just minutes from Bayshore Boulevard, Hyde Park Village, and the Riverwalk \u2014 perfect for professionals who want an efficient home base near everything South Tampa has to offer. Schedule a private tour today to find your fit.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,174 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/7/26",
-    "terms": [
-      "Rent: $1,174",
-      "Application Fee: $95",
-      "Available 8/7/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d36987f6-4fdc-47c9-a817-acf61e211399&source=Website",
-    "available": "8/7/26"
   },
   {
     "id": 6253,
@@ -1495,7 +1659,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=868112fa-bd54-47c3-b00a-3d8d23babffc&source=Website",
     "available": "NOW"
@@ -4052,12 +4216,12 @@
     "lat": 28.7031476,
     "lng": -81.3229124,
     "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,334 - $1,430 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,419 \n\n\n Available 8/8/26",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,334 - $1,430 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,419 \n\n\n Available 8/23/26",
     "terms": [
       "Rent: $1,334 - $1,430",
       "Application Fee: $79",
       "Security Deposit: $1,419",
-      "Available 8/8/26"
+      "Available 8/23/26"
     ],
     "pets": [
       "Cats allowed",
@@ -4079,7 +4243,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d95d9b3d-491f-4492-954d-8511917c6af1&source=Website",
-    "available": "8/8/26"
+    "available": "8/23/26"
   },
   {
     "id": 6091,
@@ -4368,9 +4532,9 @@
     "lat": 28.8053358,
     "lng": -81.3900022,
     "title": "4 Bed, 2 Bath | Pond Views | Private Lake Access",
-    "description": "Nestled in the highly sought-after Lake Sylvan Cove community, this beautifully maintained 4-bedroom, 2-bathroom home with a 2-car garage offers the perfect blend of comfort, flexibility, and the best of Florida living. Residents enjoy private community access to the 193-acre Lake Sylvan, complete with a private boat ramp for boating, skiing, fishing, kayaking, and endless days on the water.\r\n\r\nInside, a bright, open-concept floor plan is thoughtfully designed for both everyday living and effortless entertaining. Expansive hideaway sliding glass doors create a seamless transition from the main living area to the covered, screened lanai, allowing you to fully embrace Florida's year-round indoor-outdoor lifestyle. Beyond the lanai, peaceful pond views provide a tranquil setting and added backyard privacy.\r\n\r\nThe desirable split-bedroom layout offers both comfort and functionality, while the spacious primary suite serves as a private retreat featuring dual vanities with granite countertops, a relaxing garden tub, and a separate walk-in shower with a seamless glass enclosure.\r\n\r\nThe home also includes a full-size washer and dryer, adding everyday convenience and making move-in even easier.\r\n\r\nMeticulously cared for, this home showcases true pride of ownership with major updates already completed, including a new roof (2022), new plumbing (2022), new A/C system (2024), and a septic system upgrade. With these significant improvements already in place, you can move in with confidence and enjoy your new home from day one.\r\n\r\nConveniently located near major highways, top-rated Seminole County schools, shopping, dining, business centers, and Central Florida's world-famous attractions, this exceptional home offers the perfect combination of location, lifestyle, and peace of mind. Don't miss your opportunity to own this incredible home\u2014schedule your private showing today!\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent) . This property is professionally managed by Atrium Management. AVAILABLE NOW!\r\n\r\n\r\nAdditional monthly fees: \r\n$60 Group Rate Internet Package\r\n\r\n\r\n**RESIDENT BENEFIT PACKAGE INCLUDED**\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,275 \n\n\n\n Admin Fee: $295 \n\n Application Fee: $95 \n\n Security Deposit: $3,200 \n\n\n Available Now",
+    "description": "Nestled in the highly sought-after Lake Sylvan Cove community, this beautifully maintained 4-bedroom, 2-bathroom home with a 2-car garage offers the perfect blend of comfort, flexibility, and the best of Florida living. Residents enjoy private community access to the 193-acre Lake Sylvan, complete with a private boat ramp for boating, skiing, fishing, kayaking, and endless days on the water.\r\n\r\nInside, a bright, open-concept floor plan is thoughtfully designed for both everyday living and effortless entertaining. Expansive hideaway sliding glass doors create a seamless transition from the main living area to the covered, screened lanai, allowing you to fully embrace Florida's year-round indoor-outdoor lifestyle. Beyond the lanai, peaceful pond views provide a tranquil setting and added backyard privacy.\r\n\r\nThe desirable split-bedroom layout offers both comfort and functionality, while the spacious primary suite serves as a private retreat featuring dual vanities with granite countertops, a relaxing garden tub, and a separate walk-in shower with a seamless glass enclosure.\r\n\r\nThe home also includes a full-size washer and dryer, adding everyday convenience and making move-in even easier.\r\n\r\nMeticulously cared for, this home showcases true pride of ownership with major updates already completed, including a new roof (2022), new plumbing (2022), new A/C system (2024), and a septic system upgrade. With these significant improvements already in place, you can move in with confidence and enjoy your new home from day one.\r\n\r\nConveniently located near major highways, top-rated Seminole County schools, shopping, dining, business centers, and Central Florida's world-famous attractions, this exceptional home offers the perfect combination of location, lifestyle, and peace of mind. Don't miss your opportunity to own this incredible home\u2014schedule your private showing today!\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent) . This property is professionally managed by Atrium Management. AVAILABLE NOW!\r\n\r\n\r\nAdditional monthly fees: \r\n$75 Resident Benefit Package\r\n$60 Group Rate Internet Package\r\n\r\n\r\n**RESIDENT BENEFIT PACKAGE**\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,200 \n\n\n\n Admin Fee: $295 \n\n Application Fee: $95 \n\n Security Deposit: $3,200 \n\n\n Available Now",
     "terms": [
-      "Rent: $3,275",
+      "Rent: $3,200",
       "Admin Fee: $295",
       "Application Fee: $95",
       "Security Deposit: $3,200",
@@ -5664,7 +5828,7 @@
     "lat": 29.6635186,
     "lng": -82.3379265,
     "title": "",
-    "description": "\"Make an appointment to see this lovely apartment.\"\r\n\r\nMove into your newly renovated 1-bedroom apartment at the Centerpoint at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities Dishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent\r\n\r\n\r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
+    "description": "\"Make an appointment to see this lovely apartment.\"\r\n\r\nMove into your newly renovated 1-bedroom apartment at the Centerpoint at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities Dishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved. \r\nLandlord reference \r\n\r\nAdministration fees only one time..$295.00\r\n\r\nWater, trash, sewer....$55.00\r\n\r\nDogs only one time ..$250.00 monthly $25.00\r\nRental Insurance......$15.50 \r\n\r\n \r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
     "terms": [
       "Rent: $1,095",
       "Application Fee: $95",
@@ -5722,54 +5886,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7bbb0365-4b5d-4c8b-8ea3-93e2e95543fd&source=Website",
     "available": "9/10/26"
-  },
-  {
-    "id": 6006,
-    "uuid": "aa6b859c-8071-4f97-befb-24e7c8535195",
-    "address": "1478 Sunshadow Dr. # 208, Casselberry, FL 32707",
-    "street": "1478 Sunshadow Dr. # 208",
-    "city": "Casselberry",
-    "rent": "$1,585",
-    "rent_val": 1585,
-    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 988,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa6b859c-8071-4f97-befb-24e7c8535195",
-    "lat": 28.6954258,
-    "lng": -81.3223448,
-    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
-    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,585 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,585",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4f46da88-8096-4aa6-aff6-c7b09481714b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/666e98e6-3415-455b-8b29-ad14ede5016d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/87d034d9-4e36-43cf-aa8c-760e78e077f0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/65c71d2d-a182-45a3-987f-7532313e71fa/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fc387176-4a6d-4a34-8779-6ba79be0ba70/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a84df028-6413-44f4-ab56-703696945f56/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ecaf1aeb-7243-4e40-be69-bd16c7e02009/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a051824-cf7d-4032-b3b1-e4139f44289d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c01cf37c-cc2f-4d15-ac72-838610449b35/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/be17c308-7a64-4d6e-b9cd-a67781661f04/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2dc804d9-240b-4ddc-bd38-5fb90494d286/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fc06ef00-7407-4e9f-908d-df2cc4cc9b22/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1cbcac2a-582a-44b1-93e4-04faac1b4fcf/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1504d53a-844f-4d2b-abba-137909a33c16/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa6b859c-8071-4f97-befb-24e7c8535195&source=Website",
-    "available": "NOW"
   },
   {
     "id": 6005,
@@ -6420,11 +6536,11 @@
     "lat": 28.91875,
     "lng": -80.862782,
     "title": "2024 Built | 5 Bedrooms | Pond View | Paver Driveway",
-    "description": "2024 New Construction with Pond Views! This spacious 5-bedroom home features a desirable floor plan with a first-floor guest suite and an open-concept living area that seamlessly connects the kitchen, dining, and great room. The modern kitchen boasts quartz countertops, white shaker cabinets, stainless steel appliances, and an oversized walk-in pantry.\r\n\r\nUpstairs, the primary suite offers a walk-in closet and en-suite bath, while three additional bedrooms share a dual-sink bathroom. A large bonus area provides the perfect space for a media room, game room, or additional living space.\r\n\r\nEnjoy pond views, a pavered driveway, and a vibrant community featuring walkable streets, a dog park, and a riverfront observation pier where you can watch dolphins, manatees, and rocket launches. Conveniently located near the Intracoastal, boat ramps, parks, New Smyrna Beach, shopping, and dining\u2014offering the benefits of newer construction without the wait of building new.\r\n\r\nConveniently located minutes from local shops, restaurants, and more. $95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable, additional fees will apply. This property is professionally managed by Atrium Management. AVAILABLE NOW!\r\n\r\n**RESIDENT BENEFIT PACKAGE **\r\nAdditional fee: $75 per month\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,850 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,850 \n\n\n Available Now",
+    "description": "2024 New Construction with Pond Views! This spacious 5-bedroom home features a desirable floor plan with a first-floor guest suite and an open-concept living area that seamlessly connects the kitchen, dining, and great room. The modern kitchen boasts quartz countertops, white shaker cabinets, stainless steel appliances, and an oversized walk-in pantry.\r\n\r\nUpstairs, the primary suite offers a walk-in closet and en-suite bath, while three additional bedrooms share a dual-sink bathroom. A large bonus area provides the perfect space for a media room, game room, or additional living space.\r\n\r\nEnjoy pond views, a pavered driveway, and a vibrant community featuring walkable streets, a dog park, and a riverfront observation pier where you can watch dolphins, manatees, and rocket launches. Conveniently located near the Intracoastal, boat ramps, parks, New Smyrna Beach, shopping, and dining\u2014offering the benefits of newer construction without the wait of building new.\r\n\r\nConveniently located minutes from local shops, restaurants, and more. $95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable, additional fees will apply. This property is professionally managed by Atrium Management. AVAILABLE NOW!\r\n\r\n**RESIDENT BENEFIT PACKAGE **\r\nAdditional fee: $75 per month\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,700 \n\n\n Available Now",
     "terms": [
-      "Rent: $2,850",
+      "Rent: $2,700",
       "Application Fee: $95",
-      "Security Deposit: $2,850",
+      "Security Deposit: $2,700",
       "Available Now"
     ],
     "pets": [
@@ -7973,7 +8089,7 @@
     "lat": 29.6637841,
     "lng": -82.3376942,
     "title": "Limited-Time Special: 1 Month FREE Rent!",
-    "description": "Limited-Time Special: 1 Month FREE Rent! \r\n\r\nMove into your newly renovated 1-bedroom apartment at The Grande at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities \r\nDishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent\r\n\r\n This 1 Month FREE offer won't last long! Schedule your tour today.\r\n\r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
+    "description": "Move into your newly renovated 1-bedroom apartment at The Grande at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities \r\nDishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved.\r\nLandlord reference\r\n\r\nAdministration fees only one time..$295.00\r\n\r\nWater, trash, sewer....$55.00\r\nRental Insurance .......$15.50\r\nDogs only one time ..$250.00 monthly $25.00\r\n\r\n\r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
     "terms": [
       "Rent: $1,095",
       "Application Fee: $95",
@@ -8027,7 +8143,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6d53a3db-5245-4884-8988-5fb5a722b11c&source=Website",
     "available": "NOW"
@@ -8061,7 +8177,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a36b60b7-9972-4df8-b18b-05861ce04d6d&source=Website",
     "available": "NOW"
@@ -9580,7 +9696,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=910d49db-e63d-44f9-8881-8c3a0be9eeb1&source=Website",
     "available": "NOW"
@@ -9614,7 +9730,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/7ef60a20-11ab-4b36-a8ca-9babbb8c1964/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c782f198-43ac-4aed-bd6c-fa41a121f2b0&source=Website",
     "available": "NOW"
@@ -9899,7 +10015,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=db765d29-be4a-4f31-9bdc-7fafdc59a6f4&source=Website",
     "available": "NOW"
@@ -11112,7 +11228,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/e5b2a1f0-84d3-466f-836c-8f0ab2245e5c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a52b6f26-5d2b-4b68-be93-158f15d91add&source=Website",
     "available": "NOW"
@@ -11193,7 +11309,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/aaea2e4a-170b-4d21-96b0-2040f0a2e394/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=366752c1-b552-4963-a37f-f506c32225f9&source=Website",
     "available": "9/22/26"
@@ -11933,7 +12049,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/7ef60a20-11ab-4b36-a8ca-9babbb8c1964/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=89863e03-36a3-4cde-a7d9-ff21ad8f30fe&source=Website",
     "available": "NOW"
@@ -12062,7 +12178,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=393deeb5-1a8c-4978-b6a4-b2d81958d08f&source=Website",
     "available": "NOW"
@@ -13108,7 +13224,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a26435f0-3406-4670-8612-2c43af13b8a2&source=Website",
     "available": "NOW"
@@ -13142,7 +13258,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4867c8cc-ebdc-4a41-b621-1a10623498bf&source=Website",
     "available": "NOW"
@@ -13683,7 +13799,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/88784ed2-0a49-44f6-bfbc-7fa273a85ba1/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ed0e0e72-a167-4844-ba39-f665c3730d1f&source=Website",
     "available": "NOW"
@@ -13788,7 +13904,7 @@
     ],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=eb3e1d67-470f-4480-8faf-81862b8f4f94&source=Website",
     "available": "NOW"
@@ -15641,42 +15757,6 @@
     "available": "NOW"
   },
   {
-    "id": 3584,
-    "uuid": "42c08d90-538d-447e-bac2-d23bbc5526a1",
-    "address": "1710 E Broad St Apt 108, Richmond, VA 23223-7284",
-    "street": "1710 E Broad St Apt 108",
-    "city": "Richmond",
-    "rent": "$1,099",
-    "rent_val": 1099,
-    "specs": "1 bd, 1 ba, 687 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 687,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0f6bc337-a055-41a8-b277-7669462eea73/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/42c08d90-538d-447e-bac2-d23bbc5526a1",
-    "lat": 37.5360498,
-    "lng": -77.4256982,
-    "title": "A.3",
-    "description": "Unique 1-Bedroom Floor Plan | 687 Sq. Ft.\r\n\r\nDiscover a one-bedroom apartment that offers a distinctive layout with added space and modern finishes. At 687 square feet, this thoughtfully designed home features an open-concept living area, a contemporary kitchen with granite countertops, and a spacious bedroom with generous closet space.\r\n\r\nThe unique floor plan creates defined living areas while maintaining an open, airy feel. Enjoy the convenience of a full-size washer and dryer in your apartment\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,099",
-      "Admin Fee: $235",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f6bc337-a055-41a8-b277-7669462eea73/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=42c08d90-538d-447e-bac2-d23bbc5526a1&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 3583,
     "uuid": "0374b674-6eff-487c-b199-177447ea5ca3",
     "address": "1520 Neo Landings Loop, Unit 304, Kissimmee, FL 34744",
@@ -15996,9 +16076,9 @@
     "lat": 38.0307473,
     "lng": -78.4883703,
     "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,512 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 8/10/26",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,290 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $2,512",
+      "Rent: $2,290",
       "Admin Fee: $400",
       "Application Fee: $65",
       "Security Deposit: $2,512",
@@ -16551,7 +16631,7 @@
     "lat": 28.5697881,
     "lng": -81.3148069,
     "title": "Brand New Townhomes in Prime Baldwin Park Location",
-    "description": "Experience the perfect blend of tranquility and vibrant city living at 1780, 1782, and 1784 Carley Court. These three, completely renovated townhomes offer a rare opportunity to reside within walking distance of the coveted Baldwin Park and scenic Lake Baldwin.\r\n\r\nYour Private Retreat:\r\n\r\nStep into your own private sanctuary, each townhome boasting a brand-new, modern renovation with meticulous attention to detail. Enjoy the luxury of a private, fully fenced backyard, providing a serene outdoor space for relaxation, entertaining, or simply unwinding after a long day.\r\n\r\nUnbeatable Location:\r\n\r\nEmbrace the best of Baldwin Park living! Stroll to the charming village center, where you'll find an array of upscale restaurants, boutiques, and lively events. Enjoy leisurely walks or bike rides around beautiful Lake Baldwin, and immerse yourself in the vibrant community atmosphere.\r\n\r\nModern Conveniences:\r\n\r\nThese townhomes are designed for comfort and convenience, featuring:\r\n\r\n- Brand new, stylish renovations: Enjoy modern finishes and updated features throughout.\r\n- In-unit washer and dryer: Simplify your daily routine.\r\n- Private, fenced-in backyard: Your own personal outdoor oasis.\r\n- Walking distance to Baldwin Park and Lake Baldwin: Experience the vibrant lifestyle.\r\n- Community pool: Relax and cool off on sunny days.\r\n- Tranquil and private setting: Enjoy peace and quiet while being close to the action.\r\n\r\nUnbeatable Location: Immerse Yourself in Baldwin Park's Charm:\r\n\r\n- Upscale Dining: Savor diverse culinary experiences at a variety of restaurants, from casual eateries to fine dining establishments.\r\n- Boutique Shopping: Discover unique finds at locally owned shops and boutiques.\r\n- Lively Events: Enjoy a calendar filled with community events, farmers' markets, festivals, and holiday celebrations.\r\n- Scenic Lake Baldwin: Take leisurely walks or bike rides along the picturesque shoreline, enjoying stunning water views and lush green spaces.\r\n- Outdoor Recreation: Utilize the numerous parks, playgrounds, and walking trails that weave through the community.\r\n- Top-Rated Schools: Baldwin Park is known for its excellent schools, making it a desirable location for families.\r\n- A True Community Feel: Experience a strong sense of community with friendly neighbors and a welcoming atmosphere.\r\n\r\nSorry, no pets are allowed and no utilities included.\r\n\r\n1780, 1782, and 1784 Carley Court offer a unique opportunity to live in a brand-new, beautifully renovated townhome in one of Orlando's most desirable neighborhoods. Don't miss your chance to call this urban oasis home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,780 \n\n\n Available Now",
+    "description": "Experience the perfect blend of tranquility and vibrant city living at Carley Court. These three, completely renovated townhomes offer a rare opportunity to reside within walking distance of the coveted Baldwin Park and scenic Lake Baldwin.\r\n\r\nYour Private Retreat:\r\n\r\nStep into your own private sanctuary, each townhome boasting a brand-new, modern renovation with meticulous attention to detail. Enjoy the luxury of a private, fully fenced backyard, providing a serene outdoor space for relaxation, entertaining, or simply unwinding after a long day.\r\n\r\nUnbeatable Location:\r\n\r\nEmbrace the best of Baldwin Park living! Stroll to the charming village center, where you'll find an array of upscale restaurants, boutiques, and lively events. Enjoy leisurely walks or bike rides around beautiful Lake Baldwin, and immerse yourself in the vibrant community atmosphere.\r\n\r\nModern Conveniences:\r\n\r\nThese townhomes are designed for comfort and convenience, featuring:\r\n\r\n- Brand new, stylish renovations: Enjoy modern finishes and updated features throughout.\r\n- In-unit washer and dryer: Simplify your daily routine.\r\n- Private, fenced-in backyard: Your own personal outdoor oasis.\r\n- Walking distance to Baldwin Park and Lake Baldwin: Experience the vibrant lifestyle.\r\n- Community pool: Relax and cool off on sunny days.\r\n- Tranquil and private setting: Enjoy peace and quiet while being close to the action.\r\n\r\nUnbeatable Location: Immerse Yourself in Baldwin Park's Charm:\r\n\r\n- Upscale Dining: Savor diverse culinary experiences at a variety of restaurants, from casual eateries to fine dining establishments.\r\n- Boutique Shopping: Discover unique finds at locally owned shops and boutiques.\r\n- Lively Events: Enjoy a calendar filled with community events, farmers' markets, festivals, and holiday celebrations.\r\n- Scenic Lake Baldwin: Take leisurely walks or bike rides along the picturesque shoreline, enjoying stunning water views and lush green spaces.\r\n- Outdoor Recreation: Utilize the numerous parks, playgrounds, and walking trails that weave through the community.\r\n- Top-Rated Schools: Baldwin Park is known for its excellent schools, making it a desirable location for families.\r\n- A True Community Feel: Experience a strong sense of community with friendly neighbors and a welcoming atmosphere.\r\n\r\nSorry, no pets are allowed and no utilities included.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,780 \n\n\n Available Now",
     "terms": [
       "Rent: $1,795",
       "Application Fee: $95",
@@ -17180,6 +17260,57 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=209eee2a-7fcd-42b8-a5bd-c07ccd17f1d7&source=Website",
     "available": "8/10/26"
+  },
+  {
+    "id": 3201,
+    "uuid": "21a3240d-1b1b-4ef1-9990-4a791172d462",
+    "address": "2253 Golfview St, Lakeland, FL 33801",
+    "street": "2253 Golfview St",
+    "city": "Lakeland",
+    "rent": "$1,250",
+    "rent_val": 1250,
+    "specs": "3 bd, 1 ba, 788 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 1.0,
+    "sqft": 788,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4d109def-352d-4cc8-afee-f7537c96265c/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/21a3240d-1b1b-4ef1-9990-4a791172d462",
+    "lat": 28.0528796,
+    "lng": -81.9138985,
+    "title": "3 Bedroom Home",
+    "description": "Welcome to this charming 3-bedroom, 1-bathroom home located in the desirable area of Lakeland, FL. \r\n\r\nThis cozy house features stainless steel appliances, tile flooring throughout, and a convenient washer dryer hookup. The spacious backyard provides the perfect setting for outdoor gatherings and relaxation. \r\n\r\nHigh-Speed Internet Built In \u2013 Enjoy the convenience of bulk internet service included with your lease! Every unit is equipped with blazing-fast 1 GIG speeds for only $60/month, provided through trusted national carriers such as AT&T and Spectrum. No installation hassles, no waiting for service \u2013 just reliable, high-speed internet from the day you move in.\r\n\r\nDon't miss the opportunity to make this house your home sweet home. Contact us today to schedule a tour!\r\n\r\n$250 Non Refundable Pet fee for any approved pet\r\n$25 Per month pet rent\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,250 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,250",
+      "Application Fee: $95",
+      "Security Deposit: $1,250",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4d109def-352d-4cc8-afee-f7537c96265c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8570f22c-bbdd-4413-aaae-e6e2668ed58b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/112b394f-4a9b-4d80-ba24-9f35bf185d3a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1d401e00-ecf3-4dda-8d80-c1e6eaad6590/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/42fdcd8f-64ae-4f1d-9c7b-9348d10c2daf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/36dd2436-25fa-4465-b39d-04a0bd81c4f1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2960f7d1-e4d7-4d73-84e6-06552169d837/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fe5397ed-d727-4fea-bc41-ec35d5401b7d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed754589-bea9-479c-a2c0-d039e0fab287/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5b855756-47d4-4c97-ac9e-658e06ae271c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c5c3e8f8-4a5e-4f4a-866e-1c96684bc6a9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/628cbdca-c745-4cfe-82eb-aa364a57fd65/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b0974688-0ebd-40ee-9da4-5582c3947228/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ac1f5dbd-b755-4a27-9b34-5f780630cef9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/69eaf937-a4c4-43e2-b163-0f52945ca4b9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/66fa0cae-b5af-4f3b-a2d7-3e00d41a3b5c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a1f26109-8331-446e-b8f7-9829654b243d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=21a3240d-1b1b-4ef1-9990-4a791172d462&source=Website",
+    "available": "NOW"
   },
   {
     "id": 3194,
@@ -18291,48 +18422,6 @@
     "available": "8/10/26"
   },
   {
-    "id": 2808,
-    "uuid": "7f53f9c7-a442-40ee-9e13-a54490ca571b",
-    "address": "408 W Howry Ave, Unit 5, Deland, FL 32720",
-    "street": "408 W Howry Ave",
-    "city": "DeLand",
-    "rent": "$800",
-    "rent_val": 800,
-    "specs": "Studio, 1 ba, 485 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 485,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d453e2bb-b792-4668-997d-257717ee1c65/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7f53f9c7-a442-40ee-9e13-a54490ca571b",
-    "lat": 29.025976,
-    "lng": -81.3100396,
-    "title": "***Immediate Occupancy FOR THIS CHARMING 1 BEDROOM APARTMENT***",
-    "description": "Welcome to your new home in the heart of DeLand! This delightful first floor 485 square foot apartment is part of an intimate 11-unit multifamily building, offering a perfect blend of historic charm and modern convenience. Located just blocks away from downtown DeLand, Stetson University, and an array of shopping options, you'll enjoy the best of urban living with a small-town feel.\r\n\r\nJust a short walk to downtown DeLand, you'll have easy access to restaurants, shops, and entertainment. Stetson University is also nearby, making this an ideal location for students and faculty. Don't miss the opportunity to make this charming apartment your new home. Contact us today to schedule a tour and experience the perfect blend of historic elegance and modern living in the heart of DeLand.\r\n\r\nTo arrange your exclusive viewing, please contact us at 407-585-2721.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), cats and small dogs only. 2 pets maximum, This property is professionally managed by Atrium Management. \r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$40 Water Reimbursement \r\n$60 Group Rate Internet Fee\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $800 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $765 \n\n\n Available Now",
-    "terms": [
-      "Rent: $800",
-      "Application Fee: $95",
-      "Security Deposit: $765",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d453e2bb-b792-4668-997d-257717ee1c65/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/53bd55be-fb1f-49f4-bec4-330cc0609670/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/df527386-9fb3-46e2-956d-6e2cca7a23db/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f40e3e54-64b4-42c8-9b38-f542a8e71f1e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ab261b58-3537-4b00-8738-25c028bcf35e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/df506a21-71de-47ec-8d18-e642d035f9f2/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ad0fb936-aaae-4e1e-9f86-f4f9bbef3d60/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e25ea4cb-82b2-4998-bfe8-92ac27da65a8/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7f53f9c7-a442-40ee-9e13-a54490ca571b&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 2779,
     "uuid": "53bf8f98-bb91-4d82-b57f-b5bae679afc9",
     "address": "3005 E Jefferson Street , Orlando, FL 32803",
@@ -18892,7 +18981,7 @@
     "lat": 29.7066258,
     "lng": -82.3554654,
     "title": "Charming 2 Bedroom, 1 Bath Apartment - Newly Renovated!",
-    "description": "Beautifully Renovated 2 Bedroom, 1 Bathroom Apartment \u2013 Move-In Ready!\r\n\r\nWelcome to your new home! This beautifully renovated 2-bedroom, 1-bathroom apartment offers modern finishes and comfortable living in a stylish space.\r\n\r\nApartment Features:\r\n\r\nLuxury vinyl plank flooring throughout\r\nFreshly painted interior\r\nBrand-new quartz countertops\r\nNew bathroom vanity and updated light fixtures\r\nStainless steel kitchen appliances, including:\r\nRefrigerator\r\nRange\r\nDishwasher\r\nWasher and dryer hookups\r\nCentral air conditioning and heating\r\nLinen closet for extra storage\r\nPrivate patio\r\n\r\nThis thoughtfully updated home combines style, comfort, and functionality\u2014perfect for modern living.\r\n\r\nRental Requirements:\r\n\r\nMinimum 600 credit score\r\nMonthly income must be at least 3 times the rent\r\nNo prior evictions\r\n\r\nFees:\r\n\r\nSecurity Deposit: $1,250\r\nMonthly Pest Control Fee: $10.00\r\nPet Fee: $250 non-refundable (per pet)\r\nMonthly Pet Rent: $25 (per pet)\r\n\r\nContact us today to schedule your tour and make this beautiful apartment your new home!\r\n\r\nGladys Weeks/ Leasing Coordination \r\nCall me at 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,275 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,275 \n\n\n Available Now",
+    "description": "Beautifully Renovated 2 Bedroom, 1 Bathroom Apartment \u2013 Move-In Ready!\r\n\r\nWelcome to your new home! This beautifully renovated 2-bedroom, 1-bathroom apartment offers modern finishes and comfortable living in a stylish space.\r\n\r\nApartment Features:\r\n\r\nLuxury vinyl plank flooring throughout\r\nFreshly painted interior\r\nBrand-new quartz countertops\r\nNew bathroom vanity and updated light fixtures\r\nStainless steel kitchen appliances, including:\r\nRefrigerator\r\nRange\r\nDishwasher\r\nWasher and dryer hookups\r\nCentral air conditioning and heating\r\nLinen closet for extra storage\r\nPrivate patio\r\nThis thoughtfully updated home combines style, comfort, and functionality\u2014perfect for modern living.\r\n\r\nRental Requirements:\r\nMinimum 600 credit score\r\nMonthly income must be at least 3 times the rent\r\nNo prior evictions.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved.\r\nLandlord reference\r\nFees:\r\n\r\nSecurity Deposit: $1,250\r\nMonthly Pest Control Fee: $10.00\r\nPet Fee: $250 non-refundable (per pet)\r\nMonthly Pet Rent: $25 (per pet)\r\nAdministration fees only one time..$295.00\r\nRental Insurance.....$15.50\r\n\r\nContact us today to schedule your tour and make this beautiful apartment your new home!\r\n\r\nGladys Weeks/ Leasing Coordination \r\nCall me at 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,275 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,275 \n\n\n Available Now",
     "terms": [
       "Rent: $1,275",
       "Application Fee: $95",
@@ -21277,12 +21366,12 @@
     "lat": 28.7541758,
     "lng": -81.3671677,
     "title": "Beautiful 3 Bedroom, 2 Bathroom Condo in the Gated Notting Hill Community",
-    "description": "Welcome home to this beautifully updated 3-bedroom, 2-bathroom condo located in the highly sought-after Notting Hill community in Lake Mary! From the moment you walk through the door, you'll appreciate the spacious open floor plan, elegant crown molding, built-in shelving, and gorgeous wood-style flooring throughout the home.\r\n\r\nThe stylish kitchen is perfect for both everyday living and entertaining, featuring new granite countertops, abundant cabinetry, generous counter space, and a convenient breakfast bar. Enjoy meals in the adjacent dining area or host special occasions in the separate formal dining space just off the foyer.\r\n\r\nThe spacious primary suite offers a large walk-in closet, a private en-suite bathroom, and direct access to the screened-in patio\u2014an ideal spot to relax with your morning coffee or unwind after a long day. The additional bedrooms are generously sized and feature the same attractive flooring throughout.\r\n\r\nCommunity Amenities Include:\r\n\r\nTwo resort-style swimming pools\r\nElegant clubhouse with billiards room\r\nFitness center\r\nTennis courts\r\nPlayground\r\nBeautifully maintained grounds\r\n\r\nConveniently located just minutes from I-4, SR 417, SunRail, the Seminole Wekiva Trail, shopping, dining, and entertainment, this home offers the perfect combination of comfort and convenience.\r\n\r\nTop-Rated School Zone:\r\n\r\nHeathrow Elementary School\r\nMarkham Woods Middle School\r\nLake Mary High School\r\n\r\nPets: Negotiable with owner approval.\r\n\r\nDon't miss this exceptional opportunity to live in one of Lake Mary's most desirable communities!\r\n\r\nProfessionally leased by Atrium Management.\r\nCall 407-585-2721 today to schedule your private tour!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,250 \n\n\n Available 5/10/27",
+    "description": "Welcome home to this beautifully updated 3-bedroom, 2-bathroom condo located in the highly sought-after Notting Hill community in Lake Mary! From the moment you walk through the door, you'll appreciate the spacious open floor plan, elegant crown molding, built-in shelving, and gorgeous wood-style flooring throughout the home.\r\n\r\nThe stylish kitchen is perfect for both everyday living and entertaining, featuring new granite countertops, abundant cabinetry, generous counter space, and a convenient breakfast bar. Enjoy meals in the adjacent dining area or host special occasions in the separate formal dining space just off the foyer.\r\n\r\nThe spacious primary suite offers a large walk-in closet, a private en-suite bathroom, and direct access to the screened-in patio\u2014an ideal spot to relax with your morning coffee or unwind after a long day. The additional bedrooms are generously sized and feature the same attractive flooring throughout.\r\n\r\nCommunity Amenities Include:\r\n\r\nTwo resort-style swimming pools\r\nElegant clubhouse with billiards room\r\nFitness center\r\nTennis courts\r\nPlayground\r\nBeautifully maintained grounds\r\n\r\nConveniently located just minutes from I-4, SR 417, SunRail, the Seminole Wekiva Trail, shopping, dining, and entertainment, this home offers the perfect combination of comfort and convenience.\r\n\r\nTop-Rated School Zone:\r\n\r\nHeathrow Elementary School\r\nMarkham Woods Middle School\r\nLake Mary High School\r\n\r\nPets: Negotiable with owner approval.\r\n\r\nDon't miss this exceptional opportunity to live in one of Lake Mary's most desirable communities!\r\n\r\nProfessionally leased by Atrium Management.\r\nCall 407-585-2721 today to schedule your private tour!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,250 \n\n\n Available 8/15/26",
     "terms": [
       "Rent: $2,250",
       "Application Fee: $95",
       "Security Deposit: $2,250",
-      "Available 5/10/27"
+      "Available 8/15/26"
     ],
     "pets": [
       "Cats allowed",
@@ -21314,7 +21403,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fcd58a9a-3b92-401c-9e57-beb0a71991af&source=Website",
-    "available": "5/10/27"
+    "available": "8/15/26"
   },
   {
     "id": 949,
@@ -21478,11 +21567,11 @@
     "lat": 28.5573713,
     "lng": -81.3790944,
     "title": "Welcome to Uptown Place Condos \u2014 Premier Downtown Orlando Living!",
-    "description": "Welcome to Uptown Place Condos \u2014 Premier Downtown Orlando Living!\r\n\r\nExperience comfort and convenience in the highly sought-after community of Uptown Place Condos. This charming residence offers a functional open layout with modern finishes and a warm, inviting atmosphere that feels like home the moment you walk in.\r\n\r\nThe interior features granite countertops, wood laminate flooring, decorative tile in the bathroom, and elegant crown molding throughout. The kitchen has been recently upgraded with a brand-new stainless steel appliance package, including a refrigerator, microwave, stove, and dishwasher, providing both style and functionality. Ample cabinetry and a breakfast bar make the kitchen perfect for everyday living or entertaining guests. The spacious living area offers great natural light and flexible space for relaxing or working from home.\r\n\r\nResidents of Uptown Place enjoy resort-style amenities including a gorgeous community pool, fitness center, recreation room with TV and pool table, and beautifully maintained common areas. The property also offers assigned garage parking for added convenience and security.\r\n\r\nIdeally located just minutes from downtown Orlando, residents are within walking distance to Lake Ivanhoe, local restaurants, coffee shops, and shopping, with quick access to major highways and entertainment districts.\r\n\r\nZoned Schools: Princeton Elementary, College Park Middle, and Edgewater High School.\r\n\r\nAdditional Information:\r\n\r\n\u2022 $95 non-refundable application fee per adult\r\n\u2022 Pets negotiable with owner approval\r\n\u2022 Professionally managed by Atrium Management\r\n\r\nAdditional Fees:\r\n\r\n\u2022 Renters Insurance: $15.50\r\n\r\nRESIDENT INTERNET PACKAGE: Additional Fees Apply\r\n\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\nCall 407-585-2721 today to schedule your private showing \u2014 this one is a must-see!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,495 \n\n\n Available Now",
+    "description": "Welcome to Uptown Place Condos \u2014 Premier Downtown Orlando Living!\r\n\r\nExperience comfort and convenience in the highly sought-after community of Uptown Place Condos. This charming residence offers a functional open layout with modern finishes and a warm, inviting atmosphere that feels like home the moment you walk in.\r\n\r\nThe interior features granite countertops, wood laminate flooring, decorative tile in the bathroom, and elegant crown molding throughout. The kitchen has been recently upgraded with a brand-new stainless steel appliance package, including a refrigerator, microwave, stove, and dishwasher, providing both style and functionality. Ample cabinetry and a breakfast bar make the kitchen perfect for everyday living or entertaining guests. The spacious living area offers great natural light and flexible space for relaxing or working from home.\r\n\r\nResidents of Uptown Place enjoy resort-style amenities including a gorgeous community pool, fitness center, recreation room with TV and pool table, and beautifully maintained common areas. The property also offers assigned garage parking for added convenience and security.\r\n\r\nIdeally located just minutes from downtown Orlando, residents are within walking distance to Lake Ivanhoe, local restaurants, coffee shops, and shopping, with quick access to major highways and entertainment districts.\r\n\r\nZoned Schools: Princeton Elementary, College Park Middle, and Edgewater High School.\r\n\r\nAdditional Information:\r\n\r\n\u2022 $95 non-refundable application fee per adult\r\n\u2022 Pets negotiable with owner approval\r\n\u2022 Professionally managed by Atrium Management\r\n\r\nAdditional Fees:\r\n\r\n\u2022 Renters Insurance: $15.50\r\n\r\nRESIDENT INTERNET PACKAGE: Additional Fees Apply\r\n\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\nCall 407-585-2721 today to schedule your private showing \u2014 this one is a must-see!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,445 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,445 \n\n\n Available Now",
     "terms": [
-      "Rent: $1,495",
+      "Rent: $1,445",
       "Application Fee: $95",
-      "Security Deposit: $1,495",
+      "Security Deposit: $1,445",
       "Available Now"
     ],
     "pets": [

@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2253 Golfview St — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/4d109def-352d-4cc8-afee-f7537c96265c/large.jpg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4d109def-352d-4cc8-afee-f7537c96265c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/8570f22c-bbdd-4413-aaae-e6e2668ed58b/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/112b394f-4a9b-4d80-ba24-9f35bf185d3a/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1d401e00-ecf3-4dda-8d80-c1e6eaad6590/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/42fdcd8f-64ae-4f1d-9c7b-9348d10c2daf/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/36dd2436-25fa-4465-b39d-04a0bd81c4f1/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/2960f7d1-e4d7-4d73-84e6-06552169d837/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/fe5397ed-d727-4fea-bc41-ec35d5401b7d/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ed754589-bea9-479c-a2c0-d039e0fab287/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5b855756-47d4-4c97-ac9e-658e06ae271c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c5c3e8f8-4a5e-4f4a-866e-1c96684bc6a9/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/628cbdca-c745-4cfe-82eb-aa364a57fd65/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b0974688-0ebd-40ee-9da4-5582c3947228/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ac1f5dbd-b755-4a27-9b34-5f780630cef9/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/69eaf937-a4c4-43e2-b163-0f52945ca4b9/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/66fa0cae-b5af-4f3b-a2d7-3e00d41a3b5c/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(16)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a1f26109-8331-446e-b8f7-9829654b243d/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(17)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>3 Bedroom Home</h1>
+    <div class="sub">2253 Golfview St, Lakeland</div>
+    <div class="pricerow"><span class="p">$1,250/mo</span><span class="s">3 bd, 1 ba, 788 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=21a3240d-1b1b-4ef1-9990-4a791172d462&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Welcome to this charming 3-bedroom, 1-bathroom home located in the desirable area of Lakeland, FL. <br><br>This cozy house features stainless steel appliances, tile flooring throughout, and a convenient washer dryer hookup. The spacious backyard provides the perfect setting for outdoor gatherings and relaxation. <br><br>High-Speed Internet Built In – Enjoy the convenience of bulk internet service included with your lease! Every unit is equipped with blazing-fast 1 GIG speeds for only $60/month, provided through trusted national carriers such as AT&amp;T and Spectrum. No installation hassles, no waiting for service – just reliable, high-speed internet from the day you move in.<br><br>Don&#x27;t miss the opportunity to make this house your home sweet home. Contact us today to schedule a tour!<br><br>$250 Non Refundable Pet fee for any approved pet<br>$25 Per month pet rent<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,250 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $1,250 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,250</li><li>Application Fee: $95</li><li>Security Deposit: $1,250</li><li>Available Now</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/4d109def-352d-4cc8-afee-f7537c96265c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/8570f22c-bbdd-4413-aaae-e6e2668ed58b/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/112b394f-4a9b-4d80-ba24-9f35bf185d3a/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/1d401e00-ecf3-4dda-8d80-c1e6eaad6590/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/42fdcd8f-64ae-4f1d-9c7b-9348d10c2daf/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/36dd2436-25fa-4465-b39d-04a0bd81c4f1/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/2960f7d1-e4d7-4d73-84e6-06552169d837/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/fe5397ed-d727-4fea-bc41-ec35d5401b7d/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/ed754589-bea9-479c-a2c0-d039e0fab287/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/5b855756-47d4-4c97-ac9e-658e06ae271c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/c5c3e8f8-4a5e-4f4a-866e-1c96684bc6a9/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/628cbdca-c745-4cfe-82eb-aa364a57fd65/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/b0974688-0ebd-40ee-9da4-5582c3947228/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/ac1f5dbd-b755-4a27-9b34-5f780630cef9/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/69eaf937-a4c4-43e2-b163-0f52945ca4b9/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/66fa0cae-b5af-4f3b-a2d7-3e00d41a3b5c/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/a1f26109-8331-446e-b8f7-9829654b243d/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>
