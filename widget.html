@@ -398,6 +398,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         beds:(l.beds==null?null:l.beds), baths:(l.baths==null?null:l.baths),
         sqft:l.sqft||null, photo:l.photo||(l.photos&&l.photos[0])||'',
         available:l.available||'NOW', lat:l.lat, lng:l.lng,
+        // Lowercased marketing copy, used ONLY by the community-name fallback
+        // in apply(). Pre-lowered so we don't re-case it on every keystroke.
+        desc:(l.description||'').toLowerCase(),
         detail: CONFIG.DETAIL_BASE ? (CONFIG.DETAIL_BASE+l.id+'.html') : (l.appfolio_url||'#'),
         apply: l.apply_url||l.appfolio_url||'#'
       };
@@ -494,25 +497,51 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   }
 
   // ================= FILTER + RENDER =================
-  function resolveArea(qRaw){
-    if(!qRaw) return null;
-    var a=matchArea(qRaw);
-    if(a) return a;
-    var cached=GEO_CACHE[normQ(qRaw)];      // filled in by a previous geocodeArea()
-    return cached||null;
+  // The primary literal search: the fields a listing is genuinely "named" by.
+  // Deliberately EXCLUDES description — see the community-name fallback below.
+  function matchesText(l,q){
+    return (l.address||'').toLowerCase().indexOf(q)>=0
+        || (l.title||'').toLowerCase().indexOf(q)>=0
+        || (l.zip||'').indexOf(q)>=0
+        || (l.city||'').toLowerCase().indexOf(q)>=0;
   }
+  // How many listings sit inside an area — used to refuse a geocoded place that
+  // turns up nothing (almost always a same-named spot in another metro).
+  function countNear(a){
+    var n=0;
+    for(var i=0;i<DATA.length;i++){
+      var l=DATA[i];
+      if(l.lat!=null&&l.lng!=null&&milesBetween(a.lat,a.lng,l.lat,l.lng)<=a.mi) n++;
+    }
+    return n;
+  }
+  var GEO_TRIED = {};                        // queries we've already sent to the geocoder
   function apply(){
     var qRaw=$('#atr-q').value.trim();
     var q=qRaw.toLowerCase();
-    // A colloquial place ("four corners") can't match text — resolve it to a
-    // center+radius and search geographically instead of literally.
-    var AREA=resolveArea(qRaw);
-    // Literal text still wins when it actually hits something (e.g. someone
-    // typing a street or community name that IS in the data).
-    if(AREA && q && DATA.some(function(l){
-      return l.address.toLowerCase().indexOf(q)>=0 || (l.title||'').toLowerCase().indexOf(q)>=0
-          || (l.city||'').toLowerCase().indexOf(q)===0;
-    })) AREA=null;
+    // ===== SEARCH TIERS — our own data always beats an outside map lookup =====
+    // 1. literal match on address/title/city/zip  (unchanged behavior)
+    // 2. a known area alias                       ("four corners", "near disney")
+    // 3. community name in the marketing copy     ("Hammocks", "Champions")
+    // 4. geocode the phrase                       — ONLY if it yields listings
+    // Tier 3 exists because community names live only in the description: a
+    // search for "Hammocks" (our Gainesville properties) matched nothing, then
+    // got geocoded to a same-named spot in North Tampa. Descriptions are NOT
+    // searched when the normal fields already match, because that would wreck
+    // ordinary searches ("orlando" 73 -> 105 since other listings say "20
+    // minutes from Orlando"; "pool" 5 -> 273).
+    var AREA=null, USE_DESC=false;
+    var hasLiteral = !!q && DATA.some(function(l){ return matchesText(l,q); });
+    if(q && !hasLiteral){
+      AREA=matchArea(qRaw);                                        // tier 2
+      if(!AREA){
+        if(DATA.some(function(l){ return l.desc.indexOf(q)>=0; })) USE_DESC=true;  // tier 3
+        else {
+          var g=GEO_CACHE[normQ(qRaw)];                            // tier 4
+          if(g && countNear(g)>0) AREA=g;   // a geocode that finds nothing is not an answer
+        }
+      }
+    }
     setAreaNotice(AREA);
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
@@ -521,7 +550,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         if(l.lat==null||l.lng==null)return false;
         if(milesBetween(AREA.lat,AREA.lng,l.lat,l.lng)>AREA.mi)return false;
       }
-      else if(q && l.address.toLowerCase().indexOf(q)<0 && (l.title||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0)return false;
+      else if(q && !matchesText(l,q) && !(USE_DESC && l.desc.indexOf(q)>=0))return false;
       if(mn!=null && l.rent_val<mn)return false;
       if(mx!=null && l.rent_val>0 && l.rent_val>mx)return false;
       if(bd!=='' ){ if(bd==='0'){ if(l.beds!==0)return false; } else if((l.beds||0)<+bd)return false; }
@@ -532,6 +561,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(POLY){ if(l.lat==null||l.lng==null)return false; if(!inPolygon(l.lat,l.lng,POLY))return false; }
       return true;
     });
+    // A GEOCODED area that turns up nothing is almost certainly the wrong place
+    // (same name, different metro). Don't announce it — fall back to the plain
+    // "no matches" state rather than sending someone to another city.
+    if(AREA && AREA.geocoded && !rows.length){
+      AREA=null; setAreaNotice(null);
+    }
     var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
     if(AREA && !SORT_TOUCHED){
       // Area search: closest homes first, so the ones actually IN the area lead
@@ -569,10 +604,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         'size and I’ll look again — or open the full search above.';
     }
     syncUrl();
-    // Tier 2: a place we don't know, and the literal search found nothing —
-    // exactly the "empty map" bug. Look the place up once (cached), then redraw.
-    if(qRaw && !AREA && rows.length===0){
-      geocodeArea(qRaw, function(hit){ if(hit) apply(); });
+    // Tier 4: a place none of our own data knows, and the search found nothing —
+    // the "empty map" case. Look it up ONCE per query, and only redraw if the
+    // result actually contains listings (GEO_TRIED plus that check stop a
+    // cached, fruitless hit from re-entering apply() forever).
+    if(qRaw && !AREA && !USE_DESC && rows.length===0 && !GEO_TRIED[normQ(qRaw)]){
+      GEO_TRIED[normQ(qRaw)]=1;
+      geocodeArea(qRaw, function(hit){ if(hit && countNear(hit)>0) apply(); });
     }
   }
   function specVal(l){

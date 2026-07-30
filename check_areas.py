@@ -10,6 +10,7 @@ Run:  python3 check_areas.py
 Exits non-zero if any entry looks wrong.
 """
 import json
+import collections
 import math
 import pathlib
 import re
@@ -43,6 +44,59 @@ def load_areas():
     return out
 
 
+def check_search_tiers(rows):
+    """Guard the search tiers in widget.html against data drift.
+
+    A community name ("Hammocks", "Champions") appears ONLY in a listing's
+    marketing description, never in address/title/city. That is why a search for
+    one used to match nothing and then get geocoded to a same-named place in
+    another metro — the real "Hammocks meant Gainesville, showed North Tampa"
+    bug. The widget now falls back to descriptions, but ONLY when the normal
+    fields match nothing, so ordinary searches stay clean.
+
+    This asserts the data still supports both halves of that contract.
+    """
+    def primary(l, q):
+        return (q in (l.get("address") or "").lower()
+                or q in (l.get("title") or "").lower()
+                or q in (l.get("zip") or "")
+                or q in (l.get("city") or "").lower())
+
+    def desc(l, q):
+        return q in (l.get("description") or "").lower()
+
+    errors = []
+    print("search tiers:")
+    # 1. Community names must be reachable, and land in ONE metro.
+    for name, expect_city in (("hammocks", "Gainesville"), ("champions", None)):
+        prim = [l for l in rows if primary(l, name)]
+        fell = [l for l in rows if desc(l, name)]
+        if prim:
+            print(f"  note: '{name}' now matches primary fields ({len(prim)}) — "
+                  f"fallback no longer needed for it")
+            continue
+        if not fell:
+            errors.append(f"'{name}' matches NOTHING — the community-name fallback "
+                          f"can't find it, so it will be geocoded to another metro")
+            continue
+        cities = collections.Counter((l.get("city") or "?") for l in fell)
+        top, n = cities.most_common(1)[0]
+        print(f"  '{name}': {len(fell)} via description, top city {top} ({n})")
+        if expect_city and top != expect_city:
+            errors.append(f"'{name}' resolves to {top}, expected {expect_city}")
+
+    # 2. Ordinary searches must NOT need the fallback (it would flood them).
+    for q in ("orlando", "tampa", "pool", "gainesville"):
+        prim = sum(1 for l in rows if primary(l, q))
+        both = sum(1 for l in rows if primary(l, q) or desc(l, q))
+        if prim == 0:
+            errors.append(f"'{q}' no longer matches any primary field — it would "
+                          f"fall through to descriptions and return {both} results")
+        else:
+            print(f"  '{q}': {prim} primary (fallback stays off; would be {both})")
+    return errors
+
+
 def main():
     areas = load_areas()
     data = json.loads((HERE / "listings.json").read_text(encoding="utf-8"))
@@ -73,6 +127,8 @@ def main():
     if empty:
         print(f"note: {len(empty)} area(s) have no listings nearby right now "
               f"(fine — they honestly report 0): {', '.join(sorted(empty))}\n")
+    errors += check_search_tiers(rows)
+
     for e in errors:
         print(f"  ERROR  {e}")
     print(f"\n{'FAIL' if errors else 'OK'} — {len(errors)} problem(s)")
