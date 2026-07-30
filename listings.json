@@ -1,5 +1,143 @@
 [
   {
+    "id": 6262,
+    "uuid": "d9ea9593-a828-442a-ad6d-85d561d9bd76",
+    "address": "5492 Lake Margaret Drive Unit # 492 - 1811, Orlando, FL 32812",
+    "street": "5492 Lake Margaret Drive Unit # 492 - 1811",
+    "city": "Orlando",
+    "rent": "$1,350",
+    "rent_val": 1350,
+    "specs": "1 bd, 1 ba, 661 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 661,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d9ea9593-a828-442a-ad6d-85d561d9bd76",
+    "lat": 28.5053749,
+    "lng": -81.3162184,
+    "title": "Fairview",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,350 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/7/26",
+    "terms": [
+      "Rent: $1,350",
+      "Application Fee: $99",
+      "Available 11/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a53cdbe1-0455-4adb-a40c-f238c41f9682/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2da82640-aec3-4ff2-abe9-a1bfe24379dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f67400eb-2b33-47f2-8ab5-5417aa39dce8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b7fd92fd-6d4f-4528-8ca3-176a0b353be6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4eab16d-8622-45b1-8c2e-6d2ccd47d19a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a2c6ca03-7c3d-4ba0-97d2-f69c473dffed/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ab6c3dfe-9e7b-4a12-8e97-6a758ac368e2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5b77305-5241-408e-b99f-1c2b9f55c158/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed2bf3fb-840f-496d-b5bc-3ce26ed36d83/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a09674e3-01b3-48e2-bc72-3ab0f624da64/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43b3cfcb-8fcd-42c9-abf1-c1fb5005384f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d9ea9593-a828-442a-ad6d-85d561d9bd76&source=Website",
+    "available": "11/7/26"
+  },
+  {
+    "id": 6261,
+    "uuid": "24b092d9-5fbe-45ed-a33a-7d7403ffc260",
+    "address": "5326 Lake Margaret Drive Unit # 326 - 0702, Orlando, FL 32812",
+    "street": "5326 Lake Margaret Drive Unit # 326 - 0702",
+    "city": "Orlando",
+    "rent": "$1,390",
+    "rent_val": 1390,
+    "specs": "1 bd, 1 ba, 661 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 661,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/24b092d9-5fbe-45ed-a33a-7d7403ffc260",
+    "lat": 28.5040674,
+    "lng": -81.3164893,
+    "title": "Fairview",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,390 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/27/26",
+    "terms": [
+      "Rent: $1,390",
+      "Application Fee: $99",
+      "Available 10/27/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a53cdbe1-0455-4adb-a40c-f238c41f9682/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2da82640-aec3-4ff2-abe9-a1bfe24379dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f67400eb-2b33-47f2-8ab5-5417aa39dce8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b7fd92fd-6d4f-4528-8ca3-176a0b353be6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4eab16d-8622-45b1-8c2e-6d2ccd47d19a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a2c6ca03-7c3d-4ba0-97d2-f69c473dffed/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ab6c3dfe-9e7b-4a12-8e97-6a758ac368e2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5b77305-5241-408e-b99f-1c2b9f55c158/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed2bf3fb-840f-496d-b5bc-3ce26ed36d83/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a09674e3-01b3-48e2-bc72-3ab0f624da64/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43b3cfcb-8fcd-42c9-abf1-c1fb5005384f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=24b092d9-5fbe-45ed-a33a-7d7403ffc260&source=Website",
+    "available": "10/27/26"
+  },
+  {
+    "id": 6260,
+    "uuid": "ccd35ab0-df90-40bc-8264-efb651921b7e",
+    "address": "1491 Sunshadow Dr. # 213, Casselberry, FL 32707",
+    "street": "1491 Sunshadow Dr. # 213",
+    "city": "Casselberry",
+    "rent": "$1,473",
+    "rent_val": 1473,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ccd35ab0-df90-40bc-8264-efb651921b7e",
+    "lat": 28.6952836,
+    "lng": -81.3206275,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,473 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/7/26",
+    "terms": [
+      "Rent: $1,473",
+      "Application Fee: $79",
+      "Available 10/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ccd35ab0-df90-40bc-8264-efb651921b7e&source=Website",
+    "available": "10/7/26"
+  },
+  {
     "id": 6257,
     "uuid": "87c9237b-e721-48f4-9b41-a47c2bca9917",
     "address": "5260 Lake Margaret Drive Unit # 260 - 0101, Orlando, FL 32812",
@@ -13071,40 +13209,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a26435f0-3406-4670-8612-2c43af13b8a2&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5059,
-    "uuid": "ad54ceaa-143c-49a4-9a14-d65f16a4d30f",
-    "address": "500 Maury St Unit 213, Richmond, VA 23224",
-    "street": "500 Maury St Unit 213",
-    "city": "Richmond",
-    "rent": "$1,199",
-    "rent_val": 1199,
-    "specs": "Studio, 1 ba, 386 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 386,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ad54ceaa-143c-49a4-9a14-d65f16a4d30f",
-    "lat": 37.5209552,
-    "lng": -77.4351531,
-    "title": "Studio Apartment - Convenient to All of Richmond",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $1,199",
-      "Application Fee: $50",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2d74e577-8b67-4ce5-847a-ec8621582e10/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ad54ceaa-143c-49a4-9a14-d65f16a4d30f&source=Website",
     "available": "NOW"
   },
   {
