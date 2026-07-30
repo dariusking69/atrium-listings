@@ -9426,55 +9426,6 @@
     "available": "NOW"
   },
   {
-    "id": 5761,
-    "uuid": "6828be53-6697-40ec-b4dc-24f40b06017d",
-    "address": "7557 Arlington Expressway Unit D305, Jacksonville, FL 32211",
-    "street": "7557 Arlington Expressway Unit D305",
-    "city": "Jacksonville",
-    "rent": "$1,099",
-    "rent_val": 1099,
-    "specs": "1 bd, 1 ba, 725 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 725,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/eadcf1db-3c71-49b7-b7aa-4202cbe023e7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6828be53-6697-40ec-b4dc-24f40b06017d",
-    "lat": 30.3295094,
-    "lng": -81.5798272,
-    "title": "Renovated 1 Bed/1 Bath \u2013 Lease Now & Get Up to One Month Free!",
-    "description": "Now is the perfect time to make your move and take advantage of this limited-time special!\r\n\r\nLease today and enjoy up to one month free on select apartment homes. \r\n\r\nWith comfortable living spaces and a community designed to feel like home, this opportunity won\u2019t last long, reach out today before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,099",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/eadcf1db-3c71-49b7-b7aa-4202cbe023e7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/72c1660f-26bc-4c6f-9f82-976fcb83118c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/864434b2-00f4-48d7-9bb3-1063dbfe91cd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d6bb8c65-cf49-4081-a623-f846f38d25a1/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4d54ee29-7c11-4acb-9fb8-004425b5775b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b9290b02-c22a-4f8c-b4b5-c3cda7d45809/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c03c5e6c-e6d1-4116-b514-c02300874a07/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/65b5f4ff-f644-4673-90a8-d00fa910c0a6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/384ceb5c-d672-4b90-b850-d0fb045a98db/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ccee5fe9-60aa-4a88-96fd-38bd76b86099/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11c178ea-451e-46ce-b590-e0a0f574627b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5efa42ac-a1fd-4f29-baf2-b3b30ddf29e1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a2b9135-268a-443f-a8fc-e2b4b9879d4d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d1899458-0c02-478a-9b77-e5ee3c985701/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/31d94f5c-9057-4f90-8217-dd275b32989f/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6828be53-6697-40ec-b4dc-24f40b06017d&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5755,
     "uuid": "9c4e15bb-e892-4272-b282-a85900e18e85",
     "address": "27 Golf Terrace Dr Unit # 27-211, Winter Springs, FL 32708",
@@ -12251,55 +12202,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bafc2506-7458-4a05-99fa-94d5833fe073&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 5319,
-    "uuid": "d3add8b9-743c-4cb5-9f5e-7ee28f73e94f",
-    "address": "2401 Arlington Blvd #66, Charlottesville, VA 22903",
-    "street": "2401 Arlington Blvd #66",
-    "city": "Charlottesville",
-    "rent": "$1,995",
-    "rent_val": 1995,
-    "specs": "2 bd, 1 ba, 925 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 925,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0aa8221f-22bf-47ec-97b8-cc08f4c5a307/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d3add8b9-743c-4cb5-9f5e-7ee28f73e94f",
-    "lat": 38.0507285,
-    "lng": -78.507156,
-    "title": "Spacious 2-Bedroom Apartments in Charlottesville: Walk to UVA Law & Barracks Road",
-    "description": "Our two-bedroom apartments at The Jeffersonian deliver the perfect balance of space, comfort, and ultimate convenience in Charlottesville, VA. Designed with graduate students, roommates, and working professionals in mind, this thoughtfully designed floor plan is located within a short walking distance to the UVA School of Law, Darden, and premier local shopping.\r\n\r\nInside Your 2-Bedroom Home\r\nEach two-bedroom apartment is optimized for comfortable, everyday living, offering a layout that maximizes both privacy and shared spaces:\r\n\r\nBright, Open Living Areas: Generous natural light and a spacious central layout ideal for studying, working from home, or entertaining guests.\r\n\r\nFully Equipped Kitchens: Functional kitchens featuring modern appliances and plenty of cabinet space for meal prep.\r\n\r\nPrivate Patio or Balcony: Your own personal outdoor retreat to seamlessly extend your living space.\r\n\r\nAccess to Community Perks: Enjoy the convenience of our on-site laundry facilities and unbeatable pedestrian access directly to Barracks Road Shopping Center.\r\n\r\nReady to secure your two-bedroom apartment? View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n Admin Fee: $250 \n\n Application Fee: $60 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
-    "terms": [
-      "Rent: $1,995",
-      "Admin Fee: $250",
-      "Application Fee: $60",
-      "Security Deposit: $500",
-      "Available 8/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0aa8221f-22bf-47ec-97b8-cc08f4c5a307/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/db474ac2-9bee-4f8f-805b-5660efba18ac/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f4557268-a999-4788-af82-1c03ed55760a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ddcfa10-3363-4a98-999e-3c2df39ec978/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0c3bbce8-7142-4706-926c-0ff9a1839248/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d7f5fb09-4379-4f62-89e5-702bb960f385/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/74ee5a66-fff6-4dbb-9b57-b703797a7ee0/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c90100f6-3018-4941-aa69-db97bbf92e8b/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cfc4ca6e-3c79-4248-9613-bb5f9c5157e3/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9bee71df-86e3-456d-8a9b-588a5fdaa5d3/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/acf987c7-d476-4f32-93d1-1945f5eed12c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e7b0cac9-1903-4fe8-bf00-470b4a268f0e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b5e1b2c9-c94a-4ef0-88ef-f2b036b8bd57/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2105f56f-a9c6-4ae2-8fd4-4ecae2c1994c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d3add8b9-743c-4cb5-9f5e-7ee28f73e94f&source=Website",
-    "available": "8/10/26"
   },
   {
     "id": 5298,
