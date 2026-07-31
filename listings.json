@@ -1,5 +1,39 @@
 [
   {
+    "id": 6270,
+    "uuid": "1a09363a-1a57-447e-acbd-edbd8d0f6d61",
+    "address": "6715 Mission Club Blvd # 02-104, Orlando, FL 32821",
+    "street": "6715 Mission Club Blvd # 02-104",
+    "city": "Orlando",
+    "rent": "$2,320",
+    "rent_val": 2320,
+    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1126,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1a09363a-1a57-447e-acbd-edbd8d0f6d61",
+    "lat": 28.386396,
+    "lng": -81.4726922,
+    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft",
+    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,320 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/17/26",
+    "terms": [
+      "Rent: $2,320",
+      "Application Fee: $79",
+      "Available 8/17/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1a09363a-1a57-447e-acbd-edbd8d0f6d61&source=Website",
+    "available": "8/17/26"
+  },
+  {
     "id": 6269,
     "uuid": "b86bc796-fe34-4cb3-ad80-802f66969e43",
     "address": "5492 Lake Margaret Drive Unit # 492 - 1815, Orlando, FL 32812",
@@ -5583,40 +5617,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3444af90-3ee7-4e11-b7c9-580457b24d02&source=Website",
     "available": "8/25/26"
-  },
-  {
-    "id": 6047,
-    "uuid": "521b15c1-9668-4826-9bfa-1643c3a1d819",
-    "address": "6600 Mission Club Blvd # 13-104, Orlando, FL 32821",
-    "street": "6600 Mission Club Blvd # 13-104",
-    "city": "Orlando",
-    "rent": "$1,899",
-    "rent_val": 1899,
-    "specs": "2 bd, 2 ba, 1,082 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1082,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/521b15c1-9668-4826-9bfa-1643c3a1d819",
-    "lat": 28.3886525,
-    "lng": -81.4724034,
-    "title": "Capistrano\u2013 2 Bedroom, 2 Bathroom | 1082 sq.ft.",
-    "description": "Welcome home to the Capistrano, where modern comfort meets everyday convenience! With 1082 sq. ft. of smartly designed living space, this 2-bedroom, 2-bathroom layout is ideal for roommates, small families, or anyone who loves having a little extra room to relax and live comfortably.\r\n\r\nEnjoy an open-concept living and dining area that flows beautifully into a fully equipped kitchen, perfect for cooking, entertaining, or just hanging out. Each bedroom features its own private bathroom, giving everyone their own space and privacy. Plus, with a washer and dryer right in your home, laundry day couldn\u2019t be easier.\r\n\r\nStep outside and take advantage of resort-style community amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,082 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,899 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/18/26",
-    "terms": [
-      "Rent: $1,899",
-      "Application Fee: $79",
-      "Available 8/18/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=521b15c1-9668-4826-9bfa-1643c3a1d819&source=Website",
-    "available": "8/18/26"
   },
   {
     "id": 6042,
@@ -14701,6 +14701,54 @@
     "available": "8/10/26"
   },
   {
+    "id": 4136,
+    "uuid": "b85eef44-6cf6-42f6-90cf-b7962047ca30",
+    "address": "740 Suncrest Loop # 206, Casselberry, FL 32707",
+    "street": "740 Suncrest Loop # 206",
+    "city": "Casselberry",
+    "rent": "$1,532 - $1,624",
+    "rent_val": 1532,
+    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 988,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3fda6c57-0e87-4ec4-9b31-394a602f013b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b85eef44-6cf6-42f6-90cf-b7962047ca30",
+    "lat": 28.6943294,
+    "lng": -81.3202861,
+    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,532 - $1,624 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/8/26",
+    "terms": [
+      "Rent: $1,532 - $1,624",
+      "Application Fee: $79",
+      "Available 8/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3fda6c57-0e87-4ec4-9b31-394a602f013b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8eec149e-14c3-43a9-a0e3-5b4972a548a1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b00db43e-6c88-49d4-b4d9-7ba3c15f1df3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0f31caa2-ca19-4f1f-aa7c-1cffe7fa90db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/996401b3-a44b-44b4-834d-909c66b52d2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/447b579e-5148-4b2a-bf02-da22c77439d3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a87bd9ba-196a-443e-8a84-488f24369992/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/106ce510-0e3d-43d5-ba39-57929eb41563/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0cce7bf5-97ea-494b-8fe0-dbfd3b6091fc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c40e7479-4556-42aa-ad6b-965cee4cf11d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0680edf5-b86c-4dfe-9c8f-cff5978e7abe/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ce0801db-9348-4c4b-b054-0cd72c861135/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ca47b544-6012-4316-b4b5-e48ede870796/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d69e9fc7-f4ab-4131-9dd8-2460cc12fe16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f2f2d112-a5d9-43b5-b2c7-9e067b79f765/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b85eef44-6cf6-42f6-90cf-b7962047ca30&source=Website",
+    "available": "8/8/26"
+  },
+  {
     "id": 4013,
     "uuid": "80e36a2b-d03a-4f3a-9866-0d14d0615fad",
     "address": "7557 Arlington Expressway Unit F108, Jacksonville, FL 32211",
@@ -15212,40 +15260,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=28f2b7dd-82fb-4904-b159-f89068c61782&source=Website",
     "available": "9/8/26"
-  },
-  {
-    "id": 3758,
-    "uuid": "550d57ad-42c9-4669-b710-0fd514ed9d66",
-    "address": "1363 W. Broad Street, # 317, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$1,749",
-    "rent_val": 1749,
-    "specs": "2 bd, 2 ba, 1,079 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1079,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/550d57ad-42c9-4669-b710-0fd514ed9d66",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "B3",
-    "description": "Rental Terms \n \n Rent: $1,749 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $1,749",
-      "Application Fee: $55",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=550d57ad-42c9-4669-b710-0fd514ed9d66&source=Website",
-    "available": "NOW"
   },
   {
     "id": 3755,
@@ -18074,51 +18088,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e9009913-8eb4-4d28-a4ee-7ab1ab494cdd&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 2931,
-    "uuid": "7789b7ef-4aa6-49da-a909-cf799ccef816",
-    "address": "30 N Primrose Dr, 1/2, Orlando, FL 32803",
-    "street": "30 N Primrose Dr",
-    "city": "Orlando",
-    "rent": "$1,100",
-    "rent_val": 1100,
-    "specs": "1 bd, 1 ba, 580 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 580,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9441d7f8-fc37-4a95-b58b-21b5034a582f/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7789b7ef-4aa6-49da-a909-cf799ccef816",
-    "lat": 28.5434373,
-    "lng": -81.3479427,
-    "title": "Quaint 1-Bedroom Apartment in the Heart of Orlando's Milk District Ready for You!!!",
-    "description": "Discover urban living at its finest in this charming Top Floor, 1-bedroom, 1-bath apartment located in the vibrant Milk District of downtown Orlando. With a prime location just minutes from the 408 and I-4, this apartment offers unmatched convenience to shopping, dining, and major employers.\r\n\r\nApartment Features:\r\nSpacious Layout: Comfortable and well-designed.\r\nComfortable Living: Cozy living area and private bedroom to unwind after a busy day.\r\n\r\nLocation Highlights:\r\nPrime Downtown Living: Situated in the trendy Milk District, known for its eclectic vibe and walkable streets.\r\nConvenient Commute: Easy access to the 408 and I-4, putting you minutes from downtown Orlando and beyond.\r\nClose to Everything: Steps away from boutique shopping, diverse restaurants, lively nightlife, and major employers.\r\nEnjoy the perfect blend of city living and neighborhood charm in this ideal downtown Orlando location.\r\n\r\nAdditional Fees-\r\nRenters Insurance- $15.50\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\nPets are considered with owner approval, additional fees may apply.\r\n\r\nThis home is professionally leased and managed by Atrium Management.\r\nCall us today at (407) 585-2721 to schedule a tour and experience the charm and convenience of this home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,100 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,100 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,100",
-      "Application Fee: $95",
-      "Security Deposit: $1,100",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9441d7f8-fc37-4a95-b58b-21b5034a582f/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9a36404f-83ab-454d-8822-bad160bc99f4/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/02088895-2419-403d-9d7d-094850668cd2/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/abaeacde-cb6c-4be9-8bd2-afa9923875fc/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/af935924-6da9-4df6-93f0-18cf859d77c0/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4f22c4a8-4d86-4704-b43c-da612ef5a486/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f32e5575-cefc-4b41-ac9e-d8535aa1b6ae/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/08dac672-b90c-4d40-8978-29460e1d4faf/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b0743d67-af7a-4384-93fb-cad4d0c307ac/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/63720a29-eafa-4590-b093-242ed2b75ae0/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5cebc97d-b7e8-48ee-89b6-55a6e669badb/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7789b7ef-4aa6-49da-a909-cf799ccef816&source=Website",
     "available": "NOW"
   },
   {
