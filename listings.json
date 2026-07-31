@@ -1,5 +1,57 @@
 [
   {
+    "id": 6274,
+    "uuid": "785f93e2-7867-44ae-b3fa-b0360567be9a",
+    "address": "744 Suncrest Loop # 300, Casselberry, FL 32707",
+    "street": "744 Suncrest Loop # 300",
+    "city": "Casselberry",
+    "rent": "$1,389",
+    "rent_val": 1389,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/785f93e2-7867-44ae-b3fa-b0360567be9a",
+    "lat": 28.6944762,
+    "lng": -81.3204705,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,389 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/8/26",
+    "terms": [
+      "Rent: $1,389",
+      "Application Fee: $79",
+      "Available 8/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47f1322e-8341-425b-b4b2-88b503d12480/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/87c8904d-fef1-4c19-9c2d-07a506b48e35/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/92be7ef9-4dce-406f-826e-b5d38724efae/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f7feac11-b95d-42e3-80a7-2388fa3fb8ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e3dcf803-dfa5-4139-9011-8a2ad81ac851/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81cb7668-9406-490d-894b-fd0486be3421/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/803da989-d3ec-422f-855a-0bad2ed8ae67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd634cd1-4920-4d95-aa03-89cc054e2821/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc62a193-9420-4571-a0b6-048505bc8f58/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/417650c8-5ae4-4ec7-a9c6-6e5ff6764f70/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eb80cf8e-e99e-4bd6-99f6-48061200db4e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/866ecd63-14a0-4a69-a9cf-0ee7c39279e6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6448bd58-936b-4ab0-a4b9-081bae9b3fb9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e8a0e8e-3d04-4cbe-9534-c1f59d711459/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5fa8957a-bdd2-4371-9576-86d25585deb0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/90182590-c6eb-4b81-ac9f-10feaef278db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e8b6fada-e945-44f9-b3db-e8b5b3d10418/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a88f296b-f6eb-4304-9aa2-d4dda05a075b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=785f93e2-7867-44ae-b3fa-b0360567be9a&source=Website",
+    "available": "8/8/26"
+  },
+  {
     "id": 6273,
     "uuid": "2464f782-ce31-41ec-be68-b587beb1f6f8",
     "address": "5236 Lake Margaret Drive Unit # 236 - 0610, Orlando, FL 32812",
