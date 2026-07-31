@@ -1,5 +1,84 @@
 [
   {
+    "id": 6273,
+    "uuid": "2464f782-ce31-41ec-be68-b587beb1f6f8",
+    "address": "5236 Lake Margaret Drive Unit # 236 - 0610, Orlando, FL 32812",
+    "street": "5236 Lake Margaret Drive Unit # 236 - 0610",
+    "city": "Orlando",
+    "rent": "$1,410",
+    "rent_val": 1410,
+    "specs": "1 bd, 1 ba, 780 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 780,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2464f782-ce31-41ec-be68-b587beb1f6f8",
+    "lat": 28.5047079,
+    "lng": -81.3177041,
+    "title": "780 sq ft Woodhaven",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $1,410",
+      "Application Fee: $99",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2464f782-ce31-41ec-be68-b587beb1f6f8&source=Website",
+    "available": "9/10/26"
+  },
+  {
+    "id": 6272,
+    "uuid": "7e808441-e910-4f8f-af30-5aab894682c0",
+    "address": "20 Laurel Oaks Dr Unit # 20-206, Winter Springs, FL 32708",
+    "street": "20 Laurel Oaks Dr Unit # 20-206",
+    "city": "Winter Springs",
+    "rent": "$1,584",
+    "rent_val": 1584,
+    "specs": "2 bd, 2 ba, 1,210 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1210,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/09bb1f46-4455-49fb-a3f4-dbe9dd29c75b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7e808441-e910-4f8f-af30-5aab894682c0",
+    "lat": 28.6998206,
+    "lng": -81.3223694,
+    "title": "2 Bedroom 2 Bathroom Townhome",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,584 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/11/26",
+    "terms": [
+      "Rent: $1,584",
+      "Application Fee: $79",
+      "Available 9/11/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/09bb1f46-4455-49fb-a3f4-dbe9dd29c75b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bb521017-f66c-4e1e-b6b2-5c1ac66f0586/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1135780-90bf-462d-a964-487cbb191a25/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5526e9f0-be1e-4757-88dc-e057ed68523f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3a2bf49d-e852-4ae6-8397-5aa7e182ccbb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/730fc289-e5a3-4c57-ab6c-ae5a1ae2ab59/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cbbcf989-0bcd-4d9e-986f-4ca845465bb8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f327ca81-5def-49e7-9db6-3c6357ed9b4b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e39f6fd-6172-4db9-a44c-65f2d66f045b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e591377b-2b8a-474c-b856-793b2470dce2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd9d63d0-47d9-40be-a6f5-9a568c8804b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8c21937c-2dea-4814-bf9d-492703ec386e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7e808441-e910-4f8f-af30-5aab894682c0&source=Website",
+    "available": "9/11/26"
+  },
+  {
     "id": 6271,
     "uuid": "3313bf84-5e71-4f51-bcd7-b0a770e6c18e",
     "address": "736 Suncrest Loop # 200, Casselberry, FL 32707",
@@ -4228,36 +4307,6 @@
     "available": "8/31/26"
   },
   {
-    "id": 6105,
-    "uuid": "38df859e-5868-435a-90df-825ee8044b4d",
-    "address": "210 W Hyde Park Pl Unit 210-2, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 210-2",
-    "city": "Tampa",
-    "rent": "$2,099",
-    "rent_val": 2099,
-    "specs": "2 bd, 2 ba, 790 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 790,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/38df859e-5868-435a-90df-825ee8044b4d",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 2-Bedroom Flats (790-1,100 SF), Hyde Park, Tampa",
-    "description": "Spread out in a two-bedroom home at Beach Flats, ranging from 790 to 1,100 square feet in the heart of historic Hyde Park. Custom tile and stainless steel appliances outfit the kitchen, while select units include a wrap-around porch for extra outdoor living space \u2014 a rarity in this walkable pocket of South Tampa. Residents gather at the courtyard fire pit, grill kitchen, and covered bike rack, all inside a smoke-free, gated community minutes from Hyde Park Village and downtown Tampa. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,099 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $2,099",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=38df859e-5868-435a-90df-825ee8044b4d&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6104,
     "uuid": "98f0a06d-d2fe-4266-866a-1b7b48985dd2",
     "address": "5236 Lake Margaret Drive Unit # 236 - 0603, Orlando, FL 32812",
@@ -8122,8 +8171,8 @@
   {
     "id": 5875,
     "uuid": "457e019d-9a03-4a23-91a3-f68d6a3e46b7",
-    "address": "4001 E Michigan St, Orlando, FL 32812",
-    "street": "4001 E Michigan St",
+    "address": "4001 E Michigan St - Unit 4001, Orlando, FL 32812",
+    "street": "4001 E Michigan St - Unit 4001",
     "city": "Orlando",
     "rent": "$1,095",
     "rent_val": 1095,
@@ -9189,40 +9238,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=95e509f5-ba71-4ff3-b76b-8dd9a3b5a657&source=Website",
     "available": "8/8/26"
-  },
-  {
-    "id": 5799,
-    "uuid": "0f4d8c96-3a04-41c7-a6a9-8ed0d61f731f",
-    "address": "5224 Lake Margaret Drive Unit # 224 - 0910, Orlando, FL 32812",
-    "street": "5224 Lake Margaret Drive Unit # 224 - 0910",
-    "city": "Orlando",
-    "rent": "$1,599",
-    "rent_val": 1599,
-    "specs": "2 bd, 2 ba, 1,009 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1009,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/55382576-edc6-4a0d-bf8e-6d1399003f57/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0f4d8c96-3a04-41c7-a6a9-8ed0d61f731f",
-    "lat": 28.5040831,
-    "lng": -81.3170386,
-    "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/22/26",
-    "terms": [
-      "Rent: $1,599",
-      "Application Fee: $99",
-      "Available 8/22/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/55382576-edc6-4a0d-bf8e-6d1399003f57/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0f4d8c96-3a04-41c7-a6a9-8ed0d61f731f&source=Website",
-    "available": "8/22/26"
   },
   {
     "id": 5798,
@@ -12447,52 +12462,6 @@
     "available": "9/7/26"
   },
   {
-    "id": 5358,
-    "uuid": "64139ac6-25bd-4ac0-a443-32dfedbf28ee",
-    "address": "13 Cherry Laurel Ct Unit # 13-106, Winter Springs, FL 32708",
-    "street": "13 Cherry Laurel Ct Unit # 13-106",
-    "city": "Winter Springs",
-    "rent": "$1,266",
-    "rent_val": 1266,
-    "specs": "1 bd, 1 ba, 822 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 822,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/64139ac6-25bd-4ac0-a443-32dfedbf28ee",
-    "lat": 28.7022165,
-    "lng": -81.3227799,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,266 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,576 \n\n\n Available 8/8/26",
-    "terms": [
-      "Rent: $1,266",
-      "Application Fee: $79",
-      "Security Deposit: $1,576",
-      "Available 8/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8581e339-99ff-4864-8934-1a8e136ff4f1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f14a7066-d722-4172-a178-4d5316c4d678/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4de86026-e306-4268-849c-aa0d311a7d66/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/20526b43-7db2-4396-bb64-871c8f8c3c76/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/862a3268-73e8-4ea5-910e-2297d153c813/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7d07ffa5-0ef9-4e82-8ba6-37e6d3315896/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3f1a8684-0cac-4ad3-bce6-539ac8fe5f9d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/895debd5-60aa-42f2-8e4c-4c579f97c005/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/de8083df-94fd-4ae7-8a2f-dd3a18ac680f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e1500564-1657-4b5f-9908-5328cba93bb4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/adba0cd4-2556-4a0a-877a-0b94318804a3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=64139ac6-25bd-4ac0-a443-32dfedbf28ee&source=Website",
-    "available": "8/8/26"
-  },
-  {
     "id": 5327,
     "uuid": "bafc2506-7458-4a05-99fa-94d5833fe073",
     "address": "4800 Atlantic Blvd Unit J148, Jacksonville, FL 32207",
@@ -13342,41 +13311,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec46a35c-b221-4283-a73a-fb3a7323627b&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 5102,
-    "uuid": "947b1b17-54b5-45ac-9ab1-3b9798b24ac9",
-    "address": "1363 W. Broad Street, # 309, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$1,599",
-    "rent_val": 1599,
-    "specs": "2 bd, 2 ba, 1,079 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1079,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/947b1b17-54b5-45ac-9ab1-3b9798b24ac9",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "B3",
-    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available 8/25/26",
-    "terms": [
-      "Rent: $1,599",
-      "Application Fee: $55",
-      "Security Deposit: $500",
-      "Available 8/25/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5e1951af-abc2-4605-be6c-ce6a56fc33e2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=947b1b17-54b5-45ac-9ab1-3b9798b24ac9&source=Website",
-    "available": "8/25/26"
   },
   {
     "id": 5057,
@@ -16346,6 +16280,41 @@
     "available": "8/28/26"
   },
   {
+    "id": 3474,
+    "uuid": "3debaf89-d6f7-4634-a9f9-3390b231ad10",
+    "address": "1363 W. Broad Street, # 342, Richmond, VA 23220",
+    "street": "1363 W. Broad Street",
+    "city": "Richmond",
+    "rent": "$1,399",
+    "rent_val": 1399,
+    "specs": "1 bd, 1 ba, 699 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 699,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e0d3b305-6818-4bb9-b1aa-da28d36eaa5a/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3debaf89-d6f7-4634-a9f9-3390b231ad10",
+    "lat": 37.5535353,
+    "lng": -77.4555948,
+    "title": "A4",
+    "description": "Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,399",
+      "Application Fee: $55",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e0d3b305-6818-4bb9-b1aa-da28d36eaa5a/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3debaf89-d6f7-4634-a9f9-3390b231ad10&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 3472,
     "uuid": "477f70da-a9f8-4a89-9d26-fa97882e0732",
     "address": "1363 W. Broad Street, # 316, Richmond, VA 23220",
@@ -16386,8 +16355,8 @@
     "address": "600 W. Main Street #508, Charlottesville, VA 22903",
     "street": "600 W. Main Street #508",
     "city": "Charlottesville",
-    "rent": "$3,550",
-    "rent_val": 3550,
+    "rent": "$3,250",
+    "rent_val": 3250,
     "specs": "2 bd, 2 ba, 1,109 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
