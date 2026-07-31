@@ -409,6 +409,36 @@
     "available": "9/17/26"
   },
   {
+    "id": 6254,
+    "uuid": "d36987f6-4fdc-47c9-a817-acf61e211399",
+    "address": "210 W Hyde Park Pl Unit 214-1, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 214-1",
+    "city": "Tampa",
+    "rent": "$1,174",
+    "rent_val": 1174,
+    "specs": "Studio, 1 ba, 329 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 329,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d36987f6-4fdc-47c9-a817-acf61e211399",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | Studio Flat, Hyde Park, Tampa",
+    "description": "Start your Tampa story in a smartly designed Hyde Park studio, ranging from 329 to 492 square feet at Beach Flats. Each home is finished with custom tile and stainless steel appliances, and residents share access to a gated courtyard, fire-pit lounge, outdoor grill kitchen, and covered bike storage. It's a smoke-free, pet-friendly community just minutes from Bayshore Boulevard, Hyde Park Village, and the Riverwalk \u2014 perfect for professionals who want an efficient home base near everything South Tampa has to offer. Schedule a private tour today to find your fit.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,174 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/7/26",
+    "terms": [
+      "Rent: $1,174",
+      "Application Fee: $95",
+      "Available 8/7/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d36987f6-4fdc-47c9-a817-acf61e211399&source=Website",
+    "available": "8/7/26"
+  },
+  {
     "id": 6253,
     "uuid": "fdb064bb-8446-40d1-8c45-bb64bf173cc8",
     "address": "1001 Valencia Isle Dr, Orlando, FL 32825",
@@ -1631,40 +1661,6 @@
     "available": "NOW"
   },
   {
-    "id": 6195,
-    "uuid": "868112fa-bd54-47c3-b00a-3d8d23babffc",
-    "address": "500 Maury St Unit 331, Richmond, VA 23224",
-    "street": "500 Maury St Unit 331",
-    "city": "Richmond",
-    "rent": "$1,450",
-    "rent_val": 1450,
-    "specs": "1 bd, 1 ba, 598 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 598,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/868112fa-bd54-47c3-b00a-3d8d23babffc",
-    "lat": 37.5209552,
-    "lng": -77.4351531,
-    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $1,450",
-      "Application Fee: $50",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=868112fa-bd54-47c3-b00a-3d8d23babffc&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6194,
     "uuid": "c1c72454-4ede-4817-a6ab-49e6ba5ba41e",
     "address": "2173 Harrison St, Titusville, FL 32780",
@@ -2426,6 +2422,35 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c07ced8d-cf30-41f5-bdb0-6e28cd3b94fb&source=Website",
     "available": "10/27/26"
+  },
+  {
+    "id": 6161,
+    "uuid": "cd2f10d1-1583-40f1-ac41-53a08853c18e",
+    "address": "5009 S West Shore Blvd Unit 59-5215, Tampa, FL 33611",
+    "street": "5009 S West Shore Blvd Unit 59-5215",
+    "city": "Tampa",
+    "rent": "$1,724",
+    "rent_val": 1724,
+    "specs": "2 bd, 1 ba, 889 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 889,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cd2f10d1-1583-40f1-ac41-53a08853c18e",
+    "lat": 27.8909617,
+    "lng": -82.5270743,
+    "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,724 \n\n\n\n\n\n\n\n Available 8/5/26",
+    "terms": [
+      "Rent: $1,724",
+      "Available 8/5/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cd2f10d1-1583-40f1-ac41-53a08853c18e&source=Website",
+    "available": "8/5/26"
   },
   {
     "id": 6160,
@@ -3537,6 +3562,36 @@
     "available": "NOW"
   },
   {
+    "id": 6121,
+    "uuid": "c79d027f-2e97-4f98-b0d4-69a7c75d406c",
+    "address": "227 S Armenia Ave Unit 25, Tampa, FL 33609",
+    "street": "227 S Armenia Ave Unit 25",
+    "city": "Tampa",
+    "rent": "$1,597",
+    "rent_val": 1597,
+    "specs": "1 bd, 1 ba, 523 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 523,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c79d027f-2e97-4f98-b0d4-69a7c75d406c",
+    "lat": 27.9421021,
+    "lng": -82.4852802,
+    "title": "Case Residences | 1-Bedroom Flat in Palma Ceia, Tampa",
+    "description": "Settle into Case Residences' most efficient layout \u2014 a 523-square-foot one-bedroom, one-bath home finished with vinyl wood flooring, stainless steel appliances, and an in-unit washer and dryer. Mirrored closets add a polished touch, while gated grounds keep the community quiet and secure. Just outside your door, enjoy a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court \u2014 resort-style amenities minutes from Bayshore Boulevard and SoHo's nightlife. Pet-friendly and smoke-free. Schedule a private tour today to see this Palma Ceia home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,597 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "terms": [
+      "Rent: $1,597",
+      "Application Fee: $95",
+      "Available 8/5/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c79d027f-2e97-4f98-b0d4-69a7c75d406c&source=Website",
+    "available": "8/5/26"
+  },
+  {
     "id": 6120,
     "uuid": "74ce5c98-73d7-4b82-9da0-2dc307799df1",
     "address": "227 S Armenia Ave Unit 24, Tampa, FL 33609",
@@ -3837,6 +3892,66 @@
     "available": "8/5/26"
   },
   {
+    "id": 6109,
+    "uuid": "8ab2641f-07a1-474c-bb98-0bff0a01bde4",
+    "address": "210 W Hyde Park Pl Unit 214-8, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 214-8",
+    "city": "Tampa",
+    "rent": "$1,399",
+    "rent_val": 1399,
+    "specs": "1 bd, 1 ba, 500 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 500,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8ab2641f-07a1-474c-bb98-0bff0a01bde4",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
+    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,399",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8ab2641f-07a1-474c-bb98-0bff0a01bde4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6108,
+    "uuid": "c0dc48b7-d353-4b21-bd2c-162ecef9234c",
+    "address": "210 W Hyde Park Pl Unit 214-4, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 214-4",
+    "city": "Tampa",
+    "rent": "$1,399",
+    "rent_val": 1399,
+    "specs": "1 bd, 1 ba, 500 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 500,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c0dc48b7-d353-4b21-bd2c-162ecef9234c",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
+    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $75 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,399",
+      "Application Fee: $75",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c0dc48b7-d353-4b21-bd2c-162ecef9234c&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6107,
     "uuid": "167b45df-a29e-48ff-b7fd-df8bcc4aaae7",
     "address": "210 W Hyde Park Pl Unit 213-3, Tampa, FL 33606",
@@ -3864,6 +3979,66 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=167b45df-a29e-48ff-b7fd-df8bcc4aaae7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6106,
+    "uuid": "0f17a620-5767-4666-9967-d3b5afe099db",
+    "address": "210 W Hyde Park Pl Unit 211-6, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 211-6",
+    "city": "Tampa",
+    "rent": "$1,599",
+    "rent_val": 1599,
+    "specs": "1 bd, 1 ba, 465 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 465,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0f17a620-5767-4666-9967-d3b5afe099db",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
+    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
+    "terms": [
+      "Rent: $1,599",
+      "Application Fee: $95",
+      "Available 8/31/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0f17a620-5767-4666-9967-d3b5afe099db&source=Website",
+    "available": "8/31/26"
+  },
+  {
+    "id": 6105,
+    "uuid": "38df859e-5868-435a-90df-825ee8044b4d",
+    "address": "210 W Hyde Park Pl Unit 210-2, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 210-2",
+    "city": "Tampa",
+    "rent": "$2,099",
+    "rent_val": 2099,
+    "specs": "2 bd, 2 ba, 790 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 790,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/38df859e-5868-435a-90df-825ee8044b4d",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | 2-Bedroom Flats (790-1,100 SF), Hyde Park, Tampa",
+    "description": "Spread out in a two-bedroom home at Beach Flats, ranging from 790 to 1,100 square feet in the heart of historic Hyde Park. Custom tile and stainless steel appliances outfit the kitchen, while select units include a wrap-around porch for extra outdoor living space \u2014 a rarity in this walkable pocket of South Tampa. Residents gather at the courtyard fire pit, grill kitchen, and covered bike rack, all inside a smoke-free, gated community minutes from Hyde Park Village and downtown Tampa. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,099 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $2,099",
+      "Application Fee: $95",
+      "Available Now"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=38df859e-5868-435a-90df-825ee8044b4d&source=Website",
     "available": "NOW"
   },
   {
@@ -12235,52 +12410,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bafc2506-7458-4a05-99fa-94d5833fe073&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 5298,
-    "uuid": "c222c77e-8aaf-4e3d-a1f0-3b9be2d5c301",
-    "address": "17 Parkinsonia Ct Unit # 17-101, Winter Springs, FL 32708",
-    "street": "17 Parkinsonia Ct Unit # 17-101",
-    "city": "Winter Springs",
-    "rent": "$1,303 - $1,391",
-    "rent_val": 1303,
-    "specs": "1 bd, 1 ba, 822 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 822,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c222c77e-8aaf-4e3d-a1f0-3b9be2d5c301",
-    "lat": 28.7009621,
-    "lng": -81.3229801,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,303 - $1,391 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,576 \n\n\n Available 8/1/26",
-    "terms": [
-      "Rent: $1,303 - $1,391",
-      "Application Fee: $79",
-      "Security Deposit: $1,576",
-      "Available 8/1/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8581e339-99ff-4864-8934-1a8e136ff4f1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f14a7066-d722-4172-a178-4d5316c4d678/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4de86026-e306-4268-849c-aa0d311a7d66/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/20526b43-7db2-4396-bb64-871c8f8c3c76/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/862a3268-73e8-4ea5-910e-2297d153c813/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7d07ffa5-0ef9-4e82-8ba6-37e6d3315896/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3f1a8684-0cac-4ad3-bce6-539ac8fe5f9d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/895debd5-60aa-42f2-8e4c-4c579f97c005/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/de8083df-94fd-4ae7-8a2f-dd3a18ac680f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e1500564-1657-4b5f-9908-5328cba93bb4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/adba0cd4-2556-4a0a-877a-0b94318804a3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c222c77e-8aaf-4e3d-a1f0-3b9be2d5c301&source=Website",
-    "available": "8/1/26"
   },
   {
     "id": 5291,
