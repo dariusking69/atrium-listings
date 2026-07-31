@@ -1,5 +1,49 @@
 [
   {
+    "id": 6267,
+    "uuid": "2bb0117e-c592-4741-afb6-7c0edfadbbb3",
+    "address": "5832 Auvers Blvd #302, Orlando, FL 32807",
+    "street": "5832 Auvers Blvd #302",
+    "city": "Orlando",
+    "rent": "$1,515",
+    "rent_val": 1515,
+    "specs": "1 bd, 1.5 ba, 784 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.5,
+    "sqft": 784,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2bb0117e-c592-4741-afb6-7c0edfadbbb3",
+    "lat": 28.5743926,
+    "lng": -81.3051884,
+    "title": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft",
+    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,515 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/7/26",
+    "terms": [
+      "Rent: $1,515",
+      "Application Fee: $95",
+      "Available 8/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e21448f2-2c85-4aae-a742-473f9e46009c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4985f19e-c4b2-4a7a-b850-8c1fcd026df2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1c8d5043-b70a-4ed6-b0d3-bd4eaedae973/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/01473863-8a82-468b-8d48-44e9b9742d5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c2b63986-c977-4a84-9ec0-df928ae435d1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9424309f-b6af-49fc-92b2-7d964316f1b5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47aaf522-5b15-4086-8231-8a3e99c1239a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c80b41ad-ed38-4f86-ac7b-aa4733a7a398/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/95cd7a21-2dbf-4423-b948-f61326810cb8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0744aea6-1b3c-4918-94a8-caf3fcc7baf7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2bb0117e-c592-4741-afb6-7c0edfadbbb3&source=Website",
+    "available": "8/7/26"
+  },
+  {
     "id": 6266,
     "uuid": "5c08bb7f-bf19-486d-8d76-db3feec3881f",
     "address": "3330 Dale Dr, Lakeland, FL 33805",
@@ -14565,61 +14609,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=45ce5619-8770-4364-a3d0-e4ef7c0b0d9d&source=Website",
     "available": "8/10/26"
-  },
-  {
-    "id": 4032,
-    "uuid": "b91aea81-1794-49d3-991c-fecc5408762a",
-    "address": "3707 Eisel Way, Haines City, FL 33844",
-    "street": "3707 Eisel Way",
-    "city": "Haines City",
-    "rent": "$1,990",
-    "rent_val": 1990,
-    "specs": "3 bd, 2 ba, 1,407 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1407,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2c9def16-7bf0-41dd-9b10-c3a63be1994c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b91aea81-1794-49d3-991c-fecc5408762a",
-    "lat": 28.1179749,
-    "lng": -81.6535383,
-    "title": "***FREE RENT*** Beautiful 3 Bedroom/2 Bathroom Home in Haines City",
-    "description": "***LVP Flooring Coming Soon (No Carpet)*** \r\n\r\nWelcome home to 3707 Eisel Way, located in the highly desirable Hammock Reserve community of Haines City, FL! This stunning 3-bedroom, 2-bathroom home perfectly combines modern comfort, convenience, and Florida charm. Step inside and fall in love with the bright open-concept layout, complete with a spacious living area, dining space, and a gorgeous kitchen featuring granite countertops, stainless steel appliances, a large island, and a generous pantry. The primary suite offers a peaceful retreat with a walk-in closet and private en-suite bathroom featuring a double vanity and walk-in shower. Two additional bedrooms and a full guest bath at the front of the home provide flexibility for a home office or guest space. Enjoy the extras that make life easier: a two-car garage, indoor laundry room, and a covered lanai with backyard patio, ideal for relaxing and soaking up the Florida sunshine. The Hammock Reserve community includes wonderful amenities such as a resort-style pool, dog parks, playgrounds, and mailbox pavilion, all within walking distance. Conveniently located just off Highway 27 with quick access to I-4, US-17/92, shopping, dining, and more!\r\n\r\nAdditional Monthly Rent Charges:\r\n* $75 Resident Benefit Package\r\n\r\nTotal Monthly Rent: $2,065 (renter's insurance, pest control, air filters and more!)\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per pet)\r\n$25 Per month pet rent\r\n\r\n$95 Application Fee\r\n$295 Admin Fee\r\n\r\n**RESIDENT BENEFIT PACKAGE** All Atrium Property Management residents are enrolled in the Resident Benefits Package for $75/mo, which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest share, renter's insurance, and much more! More details upon application.\r\n\r\nPlease note: One or more photos have been virtually staged using AI.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,990 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,990 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,990",
-      "Application Fee: $95",
-      "Security Deposit: $1,990",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2c9def16-7bf0-41dd-9b10-c3a63be1994c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/58f2f522-0cbc-44ed-b689-3d5b9b03917f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/db7568c3-39a0-46c1-b3cb-8336c7ba70d0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/266ccace-42a5-4939-873c-16da6b1032da/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/12c5fabf-c91c-4e91-bb06-b7f6170b1c17/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1e23b5b8-95c8-45fd-8093-5d164aab2a0b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f1e28226-97b9-4928-9851-5fe506045be9/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c2809e41-b516-4a93-9d3b-a5d1a3882237/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e389f098-d011-4754-818c-7ccb7e555f6b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c2b8f1f4-1d71-485f-9738-fa7c2f3289d6/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3fc50b95-eb67-46ed-9d1c-4f8f0ce33667/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e19e2554-4305-41ca-a5fa-6cc4846d65bd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/27f3ed78-4786-401b-8dc1-753153497408/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a76e7128-200c-4fa0-aa9a-a3bb61f4b8c6/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5126d358-55f6-4f03-b6fc-3966592b1e02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8f91596-74f3-4126-90f1-89aedba4292e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4b12cfa6-3950-43a2-ba92-97744f321d38/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ab3a8606-64a7-46e3-bbe1-c6d9b8b2bf70/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/85fd5b0d-568c-48b6-966c-64de5060e647/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/57e08a24-d5a8-48d9-a149-0a8da5677d99/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1d53c93c-538c-4bc0-ac3f-601033342d00/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b91aea81-1794-49d3-991c-fecc5408762a&source=Website",
-    "available": "NOW"
   },
   {
     "id": 4013,
