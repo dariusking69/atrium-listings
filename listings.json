@@ -19554,57 +19554,6 @@
     "available": "NOW"
   },
   {
-    "id": 2098,
-    "uuid": "92da2faa-b27e-4795-8abc-1211a9f45b91",
-    "address": "5309 Seminole Ave  - Unit B, Tampa, FL 33603",
-    "street": "5309 Seminole Ave  - Unit B",
-    "city": "Tampa",
-    "rent": "$1,195",
-    "rent_val": 1195,
-    "specs": "Studio, 1 ba, 600 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 600,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c169f260-2e92-4157-aa6e-b3ce2ad08c55/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/92da2faa-b27e-4795-8abc-1211a9f45b91",
-    "lat": 27.9958765,
-    "lng": -82.456193,
-    "title": "Modern Tampa Studio | Easy Living with Internet & Utilities Included",
-    "description": "Welcome to 5309 N Seminole Ave, Unit B in Tampa\u2014a thoughtfully designed 600 sq. ft. studio that is move-in ready and ideal for comfortable, low-maintenance living. This inviting space offers an efficient layout that maximizes functionality while providing a cozy place to call home.\r\n\r\nThe monthly rent is $1,378.50 and includes valuable conveniences such as internet, STOA, water, sewer, trash, and liability coverage, helping simplify your monthly expenses. Residents will be responsible for setting up electricity through TECO.\r\n\r\nThis home is pet-friendly, welcoming your furry companions (with applicable policies). A $500 deposit is required with the included STOA package, making move-in more accessible.\r\n\r\nConveniently located in Tampa, this studio offers easy access to nearby dining, shopping, and local attractions, providing a great balance of comfort and accessibility.\r\n\r\nContact us today to learn more or schedule a tour!! Ask about our look and lease summer concession! \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,195 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,195",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c169f260-2e92-4157-aa6e-b3ce2ad08c55/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8a9ac07d-01c1-41ff-a20c-5a65342ee483/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ae2f9b97-16ac-440a-af30-90a46e57d1b5/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7784a612-a8c0-41a0-af8b-bbe7ceed15bc/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6012e7da-4828-4a2e-8a05-546664469964/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cb94584a-77be-4116-9d64-80bec306e551/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fc23ec2e-8da6-46d8-95ed-9edf3db6e91b/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bbbb93c2-1051-430d-87ac-4d1d79960c51/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b1812beb-d001-4b2b-b0f6-0fc4a3b43686/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1c3bed40-489a-45f6-afca-5a0059be11af/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f048b306-5a3d-42bf-bc70-db8398ebaee4/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ce7f65ed-1dbb-48ac-ab4a-2668377e4fce/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5c07bb75-d3f0-42ef-9434-c7e6361726f7/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30369b73-40d5-49f5-a03f-c17f4e0c7c10/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f4dfa84a-3e12-4104-a0b9-d3ad5c5494b6/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e08bc630-7c53-479b-90ed-5c5bab7aaaef/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f18a70c-81c3-4c71-9c38-fd2e3d91d8e8/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=92da2faa-b27e-4795-8abc-1211a9f45b91&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 2095,
     "uuid": "c5a0edfb-998b-4946-96a6-215862e38c78",
     "address": "6315 SW 13th St, Unit 32, Gainesville, FL 32608",
