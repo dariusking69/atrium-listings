@@ -4269,36 +4269,6 @@
     "available": "NOW"
   },
   {
-    "id": 6108,
-    "uuid": "c0dc48b7-d353-4b21-bd2c-162ecef9234c",
-    "address": "210 W Hyde Park Pl Unit 214-4, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 214-4",
-    "city": "Tampa",
-    "rent": "$1,399",
-    "rent_val": 1399,
-    "specs": "1 bd, 1 ba, 500 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 500,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c0dc48b7-d353-4b21-bd2c-162ecef9234c",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
-    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $75 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,399",
-      "Application Fee: $75",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c0dc48b7-d353-4b21-bd2c-162ecef9234c&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6107,
     "uuid": "167b45df-a29e-48ff-b7fd-df8bcc4aaae7",
     "address": "210 W Hyde Park Pl Unit 213-3, Tampa, FL 33606",
