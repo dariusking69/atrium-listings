@@ -18402,56 +18402,6 @@
     "available": "8/10/26"
   },
   {
-    "id": 2779,
-    "uuid": "53bf8f98-bb91-4d82-b57f-b5bae679afc9",
-    "address": "3005 E Jefferson Street , Orlando, FL 32803",
-    "street": "3005 E Jefferson Street",
-    "city": "Orlando",
-    "rent": "$1,695",
-    "rent_val": 1695,
-    "specs": "2 bd, 2 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b32786b1-ab99-484d-97fb-3a0e3b1bfd68/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/53bf8f98-bb91-4d82-b57f-b5bae679afc9",
-    "lat": 28.5452255,
-    "lng": -81.3453941,
-    "title": "Spacious Duplex in Orlando\u2019s Trendy Milk District with Garage and Washer/Dryer!",
-    "description": "Welcome to 3005 E Jefferson St, a rare gem in the heart of Orlando\u2019s vibrant Milk District.\r\n\r\nThis spacious duplex unit offers an abundance of living space that\u2019s hard to find in downtown Orlando. Featuring a one-car garage with a convenient washer and dryer, this home is perfect for those seeking both comfort and practicality.\r\n\r\nNestled on a quiet road, you\u2019ll enjoy the tranquility of suburban living while being just minutes away from the bustling city life. The Milk District is renowned for its eclectic mix of shops, eateries, and entertainment venues, making it one of Orlando\u2019s most sought-after neighborhoods. From trendy cafes to unique boutiques, everything you need is right at your doorstep.\r\n\r\nAdditionally, this prime location offers easy access to Colonial Drive, where you\u2019ll find an array of stores and services to cater to all your needs. Commuting is a breeze with the East-West Expressway nearby, connecting you to the rest of Orlando and beyond.\r\n\r\nKey Features:\r\n\r\n- Spacious duplex unit with ample living space\r\n- One-car garage with washer and dryer included\r\n- Located in the trendy Milk District\r\n- Quiet road offering suburban tranquility\r\n- Close to Colonial Drive with numerous shops and stores\r\n- Easy access to the East-West Expressway for convenient commuting\r\n\r\nDon\u2019t miss out on this exceptional opportunity to live in a spacious duplex in one of Orlando\u2019s most dynamic and convenient areas. Schedule a viewing today and experience the best of the Milk District living!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,695 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,695 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,695",
-      "Application Fee: $95",
-      "Security Deposit: $1,695",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/b32786b1-ab99-484d-97fb-3a0e3b1bfd68/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/15458f80-572a-4ade-b200-468d2c667459/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e363afcf-5cdc-4364-a85b-0450c4b4d0f1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/991a3c75-bfaf-4ee1-b26b-b36e6e400fbc/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c011bce6-0dcb-410e-b399-64aab9d58fe6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a26c8a98-a3ea-4a7d-aa2e-237c4792ec8a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fee85589-cb94-49bf-9b22-10a8b74f38bf/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fcf12981-f2ec-492f-8a1a-01462dc04760/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4b935d1-a261-4967-b01c-f28334554547/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5b2c28da-8e84-451b-8bc5-302431d2cb7d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/32dbe24f-099f-4eb1-a9f8-56724774da82/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/02b1b5f3-efdf-4d38-98b7-7484b87e344c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/39a599fb-9e66-4508-b6f3-ff5ac05f9a4b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5e2b5e5b-0b54-4f79-a86b-114c324e640b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c448bc9a-b6a1-4ec8-ba75-6acedcd01a95/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/aa6a3708-1683-4813-a140-61d7530b6e5a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=53bf8f98-bb91-4d82-b57f-b5bae679afc9&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 2712,
     "uuid": "c1c2fc31-5d40-444c-a210-4ca223779844",
     "address": "5119 Ferncrest Dr, Winter Park, FL 32792",
@@ -19512,6 +19462,47 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=92da2faa-b27e-4795-8abc-1211a9f45b91&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 2095,
+    "uuid": "c5a0edfb-998b-4946-96a6-215862e38c78",
+    "address": "6315 SW 13th St, Unit 32, Gainesville, FL 32608",
+    "street": "6315 SW 13th St",
+    "city": "Gainesville",
+    "rent": "$1,000",
+    "rent_val": 1000,
+    "specs": "1 bd, 1 ba, 430 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 430,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/53cd1b70-e777-4923-b781-a68827947b29/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c5a0edfb-998b-4946-96a6-215862e38c78",
+    "lat": 29.5945691,
+    "lng": -82.3386303,
+    "title": "Gorgeous 1 Bedroom 1 Bath",
+    "description": "Recently RENOVATED 1 bedroom 1 bathroom apartment in The Grande Apartments. This gorgeous 1 bedroom apartment includes luxury vinyl plank floors, fresh paint, modern cabinets and countertops, new bathroom vanity and light fixtures! Kitchen appliances include stainless steel refrigerator, range, and microwave.\r\n\r\n\r\nThe Grande is located just 7 minutes away from Paynes Prairie, a beautiful natural reserve with hiking trails, wildlife watching, and breathtaking views! Our community offers a great view of the Prairie, allowing residents to enjoy the natural beauty of the area and experience the stunning hues of sunrise and sunset.\r\n\r\nList price is........ $999.\r\nSecurity deposit $999\r\nPest control........$10.00\r\nA/C filter ............$15.00\r\nRental Insurance $15.50\r\n\r\nAdministration Fees only one time .....$295.00\r\n\r\nApplication requirements: \r\n\u2022 Credit score \u2026\u2026\u2026\u2026.600 up \r\n\u2022 No evictions \r\n\u2022 Submit the last 3 month pay stubs PDF or Bank Statements \r\n\u2022 Monthly income must be at least 3x the monthly rent \r\n\u2022 Incomplete applications are not approval\r\n\u2022 Landlord reference \r\n\r\n\r\nDogs only one time ....$250 monthly $25. call today to schedule a private showing 352-462-4414\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $999 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,000",
+      "Application Fee: $95",
+      "Security Deposit: $999",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/53cd1b70-e777-4923-b781-a68827947b29/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9497d26f-11fd-4848-8789-480588258624/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dc5c9a35-7da5-44fd-9bcb-57b0b590b477/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f1c3f659-5a55-4d74-b06f-73cc873b72cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/03d0bb53-5c84-4948-8a73-646db4c265eb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/012c6852-c618-4b90-b41e-fc3d7b7e65ff/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9bed7d67-6f70-411d-a092-d5a9c657261e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c5a0edfb-998b-4946-96a6-215862e38c78&source=Website",
     "available": "NOW"
   },
   {
