@@ -8133,12 +8133,12 @@
     "lat": 37.5662879,
     "lng": -77.4734839,
     "title": "The Aerie",
-    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/2/26",
+    "description": "Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,599",
       "Application Fee: $50",
       "Security Deposit: $500",
-      "Available 8/2/26"
+      "Available Now"
     ],
     "pets": [
       "Cats allowed",
@@ -8149,7 +8149,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=02b4309b-1815-40d8-9f04-8f8b23e921a2&source=Website",
-    "available": "8/2/26"
+    "available": "NOW"
   },
   {
     "id": 5892,
