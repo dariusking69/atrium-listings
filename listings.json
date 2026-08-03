@@ -1,5 +1,120 @@
 [
   {
+    "id": 6284,
+    "uuid": "56ca9d2f-d4c6-4dd6-a79c-05da40f2d54e",
+    "address": "5418 Lake Margaret Drive Unit # 418 - 1018, Orlando, FL 32812",
+    "street": "5418 Lake Margaret Drive Unit # 418 - 1018",
+    "city": "Orlando",
+    "rent": "$1,440",
+    "rent_val": 1440,
+    "specs": "1 bd, 1 ba, 767 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 767,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4e795feb-5594-4b17-8570-e91c34a71d83/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/56ca9d2f-d4c6-4dd6-a79c-05da40f2d54e",
+    "lat": 28.5040426,
+    "lng": -81.3153109,
+    "title": "767 sq ft Woodhaven",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,440 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/5/26",
+    "terms": [
+      "Rent: $1,440",
+      "Application Fee: $99",
+      "Available 11/5/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4e795feb-5594-4b17-8570-e91c34a71d83/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=56ca9d2f-d4c6-4dd6-a79c-05da40f2d54e&source=Website",
+    "available": "11/5/26"
+  },
+  {
+    "id": 6283,
+    "uuid": "aa651f78-d640-44f9-8dc6-27d579102695",
+    "address": "18 Laurel Oaks Dr Unit # 18-208, Winter Springs, FL 32708",
+    "street": "18 Laurel Oaks Dr Unit # 18-208",
+    "city": "Winter Springs",
+    "rent": "$1,486",
+    "rent_val": 1486,
+    "specs": "1 bd, 1 ba, 764 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 764,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa651f78-d640-44f9-8dc6-27d579102695",
+    "lat": 28.7001198,
+    "lng": -81.3226627,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,486 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,486 \n\n\n Available 10/6/26",
+    "terms": [
+      "Rent: $1,486",
+      "Application Fee: $79",
+      "Security Deposit: $1,486",
+      "Available 10/6/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/70c396c0-3cfc-4736-b324-69352a631bf5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/40b0fbcf-c627-4a7e-8e92-d7512d3bd9f8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/44ee998c-aa64-47a0-b70f-26b49d2b481b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1dc70b91-0023-4f3d-ba6a-d04fe4c09ac0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a1d029d6-08f9-4b76-be18-63e9a8dc9c6f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9e6a3c48-8fbc-4905-b4d0-c9ffdbdd4322/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7ed563d6-59e4-418a-8088-32ca320a894c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/99b6aedc-7081-4ae5-a7aa-e32121113a67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2bab166c-05fa-4258-a782-0594e1e9c3fb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a5c474cb-7b4a-4eaa-a4d4-b4845d30a028/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4f8ecf1-044e-41d6-b84f-b493f6078cdb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa651f78-d640-44f9-8dc6-27d579102695&source=Website",
+    "available": "10/6/26"
+  },
+  {
+    "id": 6282,
+    "uuid": "72cf373e-fd73-4b8c-b5cb-d05bcbb20758",
+    "address": "3113 W. Marshall Street #621, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #621",
+    "city": "Richmond",
+    "rent": "$1,642",
+    "rent_val": 1642,
+    "specs": "1 bd, 1 ba, 632 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 632,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/72cf373e-fd73-4b8c-b5cb-d05bcbb20758",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "title": "The Haven",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $1,642",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ebf7449-98b9-4245-8623-11c953c1a3c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=72cf373e-fd73-4b8c-b5cb-d05bcbb20758&source=Website",
+    "available": "10/10/26"
+  },
+  {
     "id": 6281,
     "uuid": "65c5356e-c94d-45f4-819c-01c4b419bbe3",
     "address": "6613 Mission Club Blvd # 11-104, Orlando, FL 32821",
@@ -130,12 +245,12 @@
     "lat": 28.7012467,
     "lng": -81.3223156,
     "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,628 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available 10/8/26",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,628 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available 9/11/26",
     "terms": [
       "Rent: $1,628",
       "Application Fee: $79",
       "Security Deposit: $1,598",
-      "Available 10/8/26"
+      "Available 9/11/26"
     ],
     "pets": [
       "Cats allowed",
@@ -157,7 +272,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=17a2d6c4-5a78-440d-9125-2266477d1762&source=Website",
-    "available": "10/8/26"
+    "available": "9/11/26"
   },
   {
     "id": 6275,
@@ -556,11 +671,11 @@
     "lat": 28.5743926,
     "lng": -81.3051884,
     "title": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft",
-    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,515 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/9/26",
+    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,515 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/7/26",
     "terms": [
       "Rent: $1,515",
       "Application Fee: $95",
-      "Available 8/9/26"
+      "Available 8/7/26"
     ],
     "pets": [
       "Cats allowed",
@@ -581,7 +696,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2bb0117e-c592-4741-afb6-7c0edfadbbb3&source=Website",
-    "available": "8/9/26"
+    "available": "8/7/26"
   },
   {
     "id": 6266,
@@ -1497,9 +1612,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,479 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/10/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,480 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $1,479",
+      "Rent: $1,480",
       "Application Fee: $95",
       "Available 8/10/26"
     ],
@@ -2890,11 +3005,11 @@
     "lat": 28.3836555,
     "lng": -81.4892844,
     "title": "Beautiful 1 Bed / 1 Bath Condo in Gated Community | Resort-Style Amenities | Minutes from Disney!",
-    "description": "Welcome to 12837 Madison Pointe Circle #206, Orlando, FL 32821\u2014a charming 1-bedroom, 1-bathroom condo located in a desirable gated community in the heart of Orlando.\r\n\r\nThis inviting home features a bright, open-concept layout with a spacious living area, a well-equipped kitchen, and a comfortable bedroom with ample closet space. Whether you're a working professional or simply looking for a low-maintenance lifestyle, this condo offers the perfect place to call home.\r\n\r\nCommunity Amenities Include:\r\n\r\nResort-style swimming pool\r\nFitness center\r\nClubhouse\r\nTennis courts\r\nWalking paths and beautifully maintained grounds\r\nGated community with controlled access\r\n\r\nPrime Location:\r\nEnjoy living just minutes from some of Orlando's most popular destinations, including:\r\n\r\nWalt Disney World Resort\r\nDisney Springs\r\nSeaWorld Orlando\r\nUniversal Orlando Resort\r\nOrlando Vineland Premium Outlets\r\nInternational Drive\r\nLake Buena Vista\r\nI-4, SR-528, and SR-417 for easy commuting\r\nCountless restaurants, shopping centers, grocery stores, and entertainment options\r\n\r\nExperience the convenience of living close to world-class attractions while enjoying the comfort and amenities of a peaceful community.\r\n\r\nSchedule your private tour today and make this beautiful condo your next home!Professionally managed by Atrium Management Company, this home is move-in ready. Call (407) 585-2721 today to schedule your private showing.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,550 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,550 \n\n\n Available Now",
+    "description": "Welcome to 12837 Madison Pointe Circle #206, Orlando, FL 32821\u2014a charming 1-bedroom, 1-bathroom condo located in a desirable gated community in the heart of Orlando.\r\n\r\nThis inviting home features a bright, open-concept layout with a spacious living area, a well-equipped kitchen, and a comfortable bedroom with ample closet space. Whether you're a working professional or simply looking for a low-maintenance lifestyle, this condo offers the perfect place to call home.\r\n\r\nAdditional Monthly Fees - $15.50 renters insurance, $15.00 Filter Program, and $60.00 for high speed internet\r\n\r\nCommunity Amenities Include:\r\n\r\nResort-style swimming pool\r\nFitness center\r\nClubhouse\r\nTennis courts\r\nWalking paths and beautifully maintained grounds\r\nGated community with controlled access\r\n\r\nPrime Location:\r\nEnjoy living just minutes from some of Orlando's most popular destinations, including:\r\n\r\nWalt Disney World Resort\r\nDisney Springs\r\nSeaWorld Orlando\r\nUniversal Orlando Resort\r\nOrlando Vineland Premium Outlets\r\nInternational Drive\r\nLake Buena Vista\r\nI-4, SR-528, and SR-417 for easy commuting\r\nCountless restaurants, shopping centers, grocery stores, and entertainment options.\r\n\r\nExperience the convenience of living close to world-class attractions while enjoying the comfort and amenities of a peaceful community.\r\n\r\nSchedule your private tour today and make this beautiful condo your next home!Professionally managed by Atrium Management Company, this home is move-in ready. Call (407) 585-2721 today to schedule your private showing.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,450 \n\n\n Available Now",
     "terms": [
-      "Rent: $1,550",
+      "Rent: $1,450",
       "Application Fee: $95",
-      "Security Deposit: $1,550",
+      "Security Deposit: $1,450",
       "Available Now"
     ],
     "pets": [
@@ -2933,12 +3048,12 @@
     "lat": 28.556611,
     "lng": -81.264417,
     "title": "The Reagan - 4 Bedroom Townhome Available!",
-    "description": "Experience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/21/26",
+    "description": "Experience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
       "Rent: $3,095",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/21/26"
+      "Available 8/31/26"
     ],
     "pets": [
       "Cats allowed",
@@ -2957,7 +3072,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0b399d13-6409-4b56-bb0e-819a23b2628c&source=Website",
-    "available": "8/21/26"
+    "available": "8/31/26"
   },
   {
     "id": 6170,
@@ -3107,8 +3222,8 @@
     "address": "5009 S West Shore Blvd Unit 52-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 52-5215",
     "city": "Tampa",
-    "rent": "$1,735",
-    "rent_val": 1735,
+    "rent": "$1,724",
+    "rent_val": 1724,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3118,9 +3233,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,734 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,724 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,734",
+      "Rent: $1,724",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3137,8 +3252,8 @@
     "address": "5009 S West Shore Blvd Unit 51-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 51-5215",
     "city": "Tampa",
-    "rent": "$1,935",
-    "rent_val": 1935,
+    "rent": "$1,884",
+    "rent_val": 1884,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3148,9 +3263,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,934 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,884 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,934",
+      "Rent: $1,884",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3167,8 +3282,8 @@
     "address": "5009 S West Shore Blvd Unit 49-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 49-5215",
     "city": "Tampa",
-    "rent": "$1,515",
-    "rent_val": 1515,
+    "rent": "$1,514",
+    "rent_val": 1514,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3197,8 +3312,8 @@
     "address": "5009 S West Shore Blvd Unit 46-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 46-5215",
     "city": "Tampa",
-    "rent": "$1,700",
-    "rent_val": 1700,
+    "rent": "$1,699",
+    "rent_val": 1699,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3268,9 +3383,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,479 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/25/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,480 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/25/26",
     "terms": [
-      "Rent: $1,479",
+      "Rent: $1,480",
       "Application Fee: $95",
       "Available 8/25/26"
     ],
@@ -3287,8 +3402,8 @@
     "address": "5009 S West Shore Blvd Unit 33-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 33-5215",
     "city": "Tampa",
-    "rent": "$1,515",
-    "rent_val": 1515,
+    "rent": "$1,519",
+    "rent_val": 1519,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3298,9 +3413,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,514 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,519 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,514",
+      "Rent: $1,519",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3317,8 +3432,8 @@
     "address": "5009 S West Shore Blvd Unit 32-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 32-5215",
     "city": "Tampa",
-    "rent": "$1,735",
-    "rent_val": 1735,
+    "rent": "$1,739",
+    "rent_val": 1739,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3328,9 +3443,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,734 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,739 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,734",
+      "Rent: $1,739",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3347,8 +3462,8 @@
     "address": "5009 S West Shore Blvd Unit 27-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 27-5215",
     "city": "Tampa",
-    "rent": "$1,503",
-    "rent_val": 1503,
+    "rent": "$1,519",
+    "rent_val": 1519,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3377,8 +3492,8 @@
     "address": "5009 S West Shore Blvd Unit 26-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 26-5215",
     "city": "Tampa",
-    "rent": "$1,940",
-    "rent_val": 1940,
+    "rent": "$1,889",
+    "rent_val": 1889,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3388,9 +3503,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,939 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,889 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,939",
+      "Rent: $1,889",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3407,8 +3522,8 @@
     "address": "5009 S West Shore Blvd Unit 24-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 24-5215",
     "city": "Tampa",
-    "rent": "$1,705",
-    "rent_val": 1705,
+    "rent": "$1,654",
+    "rent_val": 1654,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3418,9 +3533,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,654 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,704",
+      "Rent: $1,654",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3437,8 +3552,8 @@
     "address": "5009 S West Shore Blvd Unit 19-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 19-5215",
     "city": "Tampa",
-    "rent": "$1,705",
-    "rent_val": 1705,
+    "rent": "$1,654",
+    "rent_val": 1654,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3448,9 +3563,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,654 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,704",
+      "Rent: $1,654",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3496,8 +3611,8 @@
     "address": "5009 S West Shore Blvd Unit 12-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 12-5215",
     "city": "Tampa",
-    "rent": "$1,683",
-    "rent_val": 1683,
+    "rent": "$1,654",
+    "rent_val": 1654,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3507,9 +3622,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,654 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,704",
+      "Rent: $1,654",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -3526,8 +3641,8 @@
     "address": "5009 S West Shore Blvd Unit 10-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 10-5215",
     "city": "Tampa",
-    "rent": "$1,825",
-    "rent_val": 1825,
+    "rent": "$1,799",
+    "rent_val": 1799,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3537,9 +3652,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,824 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,799 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,824",
+      "Rent: $1,799",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3556,8 +3671,8 @@
     "address": "5009 S West Shore Blvd Unit 09-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 09-5215",
     "city": "Tampa",
-    "rent": "$1,825",
-    "rent_val": 1825,
+    "rent": "$1,799",
+    "rent_val": 1799,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3567,9 +3682,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,824 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,799 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,824",
+      "Rent: $1,799",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3586,8 +3701,8 @@
     "address": "5009 S West Shore Blvd Unit 08-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 08-5215",
     "city": "Tampa",
-    "rent": "$1,605",
-    "rent_val": 1605,
+    "rent": "$1,579",
+    "rent_val": 1579,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3597,9 +3712,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,604 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,579 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,604",
+      "Rent: $1,579",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3616,8 +3731,8 @@
     "address": "5009 S West Shore Blvd Unit 03-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 03-5215",
     "city": "Tampa",
-    "rent": "$1,740",
-    "rent_val": 1740,
+    "rent": "$1,739",
+    "rent_val": 1739,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3646,8 +3761,8 @@
     "address": "5009 S West Shore Blvd Unit 39-5017, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 39-5017",
     "city": "Tampa",
-    "rent": "$1,654",
-    "rent_val": 1654,
+    "rent": "$1,614",
+    "rent_val": 1614,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3657,9 +3772,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,614 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,704",
+      "Rent: $1,614",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3717,9 +3832,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,654 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,704",
+      "Rent: $1,654",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3736,8 +3851,8 @@
     "address": "5009 S West Shore Blvd Unit 30-5015, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 30-5015",
     "city": "Tampa",
-    "rent": "$1,724",
-    "rent_val": 1724,
+    "rent": "$1,749",
+    "rent_val": 1749,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -3747,9 +3862,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,724 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,749 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,724",
+      "Rent: $1,749",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3777,9 +3892,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,719 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,669 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,719",
+      "Rent: $1,669",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3807,9 +3922,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,939 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,889 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,939",
+      "Rent: $1,889",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3837,9 +3952,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,924 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,874 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,924",
+      "Rent: $1,874",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -3897,9 +4012,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,924 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,874 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $1,924",
+      "Rent: $1,874",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -3957,9 +4072,9 @@
     "lat": 27.8663002,
     "lng": -82.5232622,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,725 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,675 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,725",
+      "Rent: $1,675",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -4017,9 +4132,9 @@
     "lat": 27.866392,
     "lng": -82.5232676,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,750 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,700 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,750",
+      "Rent: $1,700",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -4047,9 +4162,9 @@
     "lat": 27.866437,
     "lng": -82.5232675,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,625 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/14/26",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,575 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/14/26",
     "terms": [
-      "Rent: $1,625",
+      "Rent: $1,575",
       "Application Fee: $95",
       "Available 8/14/26"
     ],
@@ -4137,9 +4252,9 @@
     "lat": 27.8664935,
     "lng": -82.5232335,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,665 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,615 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,665",
+      "Rent: $1,615",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -5531,11 +5646,10 @@
     "lat": 28.6939423,
     "lng": -81.3214871,
     "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
-    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,488 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/10/26",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,488 \n\n\n\n\n Application Fee: $79",
     "terms": [
       "Rent: $1,488",
-      "Application Fee: $79",
-      "Available 8/10/26"
+      "Application Fee: $79"
     ],
     "pets": [
       "Cats allowed",
@@ -5560,7 +5674,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f231a22e-21ed-4f1d-a868-33f27e7de43e&source=Website",
-    "available": "8/10/26"
+    "available": "NOW"
   },
   {
     "id": 6064,
@@ -9707,13 +9821,13 @@
     "lat": 37.5163935,
     "lng": -77.3415454,
     "title": "",
-    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/3/26",
+    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,373",
       "Admin Fee: $200",
       "Application Fee: $50",
       "Security Deposit: $500",
-      "Available 8/3/26"
+      "Available Now"
     ],
     "pets": [
       "Cats allowed",
@@ -9723,7 +9837,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=581abbe5-48ac-4cd7-b0fe-b4a9fa90265a&source=Website",
-    "available": "8/3/26"
+    "available": "NOW"
   },
   {
     "id": 5771,
@@ -10189,12 +10303,12 @@
     "lat": 28.254605,
     "lng": -81.622516,
     "title": "The Kennedy - Three Bedroom Townhome Available!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,132 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/14/26",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,132 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/28/26",
     "terms": [
       "Rent: $2,132",
       "Application Fee: $95",
       "Security Deposit: $600",
-      "Available 8/14/26"
+      "Available 8/28/26"
     ],
     "pets": [
       "Cats allowed",
@@ -10204,7 +10318,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=64a3c1b2-ee26-49b3-91cb-0cb73e063eb1&source=Website",
-    "available": "8/14/26"
+    "available": "8/28/26"
   },
   {
     "id": 5711,
@@ -12486,61 +12600,6 @@
     "available": "9/7/26"
   },
   {
-    "id": 5327,
-    "uuid": "bafc2506-7458-4a05-99fa-94d5833fe073",
-    "address": "4800 Atlantic Blvd Unit J148, Jacksonville, FL 32207",
-    "street": "4800 Atlantic Blvd Unit J148",
-    "city": "Jacksonville",
-    "rent": "$1,029",
-    "rent_val": 1029,
-    "specs": "2 bd, 1 ba, 800 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 800,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/452dca2d-64c6-4295-8dd5-dbde0bf431bd/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bafc2506-7458-4a05-99fa-94d5833fe073",
-    "lat": 30.3082327,
-    "lng": -81.6148986,
-    "title": "Pick Your Perk: Lower Rent or One Month Free!",
-    "description": "Your perfect home is waiting, and now is the best time to make your move. \r\n\r\nFor a limited time, select apartments qualify for your choice of reduced monthly rent or one month free rent, giving you more flexibility and savings from day one!\r\n\r\nInquire for details.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. \r\n\r\nSchedule your tour today \u2014 your new home awaits! \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,099",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/452dca2d-64c6-4295-8dd5-dbde0bf431bd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d34624a0-0632-44c5-8210-7ce8c0fa64d9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/56bea514-73a8-4c55-aa78-8a90d4a1412a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5c568dbc-b1b1-462e-acee-31f18bd6cd32/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/23db7335-36fb-4315-b298-f8f0cdb0610d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3d108971-0368-49a9-af2f-2f8c9a7c252e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/71e43ae3-f32d-40e3-9524-bb2762c713c6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/17bc3765-5025-4ac7-83cb-8fd35d13435c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7251409c-9ef3-4cd1-ada5-b7af0ccadf49/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/266b5339-838c-4158-9ab2-e7617a5b6d6c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9f44288f-343b-4c70-9a76-eb7615537286/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9b187798-f582-491f-a916-1b3257e7fdb1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/06fd249a-3690-4da8-b546-13e0b9b65154/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7dc2e131-6c02-45e2-9ff5-cde46583d7ef/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/26ff4a5c-e8a6-40f0-9077-285874938890/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/62573acc-6183-4d1d-963b-f786cbdd5597/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3368b9ee-b1fc-4a18-9e92-cebeb3ed9bb9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d3901ca2-3ced-46de-9d0f-8cb307f70ec7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b130cb71-d7e4-4883-a8d2-630273507525/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/730fd86d-dd58-49dd-8c7e-d34d65e7f49f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ae55febe-b429-4776-9b14-ff58da2c3ff6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bafc2506-7458-4a05-99fa-94d5833fe073&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5319,
     "uuid": "d3add8b9-743c-4cb5-9f5e-7ee28f73e94f",
     "address": "2401 Arlington Blvd #66, Charlottesville, VA 22903",
@@ -13094,52 +13153,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b4177d35-2bb5-4079-8fea-c67d7ea2cc26&source=Website",
     "available": "8/20/26"
-  },
-  {
-    "id": 5192,
-    "uuid": "da427025-bad4-4836-ae8e-9665054791d7",
-    "address": "02 Sycamore Ct Unit # 02-205, Winter Springs, FL 32708",
-    "street": "02 Sycamore Ct Unit # 02-205",
-    "city": "Winter Springs",
-    "rent": "$1,385 - $1,490",
-    "rent_val": 1385,
-    "specs": "2 bd, 2 ba, 1,020 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1020,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/da427025-bad4-4836-ae8e-9665054791d7",
-    "lat": 28.7000796,
-    "lng": -81.3220222,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,385 - $1,490 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,496 \n\n\n Available 9/16/26",
-    "terms": [
-      "Rent: $1,385 - $1,490",
-      "Application Fee: $79",
-      "Security Deposit: $1,496",
-      "Available 9/16/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d20908c2-563c-4ec1-be06-57f05e6a6128/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0e98723e-09be-451d-ad6e-15cc889789d8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2019993d-065c-47ee-a594-b3f44724c87e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a209439c-e1ee-4785-9c52-360f387206f6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a43dc411-277a-4e95-aada-3dd7719c1e1f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/610d2599-760a-4561-8c71-b3776d10f21e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c8bbbe62-75e0-47fd-a36e-f03bfdca67f5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/699798f9-f881-4773-8967-9795d2e94385/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51413db8-8c3c-47d0-975a-9ba2302cb41b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/86392436-089d-4453-b561-97193d5865c1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f2b6e3a-0b45-41be-8bc6-091b3e4fcef0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=da427025-bad4-4836-ae8e-9665054791d7&source=Website",
-    "available": "9/16/26"
   },
   {
     "id": 5117,
@@ -14797,12 +14810,12 @@
     "lat": 28.3134223,
     "lng": -81.2395838,
     "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
-    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,750 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/14/26",
+    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,750 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
       "Rent: $2,750",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/14/26"
+      "Available 8/31/26"
     ],
     "pets": [
       "Cats allowed",
@@ -14817,7 +14830,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ad43e14f-e21d-4510-b8e8-8ff5e573d3f7&source=Website",
-    "available": "8/14/26"
+    "available": "8/31/26"
   },
   {
     "id": 3991,
@@ -15258,12 +15271,12 @@
     "lat": 28.596265,
     "lng": -81.540912,
     "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "*SIX WEEKS FREE ON ALL WASHINGTON MODELS!! 6 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,627 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/5/26",
+    "description": "*SIX WEEKS FREE ON ALL WASHINGTON MODELS!! 6 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,627 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
     "terms": [
       "Rent: $2,627",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/5/26"
+      "Available 8/10/26"
     ],
     "pets": [
       "Cats allowed",
@@ -15286,7 +15299,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d4c2ef8a-bf93-44d2-a2c3-36331b9dcaa4&source=Website",
-    "available": "8/5/26"
+    "available": "8/10/26"
   },
   {
     "id": 3748,
@@ -16115,9 +16128,9 @@
     "lat": 38.0307473,
     "lng": -78.4883703,
     "title": "1 Bed 1 Bathroom Apartment In The Heart Of Charlottesville",
-    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,290 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 8/10/26",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Double Vanities, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Waterfall Quartz Counter-tops, Matte Black Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,215 \n\n\n\n Admin Fee: $400 \n\n Application Fee: $65 \n\n Security Deposit: $2,512 \n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $2,290",
+      "Rent: $2,215",
       "Admin Fee: $400",
       "Application Fee: $65",
       "Security Deposit: $2,512",
@@ -16545,12 +16558,12 @@
     "lat": 28.594803,
     "lng": -81.5401289,
     "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "*SIX WEEKS FREE ON ALL WASHINGTON MODELS!! 6 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,645 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/7/26",
+    "description": "*SIX WEEKS FREE ON ALL WASHINGTON MODELS!! 6 weeks free on all available models if applied and move-in by August 15! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,645 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
     "terms": [
       "Rent: $2,645",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/7/26"
+      "Available 8/10/26"
     ],
     "pets": [
       "Cats allowed",
@@ -16573,7 +16586,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=902aaecf-8c9d-425e-a3ee-5c6bb77640b4&source=Website",
-    "available": "8/7/26"
+    "available": "8/10/26"
   },
   {
     "id": 3366,
@@ -16968,10 +16981,10 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5",
     "lat": 28.3134762,
     "lng": -81.240584,
-    "title": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,600 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/14/26",
+    "title": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! *Special is reflected in rates shown*",
+    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/14/26",
     "terms": [
-      "Rent: $2,600",
+      "Rent: $2,000",
       "Application Fee: $95",
       "Security Deposit: $500",
       "Available 8/14/26"
@@ -17591,12 +17604,12 @@
     "lat": 28.313864,
     "lng": -81.240613,
     "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/19/26",
+    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
       "Rent: $2,700",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/19/26"
+      "Available 8/31/26"
     ],
     "pets": [
       "Cats allowed",
@@ -17613,7 +17626,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f6e8e4a5-b40a-48ad-83ed-b20e5e5a5d8f&source=Website",
-    "available": "8/19/26"
+    "available": "8/31/26"
   },
   {
     "id": 3021,
@@ -21850,11 +21863,11 @@
     "lat": 28.6203405,
     "lng": -81.3055342,
     "title": "Charming 3 Bed 2 Bath Home for Rent in Winter Park, FL!",
-    "description": "Charming 3 Bed 2 Bath Home for Rent in Winter Park, FL! Welcome home to the neighborhood of Eastbrook! BEAUTIFUL upgraded wood flooring throughout the main living areas. Charming kitchen features an ample amount of cabinetry, breakfast bar and NEAT light fixtures. stainless fridge and dishwasher. The family room has direct access to the LARGE screened-in patio, where you can kick back and relax in privacy. Master suite is complete with a private bathroom. Additional rooms have ceiling fans and share a hall bathroom. This Winter Park home is conveniently located minutes to I-4, shopping, restaurants and more. Zoned for Eastbrook Elementary School, Tuskawilla Middle School, and Lake Howell High School. Pets are not allowed per owner. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE AUGUST!!!!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), two pets max, small dogs only. This property is professionally managed by Atrium Management. AVAILABLE August 1!\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$60 Group Rate Internet Fee\r\n\r\n**RESIDENT BENEFIT PACKAGE INCLUDED **\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,320 \n\n\n Available 8/10/26",
+    "description": "Charming 3 Bed 2 Bath Home for Rent in Winter Park, FL! Welcome home to the neighborhood of Eastbrook! BEAUTIFUL upgraded wood flooring throughout the main living areas. Charming kitchen features an ample amount of cabinetry, breakfast bar and NEAT light fixtures. stainless fridge and dishwasher. The family room has direct access to the LARGE screened-in patio, where you can kick back and relax in privacy. Master suite is complete with a private bathroom. Additional rooms have ceiling fans and share a hall bathroom. This Winter Park home is conveniently located minutes to I-4, shopping, restaurants and more. Zoned for Eastbrook Elementary School, Tuskawilla Middle School, and Lake Howell High School. Pets are not allowed per owner. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE AUGUST!!!!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), two pets max, small dogs only. This property is professionally managed by Atrium Management. AVAILABLE August 1!\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$60 Group Rate Internet Fee\r\n\r\n**RESIDENT BENEFIT PACKAGE INCLUDED **\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,295 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,220 \n\n\n Available 8/10/26",
     "terms": [
-      "Rent: $2,395",
+      "Rent: $2,295",
       "Application Fee: $95",
-      "Security Deposit: $2,320",
+      "Security Deposit: $2,220",
       "Available 8/10/26"
     ],
     "pets": [
