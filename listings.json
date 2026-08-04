@@ -276,40 +276,6 @@
     "available": "10/10/26"
   },
   {
-    "id": 6278,
-    "uuid": "7a949144-6d1f-4f67-99ca-dcde7020a5c2",
-    "address": "2116 Three Trees Ct #108, Orlando, FL 32807",
-    "street": "2116 Three Trees Ct #108",
-    "city": "Orlando",
-    "rent": "$1,707",
-    "rent_val": 1707,
-    "specs": "3 bd, 2 ba, 1,141 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1141,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8e979383-380a-401b-8cea-547e8729a003/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7a949144-6d1f-4f67-99ca-dcde7020a5c2",
-    "lat": 28.5727774,
-    "lng": -81.3067602,
-    "title": "The Meeting \u2013 Spacious 3 Bedroom, 2 Bathroom | 1141 sq.ft.",
-    "description": "Find the perfect balance of space and style in The Meeting at The Avenue at Baldwin Park. This thoughtfully designed 3-bedroom, 2-bathroom floor plan offers 1,141 sq.ft. of comfortable living ideal for families, roommates, or anyone who values extra space.\r\n\r\nEnjoy an open-concept living and dining area that\u2019s perfect for entertaining, paired with a modern kitchen designed for convenience and flow. The primary suite features a private bath, while two additional bedrooms provide flexibility for guests, a home office, or extra storage.\r\n\r\nWith a washer and dryer in-unit, everyday living is a breeze. Step outside and enjoy community perks like the resort-style pool, basketball court, playground, and dog park \u2014 all in a pet-friendly environment.\r\n\r\nHome Features:\r\n\r\n1141 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\r\nOpen-Concept Living & Dining Area\r\nWasher & Dryer in Unit\r\nPrivate Primary Suite\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy comfort, convenience, and community \u2014 The Meeting at The Avenue at Baldwin Park has everything you need to feel right at home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nHigh Speed Internet\r\nPet Friendly\r\nDog park\r\nBasketball court\r\nPlayground\r\nCommunity pool\r\n1st Floor\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,707 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/5/26",
-    "terms": [
-      "Rent: $1,707",
-      "Application Fee: $95",
-      "Available 10/5/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e979383-380a-401b-8cea-547e8729a003/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7a949144-6d1f-4f67-99ca-dcde7020a5c2&source=Website",
-    "available": "10/5/26"
-  },
-  {
     "id": 6277,
     "uuid": "17a2d6c4-5a78-440d-9125-2266477d1762",
     "address": "07 Loblolly Ct Unit # 07-101, Winter Springs, FL 32708",
@@ -535,11 +501,10 @@
     "lat": 28.6998206,
     "lng": -81.3223694,
     "title": "2 Bedroom 2 Bathroom Townhome",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,584 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/11/26",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,584 \n\n\n\n\n Application Fee: $79",
     "terms": [
       "Rent: $1,584",
-      "Application Fee: $79",
-      "Available 9/11/26"
+      "Application Fee: $79"
     ],
     "pets": [
       "Cats allowed",
@@ -561,7 +526,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7e808441-e910-4f8f-af30-5aab894682c0&source=Website",
-    "available": "9/11/26"
+    "available": "NOW"
   },
   {
     "id": 6271,
@@ -4371,9 +4336,9 @@
     "lat": 27.9421021,
     "lng": -82.4852802,
     "title": "Case Residences | 2-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,040 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,999 - $2,065 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $2,040",
+      "Rent: $1,999 - $2,065",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -4401,9 +4366,9 @@
     "lat": 27.9421021,
     "lng": -82.4852802,
     "title": "Case Residences | 2-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,040 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
+    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,999 - $2,065 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/5/26",
     "terms": [
-      "Rent: $2,040",
+      "Rent: $1,999 - $2,065",
       "Application Fee: $95",
       "Available 8/5/26"
     ],
@@ -10458,12 +10423,12 @@
     "lat": 37.5662879,
     "lng": -77.4734839,
     "title": "The Haven",
-    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/4/26",
+    "description": "Rental Terms \n \n Rent: $1,642 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,642",
       "Application Fee: $50",
       "Security Deposit: $500",
-      "Available 8/4/26"
+      "Available Now"
     ],
     "pets": [
       "Cats allowed",
@@ -10474,7 +10439,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ae6d929-34a2-471e-b57d-96811bd30608&source=Website",
-    "available": "8/4/26"
+    "available": "NOW"
   },
   {
     "id": 5694,
@@ -14014,11 +13979,11 @@
     "lat": 28.5038955,
     "lng": -81.3176286,
     "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,646 - $1,768 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/4/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,646 - $1,768 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available Now",
     "terms": [
       "Rent: $1,646 - $1,768",
       "Application Fee: $99",
-      "Available 8/4/26"
+      "Available Now"
     ],
     "pets": [
       "Cats allowed",
@@ -14029,7 +13994,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=edcefbf4-9561-4207-8331-3f0d8a625511&source=Website",
-    "available": "8/4/26"
+    "available": "NOW"
   },
   {
     "id": 4747,
@@ -14662,7 +14627,7 @@
     "lat": 28.1179749,
     "lng": -81.6535383,
     "title": "***FREE RENT*** Beautiful 3 Bedroom/2 Bathroom Home in Haines City",
-    "description": "***Free Rent*** Welcome to 3707 Eisel Way in the desirable Hammock Reserve community of Haines City! This beautifully maintained 3-bedroom, 2-bathroom home features new luxury vinyl plank (LVP) flooring and an open-concept layout perfect for everyday living. The modern kitchen boasts granite countertops, stainless steel appliances, a large island, and a spacious pantry. The primary suite offers a walk-in closet and private bath with dual vanities and a walk-in shower. Additional highlights include an indoor laundry room, two-car garage, and a covered lanai overlooking the backyard. Enjoy community amenities including a resort-style pool, dog parks, playgrounds, and a mailbox pavilion, all conveniently located near Highway 27, I-4, shopping, and dining.\r\n\r\n\r\nTotal Monthly Rent: $2,065 (renter's insurance, pest control, air filters and more!)\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per pet)\r\n$25 Per month pet rent\r\n\r\n$95 Application Fee\r\n$295 Admin Fee\r\n\r\n**RESIDENT BENEFIT PACKAGE** All Atrium Property Management residents are enrolled in the Resident Benefits Package for $75/mo, which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest share, renter's insurance, and much more! More details upon application.\r\n\r\nPlease note: One or more photos have been virtually staged using AI.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,065 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,990 \n\n\n Available Now",
+    "description": "***One Month Free Rent*** Welcome to 3707 Eisel Way in the desirable Hammock Reserve community of Haines City! This beautifully maintained 3-bedroom, 2-bathroom home features new luxury vinyl plank (LVP) flooring and an open-concept layout perfect for everyday living. The modern kitchen boasts granite countertops, stainless steel appliances, a large island, and a spacious pantry. The primary suite offers a walk-in closet and private bath with dual vanities and a walk-in shower. Additional highlights include an indoor laundry room, two-car garage, and a covered lanai overlooking the backyard. Enjoy community amenities including a resort-style pool, dog parks, playgrounds, and a mailbox pavilion, all conveniently located near Highway 27, I-4, shopping, and dining.\r\n\r\n\r\nTotal Monthly Rent: $2,065 (renter's insurance, pest control, air filters and more!)\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per pet)\r\n$25 Per month pet rent\r\n\r\n$95 Application Fee\r\n$295 Admin Fee\r\n\r\n**RESIDENT BENEFIT PACKAGE** All Atrium Property Management residents are enrolled in the Resident Benefits Package for $75/mo, which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest share, renter's insurance, and much more! More details upon application.\r\n\r\nPlease note: One or more photos have been virtually staged using AI.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,065 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,990 \n\n\n Available Now",
     "terms": [
       "Rent: $2,065",
       "Application Fee: $95",
