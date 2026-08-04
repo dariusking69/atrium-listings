@@ -1,5 +1,180 @@
 [
   {
+    "id": 6300,
+    "uuid": "fe443023-f339-45ef-9aa1-ef2c4b26075b",
+    "address": "3280 Overstreet East #109, Kissimmee, FL 34747",
+    "street": "3280 Overstreet East #109",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 360 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 360,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fe443023-f339-45ef-9aa1-ef2c4b26075b",
+    "lat": 28.34553,
+    "lng": -81.633706,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fe443023-f339-45ef-9aa1-ef2c4b26075b&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 6299,
+    "uuid": "f731a6f5-7242-4054-8bcf-6731583bcd9c",
+    "address": "3271 Overstreet East #225, Kissimmee, FL 34747",
+    "street": "3271 Overstreet East #225",
+    "city": "Kissimmee",
+    "rent": "$1,370",
+    "rent_val": 1370,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f731a6f5-7242-4054-8bcf-6731583bcd9c",
+    "lat": 28.345462,
+    "lng": -81.6330909,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,370 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,370",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f731a6f5-7242-4054-8bcf-6731583bcd9c&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 6298,
+    "uuid": "8260eb87-4ba8-4a8e-aa1f-cead68c14245",
+    "address": "3261 Overstreet East #126, Kissimmee, FL 34747",
+    "street": "3261 Overstreet East #126",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8260eb87-4ba8-4a8e-aa1f-cead68c14245",
+    "lat": 28.345167,
+    "lng": -81.632961,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8260eb87-4ba8-4a8e-aa1f-cead68c14245&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 6297,
+    "uuid": "fc02fd32-f2c8-45ab-9c83-357e7b30fa6b",
+    "address": "3261 Overstreet East #112, Kissimmee, FL 34747",
+    "street": "3261 Overstreet East #112",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fc02fd32-f2c8-45ab-9c83-357e7b30fa6b",
+    "lat": 28.345097,
+    "lng": -81.632526,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fc02fd32-f2c8-45ab-9c83-357e7b30fa6b&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6296,
+    "uuid": "f3166f86-6091-4bc0-a152-5ff4bf7ad7cd",
+    "address": "3251 Overstreet East #214, Kissimmee, FL 34747",
+    "street": "3251 Overstreet East #214",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f3166f86-6091-4bc0-a152-5ff4bf7ad7cd",
+    "lat": 28.345697,
+    "lng": -81.632505,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f3166f86-6091-4bc0-a152-5ff4bf7ad7cd&source=Website",
+    "available": "8/10/26"
+  },
+  {
     "id": 6295,
     "uuid": "0f370d0c-48f2-44aa-b40a-72ab408579b1",
     "address": "5009 S West Shore Blvd Unit 07-5215, Tampa, FL 33611",
@@ -9016,6 +9191,41 @@
     "available": "8/13/26"
   },
   {
+    "id": 5836,
+    "uuid": "4dd8912c-e391-434d-92fc-711da8619ce9",
+    "address": "3281 Overstreet East #101, Kissimmee, FL 34747",
+    "street": "3281 Overstreet East #101",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4dd8912c-e391-434d-92fc-711da8619ce9",
+    "lat": 28.346004,
+    "lng": -81.633134,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4dd8912c-e391-434d-92fc-711da8619ce9&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5830,
     "uuid": "c9d62365-9b00-478b-ad82-d85f5352664f",
     "address": "5216 Lake Margaret Drive Unit # 216 - 1106, Orlando, FL 32812",
@@ -9548,8 +9758,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2bbee9b3-829c-4ade-bc68-85c4b868fcbe",
     "lat": 29.6333252,
     "lng": -82.3801059,
-    "title": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/4/26!!!",
-    "description": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/4/26!!! \r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,149 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
+    "title": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!!",
+    "description": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!! \r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,149 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
     "terms": [
       "Rent: $1,149",
       "Application Fee: $50",
@@ -10652,6 +10862,41 @@
     "available": "NOW"
   },
   {
+    "id": 5685,
+    "uuid": "dc575d88-fb8b-4299-84f6-87cfc81b600c",
+    "address": "3261 Overstreet East #115, Kissimmee, FL 34747",
+    "street": "3261 Overstreet East #115",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dc575d88-fb8b-4299-84f6-87cfc81b600c",
+    "lat": 28.345169,
+    "lng": -81.632526,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=dc575d88-fb8b-4299-84f6-87cfc81b600c&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5682,
     "uuid": "87bd0164-9687-4deb-ad4a-e8de6af0285d",
     "address": "1478 Sunshadow Dr. # 210, Casselberry, FL 32707",
@@ -10740,54 +10985,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e442d1e9-da4b-4e3f-a946-6e05ba470eeb&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5677,
-    "uuid": "6ac39cc5-6a14-4deb-91e8-646d23756633",
-    "address": "700 Suncrest Loop # 314, Casselberry, FL 32707",
-    "street": "700 Suncrest Loop # 314",
-    "city": "Casselberry",
-    "rent": "$1,258",
-    "rent_val": 1258,
-    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 742,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6ac39cc5-6a14-4deb-91e8-646d23756633",
-    "lat": 28.6946564,
-    "lng": -81.3216277,
-    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
-    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,258 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,258",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6ac39cc5-6a14-4deb-91e8-646d23756633&source=Website",
     "available": "NOW"
   },
   {
@@ -12479,6 +12676,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a624a6f7-8520-46bd-8bda-d57b9dde698d&source=Website",
     "available": "8/15/26"
+  },
+  {
+    "id": 5426,
+    "uuid": "0b8ace3b-c569-4314-9442-3fb5a9717b84",
+    "address": "3261 Overstreet East #110, Kissimmee, FL 34747",
+    "street": "3261 Overstreet East #110",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0b8ace3b-c569-4314-9442-3fb5a9717b84",
+    "lat": 28.345097,
+    "lng": -81.632605,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0b8ace3b-c569-4314-9442-3fb5a9717b84&source=Website",
+    "available": "NOW"
   },
   {
     "id": 5399,
@@ -14794,8 +15026,8 @@
     "address": "5041 Hutton Drive, St. Cloud, FL 34771",
     "street": "5041 Hutton Drive",
     "city": "St. Cloud",
-    "rent": "$2,750",
-    "rent_val": 2750,
+    "rent": "$2,200",
+    "rent_val": 2200,
     "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
     "beds": 4.0,
     "baths": 2.5,
@@ -14805,9 +15037,9 @@
     "lat": 28.3134223,
     "lng": -81.2395838,
     "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
-    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,750 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
+    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,200 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
-      "Rent: $2,750",
+      "Rent: $2,200",
       "Application Fee: $95",
       "Security Deposit: $500",
       "Available 8/31/26"
@@ -14826,6 +15058,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ad43e14f-e21d-4510-b8e8-8ff5e573d3f7&source=Website",
     "available": "8/31/26"
+  },
+  {
+    "id": 3996,
+    "uuid": "c6511d33-3212-4c09-8a45-9351fcd4ddf0",
+    "address": "3251 Overstreet East #225, Kissimmee, FL 34747",
+    "street": "3251 Overstreet East #225",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c6511d33-3212-4c09-8a45-9351fcd4ddf0",
+    "lat": 28.345417,
+    "lng": -81.632587,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c6511d33-3212-4c09-8a45-9351fcd4ddf0&source=Website",
+    "available": "NOW"
   },
   {
     "id": 3991,
@@ -14978,6 +15245,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9fdb92a6-bc44-406b-99a3-f5cdd140ee9b&source=Website",
     "available": "9/11/26"
+  },
+  {
+    "id": 3857,
+    "uuid": "ab863a90-810d-42ce-b17e-8f9d9df52a39",
+    "address": "3271 Overstreet East #226, Kissimmee, FL 34747",
+    "street": "3271 Overstreet East #226",
+    "city": "Kissimmee",
+    "rent": "$1,370",
+    "rent_val": 1370,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ab863a90-810d-42ce-b17e-8f9d9df52a39",
+    "lat": 28.345497,
+    "lng": -81.6330909,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,370 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,370",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ab863a90-810d-42ce-b17e-8f9d9df52a39&source=Website",
+    "available": "NOW"
   },
   {
     "id": 3848,
@@ -15419,6 +15721,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=893e54ac-f99a-42cc-94fe-de8164f76009&source=Website",
     "available": "9/30/26"
+  },
+  {
+    "id": 3658,
+    "uuid": "176b3f55-1581-41f1-a159-f91ef8965bf7",
+    "address": "3271 Overstreet East #113, Kissimmee, FL 34747",
+    "street": "3271 Overstreet East #113",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/176b3f55-1581-41f1-a159-f91ef8965bf7",
+    "lat": 28.345076,
+    "lng": -81.633129,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/12/26",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/12/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=176b3f55-1581-41f1-a159-f91ef8965bf7&source=Website",
+    "available": "8/12/26"
   },
   {
     "id": 3653,
@@ -16567,41 +16904,6 @@
     "available": "NOW"
   },
   {
-    "id": 3399,
-    "uuid": "f09cbc8a-7292-4e2b-8719-2970291abe86",
-    "address": "3261 Overstreet East #202, Kissimmee, FL 34747",
-    "street": "3261 Overstreet East #202",
-    "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
-    "specs": "Studio, 1 ba, 323 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 323,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f09cbc8a-7292-4e2b-8719-2970291abe86",
-    "lat": 28.345096,
-    "lng": -81.632921,
-    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
-    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,050",
-      "Application Fee: $75",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Small dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f09cbc8a-7292-4e2b-8719-2970291abe86&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 3386,
     "uuid": "27d6f309-08b0-456e-9cef-a3c26796204c",
     "address": "3113 W. Marshall Street #318, Richmond, VA 23230",
@@ -16813,6 +17115,40 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=918ffa00-233b-43da-a5ae-75f1443a75a6&source=Website",
     "available": "NOW"
+  },
+  {
+    "id": 3347,
+    "uuid": "aced2fde-08bd-4bd9-b52f-9012b9624ef3",
+    "address": "1094 Green Cypress Loop, Davenport, FL 33896",
+    "street": "1094 Green Cypress Loop",
+    "city": "Davenport",
+    "rent": "$2,325",
+    "rent_val": 2325,
+    "specs": "3 bd, 2.5 ba, 1,572 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1572,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aced2fde-08bd-4bd9-b52f-9012b9624ef3",
+    "lat": 28.25403,
+    "lng": -81.6234039,
+    "title": "The Kennedy - Three Bedroom Townhome Available!",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,325 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $2,325",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aced2fde-08bd-4bd9-b52f-9012b9624ef3&source=Website",
+    "available": "10/10/26"
   },
   {
     "id": 3327,
@@ -17077,12 +17413,12 @@
     "lat": 28.3134762,
     "lng": -81.240584,
     "title": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/14/26",
+    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/28/26",
     "terms": [
       "Rent: $2,000",
       "Application Fee: $95",
       "Security Deposit: $500",
-      "Available 8/14/26"
+      "Available 8/28/26"
     ],
     "pets": [
       "Cats allowed",
@@ -17097,7 +17433,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5&source=Website",
-    "available": "8/14/26"
+    "available": "8/28/26"
   },
   {
     "id": 3266,
@@ -17210,8 +17546,8 @@
     "address": "2172 Shenfield Way, St. Cloud, FL 34771",
     "street": "2172 Shenfield Way",
     "city": "St. Cloud",
-    "rent": "$2,700",
-    "rent_val": 2700,
+    "rent": "$2,077",
+    "rent_val": 2077,
     "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
@@ -17220,10 +17556,10 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b6b62359-2998-4aed-a229-0fceac5b7f44",
     "lat": 28.314074,
     "lng": -81.240612,
-    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/21/26",
+    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
+    "description": "*Qualifying special is reflected in rates shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,077 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/21/26",
     "terms": [
-      "Rent: $2,700",
+      "Rent: $2,077",
       "Application Fee: $95",
       "Security Deposit: $500",
       "Available 8/21/26"
@@ -17246,6 +17582,40 @@
     "available": "8/21/26"
   },
   {
+    "id": 3205,
+    "uuid": "872efb57-99c4-44ad-99fb-7efb88f358e8",
+    "address": "1281 Eagle Branch Lane, Davenport, FL 33896",
+    "street": "1281 Eagle Branch Lane",
+    "city": "Davenport",
+    "rent": "$2,670",
+    "rent_val": 2670,
+    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
+    "beds": 4.0,
+    "baths": 2.5,
+    "sqft": 1704,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/872efb57-99c4-44ad-99fb-7efb88f358e8",
+    "lat": 28.254884,
+    "lng": -81.623487,
+    "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,670 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/31/26",
+    "terms": [
+      "Rent: $2,670",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 8/31/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=872efb57-99c4-44ad-99fb-7efb88f358e8&source=Website",
+    "available": "8/31/26"
+  },
+  {
     "id": 3204,
     "uuid": "209eee2a-7fcd-42b8-a5bd-c07ccd17f1d7",
     "address": "1213 Eagle Branch Lane, Davenport, FL 33896",
@@ -17262,12 +17632,12 @@
     "lat": 28.254385,
     "lng": -81.621994,
     "title": "The Washington - 3 Bedroom with 2 Car Garage!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,121 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/10/26",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,121 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/19/26",
     "terms": [
       "Rent: $2,121",
       "Application Fee: $95",
       "Security Deposit: $600",
-      "Available 8/10/26"
+      "Available 8/19/26"
     ],
     "pets": [
       "Cats allowed",
@@ -17277,7 +17647,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8abb10cd-bdc5-4b87-8366-1d3138e5d36c/large.jpg"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=209eee2a-7fcd-42b8-a5bd-c07ccd17f1d7&source=Website",
-    "available": "8/10/26"
+    "available": "8/19/26"
   },
   {
     "id": 3201,
@@ -17331,6 +17701,41 @@
     "available": "NOW"
   },
   {
+    "id": 3197,
+    "uuid": "2170466b-173c-4e48-a45a-bf3f689b4f62",
+    "address": "8651 Belle Bass Ln #129, Kissimmee, FL 34747",
+    "street": "8651 Belle Bass Ln #129",
+    "city": "Kissimmee",
+    "rent": "$1,370",
+    "rent_val": 1370,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2170466b-173c-4e48-a45a-bf3f689b4f62",
+    "lat": 28.3453382,
+    "lng": -81.6342844,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,370 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,370",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2170466b-173c-4e48-a45a-bf3f689b4f62&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 3194,
     "uuid": "d8c80c5a-277b-41d0-8a69-e8ad1c00a5d3",
     "address": "1117 Green Cypress Loop, Davenport, FL 33896",
@@ -17347,12 +17752,12 @@
     "lat": 28.254444,
     "lng": -81.623019,
     "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,364 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/14/26",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,364 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/21/26",
     "terms": [
       "Rent: $2,364",
       "Application Fee: $95",
       "Security Deposit: $600",
-      "Available 8/14/26"
+      "Available 8/21/26"
     ],
     "pets": [
       "Cats allowed",
@@ -17362,7 +17767,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d8c80c5a-277b-41d0-8a69-e8ad1c00a5d3&source=Website",
-    "available": "8/14/26"
+    "available": "8/21/26"
   },
   {
     "id": 3138,
@@ -17698,8 +18103,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f6e8e4a5-b40a-48ad-83ed-b20e5e5a5d8f",
     "lat": 28.313864,
     "lng": -81.240613,
-    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
+    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
+    "description": "*Qualifying special is reflected in rates shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,700 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
       "Rent: $2,700",
       "Application Fee: $95",
@@ -18104,7 +18509,7 @@
     "lat": 29.7067006,
     "lng": -82.3544436,
     "title": "**MOVE IN READY ** $500 gift card",
-    "description": "Looking for your next home? This spacious 2-bedroom 1 bath in the heart of Gainesville is now available for rent!\r\nFeatures:\r\n\u2022 Generous living space\r\n\u2022 Modern kitchen with stainless steel appliances\r\n\u2022 Washer and dryer hook-up, \r\n\u2022 Vinyl Floor\r\n\u2022 Dishwasher\r\nFenced in patio\r\n\r\nLocation\r\n\u2022 Nestled in a prime location, you'll find convenience at your doorstep with proximity to Walmart, DEFY, and the serene surroundings of Northside Park.\r\n\r\n\u2022 Lease term: 12-month lease\r\n\r\nContact Information: For more details or to schedule a viewing, contact Atrium Management at 352-462-4414\r\nGladys Weeks\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,250 \n\n\n Available Now",
+    "description": "Looking for your next home? This spacious 2-bedroom 1 bath in the heart of Gainesville is now available for rent!\r\nFeatures:\r\n\u2022 Generous living space\r\n\u2022 Modern kitchen with stainless steel appliances\r\n\u2022 Washer and dryer hook-up, \r\n\u2022 Vinyl Floor\r\n\u2022 Dishwasher\r\nFenced in patio\r\n\r\nLocation\r\n\u2022 Nestled in a prime location, you'll find convenience at your doorstep with proximity to Walmart, DEFY, and the serene surroundings of Northside Park.\r\n\r\n\u2022\r\n\r\nContact Information: For more details or to schedule a viewing, contact Atrium Management at 352-462-4414\r\nGladys Weeks\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,250 \n\n\n Available Now",
     "terms": [
       "Rent: $1,250",
       "Application Fee: $95",
@@ -18132,6 +18537,41 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5fb87966-ad5a-4f0c-bf43-138f83575620&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 2897,
+    "uuid": "56b3202f-7123-4c51-bcd0-7d51a604d83c",
+    "address": "8640 Overstreet West #202, Kissimmee, FL 34747",
+    "street": "8640 Overstreet West #202",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 360 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 360,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/56b3202f-7123-4c51-bcd0-7d51a604d83c",
+    "lat": 28.344755,
+    "lng": -81.634083,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=56b3202f-7123-4c51-bcd0-7d51a604d83c&source=Website",
     "available": "NOW"
   },
   {
@@ -18178,6 +18618,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6bf12432-d96a-467f-857c-3685eef62166&source=Website",
     "available": "8/10/26"
+  },
+  {
+    "id": 2874,
+    "uuid": "151f7359-7d59-44a6-99f3-163d3c8a13b8",
+    "address": "3281 Overstreet East #218, Kissimmee, FL 34747",
+    "street": "3281 Overstreet East #218",
+    "city": "Kissimmee",
+    "rent": "$1,370",
+    "rent_val": 1370,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/151f7359-7d59-44a6-99f3-163d3c8a13b8",
+    "lat": 28.345725,
+    "lng": -81.633092,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,370 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,370",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=151f7359-7d59-44a6-99f3-163d3c8a13b8&source=Website",
+    "available": "NOW"
   },
   {
     "id": 2858,
@@ -18284,6 +18759,76 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c05e1a6e-cdaf-4a9c-8140-88bfae24c91f&source=Website",
     "available": "8/10/26"
+  },
+  {
+    "id": 2850,
+    "uuid": "299834f3-0698-4da4-8582-14dd21744236",
+    "address": "3270 Overstreet East #101, Kissimmee, FL 34747",
+    "street": "3270 Overstreet East #101",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 360 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 360,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/299834f3-0698-4da4-8582-14dd21744236",
+    "lat": 28.345389,
+    "lng": -81.633705,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=299834f3-0698-4da4-8582-14dd21744236&source=Website",
+    "available": "8/10/26"
+  },
+  {
+    "id": 2837,
+    "uuid": "dad2188d-0a27-447d-adde-d61fd9da0a88",
+    "address": "3261 Overstreet East #209, Kissimmee, FL 34747",
+    "street": "3261 Overstreet East #209",
+    "city": "Kissimmee",
+    "rent": "$1,050",
+    "rent_val": 1050,
+    "specs": "Studio, 1 ba, 323 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 323,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dad2188d-0a27-447d-adde-d61fd9da0a88",
+    "lat": 28.345097,
+    "lng": -81.632645,
+    "title": "Special May Move-In Offer: 2 Months Free Rent on Resort-Style Studios",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious walk-in closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,050 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,050",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=dad2188d-0a27-447d-adde-d61fd9da0a88&source=Website",
+    "available": "NOW"
   },
   {
     "id": 2712,
@@ -18820,6 +19365,39 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9e62d5bb-deac-4175-a1e7-0d124b49eab7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 2429,
+    "uuid": "f812226b-f1c1-494e-b888-93cce0d2217b",
+    "address": "5305 N Boulevard  - Unit 210, Tampa, FL 33603",
+    "street": "5305 N Boulevard  - Unit 210",
+    "city": "Tampa",
+    "rent": "$1,495",
+    "rent_val": 1495,
+    "specs": "2 bd, 2 ba, 800 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 800,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f14eca82-e22e-437d-be7a-8b4cc3af3b62/large.jfif",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f812226b-f1c1-494e-b888-93cce0d2217b",
+    "lat": 27.9956952,
+    "lng": -82.4669832,
+    "title": "Renovated two bedroom, 1 bathroom apartment! GREAT LOCATION! GREAT DEAL!",
+    "description": "\"Make your new place feel like home! Enjoy a $100 HomeGoods gift card when you move in \u2014 the perfect way to decorate and personalize your new space.\" \r\n\r\nYou will love coming home to this nicely renovated 2 bedroom, 2 bath apartment which boasts a large kitchen ample cabinets, stainless appliances, & gleaming quartz counters. There is a separate pantry, as well as a washer & dryer.\r\n\r\nThe easy care, luxurious wood look laminate flooring is neutral enough to compliment any d\u00e9cor. The living/dining area is the perfect size for hosting gatherings! Two nice sized bedrooms and 2 baths are great for roommates, or one can be used as a study, guest room, etc. \r\n\r\n2 inch blinds complete the picture. \r\n\r\nJanie B Apartments is conveniently & centrally located within 10 - 15 minutes of Tampa International Airport, Raymond James Stadium, downtown Tampa Riverwalk, Hillsborough Community College, University of Tampa, Armature Works, Veterans Expressway, & the Tampa Zoo. I-275 access is less than 5 minutes away, & there is a park just across the bridge which meanders along the river for your biking/jogging/walking pleasure.\r\n\r\nPublix is minutes away, as well as many local & chain dining establishments, gyms, convenience stores, & shops of all kinds. \r\n\r\nThis pet friendly community loves our furry friends, so bring your dog or cat! (Weight & breed restrictions apply, along with pet fees & pet rent for a maximum of 2 pets per unit.)\r\n\r\nUtilities & Resident Benefit Package are separate.\r\n\r\nProfessionally managed by Atrium Management Company, please call (813) 553-3444 to arrange your personal tour. This one will not last long!\r\n\r\n https://my.matterport.com/show/?m=FaJ26idcmdo \r\n\r\n\r\nRBP and utilities are separate \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,495",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f812226b-f1c1-494e-b888-93cce0d2217b&source=Website",
     "available": "NOW"
   },
   {
@@ -21168,7 +21746,7 @@
     "lat": 28.7541758,
     "lng": -81.3671677,
     "title": "Beautiful 3 Bedroom, 2 Bathroom Condo in the Gated Notting Hill Community",
-    "description": "Welcome home to this beautifully updated 3-bedroom, 2-bathroom condo located in the highly sought-after Notting Hill community in Lake Mary! From the moment you walk through the door, you'll appreciate the spacious open floor plan, elegant crown molding, built-in shelving, and gorgeous wood-style flooring throughout the home.\r\n\r\nThe stylish kitchen is perfect for both everyday living and entertaining, featuring new granite countertops, abundant cabinetry, generous counter space, and a convenient breakfast bar. Enjoy meals in the adjacent dining area or host special occasions in the separate formal dining space just off the foyer.\r\n\r\nThe spacious primary suite offers a large walk-in closet, a private en-suite bathroom, and direct access to the screened-in patio\u2014an ideal spot to relax with your morning coffee or unwind after a long day. The additional bedrooms are generously sized and feature the same attractive flooring throughout.\r\n\r\nCommunity Amenities Include:\r\n\r\nTwo resort-style swimming pools\r\nElegant clubhouse with billiards room\r\nFitness center\r\nTennis courts\r\nPlayground\r\nBeautifully maintained grounds\r\n\r\nConveniently located just minutes from I-4, SR 417, SunRail, the Seminole Wekiva Trail, shopping, dining, and entertainment, this home offers the perfect combination of comfort and convenience.\r\n\r\nTop-Rated School Zone:\r\n\r\nHeathrow Elementary School\r\nMarkham Woods Middle School\r\nLake Mary High School\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), cats and small dogs only, 2 pets maximum. This property is professionally managed by Atrium Management. AVAILABLE August 15th.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,250 \n\n\n Available 8/15/26",
+    "description": "Welcome home to this beautifully updated 3-bedroom, 2-bathroom condo located in the highly sought-after Notting Hill community in Lake Mary! From the moment you walk through the door, you'll appreciate the spacious open floor plan, elegant crown molding, built-in shelving, and gorgeous wood-style flooring throughout the home.\r\n\r\nThe stylish kitchen is perfect for both everyday living and entertaining, featuring new granite countertops, abundant cabinetry, generous counter space, and a convenient breakfast bar. Enjoy meals in the adjacent dining area or host special occasions in the separate formal dining space just off the foyer.\r\n\r\nThe spacious primary suite offers a large walk-in closet, a private en-suite bathroom, and direct access to the screened-in patio\u2014an ideal spot to relax with your morning coffee or unwind after a long day. The additional bedrooms are generously sized and feature the same attractive flooring throughout.\r\n\r\nCommunity Amenities Include:\r\n\r\nTwo resort-style swimming pools\r\nElegant clubhouse with billiards room\r\nFitness center\r\nTennis courts\r\nPlayground\r\nBeautifully maintained grounds\r\n\r\nConveniently located just minutes from I-4, SR 417, SunRail, the Seminole Wekiva Trail, shopping, dining, and entertainment, this home offers the perfect combination of comfort and convenience.\r\n\r\nTop-Rated School Zone:\r\n\r\nHeathrow Elementary School\r\nMarkham Woods Middle School\r\nLake Mary High School\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), cats and small dogs only, 2 pets maximum. This property is professionally managed by Atrium Management. AVAILABLE August 15th. \r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,250 \n\n\n Available 8/15/26",
     "terms": [
       "Rent: $2,250",
       "Application Fee: $95",
