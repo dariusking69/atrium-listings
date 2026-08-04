@@ -5045,36 +5045,6 @@
     "available": "NOW"
   },
   {
-    "id": 6107,
-    "uuid": "167b45df-a29e-48ff-b7fd-df8bcc4aaae7",
-    "address": "210 W Hyde Park Pl Unit 213-3, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 213-3",
-    "city": "Tampa",
-    "rent": "$1,799",
-    "rent_val": 1799,
-    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/167b45df-a29e-48ff-b7fd-df8bcc4aaae7",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 2-Bedroom Flats (790-1,100 SF), Hyde Park, Tampa",
-    "description": "Spread out in a two-bedroom home at Beach Flats, ranging from 790 to 1,100 square feet in the heart of historic Hyde Park. Custom tile and stainless steel appliances outfit the kitchen, while select units include a wrap-around porch for extra outdoor living space \u2014 a rarity in this walkable pocket of South Tampa. Residents gather at the courtyard fire pit, grill kitchen, and covered bike rack, all inside a smoke-free, gated community minutes from Hyde Park Village and downtown Tampa. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,799 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,799",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=167b45df-a29e-48ff-b7fd-df8bcc4aaae7&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6106,
     "uuid": "0f17a620-5767-4666-9967-d3b5afe099db",
     "address": "210 W Hyde Park Pl Unit 211-6, Tampa, FL 33606",
@@ -7056,50 +7026,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=04b79294-23dc-482e-a133-db1dc8a44722&source=Website",
     "available": "8/20/26"
-  },
-  {
-    "id": 5983,
-    "uuid": "01ec2019-2c76-4c28-93e4-fd16fa38234e",
-    "address": "1102 Latta Ln, Unit L2, Orlando, FL 32804",
-    "street": "1102 Latta Ln",
-    "city": "Orlando",
-    "rent": "$1,350",
-    "rent_val": 1350,
-    "specs": "1 bd, 1 ba, 575 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 575,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e97d222c-c78b-4e78-a08a-368145bfb5bb/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/01ec2019-2c76-4c28-93e4-fd16fa38234e",
-    "lat": 28.5605287,
-    "lng": -81.3873469,
-    "title": "Welcome to The Roberson in College Park \u2013 1102 Latta Ln, Unit L2, Orlando, FL 32804",
-    "description": "**Rental Special $500 Visa Gift Card**\r\nWelcome to The Roberson, a charming residence nestled in the heart of Orlando's highly sought-after College Park neighborhood. This thoughtfully designed apartment blends classic character with modern comfort, offering residents an exceptional living experience just minutes from Downtown Orlando.\r\n\r\nSurrounded by tree-lined streets, local boutiques, popular dining destinations, and neighborhood parks, The Roberson places you in one of Orlando's most walkable and vibrant communities. Enjoy easy access to Edgewater Drive's shopping and entertainment district while remaining close to major employers, hospitals, and downtown attractions.\r\n\r\nInside, you'll find a bright and inviting living space designed for comfortable everyday living. Whether you're working from home, enjoying a quiet evening, or exploring everything College Park has to offer, The Roberson provides the perfect balance of convenience, charm, and location.\r\n\r\nCommunity Highlights:\r\n\r\nPrime College Park location\r\nMinutes from Downtown Orlando\r\nClose to local restaurants, coffee shops, and retail\r\nEasy access to major roadways and employment centers\r\nProfessionally managed community\r\nClassic charm with modern conveniences\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,350 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,350 \n\n\n Available 8/10/26",
-    "terms": [
-      "Rent: $1,350",
-      "Application Fee: $95",
-      "Security Deposit: $1,350",
-      "Available 8/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/e97d222c-c78b-4e78-a08a-368145bfb5bb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0dccedfe-6224-4e42-946d-e3b8952ec85e/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c39b7c56-4db6-48d1-9c18-731630c198dd/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/84885750-63d9-4eed-a603-77b4695cb4e1/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fab5d592-f357-4816-b5e2-e60ae87465fe/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a5bbad49-4633-4bbe-bf4f-77bce1d4f651/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cbdb5fb6-b26c-4e63-97b8-e78936009189/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/19bb1ace-ba2a-4f42-8ec6-4b75cffcbebb/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a9fe13ee-c928-463e-ac6b-ab74b06c2407/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9fe84cfb-ae6b-4ba6-8350-eeb917a89e7b/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=01ec2019-2c76-4c28-93e4-fd16fa38234e&source=Website",
-    "available": "8/10/26"
   },
   {
     "id": 5975,
@@ -12410,6 +12336,52 @@
     "available": "NOW"
   },
   {
+    "id": 5484,
+    "uuid": "b99abdef-88f3-45b0-bb39-72935debe0fc",
+    "address": "2106 Bouquet Ct #108, Orlando, FL 32807",
+    "street": "2106 Bouquet Ct #108",
+    "city": "Orlando",
+    "rent": "$2,085",
+    "rent_val": 2085,
+    "specs": "3 bd, 2 ba, 1,141 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1141,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9961d087-9950-4014-95b4-11bf6127487f/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b99abdef-88f3-45b0-bb39-72935debe0fc",
+    "lat": 28.5732825,
+    "lng": -81.30502,
+    "title": "The Meeting \u2013 Spacious 3 Bedroom, 2 Bathroom | 1141 sq.ft.",
+    "description": "Find the perfect balance of space and style in The Meeting at The Avenue at Baldwin Park. This thoughtfully designed 3-bedroom, 2-bathroom floor plan offers 1,141 sq.ft. of comfortable living ideal for families, roommates, or anyone who values extra space.\r\n\r\nEnjoy an open-concept living and dining area that\u2019s perfect for entertaining, paired with a modern kitchen designed for convenience and flow. The primary suite features a private bath, while two additional bedrooms provide flexibility for guests, a home office, or extra storage.\r\n\r\nWith a washer and dryer in-unit, everyday living is a breeze. Step outside and enjoy community perks like the resort-style pool, basketball court, playground, and dog park \u2014 all in a pet-friendly environment.\r\n\r\nHome Features:\r\n\r\n1141 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\r\nOpen-Concept Living & Dining Area\r\nWasher & Dryer in Unit\r\nPrivate Primary Suite\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy comfort, convenience, and community \u2014 The Meeting at The Avenue at Baldwin Park has everything you need to feel right at home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nHigh Speed Internet\r\nPet Friendly\r\nDog park\r\nBasketball court\r\nPlayground\r\nCommunity pool\r\n1st Floor\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,085 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 11/9/26",
+    "terms": [
+      "Rent: $2,085",
+      "Application Fee: $95",
+      "Available 11/9/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/9961d087-9950-4014-95b4-11bf6127487f/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/adee03b7-d37f-4309-8dd0-c37ee7c32808/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/173d3b10-f78c-4dc9-a1ef-5c133e4224e6/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd24b0da-5574-4705-90bf-a1be0ae1df62/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e61017f-eb39-4755-bf3d-7a66ac0933cd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/29bfaa1f-32da-43bb-9a04-44923c5814dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/11642b97-8c07-45f7-bc6c-02e396e05db9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/309f4b3b-ae15-4b08-9e99-9d0fe48c6e16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/166ad653-2cde-4c1a-b9c3-de09d5fa1e9b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e6a119b7-93b6-4a1a-be77-c584875b62dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/46a7b890-c79a-493f-9d53-dcd4d2b87300/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4c6e2e35-57d6-4c94-b3fd-32c43db0fbc4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d7d1ca32-1783-4d36-9972-496b53c431e6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b99abdef-88f3-45b0-bb39-72935debe0fc&source=Website",
+    "available": "11/9/26"
+  },
+  {
     "id": 5467,
     "uuid": "ee8f5d07-9c5d-47de-aa66-41905040b45a",
     "address": "12805 Avelar Manor Pl, Riverview, FL 33578",
@@ -14392,6 +14364,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=75b4ba29-8b13-408f-b236-a8a08f3bf34e&source=Website",
     "available": "NOW"
+  },
+  {
+    "id": 4436,
+    "uuid": "da493469-fa1e-439b-a973-3b36b0cd715b",
+    "address": "2110 Gachet Ct #207, Orlando, FL 32807",
+    "street": "2110 Gachet Ct #207",
+    "city": "Orlando",
+    "rent": "$1,605",
+    "rent_val": 1605,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/da493469-fa1e-439b-a973-3b36b0cd715b",
+    "lat": 28.5738907,
+    "lng": -81.3070003,
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,605 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563 \n\n\n Available 11/9/26",
+    "terms": [
+      "Rent: $1,605",
+      "Application Fee: $95",
+      "Security Deposit: $1,563",
+      "Available 11/9/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=da493469-fa1e-439b-a973-3b36b0cd715b&source=Website",
+    "available": "11/9/26"
   },
   {
     "id": 4434,
@@ -20677,83 +20684,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=78808bf5-0214-41a2-8daf-dd0ecac4df43&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 1708,
-    "uuid": "0c0f7538-3a02-491f-90fd-8b374b253b1c",
-    "address": "935 Shriver Cir, Lake Mary, FL 32746",
-    "street": "935 Shriver Cir",
-    "city": "Lake Mary",
-    "rent": "$3,650",
-    "rent_val": 3650,
-    "specs": "4 bd, 2 ba, 2,303 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.0,
-    "sqft": 2303,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/dacd1047-e78c-4b6e-ac00-bb5dd8220ae1/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0c0f7538-3a02-491f-90fd-8b374b253b1c",
-    "lat": 28.7310503,
-    "lng": -81.3477405,
-    "title": "Beautiful 4 Bedroom 2 Bathroom Pool Home in Lake Mary, FL",
-    "description": "Located in the heart of Lake Mary, this inviting 4-bedroom, 2-bathroom pool home offers a seamless blend of indoor and outdoor living. From the open foyer, enjoy a thoughtfully designed floor plan that flows effortlessly into the great room. Here, oversized, fully retractable sliding glass doors showcase the sparkling pool and expand the living space for easy entertaining.\r\n\r\nThe screened-in rear pool patio offers a private retreat for relaxing in the Florida sunshine or hosting friends and family. Just beyond the pool, a fully fenced lawn offers generous space for outdoor activities or simply unwinding in the open air.\r\n\r\nInside, the kitchen is both stylish and functional, featuring granite countertops, a modern tile backsplash, stainless steel appliances, and a dining nook.\r\n\r\nThe spacious primary suite, a peaceful escape, boasts picture windows overlooking the serene backyard. On the opposite wing of the home, three additional bedrooms share a full bathroom with double sinks and convenient direct access to the pool\u2014perfect after a swim. Two flexible rooms at the front of the home can easily serve as a home office, playroom, dining area, or additional lounging space.\r\n\r\nAdditional highlights include central A/C for year-round comfort and a two-car garage providing ample storage and parking.\r\n\r\nIdeally situated just minutes from Lake Mary\u2019s popular shops and restaurants, this home is zoned for Lake Mary Elementary, Markham Woods Middle, and Lake Mary High. A rare combination of location, layout, and lifestyle! $95.00 Application Fee (Non-Refundable) per adult. Pets negotiable per owner approval, Additional fees will apply. Lawn Care and Pool Care is included. This property is professionally managed by Atrium Management. AVAILABLE JULY 10th!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), 2 pets maximum. This property is professionally managed by Atrium Management. AVAILABLE NOW!!\r\n\r\n\r\nAdditional monthly fees:\r\n$75 Resident Benefit Package\r\n$60 Group Rate Internet Package\r\n\r\n\r\n**RESIDENT BENEFIT PACKAGE**\r\nAll Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, pest control services, renter's insurance, and much more! More details upon application.\r\n\r\n\r\nRESIDENT INTERNET PACKAGE: additional fees\r\nAll Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,650 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $3,650 \n\n\n Available Now",
-    "terms": [
-      "Rent: $3,650",
-      "Application Fee: $95",
-      "Security Deposit: $3,650",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/dacd1047-e78c-4b6e-ac00-bb5dd8220ae1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d50fe851-a577-4611-b602-2c1be279566c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c103637b-1b45-4642-bb18-92ca67a2499d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d17517d3-5a88-467e-b72d-36a69ee97202/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f12071be-646a-4ff8-bed1-bf29627cc22e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3b724764-2c06-4030-b742-ac46b0b463e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/49748eac-7452-489e-9849-ce47c216de96/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2e5909bb-ad18-4d72-bf9e-e73b36954218/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3ace5189-edf1-4ec1-a08f-4fa0b809dc44/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7b67bd90-7aac-4aa6-b605-54ced42715ab/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cc4b0cd7-05d3-4e54-8e16-70d39bf4ff29/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2cee5067-fb7f-47a9-a07b-f74de48881d6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/40ae4865-1175-40b6-a9bc-30145e5e81f6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/10e056c0-6cb5-4323-a7e0-270a4c0633d3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/eecbb7cf-e28a-4d36-a9e5-33f0320ef6e1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/62c577c5-15cc-452d-ad08-40cd17f3e5b8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e35fa3e7-d982-4274-a6db-16447a5403e7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/503c7166-7fe2-401f-aeff-94f63c861b18/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2aec9e50-c5f5-4da4-8f67-df72c95ac1d1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/004dadd2-0593-4333-8b65-e333d48838e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ac8806f8-6764-4558-a6de-42951e4f6aa1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/286a2786-9b95-4151-8a82-a7e6d83f7820/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f37f4683-bcac-48f2-b712-5b942f4b1543/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ba1c191a-b016-41b3-a03e-4ecb55845302/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee19faa7-a4c4-4467-8116-3ae0cd743ff4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3c404001-8996-43fb-8f4a-a8bf6d6fc480/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c140cde7-a6bd-4171-b8f7-0035d802b934/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/15602283-b250-45d2-9062-bbe6a3fb300b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ea337911-8c63-47f0-b364-9e9c2dd5fe80/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a4ec42a0-e424-4752-95aa-a33dab8af4f1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/62998332-1ff1-418c-bc11-c6cd2f32a9e9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fe5bffc9-10d0-4672-aacf-10b2a835fb39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d1e64384-8eb8-437a-9cae-1eaef686e7cf/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d640495e-fbf5-4f35-8f8a-cfeef56f9989/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cfda0e74-7b1c-4e6c-8926-9a7e6ba85be7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5fa5c5a4-21ca-4d54-93dd-ec1d43d047f2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30ffec89-3a83-4def-b207-7b2f9387ae3d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a9b9df03-874a-4ec1-ab3e-352eaeffc6fa/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4a234add-59c2-4d6b-a662-53abf3ef11fa/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/89ef31cb-b4f6-4d0a-b5a3-657706c5b89f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6bac6dbd-edb3-4307-95da-ab8b917c556e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee20051a-0082-4ecd-ac45-179d507d690b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9fa8a213-0928-4877-8036-6b375e71f2d2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0c0f7538-3a02-491f-90fd-8b374b253b1c&source=Website",
     "available": "NOW"
   },
   {
