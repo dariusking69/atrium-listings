@@ -1,5 +1,50 @@
 [
   {
+    "id": 6301,
+    "uuid": "60509f39-6d1c-4c13-82be-f62fef2bd3b4",
+    "address": "2111 Gachet Ct #107, Orlando, FL 32807",
+    "street": "2111 Gachet Ct #107",
+    "city": "Orlando",
+    "rent": "$1,545",
+    "rent_val": 1545,
+    "specs": "1 bd, 1.5 ba, 784 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.5,
+    "sqft": 784,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/60509f39-6d1c-4c13-82be-f62fef2bd3b4",
+    "lat": 28.5742273,
+    "lng": -81.3066233,
+    "title": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft",
+    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,545 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,335 \n\n\n Available 11/2/26",
+    "terms": [
+      "Rent: $1,545",
+      "Application Fee: $95",
+      "Security Deposit: $1,335",
+      "Available 11/2/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e21448f2-2c85-4aae-a742-473f9e46009c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4985f19e-c4b2-4a7a-b850-8c1fcd026df2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1c8d5043-b70a-4ed6-b0d3-bd4eaedae973/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/01473863-8a82-468b-8d48-44e9b9742d5e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c2b63986-c977-4a84-9ec0-df928ae435d1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9424309f-b6af-49fc-92b2-7d964316f1b5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47aaf522-5b15-4086-8231-8a3e99c1239a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c80b41ad-ed38-4f86-ac7b-aa4733a7a398/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/95cd7a21-2dbf-4423-b948-f61326810cb8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0744aea6-1b3c-4918-94a8-caf3fcc7baf7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=60509f39-6d1c-4c13-82be-f62fef2bd3b4&source=Website",
+    "available": "11/2/26"
+  },
+  {
     "id": 6300,
     "uuid": "fe443023-f339-45ef-9aa1-ef2c4b26075b",
     "address": "3280 Overstreet East #109, Kissimmee, FL 34747",
@@ -248,40 +293,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5bfe6145-c506-4c05-aa55-9cfc8cd21ba6&source=Website",
     "available": "9/10/26"
-  },
-  {
-    "id": 6293,
-    "uuid": "af6e84b7-52f0-427d-9857-f075119b9abd",
-    "address": "6636 Mission Club Blvd # 09-212, Orlando, FL 32821",
-    "street": "6636 Mission Club Blvd # 09-212",
-    "city": "Orlando",
-    "rent": "$1,847",
-    "rent_val": 1847,
-    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 962,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/af6e84b7-52f0-427d-9857-f075119b9abd",
-    "lat": 28.3873148,
-    "lng": -81.4710675,
-    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
-    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,847 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/25/26",
-    "terms": [
-      "Rent: $1,847",
-      "Application Fee: $79",
-      "Available 8/25/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=af6e84b7-52f0-427d-9857-f075119b9abd&source=Website",
-    "available": "8/25/26"
   },
   {
     "id": 6292,
@@ -1172,50 +1183,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b86bc796-fe34-4cb3-ad80-802f66969e43&source=Website",
     "available": "11/7/26"
-  },
-  {
-    "id": 6267,
-    "uuid": "2bb0117e-c592-4741-afb6-7c0edfadbbb3",
-    "address": "5832 Auvers Blvd #302, Orlando, FL 32807",
-    "street": "5832 Auvers Blvd #302",
-    "city": "Orlando",
-    "rent": "$1,515",
-    "rent_val": 1515,
-    "specs": "1 bd, 1.5 ba, 784 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.5,
-    "sqft": 784,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2bb0117e-c592-4741-afb6-7c0edfadbbb3",
-    "lat": 28.5743926,
-    "lng": -81.3051884,
-    "title": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft",
-    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,515 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/7/26",
-    "terms": [
-      "Rent: $1,515",
-      "Application Fee: $95",
-      "Available 8/7/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e21448f2-2c85-4aae-a742-473f9e46009c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4985f19e-c4b2-4a7a-b850-8c1fcd026df2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1c8d5043-b70a-4ed6-b0d3-bd4eaedae973/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/01473863-8a82-468b-8d48-44e9b9742d5e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c2b63986-c977-4a84-9ec0-df928ae435d1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9424309f-b6af-49fc-92b2-7d964316f1b5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/47aaf522-5b15-4086-8231-8a3e99c1239a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c80b41ad-ed38-4f86-ac7b-aa4733a7a398/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/95cd7a21-2dbf-4423-b948-f61326810cb8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0744aea6-1b3c-4918-94a8-caf3fcc7baf7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2bb0117e-c592-4741-afb6-7c0edfadbbb3&source=Website",
-    "available": "8/7/26"
   },
   {
     "id": 6266,
@@ -12878,41 +12845,6 @@
     "available": "10/3/26"
   },
   {
-    "id": 5285,
-    "uuid": "b3762807-932e-4eff-8c26-ab8238dd9d2a",
-    "address": "3440 N. Goldenrod Road Unit # 421, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 421",
-    "city": "Winter Park",
-    "rent": "$1,575",
-    "rent_val": 1575,
-    "specs": "2 bd, 2 ba, 1,050 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1050,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b3762807-932e-4eff-8c26-ab8238dd9d2a",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,575 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,462 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,575",
-      "Application Fee: $79",
-      "Security Deposit: $1,462",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b3762807-932e-4eff-8c26-ab8238dd9d2a&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5282,
     "uuid": "16e416b9-5774-46b9-98dd-7d9beb1e29c6",
     "address": "3113 W. Marshall Street #305, Richmond, VA 23230",
@@ -13448,8 +13380,8 @@
     "address": "1363 W. Broad Street, # 351, Richmond, VA 23220",
     "street": "1363 W. Broad Street",
     "city": "Richmond",
-    "rent": "$1,993",
-    "rent_val": 1993,
+    "rent": "$1,699",
+    "rent_val": 1699,
     "specs": "2 bd, 2 ba, 1,108 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -13552,8 +13484,8 @@
     "address": "1363 W. Broad Street, # 306, Richmond, VA 23220",
     "street": "1363 W. Broad Street",
     "city": "Richmond",
-    "rent": "$2,699",
-    "rent_val": 2699,
+    "rent": "$2,199",
+    "rent_val": 2199,
     "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
     "beds": 3.0,
     "baths": 3.0,
@@ -20163,6 +20095,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4186f3ba-3f84-42eb-94e5-0bda9f328945&source=Website",
     "available": "NOW"
+  },
+  {
+    "id": 1792,
+    "uuid": "92d4a206-b5ee-49c4-a004-77eb5f500872",
+    "address": "2421 Wild Tamarind Blvd, Orlando, FL 32828",
+    "street": "2421 Wild Tamarind Blvd",
+    "city": "Orlando",
+    "rent": "$3,375",
+    "rent_val": 3375,
+    "specs": "6 bd, 3.5 ba, 3,766 Sq. Ft.",
+    "beds": 6.0,
+    "baths": 3.5,
+    "sqft": 3766,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ab8bade4-417b-46f7-ada2-836d8f832df0/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/92d4a206-b5ee-49c4-a004-77eb5f500872",
+    "lat": 28.5240243,
+    "lng": -81.155917,
+    "title": "Gorgeous 6 Bed 3.5 Bath Plus Loft Home For Rent in Orlando, FL!!! LAWN CARE INCLUDED",
+    "description": "Welcome home to this beautiful 6 bedroom plus loft, 3.5 bath home with an open floor plan including formal living, formal dining, family room and eat in kitchen. Neutral color paint throughout. This home has a ton of storage space, featuring HUGE closets for each bedroom, a master walk in closet that is nearly it's own room, and an oversized pantry. MUST SEE!!! Conveniently located just minutes from local shops, restaurants and more. Pets are negotiable with owner approval. This property is professionally managed by Atrium Management. Please call 407-585-2721 to schedule your private showing!\r\n\r\n**BONUS AMENITY INCLUDED** A portion of Tenant's total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program.** \r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\nCOMING SOON: AUGUST 10th 2026 \n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,375 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $3,360 \n\n\n Available 8/10/26",
+    "terms": [
+      "Rent: $3,375",
+      "Application Fee: $95",
+      "Security Deposit: $3,360",
+      "Available 8/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/ab8bade4-417b-46f7-ada2-836d8f832df0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=92d4a206-b5ee-49c4-a004-77eb5f500872&source=Website",
+    "available": "8/10/26"
   },
   {
     "id": 1790,
