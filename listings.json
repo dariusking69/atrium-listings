@@ -691,51 +691,6 @@
     "available": "11/7/26"
   },
   {
-    "id": 6268,
-    "uuid": "2c96a623-7336-48c4-9e1c-b003c7612278",
-    "address": "5832 Auvers Blvd #207, Orlando, FL 32807",
-    "street": "5832 Auvers Blvd #207",
-    "city": "Orlando",
-    "rent": "$1,490",
-    "rent_val": 1490,
-    "specs": "1 bd, 1.5 ba, 784 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.5,
-    "sqft": 784,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2c96a623-7336-48c4-9e1c-b003c7612278",
-    "lat": 28.5743926,
-    "lng": -81.3051884,
-    "title": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft",
-    "description": "The Fern \u2013 Modern 1 Bedroom, 1.5 Bathroom | 784 sq.ft.\r\nWelcome to The Fern at The Avenue at Baldwin Park, a thoughtfully designed 1-bedroom, 1.5-bathroom apartment offering 784 sq.ft. of stylish comfort and functionality.\r\n\r\nThis spacious layout features an open-concept living and dining area, perfect for entertaining or relaxing at home. The primary suite includes a private full bathroom and generous closet space, while the convenient half bath is ideal for guests. Enjoy the ease of having your washer and dryer in-unit and plenty of room to make the space your own.\r\n\r\nOutside your door, indulge in resort-style amenities \u2014 unwind by the pool, stay active on the basketball court, enjoy the playground, or let your furry friends run free at the dog park.\r\n\r\nHome Features:\r\n\r\n784 sq.ft. | 1 Bedroom | 1.5 Bathrooms\r\n\r\nOpen-Concept Layout\r\nWasher & Dryer in Unit\r\nSpacious Primary Suite with Private Bath\r\nGuest Half Bath\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nEnjoy modern living in one of Orlando\u2019s most desirable neighborhoods \u2014 The Fern at The Avenue at Baldwin Park is the perfect place to call home.\r\nSchedule your tour today!\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAdmin Fee $250\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nClubhouse\r\nLake View\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nCarpet Upgrade\r\nBark Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,490 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,335 \n\n\n Available 10/8/26",
-    "terms": [
-      "Rent: $1,490",
-      "Application Fee: $95",
-      "Security Deposit: $1,335",
-      "Available 10/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d5ef3d2e-b7f2-4351-8e71-eee43c13b6ed/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e21448f2-2c85-4aae-a742-473f9e46009c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4985f19e-c4b2-4a7a-b850-8c1fcd026df2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1c8d5043-b70a-4ed6-b0d3-bd4eaedae973/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/01473863-8a82-468b-8d48-44e9b9742d5e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c2b63986-c977-4a84-9ec0-df928ae435d1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9424309f-b6af-49fc-92b2-7d964316f1b5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/47aaf522-5b15-4086-8231-8a3e99c1239a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c80b41ad-ed38-4f86-ac7b-aa4733a7a398/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/95cd7a21-2dbf-4423-b948-f61326810cb8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0744aea6-1b3c-4918-94a8-caf3fcc7baf7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2c96a623-7336-48c4-9e1c-b003c7612278&source=Website",
-    "available": "10/8/26"
-  },
-  {
     "id": 6267,
     "uuid": "2bb0117e-c592-4741-afb6-7c0edfadbbb3",
     "address": "5832 Auvers Blvd #302, Orlando, FL 32807",
@@ -14127,51 +14082,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cb2dcda9-86b3-4425-8e91-4c4fe5ae44e0&source=Website",
     "available": "8/10/26"
-  },
-  {
-    "id": 4731,
-    "uuid": "ec2bd829-ae0a-42c0-8b54-c6865428f9d7",
-    "address": "2607 Emerald Lake Ct, Kissimmee, FL 34744",
-    "street": "2607 Emerald Lake Ct",
-    "city": "Kissimmee",
-    "rent": "$1,800",
-    "rent_val": 1800,
-    "specs": "2 bd, 2 ba, 1,212 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1212,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ce1bc576-ca41-4e67-9dd2-56231c236b0d/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ec2bd829-ae0a-42c0-8b54-c6865428f9d7",
-    "lat": 28.2661108,
-    "lng": -81.3377176,
-    "title": "Gated Community Gem: Turnkey 2/2 in Emerald Lake",
-    "description": "Welcome Home to 2609 Emerald Lake Ct, Kissimmee, FL 34744\r\n\r\nDiscover the perfect blend of comfort, convenience, and Central Florida living in this beautifully maintained 2 Bedroom, 2 Bathroom residence. Located within the highly sought-after, private gated community of Emerald Lake, this home is clean, bright, and absolutely move-in ready\u2014ideal for first-time buyers, empty nesters, or savvy investors!\r\n\r\nKey Features You'll Love\r\nPristine & Ready: The interior has been professionally refreshed (as shown in your bright, clean photos) creating a welcoming, neutral canvas ready for your personal touch.\r\n\r\nIdeal Layout: A spacious and practical 2 bedroom, 2 bathroom floor plan offers privacy and comfort, perfect for roommates, a guest suite, or a dedicated home office.\r\n\r\nConvenient Location: Enjoy quick access to the Florida Turnpike, making commutes and travel easy. You're also just minutes from local shopping, dining, parks, and the area's top attractions.\r\n\r\nCommunity Living: As a resident of Emerald Lake, you benefit from a secure, gated environment. This property is a fantastic opportunity to own a piece of desirable Kissimmee real estate. Don't miss your chance to secure this low-maintenance, high-value home!\r\n\r\nSchedule your private viewing today\u2014this turnkey gem won't last long!\r\nProfessionally managed by Atrium Management. Call 407-585-2721 to schedule your private showing\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,800 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,800 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,800",
-      "Application Fee: $95",
-      "Security Deposit: $1,800",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/ce1bc576-ca41-4e67-9dd2-56231c236b0d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3634a5ed-f9b7-46c7-b152-5575d8f94888/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d00f9bd6-e35a-4a43-b05d-ccfbbc1a6298/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ce28a159-bccf-463f-9afb-40853b446541/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/09d87903-ac2a-4f0a-9284-83bb1363561a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d6324796-7043-4629-b45c-ea35b1c87dd7/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9bc438e2-0a94-42ff-b433-a078935417b7/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5a3c06a9-3c62-4371-a84b-85b68a5a8dc1/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e099226-013a-41cd-a479-76fae60d44ac/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1d966b21-c329-4b74-9164-67324c8f6e06/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1847af7a-fe5e-4d0f-b651-69fd9e932758/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c420e9f3-0159-4f40-9025-fa11351e5174/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/df73600b-943c-4583-bdf8-cb3113323944/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ea58b50c-aeed-4aff-b1b7-b2f9ff30b132/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec2bd829-ae0a-42c0-8b54-c6865428f9d7&source=Website",
-    "available": "NOW"
   },
   {
     "id": 4684,
