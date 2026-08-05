@@ -1,5 +1,65 @@
 [
   {
+    "id": 6303,
+    "uuid": "3e34ab25-caad-484d-83f0-90ebc8fbaa2c",
+    "address": "5009 S West Shore Blvd Unit 21-5013, Tampa, FL 33611",
+    "street": "5009 S West Shore Blvd Unit 21-5013",
+    "city": "Tampa",
+    "rent": "$1,699",
+    "rent_val": 1699,
+    "specs": "2 bd, 1 ba, 889 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 889,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6c5bbd0b-2ad6-42d7-b584-8e10de889459/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3e34ab25-caad-484d-83f0-90ebc8fbaa2c",
+    "lat": 27.8909617,
+    "lng": -82.5270743,
+    "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,699 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/17/26",
+    "terms": [
+      "Rent: $1,699",
+      "Application Fee: $95",
+      "Available 8/17/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6c5bbd0b-2ad6-42d7-b584-8e10de889459/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3e34ab25-caad-484d-83f0-90ebc8fbaa2c&source=Website",
+    "available": "8/17/26"
+  },
+  {
+    "id": 6302,
+    "uuid": "17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e",
+    "address": "227 S Armenia Ave Unit 21, Tampa, FL 33609",
+    "street": "227 S Armenia Ave Unit 21",
+    "city": "Tampa",
+    "rent": "$1,612",
+    "rent_val": 1612,
+    "specs": "1 bd, 1 ba, 630 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 630,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e",
+    "lat": 27.9421021,
+    "lng": -82.4852802,
+    "title": "Case Residences | 1-Bedroom Flat in Palma Ceia, Tampa",
+    "description": "Enjoy a little extra breathing room in this 630-square-foot one-bedroom, one-bath home at Case Residences, complete with vinyl wood flooring, stainless steel appliances, in-unit washer and dryer, and mirrored reach-in closets. The gated, garden-style community offers resort-style perks including a private pool, fire-pit lounge, and pet-washing station, all on a quiet block near Bayshore Boulevard, MacDill Avenue, and SoHo. Ideal for professionals who want space and privacy in the heart of Palma Ceia. Apply online today to make it yours.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,612 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/11/26",
+    "terms": [
+      "Rent: $1,612",
+      "Application Fee: $95",
+      "Available 9/11/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e&source=Website",
+    "available": "9/11/26"
+  },
+  {
     "id": 6301,
     "uuid": "60509f39-6d1c-4c13-82be-f62fef2bd3b4",
     "address": "2111 Gachet Ct #107, Orlando, FL 32807",
@@ -8890,48 +8950,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5effb75d-71eb-45db-a3c6-3afe40943c44&source=Website",
     "available": "9/14/26"
-  },
-  {
-    "id": 5849,
-    "uuid": "2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5",
-    "address": "1220 NW 12th Street Unit 36, Gainesville, FL 32601",
-    "street": "1220 NW 12th Street Unit 36",
-    "city": "Gainesville",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 530 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 530,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fa29a416-3aef-4fd9-91dc-63bb2c30f91a/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5",
-    "lat": 29.6637841,
-    "lng": -82.3376942,
-    "title": "Limited-Time Special: 1 Month FREE Rent!",
-    "description": "Move into your newly renovated 1-bedroom apartment at The Grande at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities \r\nDishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved.\r\nLandlord reference\r\n\r\nAdministration fees only one time..$295.00\r\n\r\nWater, trash, sewer....$55.00\r\nRental Insurance .......$15.50\r\nDogs only one time ..$250.00 monthly $25.00\r\n\r\n\r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/fa29a416-3aef-4fd9-91dc-63bb2c30f91a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/af2a226a-5d69-41b9-834f-957d0912a249/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0abb0cdf-63a2-4db1-a5d4-62e327d34090/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/47082a19-7bc6-4fd1-8b7c-4f5d0f7b5530/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/feb2fd9f-3d26-4bb4-b57b-869c4df604a9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2d613728-7786-43bc-b8e2-12a8fce6a019/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cbc4ab49-f315-4d47-ab50-d34662b15a81/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e68d046-5521-4fb5-906f-8a4bac5af53e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5&source=Website",
-    "available": "NOW"
   },
   {
     "id": 5846,
