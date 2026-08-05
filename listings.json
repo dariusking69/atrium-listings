@@ -1,5 +1,101 @@
 [
   {
+    "id": 6305,
+    "uuid": "e2f19b49-a9e2-451d-b44b-d1028151a700",
+    "address": "736 Suncrest Loop # 108, Casselberry, FL 32707",
+    "street": "736 Suncrest Loop # 108",
+    "city": "Casselberry",
+    "rent": "$1,708",
+    "rent_val": 1708,
+    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 988,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3fda6c57-0e87-4ec4-9b31-394a602f013b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e2f19b49-a9e2-451d-b44b-d1028151a700",
+    "lat": 28.6940087,
+    "lng": -81.3201368,
+    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,708 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/11/26",
+    "terms": [
+      "Rent: $1,708",
+      "Application Fee: $79",
+      "Available 10/11/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3fda6c57-0e87-4ec4-9b31-394a602f013b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8eec149e-14c3-43a9-a0e3-5b4972a548a1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b00db43e-6c88-49d4-b4d9-7ba3c15f1df3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0f31caa2-ca19-4f1f-aa7c-1cffe7fa90db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/996401b3-a44b-44b4-834d-909c66b52d2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/447b579e-5148-4b2a-bf02-da22c77439d3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a87bd9ba-196a-443e-8a84-488f24369992/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/106ce510-0e3d-43d5-ba39-57929eb41563/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0cce7bf5-97ea-494b-8fe0-dbfd3b6091fc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c40e7479-4556-42aa-ad6b-965cee4cf11d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0680edf5-b86c-4dfe-9c8f-cff5978e7abe/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ce0801db-9348-4c4b-b054-0cd72c861135/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ca47b544-6012-4316-b4b5-e48ede870796/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d69e9fc7-f4ab-4131-9dd8-2460cc12fe16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f2f2d112-a5d9-43b5-b2c7-9e067b79f765/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e2f19b49-a9e2-451d-b44b-d1028151a700&source=Website",
+    "available": "10/11/26"
+  },
+  {
+    "id": 6304,
+    "uuid": "1fe58630-8b1e-4667-b556-7c2f1724ad9b",
+    "address": "1479 Sunshadow Dr. # 211, Casselberry, FL 32707",
+    "street": "1479 Sunshadow Dr. # 211",
+    "city": "Casselberry",
+    "rent": "$1,585",
+    "rent_val": 1585,
+    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 988,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1fe58630-8b1e-4667-b556-7c2f1724ad9b",
+    "lat": 28.695122,
+    "lng": -81.321753,
+    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,585 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/12/26",
+    "terms": [
+      "Rent: $1,585",
+      "Application Fee: $79",
+      "Available 10/12/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4f46da88-8096-4aa6-aff6-c7b09481714b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/666e98e6-3415-455b-8b29-ad14ede5016d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/87d034d9-4e36-43cf-aa8c-760e78e077f0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/65c71d2d-a182-45a3-987f-7532313e71fa/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc387176-4a6d-4a34-8779-6ba79be0ba70/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a84df028-6413-44f4-ab56-703696945f56/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ecaf1aeb-7243-4e40-be69-bd16c7e02009/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3a051824-cf7d-4032-b3b1-e4139f44289d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c01cf37c-cc2f-4d15-ac72-838610449b35/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/be17c308-7a64-4d6e-b9cd-a67781661f04/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2dc804d9-240b-4ddc-bd38-5fb90494d286/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc06ef00-7407-4e9f-908d-df2cc4cc9b22/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1cbcac2a-582a-44b1-93e4-04faac1b4fcf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1504d53a-844f-4d2b-abba-137909a33c16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1fe58630-8b1e-4667-b556-7c2f1724ad9b&source=Website",
+    "available": "10/12/26"
+  },
+  {
     "id": 6303,
     "uuid": "3e34ab25-caad-484d-83f0-90ebc8fbaa2c",
     "address": "5009 S West Shore Blvd Unit 21-5013, Tampa, FL 33611",
@@ -1287,53 +1383,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5c08bb7f-bf19-486d-8d76-db3feec3881f&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 6265,
-    "uuid": "bdfd2358-76f9-4df4-a120-2902361d50f0",
-    "address": "1102 Elmwood St #G, Orlando, FL 32801",
-    "street": "1102 Elmwood St #G",
-    "city": "Orlando",
-    "rent": "$1,500",
-    "rent_val": 1500,
-    "specs": "2 bd, 1 ba, 766 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 766,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0ad0c1df-e7ae-4df8-93f1-84684fb344c4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bdfd2358-76f9-4df4-a120-2902361d50f0",
-    "lat": 28.5356577,
-    "lng": -81.3651522,
-    "title": "Charming & Bright Downtown Living in Lake Davis / Lake Cherokee!",
-    "description": "1102 Elmwood St #G, Orlando, FL 32801\r\n\r\nListing Price: $1,500/month\r\n\r\nWelcome to your light-filled, updated sanctuary located in one of Downtown Orlando's most desirable, historic neighborhoods! Nestled near Lake Davis and Lake Cherokee, this beautifully maintained home offers a serene, quiet retreat with easy access to all the vibrant energy of Thornton Park, Lake Eola, and Downtown Orlando.\r\n\r\nHome Highlights\r\nBright & Airy Interiors: Large windows flood the unit with natural light, showcasing lovely neutral paint tones and warm wood-look flooring throughout.\r\n\r\nModern Kitchen: Updated stainless steel appliances, ample upper/lower cabinet storage, granite-style countertops, and tile flooring make cooking a joy.\r\n\r\nComfortable Layout: Features a spacious primary bedroom, a full bathroom with full-tile shower/tub surround, and generous closet space with built-in storage solutions.\r\n\r\nConvenient Amenities: Enjoy access to onsite washer and dryer facilities right outside your door, as well as charming communal courtyard spaces.\r\n\r\nRental Terms & Required Monthly Fees\r\nBase Rent: $1,500/month\r\n\r\nWater Utility: $45/month\r\n\r\nGroup Rate High-Speed Internet: $60/month\r\n\r\nHVAC Filter Delivery Program: $15/month (Filters conveniently delivered every 60 days for hassle-free maintenance!)\r\n\r\nMove-In Fees & Rental Requirements\r\nApplication Fee: $95 per adult\r\n\r\nAdministrative Fee: $295 due at signing\r\n\r\nCredit Score: Minimum 600 or higher required\r\n\r\nIncome Requirement: Gross monthly income must equal at least 3x the monthly rent\r\n\r\nRental History: Strong, verifiable rental history required (no prior evictions or outstanding landlord balances)\r\n\r\nLocation Features\r\nMinutes from Lake Eola Park, Delaney Park, and local dining, shopping, and entertainment hubs.\r\n\r\nQuick access to Orlando Health, SR-408, I-4, and major transit options.\r\n\r\nDon't miss out on this fantastic opportunity\u2014schedule your private tour today!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n Admin Fee: $295 \n\n Application Fee: $95 \n\n Security Deposit: $1,500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,500",
-      "Admin Fee: $295",
-      "Application Fee: $95",
-      "Security Deposit: $1,500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0ad0c1df-e7ae-4df8-93f1-84684fb344c4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/683dbd3d-cc35-4248-9696-09d8dfea8563/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1fb6c197-ed96-4355-afeb-e195696e40cb/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e45f66b-4f8a-41ef-bdd3-cfbe544876e8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0216b5f8-27b1-450d-ac2d-4414c6d40ff2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4ff15de3-6811-4b6b-9731-31e05a686290/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30ac7d17-a640-474f-b240-781f0cbe70ac/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d54fcb0e-4305-479e-95aa-dc6610fc6549/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d1ab604b-e983-4278-94fa-d6a9ad36b3c5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/93111d8e-3194-4833-a714-9f3a502ffc55/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/859178cb-3d37-4b1e-8787-56a7a778d9c7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b6105090-7668-4b69-a196-2193d380fe12/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bdfd2358-76f9-4df4-a120-2902361d50f0&source=Website",
     "available": "NOW"
   },
   {
@@ -5139,52 +5188,6 @@
     "available": "11/8/26"
   },
   {
-    "id": 6103,
-    "uuid": "4b76dca0-43b3-42ba-9809-94e272882501",
-    "address": "15 Cherry Laurel Ct Unit # 15-201, Winter Springs, FL 32708",
-    "street": "15 Cherry Laurel Ct Unit # 15-201",
-    "city": "Winter Springs",
-    "rent": "$1,306 - $1,396",
-    "rent_val": 1306,
-    "specs": "1 bd, 1 ba, 764 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 764,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4b76dca0-43b3-42ba-9809-94e272882501",
-    "lat": 28.7015875,
-    "lng": -81.3228314,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,306 - $1,396 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,486 \n\n\n Available 9/28/26",
-    "terms": [
-      "Rent: $1,306 - $1,396",
-      "Application Fee: $79",
-      "Security Deposit: $1,486",
-      "Available 9/28/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/70c396c0-3cfc-4736-b324-69352a631bf5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/40b0fbcf-c627-4a7e-8e92-d7512d3bd9f8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/44ee998c-aa64-47a0-b70f-26b49d2b481b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1dc70b91-0023-4f3d-ba6a-d04fe4c09ac0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a1d029d6-08f9-4b76-be18-63e9a8dc9c6f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9e6a3c48-8fbc-4905-b4d0-c9ffdbdd4322/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7ed563d6-59e4-418a-8088-32ca320a894c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/99b6aedc-7081-4ae5-a7aa-e32121113a67/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2bab166c-05fa-4258-a782-0594e1e9c3fb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a5c474cb-7b4a-4eaa-a4d4-b4845d30a028/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4f8ecf1-044e-41d6-b84f-b493f6078cdb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4b76dca0-43b3-42ba-9809-94e272882501&source=Website",
-    "available": "9/28/26"
-  },
-  {
     "id": 6102,
     "uuid": "36cc74d2-1392-4e57-8821-8586e4209422",
     "address": "974 Leeward Pl #104, Altamonte Springs, FL 32714",
@@ -6687,6 +6690,51 @@
     "available": "9/19/26"
   },
   {
+    "id": 6023,
+    "uuid": "bd1b2405-5e55-42f6-b395-8ca822c79084",
+    "address": "5334 Lake Margaret Drive Unit # 334 - 0615, Orlando, FL 32812",
+    "street": "5334 Lake Margaret Drive Unit # 334 - 0615",
+    "city": "Orlando",
+    "rent": "$1,325",
+    "rent_val": 1325,
+    "specs": "1 bd, 1 ba, 661 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 661,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bd1b2405-5e55-42f6-b395-8ca822c79084",
+    "lat": 28.50386,
+    "lng": -81.3161264,
+    "title": "Fairview",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,325 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $1,325",
+      "Application Fee: $99",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a53cdbe1-0455-4adb-a40c-f238c41f9682/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2da82640-aec3-4ff2-abe9-a1bfe24379dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f67400eb-2b33-47f2-8ab5-5417aa39dce8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b7fd92fd-6d4f-4528-8ca3-176a0b353be6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4eab16d-8622-45b1-8c2e-6d2ccd47d19a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a2c6ca03-7c3d-4ba0-97d2-f69c473dffed/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ab6c3dfe-9e7b-4a12-8e97-6a758ac368e2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5b77305-5241-408e-b99f-1c2b9f55c158/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed2bf3fb-840f-496d-b5bc-3ce26ed36d83/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a09674e3-01b3-48e2-bc72-3ab0f624da64/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43b3cfcb-8fcd-42c9-abf1-c1fb5005384f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bd1b2405-5e55-42f6-b395-8ca822c79084&source=Website",
+    "available": "9/10/26"
+  },
+  {
     "id": 6022,
     "uuid": "5be3d007-fc1c-411e-9739-8f3e0e4d40a6",
     "address": "31 David&#39;s Ln Unit # 31-104, Winter Springs, FL 32708",
@@ -6809,46 +6857,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1d46d516-1b2e-46b9-8de4-d34576904dd3&source=Website",
     "available": "8/10/26"
-  },
-  {
-    "id": 6011,
-    "uuid": "8373a659-9173-46dc-80f5-39a40793c484",
-    "address": "1220 NW 12th Street Unit 18, Gainesville, FL 32601",
-    "street": "1220 NW 12th Street Unit 18",
-    "city": "Gainesville",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 530 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 530,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8316af57-c6b9-4fef-9744-42c677cfbab0/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8373a659-9173-46dc-80f5-39a40793c484",
-    "lat": 29.6635186,
-    "lng": -82.3379265,
-    "title": "",
-    "description": "\"Make an appointment to see this lovely apartment.\"\r\n\r\nMove into your newly renovated 1-bedroom apartment at the Centerpoint at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities Dishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved. \r\nLandlord reference \r\n\r\nAdministration fees only one time..$295.00\r\n\r\nWater, trash, sewer....$55.00\r\n\r\nDogs only one time ..$250.00 monthly $25.00\r\nRental Insurance......$15.50 \r\n\r\n \r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/8316af57-c6b9-4fef-9744-42c677cfbab0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d0364418-34bc-498a-a954-8992b6144b03/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e03c64a9-c6fe-4207-b50c-7ed27a1e48cd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1dc2f83f-1e55-44c6-ad79-d91033b12fd3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/88d85201-716f-42f6-a275-dec2cb7b9d0d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d961e8bb-3123-481c-a189-23683d362bad/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8373a659-9173-46dc-80f5-39a40793c484&source=Website",
-    "available": "NOW"
   },
   {
     "id": 6008,
@@ -15023,6 +15031,40 @@
     "available": "NOW"
   },
   {
+    "id": 3925,
+    "uuid": "51215558-63cb-46d7-bb6f-3bbe6c62f147",
+    "address": "1233 Eagle Branch Lane, Davenport, FL 33896",
+    "street": "1233 Eagle Branch Lane",
+    "city": "Davenport",
+    "rent": "$2,545",
+    "rent_val": 2545,
+    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
+    "beds": 4.0,
+    "baths": 2.5,
+    "sqft": 1704,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/51215558-63cb-46d7-bb6f-3bbe6c62f147",
+    "lat": 28.254545,
+    "lng": -81.622352,
+    "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,545 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $2,545",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1a052f0-833e-4f34-8733-20a823230457/large.jpg"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=51215558-63cb-46d7-bb6f-3bbe6c62f147&source=Website",
+    "available": "9/10/26"
+  },
+  {
     "id": 3924,
     "uuid": "2975175e-eaf1-42eb-86e6-bb977742da5b",
     "address": "3113 W. Marshall Street #603, Richmond, VA 23230",
@@ -19483,46 +19525,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=39f013b2-58e3-4d1e-9f3a-830114a61af3&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 2210,
-    "uuid": "6beeb511-9c48-4e30-b682-d0032a33fffe",
-    "address": "106 S Foushee Street #203, Richmond, VA 23220",
-    "street": "106 S Foushee Street #203",
-    "city": "Richmond",
-    "rent": "$1,369",
-    "rent_val": 1369,
-    "specs": "1 bd, 1 ba, 730 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 730,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/64a29812-82c1-4d64-9d76-32830ad53333/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6beeb511-9c48-4e30-b682-d0032a33fffe",
-    "lat": 37.5419747,
-    "lng": -77.4455249,
-    "title": "106 S Foushee Street #203",
-    "description": "Welcome to 106 S Foushee Street #203, located in the beautiful city of Richmond, VA. This cozy and modern apartment features one bedroom and one bathroom, perfect for those seeking a comfortable and affordable living space. One of the standout amenities of this apartment is the in-unit washer and dryer, giving you the convenience and flexibility to do your laundry in the comfort of your own home. Take advantage of the sleek and efficient appliances, including a dishwasher and refrigerator, to make your daily routines a breeze. With its excellent location, you'll have easy access to everything the city has to offer, including shops, restaurants, and entertainment hotspots. Come and experience the best of Richmond at 106 S Foushee Street #203!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,369 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $1,000 \n\n\n Available 8/14/26",
-    "terms": [
-      "Rent: $1,369",
-      "Application Fee: $50",
-      "Security Deposit: $1,000",
-      "Available 8/14/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/64a29812-82c1-4d64-9d76-32830ad53333/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/eb9afbdc-2231-4d61-8384-73cfcb5ae38d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ca02ddc8-dceb-4704-bc3a-e82a43752416/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/430b6d19-3fb9-4290-a05c-019391e40119/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ad2d1501-f13a-4b9f-8a76-bd70ef8cd0fd/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8da0452a-fc86-4bee-ac63-6857a0796998/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6beeb511-9c48-4e30-b682-d0032a33fffe&source=Website",
-    "available": "8/14/26"
   },
   {
     "id": 2189,
