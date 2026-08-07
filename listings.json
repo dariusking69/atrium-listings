@@ -9401,6 +9401,41 @@
     "available": "NOW"
   },
   {
+    "id": 5805,
+    "uuid": "1025034a-3d17-4c5a-9d17-eafd32cb4d9c",
+    "address": "3440 N. Goldenrod Road Unit # 618, Winter Park, FL 32792",
+    "street": "3440 N. Goldenrod Road Unit # 618",
+    "city": "Winter Park",
+    "rent": "$1,427",
+    "rent_val": 1427,
+    "specs": "1 bd, 1 ba, 800 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 800,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1025034a-3d17-4c5a-9d17-eafd32cb4d9c",
+    "lat": 28.5892965,
+    "lng": -81.2887011,
+    "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,427 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,383 \n\n\n Available 8/16/26",
+    "terms": [
+      "Rent: $1,427",
+      "Application Fee: $79",
+      "Security Deposit: $1,383",
+      "Available 8/16/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1025034a-3d17-4c5a-9d17-eafd32cb4d9c&source=Website",
+    "available": "8/16/26"
+  },
+  {
     "id": 5798,
     "uuid": "30ab8046-d697-43a6-ac10-a2637a43b82a",
     "address": "5212 Lake Margaret Drive Unit # 212 - 1213, Orlando, FL 32812",
@@ -9705,51 +9740,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=329a6229-1486-4772-b896-e9c60dffb2e2&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 5744,
-    "uuid": "a692b473-23c3-409c-9c67-07362cac51dd",
-    "address": "5342 Lake Margaret Drive Unit # 342 - 0518, Orlando, FL 32812",
-    "street": "5342 Lake Margaret Drive Unit # 342 - 0518",
-    "city": "Orlando",
-    "rent": "$1,510",
-    "rent_val": 1510,
-    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 923,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a692b473-23c3-409c-9c67-07362cac51dd",
-    "lat": 28.5053214,
-    "lng": -81.3169592,
-    "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,510 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/6/26",
-    "terms": [
-      "Rent: $1,510",
-      "Application Fee: $99",
-      "Available 9/6/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a938281-c825-408f-895e-cfcdc4b8aa39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ce0e5ea-2721-4dbf-b7e4-13078bc80100/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/607cd82b-28d6-440c-a26b-504fff885ad9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a814fae-adc3-4046-a761-14ff28635d02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ee06a70-d861-4f28-b5c2-9da1dbf2ebeb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03439119-a3ac-424f-b9ca-c3230bf572ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee9015b3-39d6-43ce-9600-c0a95148fe5d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ee6c7f-41c9-4010-8820-5ed2f3f0ab1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a643af-2409-47f5-86ba-6948cbd1077b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/735122b0-7a49-4360-b4df-c3b4fbac31e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b4384c7-60ea-499a-9240-8c3447455689/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a692b473-23c3-409c-9c67-07362cac51dd&source=Website",
-    "available": "9/6/26"
   },
   {
     "id": 5742,
@@ -18365,11 +18355,11 @@
     "lat": 28.5948827,
     "lng": -81.2104144,
     "title": "Affordable Living Near UCF!",
-    "description": "Discover unbeatable value in this conveniently located property just steps away from the University of Central Florida\u2019s main campus. Perfect for students and budget-conscious renters, this home offers:\r\n\r\nPrime Location: Enjoy the ease of walking to classes, campus events, and nearby amenities.\r\n\r\nIncredible Price: Take advantage of this rare opportunity to live so close to UCF at an affordable rate.\r\n\r\nDon\u2019t miss out on this chance to secure a home in a prime location without breaking the bank. Contact us today to schedule a viewing!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,475 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,460 \n\n\n Available Now",
+    "description": "Discover unbeatable value in this conveniently located property just steps away from the University of Central Florida\u2019s main campus. Perfect for students and budget-conscious renters, this home offers:\r\n\r\nPrime Location: Enjoy the ease of walking to classes, campus events, and nearby amenities.\r\n\r\nIncredible Price: Take advantage of this rare opportunity to live so close to UCF at an affordable rate.\r\n\r\nDon\u2019t miss out on this chance to secure a home in a prime location without breaking the bank. Contact us today to schedule a viewing!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\nAdditional Monthly Charges include:\r\n$15 AC Filter Delivery\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,475 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,475 \n\n\n Available Now",
     "terms": [
       "Rent: $1,475",
       "Application Fee: $95",
-      "Security Deposit: $1,460",
+      "Security Deposit: $1,475",
       "Available Now"
     ],
     "pets": [
