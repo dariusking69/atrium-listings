@@ -42,7 +42,7 @@
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg" loading="lazy" alt=""></button></div>
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>

@@ -42,7 +42,7 @@
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg" loading="lazy" alt=""></button></div>
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>The Kennedy - Three Bedroom Townhome Available!</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>
