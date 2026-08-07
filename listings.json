@@ -1962,43 +1962,6 @@
     "available": "NOW"
   },
   {
-    "id": 6250,
-    "uuid": "d1567e9c-4dc9-4ec6-a642-0f132dca5d3c",
-    "address": "1540 Neo Landings Loop, Unit 102, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,030",
-    "rent_val": 2030,
-    "specs": "2 bd, 2 ba, 1,309 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1309,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d1567e9c-4dc9-4ec6-a642-0f132dca5d3c",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- Spacious 2 Bedroom apartment with a Den",
-    "description": "This contemporary apartment boasts elegant vinyl plank flooring, sleek stainless steel appliances, and sophisticated quartz countertops.\r\n\r\nIndulge in resort-style amenities, including a sparkling pool, a 24/7 state-of-the-art fitness center, and an exclusive top-floor media lounge with a rooftop deck.\r\n\r\nDesigned for both comfort and functionality, the custom walk-in closets offer generous storage, while the screened-in patio provides a serene outdoor retreat.\r\n\r\nEnhance your productivity in the modern co-working space and business lounge, featuring private work pods. Additional conveniences such as electric vehicle charging stations, secure package lockers, and oversized storage units ensure a seamless living experience.\r\n\r\nDiscover the pinnacle of luxury living in this exceptional apartment.\r\n\r\nWe look forward to welcoming you\u2014contact us today to join our tour waitlist!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,030 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
-    "terms": [
-      "Rent: $2,030",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 10/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bc4d3599-c825-4d29-b916-1c75696f8fbe/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ad282c78-a46c-48aa-86d8-c94e1919f8e7/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d1567e9c-4dc9-4ec6-a642-0f132dca5d3c&source=Website",
-    "available": "10/10/26"
-  },
-  {
     "id": 6249,
     "uuid": "08ce0509-cbff-45eb-bdf5-8dbc1454de1f",
     "address": "1944 Marigold Park Drive, Ocoee, FL 34761",
@@ -5186,36 +5149,6 @@
     "available": "NOW"
   },
   {
-    "id": 6109,
-    "uuid": "8ab2641f-07a1-474c-bb98-0bff0a01bde4",
-    "address": "210 W Hyde Park Pl Unit 214-8, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 214-8",
-    "city": "Tampa",
-    "rent": "$1,399",
-    "rent_val": 1399,
-    "specs": "1 bd, 1 ba, 500 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 500,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8ab2641f-07a1-474c-bb98-0bff0a01bde4",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
-    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,399",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8ab2641f-07a1-474c-bb98-0bff0a01bde4&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6106,
     "uuid": "0f17a620-5767-4666-9967-d3b5afe099db",
     "address": "210 W Hyde Park Pl Unit 211-6, Tampa, FL 33606",
@@ -5652,59 +5585,13 @@
     "available": "9/28/26"
   },
   {
-    "id": 6080,
-    "uuid": "a5749d68-dcfd-44a8-9562-c898d94f598c",
-    "address": "18 Laurel Oaks Dr Unit # 18-108, Winter Springs, FL 32708",
-    "street": "18 Laurel Oaks Dr Unit # 18-108",
-    "city": "Winter Springs",
-    "rent": "$1,247 - $1,338",
-    "rent_val": 1247,
-    "specs": "1 bd, 1 ba, 764 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 764,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a5749d68-dcfd-44a8-9562-c898d94f598c",
-    "lat": 28.7001198,
-    "lng": -81.3226627,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,247 - $1,338 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,486 \n\n\n Available 9/19/26",
-    "terms": [
-      "Rent: $1,247 - $1,338",
-      "Application Fee: $79",
-      "Security Deposit: $1,486",
-      "Available 9/19/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0cfdc71e-6eae-4f82-a060-b38eeb16c6a7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/70c396c0-3cfc-4736-b324-69352a631bf5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/40b0fbcf-c627-4a7e-8e92-d7512d3bd9f8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/44ee998c-aa64-47a0-b70f-26b49d2b481b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1dc70b91-0023-4f3d-ba6a-d04fe4c09ac0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a1d029d6-08f9-4b76-be18-63e9a8dc9c6f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9e6a3c48-8fbc-4905-b4d0-c9ffdbdd4322/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7ed563d6-59e4-418a-8088-32ca320a894c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/99b6aedc-7081-4ae5-a7aa-e32121113a67/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2bab166c-05fa-4258-a782-0594e1e9c3fb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a5c474cb-7b4a-4eaa-a4d4-b4845d30a028/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4f8ecf1-044e-41d6-b84f-b493f6078cdb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a5749d68-dcfd-44a8-9562-c898d94f598c&source=Website",
-    "available": "9/19/26"
-  },
-  {
     "id": 6079,
     "uuid": "2efaa0bb-fcf4-43a1-b639-f1786cb62b53",
     "address": "7468 Aprelle Dr, Sanford, FL 32771",
     "street": "7468 Aprelle Dr",
     "city": "Sanford",
-    "rent": "$3,200",
-    "rent_val": 3200,
+    "rent": "$3,100",
+    "rent_val": 3100,
     "specs": "4 bd, 2 ba, 2,126 Sq. Ft.",
     "beds": 4.0,
     "baths": 2.0,
@@ -5798,8 +5685,8 @@
     "address": "8454 Sperry St, Orlando, FL 32827",
     "street": "8454 Sperry St",
     "city": "Orlando",
-    "rent": "$3,245",
-    "rent_val": 3245,
+    "rent": "$3,100",
+    "rent_val": 3100,
     "specs": "3 bd, 3.5 ba, 2,167 Sq. Ft.",
     "beds": 3.0,
     "baths": 3.5,
@@ -10371,41 +10258,6 @@
     "available": "NOW"
   },
   {
-    "id": 5694,
-    "uuid": "e8721816-1dad-49bf-a49d-9987b1e71403",
-    "address": "3440 N. Goldenrod Road Unit # 1037, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 1037",
-    "city": "Winter Park",
-    "rent": "$1,555 - $1,655",
-    "rent_val": 1555,
-    "specs": "2 bd, 2 ba, 1,050 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1050,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fdc6b539-2de6-48bf-b669-a05f86d8d2fd/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e8721816-1dad-49bf-a49d-9987b1e71403",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,555 - $1,655 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,550 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,555 - $1,655",
-      "Application Fee: $79",
-      "Security Deposit: $1,550",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/fdc6b539-2de6-48bf-b669-a05f86d8d2fd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e8721816-1dad-49bf-a49d-9987b1e71403&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5691,
     "uuid": "54805c0f-ffe9-4489-9c41-5bb7cd9f6b80",
     "address": "4800 Atlantic Blvd Unit J151, Jacksonville, FL 32207",
@@ -11406,6 +11258,40 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0eb4ff99-eee9-4001-8c0d-694d1b7130f8&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5610,
+    "uuid": "63c9cde0-d568-4198-b3d3-7018841eb43a",
+    "address": "500 Maury St Unit 416, Richmond, VA 23224",
+    "street": "500 Maury St Unit 416",
+    "city": "Richmond",
+    "rent": "$1,450",
+    "rent_val": 1450,
+    "specs": "1 bd, 1 ba, 598 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 598,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/63c9cde0-d568-4198-b3d3-7018841eb43a",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,450",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a22fec95-2517-4032-852e-68005c73a1b5/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=63c9cde0-d568-4198-b3d3-7018841eb43a&source=Website",
     "available": "NOW"
   },
   {
@@ -13009,8 +12895,8 @@
     "address": "1363 W. Broad Street, # 221, Richmond, VA 23220",
     "street": "1363 W. Broad Street",
     "city": "Richmond",
-    "rent": "$1,694",
-    "rent_val": 1694,
+    "rent": "$1,599",
+    "rent_val": 1599,
     "specs": "2 bd, 2 ba, 768 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -13969,51 +13855,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f1606963-2049-42df-8936-cd6c7176535c&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 4619,
-    "uuid": "dfb175d7-9a24-4979-96c8-506b21c21f00",
-    "address": "11 Photina Ct Unit # 11-207, Winter Springs, FL 32708",
-    "street": "11 Photina Ct Unit # 11-207",
-    "city": "Winter Springs",
-    "rent": "$1,537 - $1,650",
-    "rent_val": 1537,
-    "specs": "2 bd, 2 ba, 1,210 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1210,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/09bb1f46-4455-49fb-a3f4-dbe9dd29c75b/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dfb175d7-9a24-4979-96c8-506b21c21f00",
-    "lat": 28.7024409,
-    "lng": -81.3217545,
-    "title": "2 Bedroom 2 Bathroom Townhome",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,537 - $1,650 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,537 - $1,650",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/09bb1f46-4455-49fb-a3f4-dbe9dd29c75b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bb521017-f66c-4e1e-b6b2-5c1ac66f0586/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c1135780-90bf-462d-a964-487cbb191a25/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5526e9f0-be1e-4757-88dc-e057ed68523f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a2bf49d-e852-4ae6-8397-5aa7e182ccbb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/730fc289-e5a3-4c57-ab6c-ae5a1ae2ab59/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cbbcf989-0bcd-4d9e-986f-4ca845465bb8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f327ca81-5def-49e7-9db6-3c6357ed9b4b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e39f6fd-6172-4db9-a44c-65f2d66f045b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e591377b-2b8a-474c-b856-793b2470dce2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fd9d63d0-47d9-40be-a6f5-9a568c8804b8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8c21937c-2dea-4814-bf9d-492703ec386e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=dfb175d7-9a24-4979-96c8-506b21c21f00&source=Website",
     "available": "NOW"
   },
   {
@@ -15190,8 +15031,8 @@
     "address": "1363 W. Broad Street, # 322, Richmond, VA 23220",
     "street": "1363 W. Broad Street",
     "city": "Richmond",
-    "rent": "$2,199",
-    "rent_val": 2199,
+    "rent": "$1,999",
+    "rent_val": 1999,
     "specs": "3 bd, 3 ba, 1,079 Sq. Ft.",
     "beds": 3.0,
     "baths": 3.0,
@@ -15813,41 +15654,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aeb97c0c-44bb-4276-84d8-53317766a0d7&source=Website",
     "available": "9/9/26"
-  },
-  {
-    "id": 3609,
-    "uuid": "165d4a6b-1ab1-4776-9c2d-00840b9bed64",
-    "address": "1363 W. Broad Street, # 324, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$1,999",
-    "rent_val": 1999,
-    "specs": "3 bd, 3 ba, 1,017 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 3.0,
-    "sqft": 1017,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8e4b1689-fb8d-43fd-8596-70947c615547/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/165d4a6b-1ab1-4776-9c2d-00840b9bed64",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "C3",
-    "description": "Rental Terms \n \n Rent: $1,999 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,999",
-      "Application Fee: $55",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e4b1689-fb8d-43fd-8596-70947c615547/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=165d4a6b-1ab1-4776-9c2d-00840b9bed64&source=Website",
-    "available": "NOW"
   },
   {
     "id": 3597,
@@ -16563,8 +16369,8 @@
     "address": "600 W. Main Street #508, Charlottesville, VA 22903",
     "street": "600 W. Main Street #508",
     "city": "Charlottesville",
-    "rent": "$3,250",
-    "rent_val": 3250,
+    "rent": "$3,550",
+    "rent_val": 3550,
     "specs": "2 bd, 2 ba, 1,109 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -16835,59 +16641,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=47a1b000-69e5-4c3c-96bb-139db761dacb&source=Website",
     "available": "9/25/26"
-  },
-  {
-    "id": 3348,
-    "uuid": "918ffa00-233b-43da-a5ae-75f1443a75a6",
-    "address": "1782 Carley Court, Orlando, FL 32807",
-    "street": "1782 Carley Court",
-    "city": "Orlando",
-    "rent": "$1,795",
-    "rent_val": 1795,
-    "specs": "2 bd, 1.5 ba, 1,006 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.5,
-    "sqft": 1006,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4fcee469-f64b-477e-ad0a-b7ee3cb372fb/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/918ffa00-233b-43da-a5ae-75f1443a75a6",
-    "lat": 28.5697881,
-    "lng": -81.3148069,
-    "title": "Brand New Townhomes in Prime Baldwin Park Location",
-    "description": "Experience the perfect blend of tranquility and vibrant city living at Carley Court \u2014 three fully renovated townhomes just steps from Baldwin Park's village center and scenic Lake Baldwin.\r\n\r\nEach unit features a brand-new modern renovation with a private, fully fenced backyard, in-unit washer and dryer, and access to a community pool. Enjoy a peaceful, private setting while walking distance to upscale dining, boutique shopping, farmers' markets, and the lake's scenic trails \u2014 all within Baldwin Park's top-rated schools and welcoming community atmosphere.\r\n\r\nSorry, no pets allowed. Utilities not included.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. This property is professionally managed by Atrium Management. \r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,780 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,795",
-      "Application Fee: $95",
-      "Security Deposit: $1,780",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats not allowed",
-      "Dogs not allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/4fcee469-f64b-477e-ad0a-b7ee3cb372fb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/34ad9301-290e-4b66-8d62-b670eb75076e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d7b62fcb-277c-4364-9afa-09b4a08662a9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b0f01dec-0708-47c1-8bcf-c3e3782ba061/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1d36db76-b75e-484e-9973-4059e2adca2d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2d33ac6f-8489-4735-bfc9-e23181f4e315/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/73fa2d7b-85fa-4157-9d52-69fe29ac89e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e761886-6f2c-45ec-84a0-466597fcd89f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/57cad493-4e35-4c4a-a48f-1af6cd12f437/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7ff7b67c-75b1-43b8-b305-9f1b443475ed/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/65c027bf-44b8-45f6-94ac-459435cbe9dd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/af84c787-b846-4dd0-bbaf-bc551f59d691/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/eb98bcf4-bc22-423b-9b35-89d8d0fba2d7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8476f3a0-22d8-4514-9333-434f0293424c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/582f38cb-d462-4eb3-b571-b6fdec4a8b7e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2fc15e9e-0492-4c5a-8d60-e922572efb39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/15180199-4e31-4657-b43a-9227fca4b5b1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c573b66d-8b7b-4337-b74c-58cd85f710ff/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bfe5b5f3-66e8-4527-b70e-793ee8bef403/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=918ffa00-233b-43da-a5ae-75f1443a75a6&source=Website",
-    "available": "NOW"
   },
   {
     "id": 3347,
@@ -18312,8 +18065,8 @@
     "address": "221 S Bumby Ave APT 202, Orlando, FL 32803",
     "street": "221 S Bumby Ave APT 202",
     "city": "Orlando",
-    "rent": "$2,195",
-    "rent_val": 2195,
+    "rent": "$2,095",
+    "rent_val": 2095,
     "specs": "2 bd, 2 ba, 928 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
@@ -19680,49 +19433,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6799fc69-f989-4da6-afd9-2f13faeee1f6&source=Website",
     "available": "9/10/26"
-  },
-  {
-    "id": 1931,
-    "uuid": "d0b0c04b-d308-4ef4-8203-81ddc976201a",
-    "address": "125 S Salisbury Ave - B1, Deland, FL 32720",
-    "street": "125 S Salisbury Ave - B1",
-    "city": "DeLand",
-    "rent": "$1,200",
-    "rent_val": 1200,
-    "specs": "2 bd, 1 ba, 800 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 800,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f55ceab4-037c-45a3-b957-cfbf04f2be37/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d0b0c04b-d308-4ef4-8203-81ddc976201a",
-    "lat": 29.0271895,
-    "lng": -81.3146534,
-    "title": "Beautiful 2nd floor 2 Bed 1 Bath Newly Renovated Apartment for Rent in DeLand, FL!",
-    "description": "Discover the perfect blend of convenience and comfort at Salisbury Apartments in Deland, FL. Nestled within walking distance to the vibrant downtown area and a mere 10-minute drive from the esteemed Stetson University, this community offers an ideal living space for students and professionals alike.\r\n\r\nStudio Apartment Highlights:\r\n\r\nAffordable Living: Enjoy the benefits of a newly renovated studio apartment without breaking the bank.\r\n\r\nPrime Location: Experience the charm of downtown Deland\u2019s historical district, with its unique boutiques and weekly events, all within easy reach.\r\n\r\nModern Amenities: Relish in the modern comforts of your new home, complete with shared laundry facilities for your convenience.\r\n\r\nWhether you\u2019re seeking a peaceful retreat or a dynamic urban lifestyle, Salisbury Apartments is your gateway to an enriching experience in Deland. Embrace the opportunity to live in a community that values both heritage and progress. Make your move to Salisbury Apartments today!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,200 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,200 \n\n\n Available 8/10/26",
-    "terms": [
-      "Rent: $1,200",
-      "Application Fee: $95",
-      "Security Deposit: $1,200",
-      "Available 8/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f55ceab4-037c-45a3-b957-cfbf04f2be37/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7a1502cc-1de1-4849-ac32-9b06fc906d3c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ecc333d5-0a78-47bb-a947-f411c6a60329/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4bdbc325-a174-47f2-8d30-680d1431c694/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7d245dbc-e25b-4be3-adf9-97bc6cd8f391/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6128346e-1a1c-4884-9155-61389b534c94/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2517919-1db4-481e-baa2-7d0f6db8cf4c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1137a9ad-13f5-4528-a3fa-66340426e98f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6e841659-7a37-4f43-aef7-6ac73f31242f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d0b0c04b-d308-4ef4-8203-81ddc976201a&source=Website",
-    "available": "8/10/26"
   },
   {
     "id": 1884,
@@ -21604,7 +21314,7 @@
     "beds": 1.0,
     "baths": 1.0,
     "sqft": 647,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/796ec807-14ec-4876-851d-114586308381/large.jpg",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/01e457fd-7f32-4b92-8ba0-91b47997bf4a/large.jpg",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e83c8e5f-b0c5-4ba3-90a5-ffa3d90827d4",
     "lat": 28.5573713,
     "lng": -81.3790944,
@@ -22134,8 +21844,8 @@
     "address": "620 Florida Street #1, Orlando, FL 32806",
     "street": "620 Florida Street #1",
     "city": "Orlando",
-    "rent": "$1,695",
-    "rent_val": 1695,
+    "rent": "$1,650",
+    "rent_val": 1650,
     "specs": "1 bd, 1 ba, 800 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
