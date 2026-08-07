@@ -620,11 +620,11 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,699 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/17/26",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,699 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/18/26",
     "terms": [
       "Rent: $1,699",
       "Application Fee: $95",
-      "Available 8/17/26"
+      "Available 8/18/26"
     ],
     "pets": [],
     "photos": [
@@ -632,7 +632,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3e34ab25-caad-484d-83f0-90ebc8fbaa2c&source=Website",
-    "available": "8/17/26"
+    "available": "8/18/26"
   },
   {
     "id": 6302,
@@ -4122,37 +4122,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9369ae5c-bb40-4bae-8244-edd8d945a941&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 6157,
-    "uuid": "6061c6f5-4761-4732-9874-f53fcbbb4d04",
-    "address": "5009 S West Shore Blvd Unit 51-5215, Tampa, FL 33611",
-    "street": "5009 S West Shore Blvd Unit 51-5215",
-    "city": "Tampa",
-    "rent": "$1,884",
-    "rent_val": 1884,
-    "specs": "2 bd, 1 ba, 889 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 889,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6061c6f5-4761-4732-9874-f53fcbbb4d04",
-    "lat": 27.8909617,
-    "lng": -82.5270743,
-    "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,884 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,884",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6061c6f5-4761-4732-9874-f53fcbbb4d04&source=Website",
     "available": "NOW"
   },
   {
