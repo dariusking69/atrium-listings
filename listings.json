@@ -1,5 +1,50 @@
 [
   {
+    "id": 6314,
+    "uuid": "b42f6fce-196e-4c2d-bb93-6c0edb08562b",
+    "address": "5334 Lake Margaret Drive Unit # 334 - 0608, Orlando, FL 32812",
+    "street": "5334 Lake Margaret Drive Unit # 334 - 0608",
+    "city": "Orlando",
+    "rent": "$1,440",
+    "rent_val": 1440,
+    "specs": "1 bd, 1 ba, 661 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 661,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b42f6fce-196e-4c2d-bb93-6c0edb08562b",
+    "lat": 28.50386,
+    "lng": -81.3161264,
+    "title": "Fairview",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,440 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $1,440",
+      "Application Fee: $99",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d237bdd0-c062-4598-b817-3a988f084ab9/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a53cdbe1-0455-4adb-a40c-f238c41f9682/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2da82640-aec3-4ff2-abe9-a1bfe24379dd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f67400eb-2b33-47f2-8ab5-5417aa39dce8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b7fd92fd-6d4f-4528-8ca3-176a0b353be6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4eab16d-8622-45b1-8c2e-6d2ccd47d19a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a2c6ca03-7c3d-4ba0-97d2-f69c473dffed/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ab6c3dfe-9e7b-4a12-8e97-6a758ac368e2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d5b77305-5241-408e-b99f-1c2b9f55c158/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed2bf3fb-840f-496d-b5bc-3ce26ed36d83/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a09674e3-01b3-48e2-bc72-3ab0f624da64/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43b3cfcb-8fcd-42c9-abf1-c1fb5005384f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b42f6fce-196e-4c2d-bb93-6c0edb08562b&source=Website",
+    "available": "9/10/26"
+  },
+  {
     "id": 6313,
     "uuid": "19864ec0-254e-4eea-9aee-c65203f9d827",
     "address": "11 East Smith Street Unit 108, Winter Garden, FL 34787",
@@ -13184,6 +13229,53 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=335d4e0c-c7dc-4085-aaf4-9a4f974e6c6e&source=Website",
     "available": "NOW"
+  },
+  {
+    "id": 4925,
+    "uuid": "c05f1f54-9774-43af-bc31-5a21d876d7ba",
+    "address": "704 Suncrest Loop # 206, Casselberry, FL 32707",
+    "street": "704 Suncrest Loop # 206",
+    "city": "Casselberry",
+    "rent": "$1,500 - $1,625",
+    "rent_val": 1500,
+    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 988,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f9fa53e6-b47f-46be-8890-b9750ea91057/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c05f1f54-9774-43af-bc31-5a21d876d7ba",
+    "lat": 28.6943484,
+    "lng": -81.3215003,
+    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 - $1,625 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/17/26",
+    "terms": [
+      "Rent: $1,500 - $1,625",
+      "Application Fee: $79",
+      "Available 8/17/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/f9fa53e6-b47f-46be-8890-b9750ea91057/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/35b754c8-e180-4f41-9af4-315cba85efce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/18b94825-f087-43e1-a02b-3e1d591ce6ae/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4ae2409d-02fc-4b91-8949-810a1bd711ee/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bab59863-8b7f-411d-8bbc-1d513ad77516/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3451c85c-cd7f-4739-a1b6-329695cdd50c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f51b8572-e2eb-48d5-a737-4d3d6774003f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3c0fb149-7964-4a60-9408-d23fd8014d37/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ada12990-5aec-4cc2-bd85-eaf292241127/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c0fa81ff-6d0d-4187-b4ef-3d4b81be298c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d22e562a-58c8-4a53-9f49-cc9625803169/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a3a85209-0f56-4d51-8253-18fd945ed280/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/adc5d1d7-e13e-455d-a589-3c8cf72fe56f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2500dea4-7ccc-41bf-8a9a-0d96699871d0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c05f1f54-9774-43af-bc31-5a21d876d7ba&source=Website",
+    "available": "8/17/26"
   },
   {
     "id": 4871,
