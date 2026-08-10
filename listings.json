@@ -1,5 +1,100 @@
 [
   {
+    "id": 6321,
+    "uuid": "529bf608-0d70-4da9-b513-4e911c4676a7",
+    "address": "2111 Gachet Ct #108, Orlando, FL 32807",
+    "street": "2111 Gachet Ct #108",
+    "city": "Orlando",
+    "rent": "$1,845",
+    "rent_val": 1845,
+    "specs": "2 bd, 2 ba, 1,030 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1030,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/529bf608-0d70-4da9-b513-4e911c4676a7",
+    "lat": 28.5742273,
+    "lng": -81.3066233,
+    "title": "Spacious 2-Bedroom Apartment in Baldwin Park \u2013 Pet Friendly!",
+    "description": "Welcome home to The Avenue at Baldwin Park, where comfort and convenience meet style! This beautiful 2-bedroom, 2-bathroom apartment features a split floor plan for added privacy, perfect for roommates or families. Enjoy the ease of having your washer and dryer in-unit, plus modern finishes throughout.\r\n\r\nStep outside and take advantage of the incredible community amenities \u2014 relax by the resort-style pool, shoot hoops on the basketball court, let the kids play at the playground, or spend quality time with your furry friends at the dog park.\r\n\r\nLocated in the desirable Baldwin Park area of Orlando, you\u2019ll be just minutes from shopping, dining, and entertainment, with easy access to major highways.\r\n\r\nHighlights:\r\n\r\n2 Bedrooms / 2 Bathrooms\r\nSplit Floor Plan\r\nHigh speed Internet\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nPool, Basketball Court, Playground & Dog Park\r\n\r\nDon\u2019t miss your chance to call this stunning apartment home \u2014 schedule your tour today (407) 917-7786!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\ncommunity pool\r\nCommunity Dog Park\r\n1st Floor\r\nWasherDryer\r\nBlack Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,845",
+      "Application Fee: $95"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05e74dec-8639-463b-a341-e1dfca339902/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/539fe314-e09a-43f1-ba1f-eaa2c370a6d0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d708842c-d604-4b90-a864-91e6a69801a0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/85dfc10c-809a-4796-9b33-87cd563c0895/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/88a85442-c30d-4665-8549-5409acc99bdb/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c541ce2a-442f-40c6-858a-fef8c047c144/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/484d1796-50f3-480c-ab35-7e3d17d3ec58/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81352627-93b0-48e2-b1de-d10e03ffff88/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b933e6a9-91f3-47e1-8c81-f283a261e883/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a6754711-36ca-415f-b175-36c6e65faa80/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=529bf608-0d70-4da9-b513-4e911c4676a7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6320,
+    "uuid": "aa3edab8-bc10-4641-9220-e18c531c5ef0",
+    "address": "1487 Sunshadow Dr. # 203, Casselberry, FL 32707",
+    "street": "1487 Sunshadow Dr. # 203",
+    "city": "Casselberry",
+    "rent": "$1,379",
+    "rent_val": 1379,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa3edab8-bc10-4641-9220-e18c531c5ef0",
+    "lat": 28.6951703,
+    "lng": -81.320898,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,379 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/23/26",
+    "terms": [
+      "Rent: $1,379",
+      "Application Fee: $79",
+      "Available 9/23/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d1444b01-3e9a-4830-aff1-10fb9bcd5f2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47f1322e-8341-425b-b4b2-88b503d12480/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/87c8904d-fef1-4c19-9c2d-07a506b48e35/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/92be7ef9-4dce-406f-826e-b5d38724efae/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f7feac11-b95d-42e3-80a7-2388fa3fb8ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e3dcf803-dfa5-4139-9011-8a2ad81ac851/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81cb7668-9406-490d-894b-fd0486be3421/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/803da989-d3ec-422f-855a-0bad2ed8ae67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd634cd1-4920-4d95-aa03-89cc054e2821/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc62a193-9420-4571-a0b6-048505bc8f58/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/417650c8-5ae4-4ec7-a9c6-6e5ff6764f70/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eb80cf8e-e99e-4bd6-99f6-48061200db4e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/866ecd63-14a0-4a69-a9cf-0ee7c39279e6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6448bd58-936b-4ab0-a4b9-081bae9b3fb9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e8a0e8e-3d04-4cbe-9534-c1f59d711459/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5fa8957a-bdd2-4371-9576-86d25585deb0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/90182590-c6eb-4b81-ac9f-10feaef278db/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e8b6fada-e945-44f9-b3db-e8b5b3d10418/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a88f296b-f6eb-4304-9aa2-d4dda05a075b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa3edab8-bc10-4641-9220-e18c531c5ef0&source=Website",
+    "available": "9/23/26"
+  },
+  {
     "id": 6319,
     "uuid": "6526e1c1-1e40-4599-8a52-0de71139761b",
     "address": "4800 Atlantic Blvd Unit D226, Jacksonville, FL 32207",
@@ -688,37 +783,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3e34ab25-caad-484d-83f0-90ebc8fbaa2c&source=Website",
     "available": "8/18/26"
-  },
-  {
-    "id": 6302,
-    "uuid": "17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e",
-    "address": "227 S Armenia Ave Unit 21, Tampa, FL 33609",
-    "street": "227 S Armenia Ave Unit 21",
-    "city": "Tampa",
-    "rent": "$1,612",
-    "rent_val": 1612,
-    "specs": "1 bd, 1 ba, 630 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 630,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e",
-    "lat": 27.9421021,
-    "lng": -82.4852802,
-    "title": "Case Residences | 1-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Enjoy a little extra breathing room in this 630-square-foot one-bedroom, one-bath home at Case Residences, complete with vinyl wood flooring, stainless steel appliances, in-unit washer and dryer, and mirrored reach-in closets. The gated, garden-style community offers resort-style perks including a private pool, fire-pit lounge, and pet-washing station, all on a quiet block near Bayshore Boulevard, MacDill Avenue, and SoHo. Ideal for professionals who want space and privacy in the heart of Palma Ceia. Apply online today to make it yours.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,612 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/11/26",
-    "terms": [
-      "Rent: $1,612",
-      "Application Fee: $95",
-      "Available 9/11/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=17ec05a2-63e2-4fae-b0cc-2dceb2cd6d8e&source=Website",
-    "available": "9/11/26"
   },
   {
     "id": 6301,
@@ -5472,35 +5536,35 @@
     "available": "NOW"
   },
   {
-    "id": 6106,
-    "uuid": "0f17a620-5767-4666-9967-d3b5afe099db",
-    "address": "210 W Hyde Park Pl Unit 211-6, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 211-6",
+    "id": 6105,
+    "uuid": "38df859e-5868-435a-90df-825ee8044b4d",
+    "address": "210 W Hyde Park Pl Unit 210-2, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 210-2",
     "city": "Tampa",
-    "rent": "$1,599",
-    "rent_val": 1599,
-    "specs": "1 bd, 1 ba, 465 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 465,
+    "rent": "$2,099",
+    "rent_val": 2099,
+    "specs": "2 bd, 2 ba, 790 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 790,
     "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0f17a620-5767-4666-9967-d3b5afe099db",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/38df859e-5868-435a-90df-825ee8044b4d",
     "lat": 27.9407689,
     "lng": -82.4618021,
-    "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
-    "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
+    "title": "Beach Flats | 2-Bedroom Flats (790-1,100 SF), Hyde Park, Tampa",
+    "description": "Spread out in a two-bedroom home at Beach Flats, ranging from 790 to 1,100 square feet in the heart of historic Hyde Park. Custom tile and stainless steel appliances outfit the kitchen, while select units include a wrap-around porch for extra outdoor living space \u2014 a rarity in this walkable pocket of South Tampa. Residents gather at the courtyard fire pit, grill kitchen, and covered bike rack, all inside a smoke-free, gated community minutes from Hyde Park Village and downtown Tampa. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,099 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,599",
+      "Rent: $2,099",
       "Application Fee: $95",
-      "Available 8/31/26"
+      "Available Now"
     ],
     "pets": [],
     "photos": [
       "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0f17a620-5767-4666-9967-d3b5afe099db&source=Website",
-    "available": "8/31/26"
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=38df859e-5868-435a-90df-825ee8044b4d&source=Website",
+    "available": "NOW"
   },
   {
     "id": 6104,
@@ -20370,61 +20434,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b2b7fb28-08a2-45f2-9b7b-69e515ae4406&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 1426,
-    "uuid": "8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9",
-    "address": "7301 W University Avenue  - Unit 160, Gainesville, FL 32607",
-    "street": "7301 W University Avenue  - Unit 160",
-    "city": "Gainesville",
-    "rent": "$1,328",
-    "rent_val": 1328,
-    "specs": "2 bd, 2 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7200fb9d-e345-4aab-81bd-ce452039a571/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9",
-    "lat": 29.6517304,
-    "lng": -82.4193455,
-    "title": "2/2 Apartment - Available Now!",
-    "description": "SPECIAL LOW PRICING!!! AVAILABLE NOW!!! Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!\r\n\r\nWelcome home to this Beautifully Renovated 2 Bed 2 Bath! This apartment is perfect for your work from home life, due to the spacious open floor plan. The kitchen includes tons of cabinet space, a breakfast bar, quartz counters, and updated cabinets! Relax and enjoy the hard surface flooring throughout, no carpet, and the in unit Washer and Dryer. You will love the finishes in this fully renovated apartment.\r\n\r\nYou won't want to leave the community! Come hang out at the pool and enjoy a cookout with your friends at the brand new outdoor kitchen / grilling area. Relax and have a glass of wine at the secondary grilling area and fire pit in the middle of the community. The landscaping is also getting a complete overhaul as well, and the buildings are getting updated with a more modern look, and brand new paint throughout.\r\n\r\nThe Hamptons Forest Apartments are centrally located by Celebration Pointe, restaurants, grocery stores, pharmacies, University of Florida, Santa Fe College, Haile Village Farmers market and SO much more!! The apartments are on a city bus route and a direct line to elementary and middle schools. The community includes a pool with gazebo, large deck area, complimentary coffee bar, dog park, valet trash and 24 hour laundry facility.\r\n\r\nHamptonForest\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,328 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,328",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/7200fb9d-e345-4aab-81bd-ce452039a571/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ca8a5fc6-518e-4b17-8c9b-fd7e00b4e170/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/838a2ee9-94f0-4fe1-a5ff-767e63b8b88a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ff6c4cbd-5b09-48ea-9253-394862eabb55/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9d4384ac-e6f6-4adb-9d5c-451b14dff049/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4bda804-8e8b-4bb2-8039-7dbe1a9f8aa0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7c2fc84d-ab13-42da-8b42-98444cc4c3c2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a0bed1-46d9-4c57-a23e-1c0bbdd6c163/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a71c8bd0-2034-4d31-b927-d06bce18398a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0c4c4c52-6244-4638-95cc-aa31ec50f0ed/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6c8af430-8650-429d-a725-59a8d78a53e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f883b686-da59-4703-a2c0-d98c808eb23f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/46b6ac6b-9a64-41b8-9e9f-728a7f46bdc4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ff0f8825-8fca-4d7d-a907-e2487433e875/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/441521b3-6974-46b7-bd83-683512b29961/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/daa77614-e6c9-4632-bd65-d429f37940d8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9dcbcdba-f5f6-40e2-8055-b6b24b24e6bf/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/be599ea2-76f2-4105-8355-af3ca9e05962/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c6a8320d-99c1-464e-994f-391117feaf22/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/79a3e510-1341-4dd9-a457-0f06a9d47c98/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a8c6654-106f-4de6-b357-8c65d9b86210/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9&source=Website",
     "available": "NOW"
   },
   {
