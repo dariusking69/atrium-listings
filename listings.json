@@ -6391,6 +6391,54 @@
     "available": "NOW"
   },
   {
+    "id": 6066,
+    "uuid": "22796773-dc86-44e1-ad39-21804ea4f1af",
+    "address": "708 Suncrest Loop # 202, Casselberry, FL 32707",
+    "street": "708 Suncrest Loop # 202",
+    "city": "Casselberry",
+    "rent": "$1,299",
+    "rent_val": 1299,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/22796773-dc86-44e1-ad39-21804ea4f1af",
+    "lat": 28.6939489,
+    "lng": -81.3214164,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,299",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=22796773-dc86-44e1-ad39-21804ea4f1af&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6065,
     "uuid": "f231a22e-21ed-4f1d-a868-33f27e7de43e",
     "address": "708 Suncrest Loop # 300, Casselberry, FL 32707",
@@ -7793,8 +7841,8 @@
     "address": "188 Jones Fish Camp Rd, Edgewater, FL 32141",
     "street": "188 Jones Fish Camp Rd",
     "city": "Edgewater",
-    "rent": "$2,700",
-    "rent_val": 2700,
+    "rent": "$2,600",
+    "rent_val": 2600,
     "specs": "5 bd, 3 ba, 2,273 Sq. Ft.",
     "beds": 5.0,
     "baths": 3.0,
@@ -12408,40 +12456,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0b8ace3b-c569-4314-9442-3fb5a9717b84&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5403,
-    "uuid": "252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "address": "6624 Mission Club Blvd # 10-310, Orlando, FL 32821",
-    "street": "6624 Mission Club Blvd # 10-310",
-    "city": "Orlando",
-    "rent": "$1,295 - $1,332",
-    "rent_val": 1295,
-    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 688,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "lat": 28.3878162,
-    "lng": -81.4714856,
-    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 - $1,332 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,295 - $1,332",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=252a1ef3-ccb2-47e3-b71e-fd53924f62af&source=Website",
     "available": "NOW"
   },
   {
@@ -17196,45 +17210,6 @@
     "available": "8/22/26"
   },
   {
-    "id": 3269,
-    "uuid": "818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5",
-    "address": "2136 Shenfield Way, St. Cloud, FL 34771",
-    "street": "2136 Shenfield Way",
-    "city": "St. Cloud",
-    "rent": "$2,000",
-    "rent_val": 2000,
-    "specs": "3 bd, 2.5 ba, 1,572 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.5,
-    "sqft": 1572,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3b770dcb-b8d1-4efb-90d6-50ac2855ba12/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5",
-    "lat": 28.3134762,
-    "lng": -81.240584,
-    "title": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! *Special is reflected in rates shown*",
-    "description": "Sutton Fields - NEWLY Constructed Townhomes for RENT!!! \r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,000 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/28/26",
-    "terms": [
-      "Rent: $2,000",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/28/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/3b770dcb-b8d1-4efb-90d6-50ac2855ba12/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/359a5904-757b-4859-9ef2-92b66ca24703/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6213dd39-87fa-4227-b4d8-5909c21bec7f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d499c1e0-6b7c-4483-a389-70f7ab205f48/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5f931b41-4a37-4806-9fed-0ac15264fc11/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5&source=Website",
-    "available": "8/28/26"
-  },
-  {
     "id": 3266,
     "uuid": "5a8e28e2-2d38-486f-bedd-483205279ac4",
     "address": "3251 Overstreet East #215, Kissimmee, FL 34747",
@@ -20646,6 +20621,61 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b2b7fb28-08a2-45f2-9b7b-69e515ae4406&source=Website",
     "available": "NOW"
+  },
+  {
+    "id": 1426,
+    "uuid": "8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9",
+    "address": "7301 W University Avenue  - Unit 160, Gainesville, FL 32607",
+    "street": "7301 W University Avenue  - Unit 160",
+    "city": "Gainesville",
+    "rent": "$1,328",
+    "rent_val": 1328,
+    "specs": "2 bd, 2 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7200fb9d-e345-4aab-81bd-ce452039a571/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9",
+    "lat": 29.6517304,
+    "lng": -82.4193455,
+    "title": "2/2 Apartment - Available Now!",
+    "description": "SPECIAL LOW PRICING!!! AVAILABLE NOW!!! Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!\r\n\r\nWelcome home to this Beautifully Renovated 2 Bed 2 Bath! This apartment is perfect for your work from home life, due to the spacious open floor plan. The kitchen includes tons of cabinet space, a breakfast bar, quartz counters, and updated cabinets! Relax and enjoy the hard surface flooring throughout, no carpet, and the in unit Washer and Dryer. You will love the finishes in this fully renovated apartment.\r\n\r\nYou won't want to leave the community! Come hang out at the pool and enjoy a cookout with your friends at the brand new outdoor kitchen / grilling area. Relax and have a glass of wine at the secondary grilling area and fire pit in the middle of the community. The landscaping is also getting a complete overhaul as well, and the buildings are getting updated with a more modern look, and brand new paint throughout.\r\n\r\nThe Hamptons Forest Apartments are centrally located by Celebration Pointe, restaurants, grocery stores, pharmacies, University of Florida, Santa Fe College, Haile Village Farmers market and SO much more!! The apartments are on a city bus route and a direct line to elementary and middle schools. The community includes a pool with gazebo, large deck area, complimentary coffee bar, dog park, valet trash and 24 hour laundry facility.\r\n\r\nHamptonForest\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,328 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 8/15/26",
+    "terms": [
+      "Rent: $1,328",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 8/15/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7200fb9d-e345-4aab-81bd-ce452039a571/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ca8a5fc6-518e-4b17-8c9b-fd7e00b4e170/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/838a2ee9-94f0-4fe1-a5ff-767e63b8b88a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ff6c4cbd-5b09-48ea-9253-394862eabb55/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9d4384ac-e6f6-4adb-9d5c-451b14dff049/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4bda804-8e8b-4bb2-8039-7dbe1a9f8aa0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7c2fc84d-ab13-42da-8b42-98444cc4c3c2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d4a0bed1-46d9-4c57-a23e-1c0bbdd6c163/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a71c8bd0-2034-4d31-b927-d06bce18398a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0c4c4c52-6244-4638-95cc-aa31ec50f0ed/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6c8af430-8650-429d-a725-59a8d78a53e5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f883b686-da59-4703-a2c0-d98c808eb23f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/46b6ac6b-9a64-41b8-9e9f-728a7f46bdc4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ff0f8825-8fca-4d7d-a907-e2487433e875/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/441521b3-6974-46b7-bd83-683512b29961/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/daa77614-e6c9-4632-bd65-d429f37940d8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9dcbcdba-f5f6-40e2-8055-b6b24b24e6bf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/be599ea2-76f2-4105-8355-af3ca9e05962/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c6a8320d-99c1-464e-994f-391117feaf22/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/79a3e510-1341-4dd9-a457-0f06a9d47c98/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3a8c6654-106f-4de6-b357-8c65d9b86210/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9&source=Website",
+    "available": "8/15/26"
   },
   {
     "id": 1425,
