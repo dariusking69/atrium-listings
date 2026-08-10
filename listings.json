@@ -1,5 +1,40 @@
 [
   {
+    "id": 6325,
+    "uuid": "9aaab6df-dcfc-4d87-8729-84167680a6cb",
+    "address": "2115 Bouquet Ct #206, Orlando, FL 32807",
+    "street": "2115 Bouquet Ct #206",
+    "city": "Orlando",
+    "rent": "$1,645",
+    "rent_val": 1645,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9aaab6df-dcfc-4d87-8729-84167680a6cb",
+    "lat": 28.5728006,
+    "lng": -81.3045992,
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,645 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563 \n\n\n Available 8/18/26",
+    "terms": [
+      "Rent: $1,645",
+      "Application Fee: $95",
+      "Security Deposit: $1,563",
+      "Available 8/18/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9aaab6df-dcfc-4d87-8729-84167680a6cb&source=Website",
+    "available": "8/18/26"
+  },
+  {
     "id": 6324,
     "uuid": "1750adb5-7a6c-4751-86a6-c72386e9b433",
     "address": "5100 Moose Drive, Sandston, VA 23150",
@@ -461,9 +496,9 @@
     "lat": 28.50386,
     "lng": -81.3161264,
     "title": "Fairview",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,440 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,338 - $1,423 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
     "terms": [
-      "Rent: $1,440",
+      "Rent: $1,338 - $1,423",
       "Application Fee: $99",
       "Available 9/10/26"
     ],
@@ -651,9 +686,9 @@
     "lat": 28.5040674,
     "lng": -81.3164893,
     "title": "Fairview",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,390 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,289 - $1,373 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
     "terms": [
-      "Rent: $1,390",
+      "Rent: $1,289 - $1,373",
       "Application Fee: $99",
       "Available 9/10/26"
     ],
@@ -1170,9 +1205,9 @@
     "lat": 28.5035758,
     "lng": -81.3148625,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,505 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,409 - $1,503 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
     "terms": [
-      "Rent: $1,505",
+      "Rent: $1,409 - $1,503",
       "Application Fee: $99",
       "Available 9/10/26"
     ],
@@ -1529,9 +1564,9 @@
     "lat": 28.5040426,
     "lng": -81.3153109,
     "title": "767 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,440 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/5/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,379 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/5/26",
     "terms": [
-      "Rent: $1,440",
+      "Rent: $1,379",
       "Application Fee: $99",
       "Available 11/5/26"
     ],
@@ -2025,9 +2060,9 @@
     "lat": 28.386396,
     "lng": -81.4726922,
     "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft",
-    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,320 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,832 - $1,885 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $2,320",
+      "Rent: $1,832 - $1,885",
       "Application Fee: $79",
       "Available Now"
     ],
@@ -2244,9 +2279,9 @@
     "lat": 28.5040674,
     "lng": -81.3164893,
     "title": "Fairview",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,390 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/27/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,289 - $1,376 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/27/26",
     "terms": [
-      "Rent: $1,390",
+      "Rent: $1,289 - $1,376",
       "Application Fee: $99",
       "Available 10/27/26"
     ],
@@ -2972,9 +3007,9 @@
     "lat": 28.5057959,
     "lng": -81.3163371,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/10/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 - $1,494 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/10/26",
     "terms": [
-      "Rent: $1,495",
+      "Rent: $1,399 - $1,494",
       "Application Fee: $99",
       "Available 10/10/26"
     ],
@@ -3084,9 +3119,9 @@
     "lat": 28.5053214,
     "lng": -81.3169592,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,520 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,424 - $1,521 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
     "terms": [
-      "Rent: $1,520",
+      "Rent: $1,424 - $1,521",
       "Application Fee: $99",
       "Available 11/8/26"
     ],
@@ -3861,9 +3896,9 @@
     "lat": 28.5035758,
     "lng": -81.3148625,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/25/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 - $1,496 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/25/26",
     "terms": [
-      "Rent: $1,495",
+      "Rent: $1,399 - $1,496",
       "Application Fee: $99",
       "Available 10/25/26"
     ],
@@ -3906,9 +3941,9 @@
     "lat": 28.5044336,
     "lng": -81.3170155,
     "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/21/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,492 - $1,595 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/21/26",
     "terms": [
-      "Rent: $1,599",
+      "Rent: $1,492 - $1,595",
       "Application Fee: $99",
       "Available 10/21/26"
     ],
@@ -4639,19 +4674,31 @@
     ],
     "pets": [],
     "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/28446749-bf28-4813-82ce-0357e5c3e7ca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/766750f8-c8bf-4771-84cd-6787b4e02b88/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8cad433e-e187-44c6-9d73-a0b3efc3e8d2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cc5e456c-4c98-4ab5-8dc3-90c3b67aa1f5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c5482f36-feb9-46b0-b7dc-8da8a306f39c/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/f3c9c874-6c63-4386-b8b4-45140c00723f/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/1243f852-f6b2-48fd-a6e1-ab2e69c681cd/large.png",
       "https://images.cdn.appfolio.com/atriummanagement/images/34d8848b-c88c-44d3-bfed-1af83380bc37/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3969dde6-c23d-40c7-b424-929928cbece7/large.png",
       "https://images.cdn.appfolio.com/atriummanagement/images/b791eedc-41e4-4581-b303-138e2360dfb0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/766750f8-c8bf-4771-84cd-6787b4e02b88/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/28446749-bf28-4813-82ce-0357e5c3e7ca/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8cad433e-e187-44c6-9d73-a0b3efc3e8d2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c5482f36-feb9-46b0-b7dc-8da8a306f39c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/686fee72-4685-4120-ba46-0dc4f0d6c24d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/45431bf6-c831-43d7-b58e-0ada84905f8d/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/cc6b0246-26ac-4a04-b336-cee7514ba7cd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/686fee72-4685-4120-ba46-0dc4f0d6c24d/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/eacc86e9-c6ca-4bac-83ac-66dc7d0dd9ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/45431bf6-c831-43d7-b58e-0ada84905f8d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0ea7afe0-8cba-4c69-b5b2-9038a3c62d40/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3cc47aa4-3f64-4e39-9bba-9badaf04c985/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ff84c54e-e5ff-4317-bbd9-9b6d19cf2bc5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b53e4891-6d55-4f7f-87d9-f51d0c357036/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/92767dc4-92a6-4e6e-a84b-e11add7d2575/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6fed37b6-a719-44fc-a896-accd0db71465/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e3b1ef3a-2763-41e7-a288-5178c0883334/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/eabcd1fc-2b13-4aeb-9af5-a54606baaf85/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6ba8b5c9-a435-4262-80fe-49fe168d784d/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0384fc29-84a7-454e-bad7-3c491edd2bfa/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/755733e5-6de7-4431-9e07-1ebfb7879231/large.png",
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=86bb9ca5-fee9-4e8c-aba4-987a44dd0a75&source=Website",
@@ -6946,9 +6993,9 @@
     "lat": 28.5057959,
     "lng": -81.3163371,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,485 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/26/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 - $1,535 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/26/26",
     "terms": [
-      "Rent: $1,485",
+      "Rent: $1,439 - $1,535",
       "Application Fee: $99",
       "Available 9/26/26"
     ],
@@ -7274,9 +7321,9 @@
     "lat": 28.5053214,
     "lng": -81.3169592,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,485 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/4/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 - $1,535 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/4/26",
     "terms": [
-      "Rent: $1,485",
+      "Rent: $1,439 - $1,535",
       "Application Fee: $99",
       "Available 10/4/26"
     ],
@@ -7953,9 +8000,9 @@
     "lat": 28.5022665,
     "lng": -81.3149299,
     "title": "923 sq ft Fieldstone Renovated",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,595 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/19/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,604 - $1,712 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/19/26",
     "terms": [
-      "Rent: $1,595",
+      "Rent: $1,604 - $1,712",
       "Application Fee: $99",
       "Available 9/19/26"
     ],
@@ -8485,9 +8532,9 @@
     "lat": 28.5050793,
     "lng": -81.3157713,
     "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,510 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/2/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,462 - $1,558 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/2/26",
     "terms": [
-      "Rent: $1,510",
+      "Rent: $1,462 - $1,558",
       "Application Fee: $99",
       "Available 10/2/26"
     ],
@@ -8970,9 +9017,9 @@
     "lat": 28.5045696,
     "lng": -81.3173704,
     "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,624 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/23/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,517 - $1,616 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/23/26",
     "terms": [
-      "Rent: $1,624",
+      "Rent: $1,517 - $1,616",
       "Application Fee: $99",
       "Available 8/23/26"
     ],
@@ -9233,9 +9280,9 @@
     "lat": 28.5038955,
     "lng": -81.3176286,
     "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/28/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,492 - $1,591 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/28/26",
     "terms": [
-      "Rent: $1,599",
+      "Rent: $1,492 - $1,591",
       "Application Fee: $99",
       "Available 8/28/26"
     ],
@@ -12380,9 +12427,9 @@
     "lat": 28.3878162,
     "lng": -81.4714856,
     "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,443 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 - $1,332 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,443",
+      "Rent: $1,295 - $1,332",
       "Application Fee: $79",
       "Available Now"
     ],
@@ -13870,9 +13917,9 @@
     "lat": 28.5038955,
     "lng": -81.3176286,
     "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,646 - $1,768 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available Now",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,516 - $1,604 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,646 - $1,768",
+      "Rent: $1,516 - $1,604",
       "Application Fee: $99",
       "Available Now"
     ],
