@@ -9825,52 +9825,6 @@
     "available": "NOW"
   },
   {
-    "id": 5755,
-    "uuid": "9c4e15bb-e892-4272-b282-a85900e18e85",
-    "address": "27 Golf Terrace Dr Unit # 27-211, Winter Springs, FL 32708",
-    "street": "27 Golf Terrace Dr Unit # 27-211",
-    "city": "Winter Springs",
-    "rent": "$1,572 - $1,686",
-    "rent_val": 1572,
-    "specs": "2 bd, 2 ba, 1,096 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1096,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c4e15bb-e892-4272-b282-a85900e18e85",
-    "lat": 28.7031476,
-    "lng": -81.3229124,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,572 - $1,686 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,572 - $1,686",
-      "Application Fee: $79",
-      "Security Deposit: $1,598",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/29d171c0-5cda-42b6-bf2d-04dc19507fc2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5d4a894a-0b17-4fa9-b1c4-af04ad46bbee/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ebbf845-af12-4b42-bc50-a188b5c593d8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ed1ea44-5274-4c38-aeec-679a6db3e70d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e803f6b5-d307-459e-914c-d3ecf89adb14/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f9d6c1b9-0f9a-4b71-9f46-18b63e36308f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fd785c06-7139-457b-9a89-615b9dd93a90/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/dc5343e6-b5d6-41ca-a8c6-9089f077ae29/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a046686d-571f-4511-bdb7-491e4f4b987a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/31fcf673-e672-422b-9d83-206068cbbe00/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81421639-fd61-4846-b144-0c44ca2d2af5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c4e15bb-e892-4272-b282-a85900e18e85&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5751,
     "uuid": "a4ecef3b-04a3-4bcb-929e-7687213eae92",
     "address": "1520 Neo Landings Loop, Unit 416, Kissimmee, FL 34744",
