@@ -1,5 +1,88 @@
 [
   {
+    "id": 6323,
+    "uuid": "719a1f8e-4a4c-435f-a3e8-5cbf680bcb8b",
+    "address": "1478 Sunshadow Dr. # 112, Casselberry, FL 32707",
+    "street": "1478 Sunshadow Dr. # 112",
+    "city": "Casselberry",
+    "rent": "$1,498",
+    "rent_val": 1498,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/719a1f8e-4a4c-435f-a3e8-5cbf680bcb8b",
+    "lat": 28.6954069,
+    "lng": -81.3222214,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,498 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/13/26",
+    "terms": [
+      "Rent: $1,498",
+      "Application Fee: $79",
+      "Available 10/13/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=719a1f8e-4a4c-435f-a3e8-5cbf680bcb8b&source=Website",
+    "available": "10/13/26"
+  },
+  {
+    "id": 6322,
+    "uuid": "a3f77409-26c9-44af-af86-30d795c4d7b0",
+    "address": "5200 Lewis Road #95, Sandston, VA 23150",
+    "street": "5200 Lewis Road #95",
+    "city": "Sandston",
+    "rent": "$1,403",
+    "rent_val": 1403,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a3f77409-26c9-44af-af86-30d795c4d7b0",
+    "lat": 37.5163935,
+    "lng": -77.3415454,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,403 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
+    "terms": [
+      "Rent: $1,403",
+      "Admin Fee: $200",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 11/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a3f77409-26c9-44af-af86-30d795c4d7b0&source=Website",
+    "available": "11/10/26"
+  },
+  {
     "id": 6321,
     "uuid": "529bf608-0d70-4da9-b513-4e911c4676a7",
     "address": "2111 Gachet Ct #108, Orlando, FL 32807",
@@ -3336,53 +3419,6 @@
     "available": "9/28/26"
   },
   {
-    "id": 6197,
-    "uuid": "7d2b3e2e-269a-49dd-bfe6-da450af908f7",
-    "address": "2025 Lilybean Loop, Ocoee, FL 34761",
-    "street": "2025 Lilybean Loop",
-    "city": "Ocoee",
-    "rent": "$2,835",
-    "rent_val": 2835,
-    "specs": "4 bd, 2.5 ba, 1,737 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.5,
-    "sqft": 1737,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/aae99c06-6c4e-43c1-8f14-62aec7551101/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7d2b3e2e-269a-49dd-bfe6-da450af908f7",
-    "lat": 28.596779,
-    "lng": -81.539827,
-    "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "*SIX WEEKS FREE ON ALL REAGAN MODELS!! 6 weeks free on all available models if applied by August 15 and move-in by August 31! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,835 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,835",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/aae99c06-6c4e-43c1-8f14-62aec7551101/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/07657738-d77a-4de3-b44f-bbe45872a3a1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/73923e8c-0b95-45c9-a252-0756399a6d32/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4aacc90d-4b89-4c6f-b1a4-f9923509f41f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/71ae6482-b5a0-40fa-abfb-2b71eb555356/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5dd511fa-9d29-446e-a5d0-9b235723886d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cc63ebe5-d457-4d54-bfa6-224db9cbf013/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11f3cf25-3cc5-415a-afa0-5b497ff0d281/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d51a7cbd-6adb-4475-b07e-ba4c42ec3991/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/453aac4a-7a21-4b15-9725-e2a09f102946/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2679ad5-9bfc-4cc1-8f85-5da3d8478c46/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2767fa9-dae0-47a2-a814-9ac10060afbc/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3f1e0427-6761-4edd-8ce0-dd9a87e6d1db/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7d2b3e2e-269a-49dd-bfe6-da450af908f7&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6194,
     "uuid": "c1c72454-4ede-4817-a6ab-49e6ba5ba41e",
     "address": "2173 Harrison St, Titusville, FL 32780",
@@ -4555,7 +4591,7 @@
     "beds": 2.0,
     "baths": 1.0,
     "sqft": 889,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f3c9c874-6c63-4386-b8b4-45140c00723f/large.jpg",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/86bb9ca5-fee9-4e8c-aba4-987a44dd0a75",
     "lat": 27.8909617,
     "lng": -82.5270743,
@@ -4568,7 +4604,19 @@
     ],
     "pets": [],
     "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/79445c99-0d86-4727-80ee-da935b66a8fc/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f3c9c874-6c63-4386-b8b4-45140c00723f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1243f852-f6b2-48fd-a6e1-ab2e69c681cd/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/34d8848b-c88c-44d3-bfed-1af83380bc37/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b791eedc-41e4-4581-b303-138e2360dfb0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/766750f8-c8bf-4771-84cd-6787b4e02b88/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/28446749-bf28-4813-82ce-0357e5c3e7ca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8cad433e-e187-44c6-9d73-a0b3efc3e8d2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c5482f36-feb9-46b0-b7dc-8da8a306f39c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/686fee72-4685-4120-ba46-0dc4f0d6c24d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/45431bf6-c831-43d7-b58e-0ada84905f8d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cc6b0246-26ac-4a04-b336-cee7514ba7cd/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eacc86e9-c6ca-4bac-83ac-66dc7d0dd9ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/eabcd1fc-2b13-4aeb-9af5-a54606baaf85/large.jpg",
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=86bb9ca5-fee9-4e8c-aba4-987a44dd0a75&source=Website",
@@ -9255,6 +9303,52 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b601d76d-90a8-46fa-a019-70b018cf7c4a&source=Website",
     "available": "8/17/26"
+  },
+  {
+    "id": 5823,
+    "uuid": "aa2fea5c-7da1-4598-8075-5a48944a5fb1",
+    "address": "07 Loblolly Ct Unit # 07-204, Winter Springs, FL 32708",
+    "street": "07 Loblolly Ct Unit # 07-204",
+    "city": "Winter Springs",
+    "rent": "$1,385 - $1,487",
+    "rent_val": 1385,
+    "specs": "2 bd, 2 ba, 1,020 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1020,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa2fea5c-7da1-4598-8075-5a48944a5fb1",
+    "lat": 28.7012467,
+    "lng": -81.3223156,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,385 - $1,487 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,496 \n\n\n Available 9/8/26",
+    "terms": [
+      "Rent: $1,385 - $1,487",
+      "Application Fee: $79",
+      "Security Deposit: $1,496",
+      "Available 9/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4465d5e4-9018-4a9f-9d73-bb6279b37776/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d20908c2-563c-4ec1-be06-57f05e6a6128/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0e98723e-09be-451d-ad6e-15cc889789d8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2019993d-065c-47ee-a594-b3f44724c87e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a209439c-e1ee-4785-9c52-360f387206f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a43dc411-277a-4e95-aada-3dd7719c1e1f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/610d2599-760a-4561-8c71-b3776d10f21e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c8bbbe62-75e0-47fd-a36e-f03bfdca67f5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/699798f9-f881-4773-8967-9795d2e94385/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51413db8-8c3c-47d0-975a-9ba2302cb41b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/86392436-089d-4453-b561-97193d5865c1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0f2b6e3a-0b45-41be-8bc6-091b3e4fcef0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa2fea5c-7da1-4598-8075-5a48944a5fb1&source=Website",
+    "available": "9/8/26"
   },
   {
     "id": 5818,
