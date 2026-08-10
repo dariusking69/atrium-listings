@@ -31,6 +31,8 @@
     <input id="atr-max" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Max Rent">
     <select id="atr-beds" class="atr-in"><option value="">Beds</option><option value="0">Studio</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option></select>
     <select id="atr-baths" class="atr-in"><option value="">Baths</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option></select>
+    <select id="atr-status" class="atr-in" style="display:none" title="Show available homes, the entire managed portfolio, or leased only"><option value="">Available Now</option><option value="all">Entire Portfolio</option><option value="leased">Leased Only</option></select>
+    <select id="atr-pf" class="atr-in" style="display:none" title="Filter to a property group or regional manager portfolio"><option value="">All Portfolios</option></select>
     <select id="atr-city" class="atr-in"><option value="">City</option></select>
     <select id="atr-zip" class="atr-in"><option value="">Zip</option></select>
     <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="new">Newest</option></select>
@@ -115,6 +117,14 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 #atr-root a.atr-apply{background:var(--apply);color:var(--ink)}
 #atr-root a.atr-apply:hover{background:#d8d8d8}
 .atr-empty{text-align:center;padding:60px 20px;color:#666}
+/* leased portfolio records - read as archive, not inventory */
+.atr-card.atr-off .atr-media img{filter:saturate(.35) brightness(.94)}
+.atr-card.atr-off:hover .atr-media img{filter:none}
+.atr-badge.atr-leasedchip{right:0;background:var(--ink);color:#fff;font-weight:700;
+  text-transform:uppercase;letter-spacing:1.4px;font-size:11px}
+.atr-popleased{display:inline-block;background:var(--ink);color:#fff;font-size:10px;font-weight:700;
+  text-transform:uppercase;letter-spacing:1.1px;padding:3px 7px;border-radius:3px;vertical-align:middle}
+.atr-poplast{font-size:12px;color:#555;font-weight:500}
 .atr-area-note{font-size:13px;color:#444;background:#faf7f2;border:1px solid var(--line);
   border-left:3px solid var(--red);border-radius:6px;padding:8px 12px;margin:0 4px 12px}
 
@@ -192,6 +202,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     DATA_URL: 'listings.json',          // hosted listings.json for Squarespace
     DETAIL_BASE: 'homes/',              // folder of detail pages ('' to send to AppFolio)
     GOOGLE_MAPS_API_KEY: '',            // set for true Google Maps; blank => OpenStreetMap
+    // The portfolio dataset (whole managed portfolio incl. leased, built by
+    // atrium-portfolio). OPTIONAL: if these files are unreachable the widget
+    // runs exactly as it always has - available listings only, no new controls.
+    // Local dev: served same-origin when the parent Work/Claude dir is hosted.
+    PORTFOLIO_BASE: (/^(localhost|127\.)/.test(location.hostname)
+                     ? '/atrium-portfolio/site' : 'https://portfolio.meetatrium.com'),
     SMART_GEOCODE: true,                // look up unknown place names (free OSM) when a search finds nothing
     MAP_CENTER: [28.4, -81.3], MAP_ZOOM: 8
   };
@@ -206,6 +222,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   var SORT_TOUCHED = false;              // user explicitly picked a sort order
   // Embed mode: compact layout for a narrow panel (Marty's chat). See the CSS note.
   var EMBED = /(?:^|[?&])embed=1(?:&|$)/.test(location.search);
+  // Snapshot of the arrival query string. syncUrl() rewrites the URL on every
+  // apply(), and the pf/status restore runs AFTER the async portfolio fetch -
+  // by then a param the selects don't know yet would have been dropped.
+  var INIT_PARAMS = new URLSearchParams(location.search);
+  // Portfolio overlay state. ready stays false until BOTH files load; nothing
+  // portfolio-related renders or filters until then.
+  var PF = {ready:false, leased:[], catalogue:[], jk:{}};
   var AREA_CIRCLE = null;                // the radius ring WE drew for an area search
   function milesBetween(la1,lo1,la2,lo2){
     var R=3958.8, r=Math.PI/180, dLa=(la2-la1)*r, dLo=(lo2-lo1)*r;
@@ -387,12 +410,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   }
 
   // ================= LOAD =================
-  fetch(CONFIG.DATA_URL).then(function(r){return r.json();}).then(function(rows){
+  var LISTINGS_READY = fetch(CONFIG.DATA_URL).then(function(r){return r.json();}).then(function(rows){
     DATA = rows.map(function(l){
       var parts=(l.address||'').split(',').map(function(s){return s.trim();});
       var zip=(l.address||'').match(/(\d{5})(?:-\d{4})?\s*$/);
       return {
-        id:l.id, title:l.title||l.street||l.address, street:l.street||parts[0]||'',
+        id:l.id, uuid:l.uuid||'', title:l.title||l.street||l.address, street:l.street||parts[0]||'',
         city:l.city||parts[1]||'', zip: zip?zip[1]:'',
         address:l.address||'', rent:l.rent||'', rent_val:l.rent_val||0,
         beds:(l.beds==null?null:l.beds), baths:(l.baths==null?null:l.baths),
@@ -412,6 +435,79 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(POLY && MAP.drawPolygon) MAP.drawPolygon(POLY);
     apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
+
+  // ================= PORTFOLIO OVERLAY (progressive) =================
+  // Adds the whole managed portfolio - leased included - on top of the live
+  // listings. Strictly additive: it starts AFTER the first paint, and if either
+  // file is missing (they aren't published until the portfolio site ships) the
+  // widget is byte-for-byte today's behavior. Marty's embed never sees any of
+  // this: the chatbot's server-side whitelist can't send status/pf, and embed
+  // mode pins status to available-only regardless.
+  function normJk(street, zip){
+    var s=String(street||'').toLowerCase()
+      .replace(/\s+(?:#|apt\.?|unit|ste\.?|suite|bldg\.?|building|lot|fl\.?|floor)\s*[\w-]*\s*$/,'')
+      .replace(/[^a-z0-9]+/g,'');
+    return s+'|'+String(zip||'').slice(0,5);
+  }
+  function pfRow(pin){                     // portfolio pin -> the listing row shape
+    var rent=pin.r?('$'+Math.round(pin.r).toLocaleString()):'';
+    return { id:'pf-'+pin.id, title:pin.n, street:pin.s, city:pin.c, zip:pin.z,
+      address:pin.s+', '+pin.c+', '+pin.st+' '+pin.z,
+      rent:rent, rent_val:pin.r||0,
+      beds:(pin.bd==null?null:pin.bd), baths:(pin.ba==null?null:pin.ba),
+      sqft:pin.sf||null, photo:pin.p||'', available:'LEASED',
+      lat:pin.lat, lng:pin.lng, desc:'',
+      detail:CONFIG.PORTFOLIO_BASE+pin.url, apply:null,
+      _leased:true, pf:pin.pf||[], units:pin.u||null };
+  }
+  // The join below reads DATA, so it must wait for the LISTINGS chain, not just
+  // the portfolio files. In production the portfolio files are ~400KB on a CDN
+  // and listings.json is 1.8MB - the portfolio would win that race almost every
+  // time, join against an empty DATA, and the pf filter would then exclude every
+  // available home. LISTINGS_READY also transitively orders this after
+  // readParams() and the first apply(), so syncUrl can never rewrite the URL
+  // before the arrival params have been read.
+  Promise.all([
+    LISTINGS_READY,
+    fetch(CONFIG.PORTFOLIO_BASE+'/portfolio.json').then(function(r){ if(!r.ok)throw 0; return r.json(); }),
+    fetch(CONFIG.PORTFOLIO_BASE+'/portfolios.json').then(function(r){ if(!r.ok)throw 0; return r.json(); })
+  ]).then(function(res){
+    var pins=res[1]||[], cat=(res[2]&&res[2].portfolios)||[];
+    var listingPf=(res[2]&&res[2].listing_pf)||{};
+    // Give the LIVE listings a pf so the portfolio filter narrows available
+    // homes too. Two joins: by listable uid (exact - the portfolio build
+    // resolved listing->property by AppFolio PropertyId, the only join that
+    // works for multi-family, where a unit's street never matches the
+    // community's Address1), then street+zip as a fallback for listings newer
+    // than the last portfolio build.
+    pins.forEach(function(pin){ if(pin.pf) PF.jk[normJk(pin.s,pin.z)]=pin.pf; });
+    var liveJk={};
+    DATA.forEach(function(l){
+      var k=normJk(l.street,l.zip); liveJk[k]=1;
+      l.pf=listingPf[l.uuid]||PF.jk[k]||null;
+    });
+    // Leased pool: pins with nothing available, minus any address that has a
+    // live listing right now (the public feed is fresher than the nightly
+    // portfolio build - trust the feed, never pin the same address twice).
+    PF.leased=pins.filter(function(pin){ return !pin.a && !liveJk[normJk(pin.s,pin.z)]; }).map(pfRow);
+    PF.catalogue=cat;
+    var sel=$('#atr-pf');
+    cat.forEach(function(c){ var o=document.createElement('option'); o.value=c.code; o.textContent=c.label; sel.appendChild(o); });
+    PF.ready=true;
+    if(!EMBED){ $('#atr-status').style.display=''; sel.style.display=''; }
+    // Restore pf/status from the ARRIVAL url - syncUrl has already rewritten
+    // location by now, so the live query string no longer carries them.
+    var dirty=false;
+    if(INIT_PARAMS.has('pf')){
+      sel.value=INIT_PARAMS.get('pf');
+      dirty=dirty||sel.value===INIT_PARAMS.get('pf');   // retired code -> select stays '', view stays default
+    }
+    if(INIT_PARAMS.has('status')){
+      var stEl=$('#atr-status'); stEl.value=INIT_PARAMS.get('status');
+      dirty=dirty||stEl.value===INIT_PARAMS.get('status');
+    }
+    if(dirty) apply();
+  }).catch(function(){ /* portfolio site not published yet - legacy behavior */ });
 
   function initEmbed(){
     if(!EMBED) return;
@@ -444,7 +540,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ================= SHAREABLE URL =================
   // Filters live in the query string so a link like ?city=Tampa&beds=2 reopens the same view.
-  var FILTERS = {q:'#atr-q', min:'#atr-min', max:'#atr-max', beds:'#atr-beds', baths:'#atr-baths', city:'#atr-city', zip:'#atr-zip', sort:'#atr-sort'};
+  var FILTERS = {q:'#atr-q', min:'#atr-min', max:'#atr-max', beds:'#atr-beds', baths:'#atr-baths', city:'#atr-city', zip:'#atr-zip', sort:'#atr-sort', status:'#atr-status', pf:'#atr-pf'};
   function readParams(){                                    // pre-populate inputs from the URL on load
     var p=new URLSearchParams(location.search);
     Object.keys(FILTERS).forEach(function(k){ if(p.has(k)){ var el=$(FILTERS[k]); if(el) el.value=p.get(k); } });
@@ -519,6 +615,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function apply(){
     var qRaw=$('#atr-q').value.trim();
     var q=qRaw.toLowerCase();
+    // Status is pinned to available-only in embed mode: the 520px chat panel is
+    // Marty's contract, and a leased home can't be toured or applied for.
+    var st=(!EMBED && PF.ready)?$('#atr-status').value:'';
+    var pfSel=PF.ready?$('#atr-pf').value:'';
+    var pool=(st==='leased')?PF.leased:(st==='all')?DATA.concat(PF.leased):DATA;
     // ===== SEARCH TIERS — our own data always beats an outside map lookup =====
     // 1. literal match on address/title/city/zip  (unchanged behavior)
     // 2. a known area alias                       ("four corners", "near disney")
@@ -531,11 +632,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // ordinary searches ("orlando" 73 -> 105 since other listings say "20
     // minutes from Orlando"; "pool" 5 -> 273).
     var AREA=null, USE_DESC=false;
-    var hasLiteral = !!q && DATA.some(function(l){ return matchesText(l,q); });
+    var hasLiteral = !!q && pool.some(function(l){ return matchesText(l,q); });
     if(q && !hasLiteral){
       AREA=matchArea(qRaw);                                        // tier 2
       if(!AREA){
-        if(DATA.some(function(l){ return l.desc.indexOf(q)>=0; })) USE_DESC=true;  // tier 3
+        if(pool.some(function(l){ return l.desc.indexOf(q)>=0; })) USE_DESC=true;  // tier 3
         else {
           var g=GEO_CACHE[normQ(qRaw)];                            // tier 4
           if(g && countNear(g)>0) AREA=g;   // a geocode that finds nothing is not an answer
@@ -545,7 +646,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     setAreaNotice(AREA);
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
-    var rows=DATA.filter(function(l){
+    var rows=pool.filter(function(l){
+      if(pfSel && !(l.pf && l.pf.indexOf(pfSel)>=0))return false;
       if(AREA){                                   // geographic search
         if(l.lat==null||l.lng==null)return false;
         if(milesBetween(AREA.lat,AREA.lng,l.lat,l.lng)>AREA.mi)return false;
@@ -575,8 +677,16 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       rows.sort(function(a,b){
         return milesBetween(AREA.lat,AREA.lng,a.lat,a.lng)-milesBetween(AREA.lat,AREA.lng,b.lat,b.lng);
       });
-    } else
-    rows.sort(function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?(b.id||0)-(a.id||0):b.rent_val-a.rent_val; });
+    } else {
+      // Leased portfolio ids are strings ('pf-<guid>'); the 'new' sort must not
+      // NaN on them, and this must stay INSIDE the else or it clobbers the
+      // area closest-first order above (it did once - caught in review).
+      var numId=function(x){ return typeof x==='number'?x:0; };
+      rows.sort(function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?numId(b.id)-numId(a.id):b.rent_val-a.rent_val; });
+    }
+    // In the combined view, homes you can actually rent always lead. Stable
+    // sort, so the chosen order is preserved inside each group.
+    if(st==='all') rows.sort(function(a,b){ return (a._leased?1:0)-(b._leased?1:0); });
     renderGrid(rows); if(MAP)MAP.setData(rows);
     // Draw the search radius for an area search: it shows the prospect exactly
     // what "near Four Corners" means, and gives fitBounds a deterministic target
@@ -591,7 +701,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         AREA_CIRCLE=null; if(MAP.clearCircle)MAP.clearCircle();
       }
     }
-    var countTxt=rows.length+(rows.length===1?' home':' homes');
+    var nLeased=0; rows.forEach(function(r){ if(r._leased)nLeased++; });
+    var nAvail=rows.length-nLeased;
+    var countTxt=(st==='leased')
+      ? rows.length+(rows.length===1?' leased property':' leased properties')
+      : rows.length+(rows.length===1?' home':' homes');
+    if(st==='all') countTxt=nAvail+' available · '+nLeased+' leased';
     $('#atr-count').textContent=countTxt;
     $('#atr-empty').style.display=rows.length?'none':'block';
     if(EMBED){
@@ -631,6 +746,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // specs | actions. ~90px tall, so several homes are visible without scrolling.
     var g=$('#atr-grid'); g.innerHTML='';
     rows.forEach(function(l){
+      if(l._leased) return;   // embed is available-only by contract; belt+braces
       var price=l.rent_val>0?esc(l.rent):'Contact';
       var c=document.createElement('div'); c.className='atr-card'; c.dataset.id=l.id;
       c.innerHTML=
@@ -652,6 +768,23 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(EMBED) return renderRows(rows);
     var g=$('#atr-grid'); g.innerHTML='';
     rows.forEach(function(l){
+      if(l._leased){
+        // Leased property card: LEASED chip, last-advertised rent, one action.
+        // No Apply link in the DOM at all - same rule as the portfolio pages.
+        var lc=document.createElement('div'); lc.className='atr-card atr-off'; lc.dataset.id=l.id;
+        lc.innerHTML=
+          '<a class="atr-media" href="'+esc(l.detail)+'">'+
+            (l.photo?'<img loading="lazy" src="'+esc(l.photo)+'" alt="">':'')+
+            (l.rent_val>0?'<span class="atr-badge atr-price">'+esc(l.rent)+'</span>':'')+
+            '<span class="atr-badge atr-leasedchip">Leased</span></a>'+
+          '<a class="atr-body" href="'+esc(l.detail)+'">'+
+            '<div class="atr-title">'+esc(l.title)+'</div>'+
+            '<div class="atr-addr">'+esc(l.address)+'</div></a>'+
+          '<div class="atr-specs">'+(l.units?('<span>'+ICONS.bed+l.units+' units</span>'):specVal(l))+'</div>'+
+          '<div class="atr-actions"><a class="atr-btn atr-details" style="grid-column:1/-1" href="'+esc(l.detail)+'">View Property</a></div>';
+        var li=lc.querySelector('img'); if(li){li.onload=function(){li.classList.add('on');}; if(li.complete)li.classList.add('on');}
+        g.appendChild(lc); return;
+      }
       var price=l.rent_val>0?esc(l.rent):'Contact';
       var c=document.createElement('div'); c.className='atr-card'; c.dataset.id=l.id;
       c.innerHTML=
@@ -670,6 +803,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     });
   }
   function popHtml(l){
+    if(l._leased){
+      return '<div class="atr-pop">'+(l.photo?'<img src="'+esc(l.photo)+'" alt="">':'')+
+        '<div class="pp"><span class="atr-popleased">Leased</span>'+
+        (l.rent_val>0?' <span class="atr-poplast">last '+esc(l.rent)+'/mo</span>':'')+'</div>'+
+        '<div class="pt">'+esc(l.title)+'</div>'+
+        '<a href="'+esc(l.detail)+'">View property →</a></div>';
+    }
     return '<div class="atr-pop">'+(l.photo?'<img src="'+esc(l.photo)+'" alt="">':'')+
       '<div class="pp">'+(l.rent_val>0?esc(l.rent):'Contact')+'</div>'+
       '<div class="pt">'+esc(l.title)+'</div>'+
@@ -683,13 +823,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ================= EVENTS =================
   function wire(){
-    ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort']
+    ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort','#atr-status','#atr-pf']
       .forEach(function(s){$(s).addEventListener('input',apply);});
     // Remember an explicit sort choice so it outranks the area "closest first" default.
     $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
     $('#atr-reset').addEventListener('click',function(){
       ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
-      ['#atr-beds','#atr-baths','#atr-city','#atr-zip'].forEach(function(s){$(s).value='';});
+      ['#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-status','#atr-pf'].forEach(function(s){$(s).value='';});
       $('#atr-sort').value='rent_desc'; SORT_TOUCHED=false;
       RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
       $('#atr-radius-mi').style.display='none';
@@ -730,6 +870,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ================= MAP (Google if key, else Leaflet/OSM) =================
   var RED_PIN='<svg xmlns="http://www.w3.org/2000/svg" width="26" height="38" viewBox="0 0 26 38"><path d="M13 0C5.8 0 0 5.8 0 13c0 9.2 13 25 13 25s13-15.8 13-25C26 5.8 20.2 0 13 0z" fill="#ea4335"/><circle cx="13" cy="13" r="5" fill="#fff"/></svg>';
+  // Leased pins are gray so the map reads at a glance: red = can rent, gray =
+  // we manage it. Same shape - only the fill differs.
+  var GRAY_PIN=RED_PIN.replace('#ea4335','#8d8d8d');
   function makeMap(){
     if(CONFIG.GOOGLE_MAPS_API_KEY) return makeGoogle();
     return makeLeaflet();
@@ -750,12 +893,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}if(api._pendingDraw){api._pendingDraw();api._pendingDraw=null;}if(api.last)api.render(api.last);},60);});
       if(api.pending){api.render(api.pending);api.pending=null;}
     });
-    var icon=function(){return L.divIcon({className:'atr-pin',html:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
+    var icon=function(l){return L.divIcon({className:'atr-pin',html:(l&&l._leased)?GRAY_PIN:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
     api.render=function(rows){
       api.last=rows; api.map.invalidateSize();
       api.layer.clearLayers(); var pts=[];
       rows.forEach(function(l){ if(l.lat==null||l.lng==null)return;
-        var m=L.marker([l.lat,l.lng],{icon:icon()}).bindPopup(popHtml(l));
+        var m=L.marker([l.lat,l.lng],{icon:icon(l)}).bindPopup(popHtml(l));
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
       if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
@@ -826,7 +969,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       api.markers.forEach(function(m){m.setMap(null);}); api.markers=[];
       var b=new google.maps.LatLngBounds(), n=0;
       rows.forEach(function(l){ if(l.lat==null||l.lng==null)return;
-        var m=new google.maps.Marker({position:{lat:l.lat,lng:l.lng},map:api.map});
+        var m=new google.maps.Marker({position:{lat:l.lat,lng:l.lng},map:api.map,
+          icon:l._leased?{url:'data:image/svg+xml;charset=UTF-8,'+encodeURIComponent(GRAY_PIN),
+                          scaledSize:new google.maps.Size(26,38),anchor:new google.maps.Point(13,38)}:null});
         m.addListener('click',function(){api.info.setContent(popHtml(l));api.info.open(api.map,m);highlight(l.id);});
         api.markers.push(m); b.extend(m.getPosition()); n++;
       });
