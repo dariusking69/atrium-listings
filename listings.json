@@ -1,5 +1,194 @@
 [
   {
+    "id": 6329,
+    "uuid": "203db1fe-c9b1-40b8-9eaf-d2764bbfc15d",
+    "address": "2050 Old Clinton Rd Unit E7, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit E7",
+    "city": "Macon",
+    "rent": "$875",
+    "rent_val": 875,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/203db1fe-c9b1-40b8-9eaf-d2764bbfc15d",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "2bed/1bath - AVAILABLE NOW!",
+    "description": "Whether you're sharing the space or just want room to breathe, this two-bedroom home delivers. With up to 900 square feet, there's space for a home office, a guest room, or whatever fits your life. Enjoy pet-friendly living with a pool, onsite laundry, and a dishwasher \u2014 plus a location that puts you close to Mercer University, shopping, and easy highway access. \r\n\r\nStarting at $900 a month, it's solid value in the heart of Macon.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $875 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $875",
+      "Application Fee: $25",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/479ba45b-546a-4cb6-a7e6-089ce0f157af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5efc7d1a-e32a-4698-8e81-dcb338efb264/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2adffe9-9f61-4843-8762-46bf3ec5c5af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/edbd73f8-0502-4049-8168-99b1b78a04ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bec00cb7-547a-4805-9a9f-4243fa396854/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/510d6c9e-8e04-41dc-9b7c-960cf4056598/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/45313e56-af0d-4bf2-8f96-d7a4106da476/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8a27b3a5-9b8b-433b-9715-86f3ef3f51cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c9a48662-4f66-4ad8-a622-cece242081d7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c4c58a05-7a3b-4f33-b441-a5c2ebe08d98/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/431d1b4c-2986-44da-a2be-7d234afd9908/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8bcf68ab-d8b1-4058-af1a-b2b3a95fcda7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=203db1fe-c9b1-40b8-9eaf-d2764bbfc15d&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6328,
+    "uuid": "6bff55fa-f588-4b10-acdd-f265e166eb95",
+    "address": "2050 Old Clinton Rd Unit C2, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit C2",
+    "city": "Macon",
+    "rent": "$1,075",
+    "rent_val": 1075,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6bff55fa-f588-4b10-acdd-f265e166eb95",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "2bed/1bath - AVAILABLE NOW!",
+    "description": "Whether you're sharing the space or just want room to breathe, this two-bedroom home delivers. With up to 900 square feet, there's space for a home office, a guest room, or whatever fits your life. Enjoy pet-friendly living with a pool, onsite laundry, and a dishwasher \u2014 plus a location that puts you close to Mercer University, shopping, and easy highway access. \r\n\r\nStarting at $900 a month, it's solid value in the heart of Macon.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,075 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,075",
+      "Application Fee: $25",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/479ba45b-546a-4cb6-a7e6-089ce0f157af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5efc7d1a-e32a-4698-8e81-dcb338efb264/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2adffe9-9f61-4843-8762-46bf3ec5c5af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/edbd73f8-0502-4049-8168-99b1b78a04ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bec00cb7-547a-4805-9a9f-4243fa396854/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/510d6c9e-8e04-41dc-9b7c-960cf4056598/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/45313e56-af0d-4bf2-8f96-d7a4106da476/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8a27b3a5-9b8b-433b-9715-86f3ef3f51cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c9a48662-4f66-4ad8-a622-cece242081d7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c4c58a05-7a3b-4f33-b441-a5c2ebe08d98/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/431d1b4c-2986-44da-a2be-7d234afd9908/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8bcf68ab-d8b1-4058-af1a-b2b3a95fcda7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6bff55fa-f588-4b10-acdd-f265e166eb95&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6327,
+    "uuid": "9a0c210c-9b29-4a9b-a42d-d2b7af127ac5",
+    "address": "2050 Old Clinton Rd Unit A6, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit A6",
+    "city": "Macon",
+    "rent": "$965",
+    "rent_val": 965,
+    "specs": "1 bd, 1 ba, 588 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 588,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9a0c210c-9b29-4a9b-a42d-d2b7af127ac5",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "1 bedroom/1bath AVAILABLE NOW!",
+    "description": "This bright one-bedroom home gives you everything you need without the extra you don't. \r\n\r\nAt 588 square feet, it's thoughtfully laid out with plush carpet, a dishwasher, and a comfortable living space that's easy to make your own. Step outside to a pet-friendly community with a swimming pool and onsite laundry, all just minutes from Amerson River Park, local dining, and major commuter routes. Starting at $775 a month, it's an easy yes.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $965 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $965",
+      "Application Fee: $25",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1999986-125c-4efc-a539-6f6a78066f81/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3e280efa-053c-4e5c-b3d2-97e2091f0233/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7c9efb83-4474-4160-b1e1-1e48c918450b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/61607cf6-8f41-425b-b0a7-6fd571921fb1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bc83e039-2dc0-4029-bc31-97921ca9af16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e949e7eb-369d-4af2-bae7-e33bfa01f4b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7f65d9e7-5986-4e25-91a0-55583d173900/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dabba6ac-542a-4a6e-ada0-4dab273b3d4a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ebad500b-e6f6-4224-b4e9-4ed56b2480f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f923f603-8976-48e0-9b85-9ad3a7664aba/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/58195c49-3fe2-4aba-8a5c-14fcad1ce34d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6d19d0c5-e65c-414f-a330-1a4edc7a885f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9a0c210c-9b29-4a9b-a42d-d2b7af127ac5&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6326,
+    "uuid": "5cb26665-b966-408d-8f76-d1f556d72cf6",
+    "address": "716 Suncrest Loop # 210, Casselberry, FL 32707",
+    "street": "716 Suncrest Loop # 210",
+    "city": "Casselberry",
+    "rent": "$1,585",
+    "rent_val": 1585,
+    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 988,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5cb26665-b966-408d-8f76-d1f556d72cf6",
+    "lat": 28.6933251,
+    "lng": -81.3205275,
+    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,585 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/18/26",
+    "terms": [
+      "Rent: $1,585",
+      "Application Fee: $79",
+      "Available 10/18/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/92d45b5b-eff0-4dbc-8097-c922ef80697f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4f46da88-8096-4aa6-aff6-c7b09481714b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/666e98e6-3415-455b-8b29-ad14ede5016d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/87d034d9-4e36-43cf-aa8c-760e78e077f0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/65c71d2d-a182-45a3-987f-7532313e71fa/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc387176-4a6d-4a34-8779-6ba79be0ba70/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a84df028-6413-44f4-ab56-703696945f56/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ecaf1aeb-7243-4e40-be69-bd16c7e02009/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3a051824-cf7d-4032-b3b1-e4139f44289d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c01cf37c-cc2f-4d15-ac72-838610449b35/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/be17c308-7a64-4d6e-b9cd-a67781661f04/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2dc804d9-240b-4ddc-bd38-5fb90494d286/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fc06ef00-7407-4e9f-908d-df2cc4cc9b22/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1cbcac2a-582a-44b1-93e4-04faac1b4fcf/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1504d53a-844f-4d2b-abba-137909a33c16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5cb26665-b966-408d-8f76-d1f556d72cf6&source=Website",
+    "available": "10/18/26"
+  },
+  {
     "id": 6325,
     "uuid": "9aaab6df-dcfc-4d87-8729-84167680a6cb",
     "address": "2115 Bouquet Ct #206, Orlando, FL 32807",
@@ -1694,6 +1883,53 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c8175901-7ed5-4af6-8a04-3454d4b9973a&source=Website",
     "available": "10/10/26"
+  },
+  {
+    "id": 6279,
+    "uuid": "2603e5b2-320f-4bf6-a93e-d26ac0a60a1e",
+    "address": "2050 Old Clinton Rd Unit D5, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit D5",
+    "city": "Macon",
+    "rent": "$965",
+    "rent_val": 965,
+    "specs": "1 bd, 1 ba, 588 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 588,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2603e5b2-320f-4bf6-a93e-d26ac0a60a1e",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "1 bedroom/1bath AVAILABLE NOW!",
+    "description": "This bright one-bedroom home gives you everything you need without the extra you don't. \r\n\r\nAt 588 square feet, it's thoughtfully laid out with plush carpet, a dishwasher, and a comfortable living space that's easy to make your own. Step outside to a pet-friendly community with a swimming pool and onsite laundry, all just minutes from Amerson River Park, local dining, and major commuter routes. Starting at $775 a month, it's an easy yes.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $965 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $965",
+      "Application Fee: $25",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1999986-125c-4efc-a539-6f6a78066f81/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3e280efa-053c-4e5c-b3d2-97e2091f0233/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7c9efb83-4474-4160-b1e1-1e48c918450b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/61607cf6-8f41-425b-b0a7-6fd571921fb1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bc83e039-2dc0-4029-bc31-97921ca9af16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e949e7eb-369d-4af2-bae7-e33bfa01f4b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7f65d9e7-5986-4e25-91a0-55583d173900/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dabba6ac-542a-4a6e-ada0-4dab273b3d4a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ebad500b-e6f6-4224-b4e9-4ed56b2480f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f923f603-8976-48e0-9b85-9ad3a7664aba/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/58195c49-3fe2-4aba-8a5c-14fcad1ce34d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6d19d0c5-e65c-414f-a330-1a4edc7a885f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2603e5b2-320f-4bf6-a93e-d26ac0a60a1e&source=Website",
+    "available": "NOW"
   },
   {
     "id": 6277,
@@ -6566,6 +6802,52 @@
     "available": "NOW"
   },
   {
+    "id": 6051,
+    "uuid": "4f360ea5-a488-4b43-a04f-71b2f1401b13",
+    "address": "2050 Old Clinton Rd Unit C4, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit C4",
+    "city": "Macon",
+    "rent": "$875",
+    "rent_val": 875,
+    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 1.0,
+    "sqft": 900,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4f360ea5-a488-4b43-a04f-71b2f1401b13",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "2bed/1bath - AVAILABLE NOW!",
+    "description": "Whether you're sharing the space or just want room to breathe, this two-bedroom home delivers. With up to 900 square feet, there's space for a home office, a guest room, or whatever fits your life. Enjoy pet-friendly living with a pool, onsite laundry, and a dishwasher \u2014 plus a location that puts you close to Mercer University, shopping, and easy highway access. \r\n\r\nStarting at $900 a month, it's solid value in the heart of Macon.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $875 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $875",
+      "Application Fee: $25",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/479ba45b-546a-4cb6-a7e6-089ce0f157af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5efc7d1a-e32a-4698-8e81-dcb338efb264/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b2adffe9-9f61-4843-8762-46bf3ec5c5af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/edbd73f8-0502-4049-8168-99b1b78a04ab/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bec00cb7-547a-4805-9a9f-4243fa396854/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/510d6c9e-8e04-41dc-9b7c-960cf4056598/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/45313e56-af0d-4bf2-8f96-d7a4106da476/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8a27b3a5-9b8b-433b-9715-86f3ef3f51cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c9a48662-4f66-4ad8-a622-cece242081d7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c4c58a05-7a3b-4f33-b441-a5c2ebe08d98/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/431d1b4c-2986-44da-a2be-7d234afd9908/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8bcf68ab-d8b1-4058-af1a-b2b3a95fcda7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4f360ea5-a488-4b43-a04f-71b2f1401b13&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6050,
     "uuid": "20d1c7cb-0c29-45bb-b09a-6ea1a6690b21",
     "address": "109 S Boyd Street #308, Winter Garden, FL 34787",
@@ -7575,6 +7857,53 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e095de42-fcef-476a-a21e-6fb1aa8f9edb&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5962,
+    "uuid": "95731f90-85ef-4656-9973-8e94f63f714f",
+    "address": "2050 Old Clinton Rd Unit B7, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit B7",
+    "city": "Macon",
+    "rent": "$775",
+    "rent_val": 775,
+    "specs": "1 bd, 1 ba, 588 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 588,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/95731f90-85ef-4656-9973-8e94f63f714f",
+    "lat": 32.8756594,
+    "lng": -83.6138899,
+    "title": "1 bedroom/1bath AVAILABLE NOW!",
+    "description": "This bright one-bedroom home gives you everything you need without the extra you don't. \r\n\r\nAt 588 square feet, it's thoughtfully laid out with plush carpet, a dishwasher, and a comfortable living space that's easy to make your own. Step outside to a pet-friendly community with a swimming pool and onsite laundry, all just minutes from Amerson River Park, local dining, and major commuter routes. Starting at $775 a month, it's an easy yes.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $775 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $775",
+      "Application Fee: $25",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3d423c2d-c6af-40a6-94a3-141341f3db2b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c1999986-125c-4efc-a539-6f6a78066f81/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3e280efa-053c-4e5c-b3d2-97e2091f0233/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7c9efb83-4474-4160-b1e1-1e48c918450b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/61607cf6-8f41-425b-b0a7-6fd571921fb1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bc83e039-2dc0-4029-bc31-97921ca9af16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e949e7eb-369d-4af2-bae7-e33bfa01f4b8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7f65d9e7-5986-4e25-91a0-55583d173900/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dabba6ac-542a-4a6e-ada0-4dab273b3d4a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ebad500b-e6f6-4224-b4e9-4ed56b2480f6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f923f603-8976-48e0-9b85-9ad3a7664aba/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/58195c49-3fe2-4aba-8a5c-14fcad1ce34d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6d19d0c5-e65c-414f-a330-1a4edc7a885f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=95731f90-85ef-4656-9973-8e94f63f714f&source=Website",
     "available": "NOW"
   },
   {
@@ -9000,6 +9329,48 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5effb75d-71eb-45db-a3c6-3afe40943c44&source=Website",
     "available": "9/14/26"
+  },
+  {
+    "id": 5849,
+    "uuid": "2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5",
+    "address": "1220 NW 12th Street Unit 36, Gainesville, FL 32601",
+    "street": "1220 NW 12th Street Unit 36",
+    "city": "Gainesville",
+    "rent": "$1,095",
+    "rent_val": 1095,
+    "specs": "1 bd, 1 ba, 530 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 530,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fa29a416-3aef-4fd9-91dc-63bb2c30f91a/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5",
+    "lat": 29.6637841,
+    "lng": -82.3376942,
+    "title": "NEWLY RENOVATED!! $1095.00",
+    "description": "Move into your newly renovated 1-bedroom apartment at The Grande at Gainesville and enjoy comfortable, modern living in a convenient location.\r\n\r\n Apartment Features:\r\n\r\nNewly renovated interiors\r\nModern finishes\r\nOpen-concept floor plans\r\nPeaceful community atmosphere\r\nPet-friendly\r\nOn-site laundry facilities \r\nDishwasher\r\n\r\n Prime Location\r\nJust minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, and entertainment.\r\n\r\n Application Requirements:\r\n\r\nMinimum credit score of 600\r\nNo prior evictions\r\nMonthly income must be at least 3\u00d7 the monthly rent.\r\nSubmit the last 3 month paystubs PDF or bank statement. Incomplete applications are not approved.\r\nLandlord reference\r\n\r\nAdministration fees only one time..$295.00\r\n\r\nWater, trash, sewer....$55.00\r\nRental Insurance .......$15.50\r\nDogs only one time ..$250.00 monthly $25.00\r\n\r\n\r\nGladys Weeks\r\nLeasing Coordinator | Atrium Management\r\n 352-462-4414\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,095",
+      "Application Fee: $95",
+      "Security Deposit: $1,095",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/fa29a416-3aef-4fd9-91dc-63bb2c30f91a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/af2a226a-5d69-41b9-834f-957d0912a249/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0abb0cdf-63a2-4db1-a5d4-62e327d34090/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47082a19-7bc6-4fd1-8b7c-4f5d0f7b5530/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/feb2fd9f-3d26-4bb4-b57b-869c4df604a9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d613728-7786-43bc-b8e2-12a8fce6a019/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cbc4ab49-f315-4d47-ab50-d34662b15a81/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7e68d046-5521-4fb5-906f-8a4bac5af53e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5&source=Website",
+    "available": "NOW"
   },
   {
     "id": 5846,
@@ -17355,47 +17726,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1b3878fc-0132-4b7c-9bba-36a73145ad25&source=Website",
     "available": "8/28/26"
-  },
-  {
-    "id": 3091,
-    "uuid": "49e7c70a-30cc-4746-83e0-f133d3ed968c",
-    "address": "947 Valencia Isle Dr., Orlando, FL 32825",
-    "street": "947 Valencia Isle Dr.",
-    "city": "Orlando",
-    "rent": "$2,608",
-    "rent_val": 2608,
-    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.5,
-    "sqft": 1648,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/49e7c70a-30cc-4746-83e0-f133d3ed968c",
-    "lat": 28.555704,
-    "lng": -81.264408,
-    "title": "The Washington - 3 Bedroom with 2 Car Garage!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,608 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/15/26",
-    "terms": [
-      "Rent: $2,608",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/15/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1026e368-bb41-4b00-a7f6-4a2bacd116e2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a9983231-7485-45fe-b566-06958c8c675f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bcbf1e98-9ba9-4fc6-946f-6a71ae75dc2c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0eabf96e-5ba6-4e37-bd64-826cade1718f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/09cdf0bb-6b39-4f7a-8c30-e9bf9aaf00f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1f7d02fe-e6f2-421f-93f9-7ece9b093d54/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=49e7c70a-30cc-4746-83e0-f133d3ed968c&source=Website",
-    "available": "8/15/26"
   },
   {
     "id": 3070,
