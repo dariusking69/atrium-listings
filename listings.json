@@ -1,5 +1,40 @@
 [
   {
+    "id": 6335,
+    "uuid": "11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e",
+    "address": "1540 Neo Landings Loop, Unit 208, Kissimmee, FL 34744",
+    "street": "1540 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,020",
+    "rent_val": 2020,
+    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1132,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e",
+    "lat": 28.3064464,
+    "lng": -81.3869467,
+    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
+    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/18/26",
+    "terms": [
+      "Rent: $2,020",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 10/18/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e&source=Website",
+    "available": "10/18/26"
+  },
+  {
     "id": 6334,
     "uuid": "90add20c-7852-4d2b-b54c-dbba0cc2ee17",
     "address": "109 S Boyd Street #201, Winter Garden, FL 34787",
@@ -1950,39 +1985,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=72cf373e-fd73-4b8c-b5cb-d05bcbb20758&source=Website",
     "available": "10/10/26"
-  },
-  {
-    "id": 6281,
-    "uuid": "65c5356e-c94d-45f4-819c-01c4b419bbe3",
-    "address": "6613 Mission Club Blvd # 11-104, Orlando, FL 32821",
-    "street": "6613 Mission Club Blvd # 11-104",
-    "city": "Orlando",
-    "rent": "$2,115",
-    "rent_val": 2115,
-    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1126,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/65c5356e-c94d-45f4-819c-01c4b419bbe3",
-    "lat": 28.3876359,
-    "lng": -81.4722765,
-    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft.",
-    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,115 \n\n\n\n\n Application Fee: $79",
-    "terms": [
-      "Rent: $2,115",
-      "Application Fee: $79"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=65c5356e-c94d-45f4-819c-01c4b419bbe3&source=Website",
-    "available": "NOW"
   },
   {
     "id": 6280,
@@ -7569,8 +7571,8 @@
     "address": "3650 SW 20th Avenue  - Unit 12, Gainesville, FL 32607",
     "street": "3650 SW 20th Avenue  - Unit 12",
     "city": "Gainesville",
-    "rent": "$1,550",
-    "rent_val": 1550,
+    "rent": "$1,495",
+    "rent_val": 1495,
     "specs": "2 bd, 1.5 ba, 1,100 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.5,
@@ -10388,6 +10390,52 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ed952f58-6050-403c-9f9c-c99bc73d0fa8&source=Website",
     "available": "9/1/26"
+  },
+  {
+    "id": 5755,
+    "uuid": "9c4e15bb-e892-4272-b282-a85900e18e85",
+    "address": "27 Golf Terrace Dr Unit # 27-211, Winter Springs, FL 32708",
+    "street": "27 Golf Terrace Dr Unit # 27-211",
+    "city": "Winter Springs",
+    "rent": "$1,572 - $1,686",
+    "rent_val": 1572,
+    "specs": "2 bd, 2 ba, 1,096 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1096,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c4e15bb-e892-4272-b282-a85900e18e85",
+    "lat": 28.7031476,
+    "lng": -81.3229124,
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,572 - $1,686 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,572 - $1,686",
+      "Application Fee: $79",
+      "Security Deposit: $1,598",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/29d171c0-5cda-42b6-bf2d-04dc19507fc2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5d4a894a-0b17-4fa9-b1c4-af04ad46bbee/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2ebbf845-af12-4b42-bc50-a188b5c593d8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/6ed1ea44-5274-4c38-aeec-679a6db3e70d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e803f6b5-d307-459e-914c-d3ecf89adb14/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f9d6c1b9-0f9a-4b71-9f46-18b63e36308f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd785c06-7139-457b-9a89-615b9dd93a90/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/dc5343e6-b5d6-41ca-a8c6-9089f077ae29/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a046686d-571f-4511-bdb7-491e4f4b987a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/31fcf673-e672-422b-9d83-206068cbbe00/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81421639-fd61-4846-b144-0c44ca2d2af5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c4e15bb-e892-4272-b282-a85900e18e85&source=Website",
+    "available": "NOW"
   },
   {
     "id": 5751,
@@ -17014,41 +17062,6 @@
     "available": "8/28/26"
   },
   {
-    "id": 3474,
-    "uuid": "3debaf89-d6f7-4634-a9f9-3390b231ad10",
-    "address": "1363 W. Broad Street, # 342, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$1,299",
-    "rent_val": 1299,
-    "specs": "1 bd, 1 ba, 699 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 699,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e0d3b305-6818-4bb9-b1aa-da28d36eaa5a/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3debaf89-d6f7-4634-a9f9-3390b231ad10",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "A4",
-    "description": "Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,299",
-      "Application Fee: $55",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/e0d3b305-6818-4bb9-b1aa-da28d36eaa5a/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3debaf89-d6f7-4634-a9f9-3390b231ad10&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 3472,
     "uuid": "477f70da-a9f8-4a89-9d26-fa97882e0732",
     "address": "1363 W. Broad Street, # 316, Richmond, VA 23220",
@@ -17870,66 +17883,6 @@
     "available": "NOW"
   },
   {
-    "id": 3114,
-    "uuid": "e159cf67-1ba0-4f81-af8b-394c3361a767",
-    "address": "1553 Neo Landings Loop, Kissimmee, FL 34744",
-    "street": "1553 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,875",
-    "rent_val": 2875,
-    "specs": "3 bd, 3 ba, 1,854 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 3.0,
-    "sqft": 1854,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/be327843-25d5-4970-82a5-ea0154d18516/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e159cf67-1ba0-4f81-af8b-394c3361a767",
-    "lat": 28.3055848,
-    "lng": -81.3865496,
-    "title": "Aston Square- Spacious 3 Bedroom 3 Bathroom Carriage Home",
-    "description": "Introducing Our Spacious 3-Bedroom, 3-Bathroom Carriage Home in Kissimmee, FL\r\n\r\nExperience exceptional living in our spacious 3-bedroom, 3-bathroom carriage home located in the vibrant city of Kissimmee, FL. This modern residence offers an array of top-of-the-line features, including keyless entry, vinyl plank flooring, stainless steel appliances, expansive walk-in custom closets, and Spacious, Fully Fenced Yards for Added Privacy, all designed to enhance your living experience.\r\n\r\nTucked away in the back of the community for added privacy, this home provides convenient access to electric vehicle chargers, package lockers, and a resort-style pool.\r\n\r\nRelax and unwind on the spacious sun deck, or indulge in the luxurious soaking tubs. Stay productive in our co-working space, or enjoy the top-floor media lounge with a rooftop deck. Maintain an active lifestyle with our 24/7 fitness center and conduct business in the private work pods.\r\n\r\nThis home also boasts quartz countertops, kitchen islands, interactive thermostats, and screened-in patios, offering the perfect combination of comfort and style.\r\n\r\nDon\u2019t miss the chance to make this stunning carriage home your new residence. Contact us today to schedule a tour!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,875 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
-    "terms": [
-      "Rent: $2,875",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 9/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/be327843-25d5-4970-82a5-ea0154d18516/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/993081ef-3665-40bc-937a-1a9c3169426a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/da26f0e5-d2d0-4c66-a2f9-f15cfa60a527/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/aa8bcb84-99d4-4c1d-b8c1-bc1b19496cf5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8d6e342c-6ad9-43f5-8f76-d4ecec9fdb36/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/152cfb10-e29f-42cc-a6b3-06a2850c8d4e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/559785ae-bf9f-4c21-8bce-c67cd43c7c6d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/233cdc8b-c938-4965-aad6-8bfd2fc96ec6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/68d6b93b-a2de-4568-9288-44c1890ee527/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5b34a807-55e6-44fb-b1d3-a91819be5289/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d7106e57-ca71-49b2-89c4-16e61fee9b0c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3ba8e5b0-aae1-4ad5-a898-9d505e7728e9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b8dd9554-4645-490e-a533-7fb14cfd49c4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cb44f355-0165-4c2b-874c-a00c01305514/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f40599e4-6a3d-43e0-b1bf-6234e247e211/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/db767c70-9bec-4b2c-a06b-a36d2d9b4c79/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2e56f498-4148-4608-9014-ec8472fa275a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8e3f2d3c-d9da-4d4a-86a1-4874543b0d04/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a71e3188-7d36-4f18-85b3-5b585bdc0985/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6eb2cbea-7d20-4dc8-9634-2059663dfbb9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30ae4bf3-4fdf-443c-bd2f-f61d99858575/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/599cf350-3255-4a28-bc48-0df091095825/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c9e18fd4-0c79-44e3-b22c-e6d7c1030b1d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/616a428d-8d09-4162-8949-d1ddafec8345/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/eee9fc30-a785-4a0b-a6b8-51b85d5134da/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/388512a8-9a33-483a-bd71-6b0a0068241a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e159cf67-1ba0-4f81-af8b-394c3361a767&source=Website",
-    "available": "9/10/26"
-  },
-  {
     "id": 3100,
     "uuid": "1b3878fc-0132-4b7c-9bba-36a73145ad25",
     "address": "997 Valencia Isle Dr, Orlando, FL 32825",
@@ -18190,49 +18143,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5af9719c-5528-4cb2-9f11-2333db2c4e8d&source=Website",
     "available": "9/11/26"
-  },
-  {
-    "id": 2979,
-    "uuid": "c1a8742a-8c10-4675-9866-83cb38a29f2e",
-    "address": "1295 N Holland Pkwy - Unit #9, Bartow, FL 33830",
-    "street": "1295 N Holland Pkwy - Unit #9",
-    "city": "Bartow",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 575 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 575,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5aeb06fb-97d7-43a2-9ba3-6744d1bb90d1/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c1a8742a-8c10-4675-9866-83cb38a29f2e",
-    "lat": 27.9060172,
-    "lng": -81.8303346,
-    "title": "**RENT SPECIAL** 1 Bedroom Apartment in Bartow",
-    "description": "***RENT SPECIAL: $500 off the first month's rent!*** Welcome home to this charming 1 bedroom, 1 bathroom apartment ideally located in Bartow, just off U.S. Route 17 and State Road 60. Putting you right where you need to be!\r\nStep inside to find beautiful LVP flooring throughout and a bright, spacious living room that flows seamlessly into a dedicated dining area. Perfect for relaxing or entertaining! The generously sized bedroom offers plenty of comfort, complete with a closet and an additional storage area to keep everything organized. Enjoy the convenience of being just minutes from everyday essentials, including Walmart, local shopping, dining options, and more. With its ideal location and comfortable layout, this apartment is the perfect place to call home. So don\u2019t miss out, schedule your tour today! Call or text 813-438-3799 for questions and to schedule an appointment!\r\n\r\nTenant is also responsible for having Renter's Insurance with $100,000 Liability, adding Atrium as a third party of interest or tenant can choose to have Atrium's Renter Insurance for $15.50. $50 towards water, trash and sewer and $295 one-time admin fee.\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per approved pet)\r\n$25 Monthly Pet Rent\r\n\r\nPlease note: One or more photos have been virtually staged using AI.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5aeb06fb-97d7-43a2-9ba3-6744d1bb90d1/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8abbfbf6-b2ee-48f5-8e63-8c9635eca300/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d14fa673-07f8-497b-b00a-0c097b358c73/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5e94c536-f334-4d1f-8800-8247d567d252/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/092c7e27-8cde-44c6-953c-68cb04edfaf2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1b0c0690-e0ef-4548-bb5d-5c5ed5999885/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/366f63ab-62cd-4eb9-ad16-d45368928dd3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ea329fa-666b-499d-8760-9f59b4c8ef8a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/72be21cf-4518-4a23-95aa-ee7323e6a4f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c1a8742a-8c10-4675-9866-83cb38a29f2e&source=Website",
-    "available": "NOW"
   },
   {
     "id": 2975,
@@ -19568,52 +19478,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=66e1462c-9027-484d-b3cb-474eed79ce09&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 2351,
-    "uuid": "9763a60f-e683-4d15-ac29-09a15e3e297f",
-    "address": "1295 N Holland Pkwy - Unit #41, Bartow, FL 33830",
-    "street": "1295 N Holland Pkwy - Unit #41",
-    "city": "Bartow",
-    "rent": "$925",
-    "rent_val": 925,
-    "specs": "Studio, 1 ba, 350 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 350,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cad5389a-e6a2-497b-b0d9-1ddd0e0748f3/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9763a60f-e683-4d15-ac29-09a15e3e297f",
-    "lat": 27.9060172,
-    "lng": -81.8303346,
-    "title": "Lovely Renovated Studio Apartment in Bartow",
-    "description": "Discover the perfect blend of style and simplicity in this beautifully updated studio apartment! Featuring sleek LVP flooring throughout, this space offers a modern, low-maintenance lifestyle you\u2019ll love. The updated kitchen and bathroom bring a fresh, contemporary feel, making everyday living both comfortable and convenient. Designed with privacy in mind, this unit provides an open and functional layout. Whether you\u2019re relaxing at home or on the go, this studio delivers the ideal balance of comfort and efficiency. A rare find so don\u2019t miss your opportunity to make this private, stylish space your next home!\r\n\r\nTenant is also responsible for having Renter's Insurance with $100,000 Liability, adding Atrium as a third party of interest or tenant can choose to have Atrium's Renter Insurance for $15.50. $50 towards water, trash and sewer and $295 one-time admin fee.\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per approved pet)\r\n$25 Monthly Pet Rent\r\n\r\nPlease note: One or more photos have been virtually staged using AI.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $925 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $925 \n\n\n Available Now",
-    "terms": [
-      "Rent: $925",
-      "Application Fee: $95",
-      "Security Deposit: $925",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Small dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cad5389a-e6a2-497b-b0d9-1ddd0e0748f3/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/74c44f42-05f6-4e99-80a1-2ad6752bffe5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8eff5052-b69e-4374-bb24-aa86e69b2b56/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/adfb4835-d6f4-42fc-891d-ffbdcabe1e65/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1857527f-db0d-488d-892f-1eeb392d6d58/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1368a3fc-a97b-4352-b01e-78e371c0a647/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/27fa10ef-2ec3-4300-b5b6-785e223ea00c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/68174a32-5e40-4257-8c29-63ea5bbd10fd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ebc2ec00-f4f2-494d-b71e-091b52e57567/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ed95be45-8e7b-4758-b60d-b8c8771e5f05/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b45564cc-d168-4cf6-a4d6-0f87352599ce/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e9fdd6d5-3418-4992-ba65-65facce4fb2d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9763a60f-e683-4d15-ac29-09a15e3e297f&source=Website",
     "available": "NOW"
   },
   {
