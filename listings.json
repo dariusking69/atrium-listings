@@ -1,5 +1,115 @@
 [
   {
+    "id": 6333,
+    "uuid": "6b3a0df4-e931-42fd-a159-5c4b39754add",
+    "address": "2110 Gachet Ct #302, Orlando, FL 32807",
+    "street": "2110 Gachet Ct #302",
+    "city": "Orlando",
+    "rent": "$1,670",
+    "rent_val": 1670,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6b3a0df4-e931-42fd-a159-5c4b39754add",
+    "lat": 28.5738907,
+    "lng": -81.3070003,
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563 \n\n\n Available 8/23/26",
+    "terms": [
+      "Rent: $1,670",
+      "Application Fee: $95",
+      "Security Deposit: $1,563",
+      "Available 8/23/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6b3a0df4-e931-42fd-a159-5c4b39754add&source=Website",
+    "available": "8/23/26"
+  },
+  {
+    "id": 6332,
+    "uuid": "73c3df48-a776-4f8a-b1d0-1ecd9b828248",
+    "address": "4122 Southway Ln Apt 43, Triangle, VA 22172-1830",
+    "street": "4122 Southway Ln Apt 43",
+    "city": "Triangle",
+    "rent": "$1,269",
+    "rent_val": 1269,
+    "specs": "1 bd, 1 ba, 648 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 648,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/07b71f45-4ec9-4b7a-b4f3-67a6756d5523/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/73c3df48-a776-4f8a-b1d0-1ecd9b828248",
+    "lat": 38.54943,
+    "lng": -77.3360703,
+    "title": "Amazing Location!",
+    "description": "Take advantage of convenience while living at Southampton, shopping and recreation right around the corner! .06 miles from the main gate Quantico .07 miles from I-95 2.2 miles from Locust Shade Park 7.7 miles from Stonebridge at Potomac Town Center 9.0 mile from Potomac Mills Mall. Additional Fees: Pet Rent: $50 per pet per month, Non-refundable pet fee: $250 per pet. Water, Parking, and Trash included.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,269 \n\n\n\n Admin Fee: $150 \n\n Application Fee: $50 \n\n\n\n Available 10/28/26",
+    "terms": [
+      "Rent: $1,269",
+      "Admin Fee: $150",
+      "Application Fee: $50",
+      "Available 10/28/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/07b71f45-4ec9-4b7a-b4f3-67a6756d5523/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=73c3df48-a776-4f8a-b1d0-1ecd9b828248&source=Website",
+    "available": "10/28/26"
+  },
+  {
+    "id": 6331,
+    "uuid": "8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1",
+    "address": "938 Valencia Isle Dr, Orlando, FL 32825",
+    "street": "938 Valencia Isle Dr",
+    "city": "Orlando",
+    "rent": "$2,517",
+    "rent_val": 2517,
+    "specs": "3 bd, 2.5 ba, 1,522 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1522,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/42ec02ca-4d06-4413-8465-0c2d8ffd00d3/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1",
+    "lat": 28.555576,
+    "lng": -81.264876,
+    "title": "The Carter - NOW OFFERING 2 MONTH'S FREE ON SELECT VACANT UNITS W/ 15 MONTH LEASE! Must move in by 3/15",
+    "description": "Experience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied) \r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 250-9302.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,517 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
+    "terms": [
+      "Rent: $2,517",
+      "Application Fee: $95",
+      "Security Deposit: $500",
+      "Available 8/31/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/42ec02ca-4d06-4413-8465-0c2d8ffd00d3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e57c2171-f44d-4fad-84f1-c37f38565fe0/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3b2551c1-da75-47b5-8320-2b32a586636d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/550dd441-e9f3-4d57-82e8-88aec5a18779/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fd4d0315-da2f-45eb-89de-ea736025a9b3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/46c79800-fa15-479e-aeba-090a5e08edd4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/814cae5b-c806-4041-9f6b-0d492e780825/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/83eb5929-f0ec-4f00-a775-a4da3f200a0f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/076c01fb-fff2-41ec-bdc1-c65ae94843a6/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1&source=Website",
+    "available": "8/31/26"
+  },
+  {
     "id": 6329,
     "uuid": "203db1fe-c9b1-40b8-9eaf-d2764bbfc15d",
     "address": "2050 Old Clinton Rd Unit E7, Macon, GA 31211",
@@ -4209,8 +4319,8 @@
     "address": "1005 Valencia Isle Dr, Orlando, FL 32825",
     "street": "1005 Valencia Isle Dr",
     "city": "Orlando",
-    "rent": "$3,095",
-    "rent_val": 3095,
+    "rent": "$2,838",
+    "rent_val": 2838,
     "specs": "4 bd, 2.5 ba, 1,737 Sq. Ft.",
     "beds": 4.0,
     "baths": 2.5,
@@ -10142,57 +10252,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=581abbe5-48ac-4cd7-b0fe-b4a9fa90265a&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5762,
-    "uuid": "6a1dfdb9-a73f-4392-96e9-f4f4972a8d80",
-    "address": "7557 Arlington Expressway Unit E305, Jacksonville, FL 32211",
-    "street": "7557 Arlington Expressway Unit E305",
-    "city": "Jacksonville",
-    "rent": "$1,149",
-    "rent_val": 1149,
-    "specs": "2 bd, 1 ba, 1,108 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 1108,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9998b873-a244-4cda-8431-cba9664168ac/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6a1dfdb9-a73f-4392-96e9-f4f4972a8d80",
-    "lat": 30.3295094,
-    "lng": -81.5798272,
-    "title": "Renovated 2 Bed/1 Bath \u2013 Lease Now & Get Up to One Month Free!",
-    "description": "Now is the perfect time to make your move and take advantage of this limited-time special!\r\n\r\nLease today and enjoy up to one month free on select apartment homes.\r\n\r\nWith comfortable living spaces and a community designed to feel like home, this opportunity won\u2019t last long, reach out today before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,149 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,149",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9998b873-a244-4cda-8431-cba9664168ac/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a3afe090-26c4-418c-a07a-af2da179c1a8/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/186f0c3e-c495-40b0-953a-ecfbffa90046/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2cfa49b5-b77e-47cf-8814-fed83cff8b2a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/20634781-ab4e-4ea4-b0c4-7cd3aac53418/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e4301ac7-c058-47e9-928f-f685503fa0ea/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1b346337-750b-4bbb-b4d0-32f95f24ca11/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ca2d017e-a06a-4bb1-b409-9243ec599de6/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fce1ca1d-f7be-43ba-87f0-20173f34afd3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0f6ae87b-7cb2-42c1-8c9d-e1a161c07e04/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9b93f050-5d91-4064-aa75-d707178bcd5e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c1e87d83-7b0e-4691-aaf7-8042bd7b7c24/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f4dea774-e7bd-436f-8711-f383869d49ba/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/48b39c69-6a1a-436c-9930-315a53343290/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4351da36-7d2b-42cf-aa09-ed500ab13422/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/363ebcff-3c91-4718-a0aa-25701dd41778/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cf6aa9ad-e9bb-4f89-8197-fa50ef506dc0/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6a1dfdb9-a73f-4392-96e9-f4f4972a8d80&source=Website",
     "available": "NOW"
   },
   {
@@ -17692,8 +17751,8 @@
     "address": "997 Valencia Isle Dr, Orlando, FL 32825",
     "street": "997 Valencia Isle Dr",
     "city": "Orlando",
-    "rent": "$2,845",
-    "rent_val": 2845,
+    "rent": "$2,608",
+    "rent_val": 2608,
     "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
@@ -19331,51 +19390,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9763a60f-e683-4d15-ac29-09a15e3e297f&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 2232,
-    "uuid": "39f013b2-58e3-4d1e-9f3a-830114a61af3",
-    "address": "610 SW 11th Ln  - Unit C, Gainsville, FL 32601",
-    "street": "610 SW 11th Ln  - Unit C",
-    "city": "Gainesville",
-    "rent": "$1,495",
-    "rent_val": 1495,
-    "specs": "2 bd, 3 ba, 930 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 3.0,
-    "sqft": 930,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1415faf6-f903-4488-b189-4f1b69232f4d/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/39f013b2-58e3-4d1e-9f3a-830114a61af3",
-    "lat": 29.6406985,
-    "lng": -82.3309127,
-    "title": "Fully Renvoated 2 Bedroom Townhome in Tumblin Creek",
-    "description": "Move In READY!\r\nMarketing DescriptionWelcome to your new home in the heart of Gainesville! This beautifully updated 2-bedroom, 2.5-bath apartment offers modern comforts and unbeatable location\u2014just steps from the Innovation District and less than a mile from Depot Park, the Cade Museum, downtown Gainesville, and the University of Florida campus.\r\n\r\nFeatures Include:\r\n\r\nFully equipped kitchen with stainless steel appliances: refrigerator, range, dishwasher, and microwave\r\n\r\nIn-unit washer and dryer\r\n\r\nPrivate balcony with outdoor storage closet\u2014perfect for bikes or extra gear\r\n\r\nOpen living space with natural light\r\n\r\nLive Where It\u2019s All Happening:\r\nEnjoy walkable access to Gainesville\u2019s newest hotspots including the 4th Avenue Food Park, local restaurants, live venues, breweries, and more!\r\n\r\nRental Requirements:\r\n\r\nMinimum credit score: 600\r\n\r\nIncome must be 3x the monthly rent\r\n\r\nNO EVICTIONS\r\n\r\nFees & Costs:\r\n\r\nSecurity Deposit: $1,495\r\n\r\nAdmin Fee: $295 (one-time)\r\n\r\nPet-Friendly: $250 non-refundable pet fee + $25/month pet rent\r\nA/C filter: $15\r\nProperty rental Insurance:$15\r\nYouTube Video URL --\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,495 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,495",
-      "Application Fee: $95",
-      "Security Deposit: $1,495",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/1415faf6-f903-4488-b189-4f1b69232f4d/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a0530a5a-2555-46f8-9405-913450bd91f5/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a897670b-c301-4015-8d59-57489f9e5a95/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cca334e2-883a-46a1-a013-319f44468ee6/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/004a8646-0059-4995-b42f-0b5169b79d47/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/828edc2a-51e0-4686-90aa-a54d211543a1/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e803ea5-093d-40d3-a63a-81c884219a3a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/47d33a4a-28bb-48d6-a826-02694165ea05/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/056a07f5-34ba-4cce-a4bb-c774ae922273/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0b06a68e-b817-4bd1-8857-428e42603411/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fdcbaca2-7647-4dae-9bd5-ca6a3b2b647a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=39f013b2-58e3-4d1e-9f3a-830114a61af3&source=Website",
     "available": "NOW"
   },
   {
