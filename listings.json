@@ -5969,37 +5969,6 @@
     "available": "NOW"
   },
   {
-    "id": 6105,
-    "uuid": "38df859e-5868-435a-90df-825ee8044b4d",
-    "address": "210 W Hyde Park Pl Unit 210-2, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 210-2",
-    "city": "Tampa",
-    "rent": "$2,099",
-    "rent_val": 2099,
-    "specs": "2 bd, 2 ba, 790 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 790,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/38df859e-5868-435a-90df-825ee8044b4d",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | 2-Bedroom Flats (790-1,100 SF), Hyde Park, Tampa",
-    "description": "Spread out in a two-bedroom home at Beach Flats, ranging from 790 to 1,100 square feet in the heart of historic Hyde Park. Custom tile and stainless steel appliances outfit the kitchen, while select units include a wrap-around porch for extra outdoor living space \u2014 a rarity in this walkable pocket of South Tampa. Residents gather at the courtyard fire pit, grill kitchen, and covered bike rack, all inside a smoke-free, gated community minutes from Hyde Park Village and downtown Tampa. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,099 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $2,099",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=38df859e-5868-435a-90df-825ee8044b4d&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6104,
     "uuid": "98f0a06d-d2fe-4266-866a-1b7b48985dd2",
     "address": "5236 Lake Margaret Drive Unit # 236 - 0603, Orlando, FL 32812",
