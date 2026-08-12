@@ -1,5 +1,73 @@
 [
   {
+    "id": 6343,
+    "uuid": "905c4313-86a1-4dc6-a70a-e7f2ce073c48",
+    "address": "6702 Mission Club Blvd # 04-206, Orlando, FL 32821",
+    "street": "6702 Mission Club Blvd # 04-206",
+    "city": "Orlando",
+    "rent": "$1,428 - $1,469",
+    "rent_val": 1428,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/905c4313-86a1-4dc6-a70a-e7f2ce073c48",
+    "lat": 28.3867355,
+    "lng": -81.4723106,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,428 - $1,469 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,428 - $1,469",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=905c4313-86a1-4dc6-a70a-e7f2ce073c48&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6342,
+    "uuid": "fef55043-a093-4504-8826-bf6b77db99e3",
+    "address": "3290 Overstreet East #121, Kissimmee, FL 34747",
+    "street": "3290 Overstreet East #121",
+    "city": "Kissimmee",
+    "rent": "$1,179",
+    "rent_val": 1179,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fef55043-a093-4504-8826-bf6b77db99e3",
+    "lat": 28.346218,
+    "lng": -81.633753,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,179 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,179",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fef55043-a093-4504-8826-bf6b77db99e3&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6341,
     "uuid": "16337770-02b1-48e3-8aa8-644b9f858acf",
     "address": "5856 Auvers Blvd #201, Orlando, FL 32807",
@@ -1517,8 +1585,8 @@
     "address": "3280 Overstreet East #109, Kissimmee, FL 34747",
     "street": "3280 Overstreet East #109",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 360 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -2539,6 +2607,40 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3313bf84-5e71-4f51-bcd7-b0a770e6c18e&source=Website",
     "available": "8/25/26"
+  },
+  {
+    "id": 6270,
+    "uuid": "1a09363a-1a57-447e-acbd-edbd8d0f6d61",
+    "address": "6715 Mission Club Blvd # 02-104, Orlando, FL 32821",
+    "street": "6715 Mission Club Blvd # 02-104",
+    "city": "Orlando",
+    "rent": "$1,832 - $1,885",
+    "rent_val": 1832,
+    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1126,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1a09363a-1a57-447e-acbd-edbd8d0f6d61",
+    "lat": 28.386396,
+    "lng": -81.4726922,
+    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft",
+    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,832 - $1,885 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,832 - $1,885",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1a09363a-1a57-447e-acbd-edbd8d0f6d61&source=Website",
+    "available": "NOW"
   },
   {
     "id": 6269,
@@ -7259,6 +7361,39 @@
     "available": "8/25/26"
   },
   {
+    "id": 6047,
+    "uuid": "521b15c1-9668-4826-9bfa-1643c3a1d819",
+    "address": "6600 Mission Club Blvd # 13-104, Orlando, FL 32821",
+    "street": "6600 Mission Club Blvd # 13-104",
+    "city": "Orlando",
+    "rent": "$1,421 - $1,462",
+    "rent_val": 1421,
+    "specs": "2 bd, 2 ba, 1,082 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1082,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/521b15c1-9668-4826-9bfa-1643c3a1d819",
+    "lat": 28.3886525,
+    "lng": -81.4724034,
+    "title": "Capistrano\u2013 2 Bedroom, 2 Bathroom | 1082 sq.ft.",
+    "description": "Welcome home to the Capistrano, where modern comfort meets everyday convenience! With 1082 sq. ft. of smartly designed living space, this 2-bedroom, 2-bathroom layout is ideal for roommates, small families, or anyone who loves having a little extra room to relax and live comfortably.\r\n\r\nEnjoy an open-concept living and dining area that flows beautifully into a fully equipped kitchen, perfect for cooking, entertaining, or just hanging out. Each bedroom features its own private bathroom, giving everyone their own space and privacy. Plus, with a washer and dryer right in your home, laundry day couldn\u2019t be easier.\r\n\r\nStep outside and take advantage of resort-style community amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,082 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,421 - $1,462 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,421 - $1,462",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=521b15c1-9668-4826-9bfa-1643c3a1d819&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6042,
     "uuid": "39ca720e-604e-41db-9fa9-2902e6ec3925",
     "address": "27 Golf Terrace Dr Unit # 27-309, Winter Springs, FL 32708",
@@ -7620,6 +7755,40 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5be3d007-fc1c-411e-9739-8f3e0e4d40a6&source=Website",
     "available": "10/4/26"
+  },
+  {
+    "id": 6020,
+    "uuid": "18a93586-9816-408c-9863-e10f9b071792",
+    "address": "6662 Mission Club Blvd # 05-303, Orlando, FL 32821",
+    "street": "6662 Mission Club Blvd # 05-303",
+    "city": "Orlando",
+    "rent": "$1,253 - $1,289",
+    "rent_val": 1253,
+    "specs": "1 bd, 1 ba, 644 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 644,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/18a93586-9816-408c-9863-e10f9b071792",
+    "lat": 28.3863699,
+    "lng": -81.4718962,
+    "title": "The Del Rio \u2013 1 Bedroom, 1 Bathroom | 644 sq.ft.",
+    "description": "Find your perfect fit with The Del Rio \u2014 a cozy retreat where comfort meets modern living. With 644 sq. ft. of thoughtfully designed space, this 1-bedroom, 1-bathroom floor plan is ideal for anyone who values simplicity, style, and convenience.\r\n\r\nEnjoy an open-concept living and dining area that flows beautifully into a well-equipped kitchen, creating a welcoming space for relaxing or entertaining. Your spacious primary suite offers generous closet space and a peaceful place to unwind, while the in-home washer and dryer make everyday life effortless.\r\n\r\nJust outside your door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a refreshing swim in the pool, soak in the hot tub, sway in the hammock hangout, or spoil your furry friend at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 644 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,253 - $1,289 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,253 - $1,289",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=18a93586-9816-408c-9863-e10f9b071792&source=Website",
+    "available": "NOW"
   },
   {
     "id": 6018,
@@ -9050,6 +9219,40 @@
     "available": "9/2/26"
   },
   {
+    "id": 5912,
+    "uuid": "ceb5031c-7c88-4f75-a33a-5f02754362b1",
+    "address": "6727 Mission Club Blvd # 01-104, Orlando, FL 32821",
+    "street": "6727 Mission Club Blvd # 01-104",
+    "city": "Orlando",
+    "rent": "$1,796 - $1,848",
+    "rent_val": 1796,
+    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1126,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ceb5031c-7c88-4f75-a33a-5f02754362b1",
+    "lat": 28.3871676,
+    "lng": -81.4730243,
+    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft.",
+    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,796 - $1,848 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,796 - $1,848",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ceb5031c-7c88-4f75-a33a-5f02754362b1&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5910,
     "uuid": "c4088ec1-f57b-4928-856d-80f847946660",
     "address": "17 Parkinsonia Ct Unit # 17-204, Winter Springs, FL 32708",
@@ -9403,44 +9606,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1c9c9e80-e12b-43a1-9842-e22b838f3183&source=Website",
     "available": "8/20/26"
-  },
-  {
-    "id": 5875,
-    "uuid": "457e019d-9a03-4a23-91a3-f68d6a3e46b7",
-    "address": "4001 E Michigan St - Unit 4001, Orlando, FL 32812",
-    "street": "4001 E Michigan St - Unit 4001",
-    "city": "Orlando",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 576 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 576,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d3417a24-a659-4464-9f98-b2cd91144ab2/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/457e019d-9a03-4a23-91a3-f68d6a3e46b7",
-    "lat": 28.5135696,
-    "lng": -81.3348612,
-    "title": "LIMITED SPECIAL: Lease by 8/15 and get half of your first full month RENT FREE!!!",
-    "description": "LIMITED SPECIAL: Lease by 8/15 and get half of your first full month RENT FREE!!!\r\nCharming ground-floor 1-bedroom, 1-bathroom condo (576 sq. ft.) at the gated Crossings at Conway community, 4001 E Michigan St, Orlando, FL 32812 \u2014 minutes from SoDo and Downtown Orlando. Enjoy a private screened-in patio, tranquil oak-shaded grounds, and easy access to I-4, SR-408, and MCO. Community amenities include a swimming pool, tennis courts, and on-site laundry, with Winn-Dixie, LA Fitness, and pharmacies all within walking distance. A competitively priced condo in one of Orlando's most connected neighborhoods \u2014 schedule a tour or apply today!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d3417a24-a659-4464-9f98-b2cd91144ab2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0bbf8e2b-f84b-4ea4-b9c6-5c346d102372/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e64e50c2-61c3-4483-adc6-26df9b17dc32/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/77a1bb6a-d35a-4d93-95b4-5da74116fc22/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a9e9a5ea-8b75-411f-906d-61f5f7b4af41/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e27dd9f9-e52d-427f-a1fa-515ee755377e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ebf1385-e1ab-483e-847d-aff513f4803d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=457e019d-9a03-4a23-91a3-f68d6a3e46b7&source=Website",
-    "available": "NOW"
   },
   {
     "id": 5871,
@@ -9816,6 +9981,72 @@
     "available": "NOW"
   },
   {
+    "id": 5841,
+    "uuid": "28b14d56-cfd0-4dfd-83b1-09e319463736",
+    "address": "6636 Mission Club Blvd # 09-305, Orlando, FL 32821",
+    "street": "6636 Mission Club Blvd # 09-305",
+    "city": "Orlando",
+    "rent": "$1,428 - $1,469",
+    "rent_val": 1428,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/28b14d56-cfd0-4dfd-83b1-09e319463736",
+    "lat": 28.3873148,
+    "lng": -81.4710675,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,428 - $1,469 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,428 - $1,469",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=28b14d56-cfd0-4dfd-83b1-09e319463736&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5840,
+    "uuid": "15183171-9e35-485c-9f2b-7ffa43f3806c",
+    "address": "6715 Mission Club Blvd # 02-205, Orlando, FL 32821",
+    "street": "6715 Mission Club Blvd # 02-205",
+    "city": "Orlando",
+    "rent": "$1,363 - $1,402",
+    "rent_val": 1363,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/15183171-9e35-485c-9f2b-7ffa43f3806c",
+    "lat": 28.386396,
+    "lng": -81.4726922,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,363 - $1,402 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,363 - $1,402",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=15183171-9e35-485c-9f2b-7ffa43f3806c&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5837,
     "uuid": "6515eb44-9555-4143-806d-5c9f8a4cd13f",
     "address": "5200 Lewis Road #21, Sandston, VA 23150",
@@ -9856,8 +10087,8 @@
     "address": "3281 Overstreet East #101, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #101",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 323 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -10165,8 +10396,8 @@
     "address": "3281 Overstreet East #115, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #115",
     "city": "Kissimmee",
-    "rent": "$1,370",
-    "rent_val": 1370,
+    "rent": "$1,179",
+    "rent_val": 1179,
     "specs": "1 bd, 1 ba, 646 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -10235,8 +10466,8 @@
     "address": "3281 Overstreet East #224, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #224",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 323 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -10436,6 +10667,39 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=581abbe5-48ac-4cd7-b0fe-b4a9fa90265a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5768,
+    "uuid": "9155841c-34dd-4430-94e7-f2b152c5f452",
+    "address": "6636 Mission Club Blvd # 09-207, Orlando, FL 32821",
+    "street": "6636 Mission Club Blvd # 09-207",
+    "city": "Orlando",
+    "rent": "$1,428 - $1,469",
+    "rent_val": 1428,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9155841c-34dd-4430-94e7-f2b152c5f452",
+    "lat": 28.3873148,
+    "lng": -81.4710675,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,428 - $1,469 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,428 - $1,469",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9155841c-34dd-4430-94e7-f2b152c5f452&source=Website",
     "available": "NOW"
   },
   {
@@ -10762,41 +11026,6 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0d9d22d1-d907-4fb6-9812-4d95c9e26b9e&source=Website",
     "available": "NOW"
-  },
-  {
-    "id": 5716,
-    "uuid": "64a3c1b2-ee26-49b3-91cb-0cb73e063eb1",
-    "address": "1241 Eagle Branch Lane, Davenport, FL 33896",
-    "street": "1241 Eagle Branch Lane",
-    "city": "Davenport",
-    "rent": "$2,076",
-    "rent_val": 2076,
-    "specs": "3 bd, 2.5 ba, 1,572 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.5,
-    "sqft": 1572,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/64a3c1b2-ee26-49b3-91cb-0cb73e063eb1",
-    "lat": 28.254605,
-    "lng": -81.622516,
-    "title": "The Kennedy - Three Bedroom Townhome Available!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,076 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 8/28/26",
-    "terms": [
-      "Rent: $2,076",
-      "Application Fee: $95",
-      "Security Deposit: $600",
-      "Available 8/28/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/e473d26f-a914-409c-89fb-e4d1acf43095/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=64a3c1b2-ee26-49b3-91cb-0cb73e063eb1&source=Website",
-    "available": "8/28/26"
   },
   {
     "id": 5708,
@@ -11992,6 +12221,39 @@
     "available": "NOW"
   },
   {
+    "id": 5645,
+    "uuid": "9735af28-39b3-45c4-9953-ea6f467c2666",
+    "address": "6649 Mission Club Blvd # 07-108, Orlando, FL 32821",
+    "street": "6649 Mission Club Blvd # 07-108",
+    "city": "Orlando",
+    "rent": "$1,450 - $1,492",
+    "rent_val": 1450,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9735af28-39b3-45c4-9953-ea6f467c2666",
+    "lat": 28.3872324,
+    "lng": -81.4721068,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 - $1,492 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,450 - $1,492",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9735af28-39b3-45c4-9953-ea6f467c2666&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5634,
     "uuid": "2fbc8d71-9e2c-4241-8c81-5e40992fc456",
     "address": "4249 E Michigan St, Orlando, FL 32812",
@@ -12135,6 +12397,40 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a52b6f26-5d2b-4b68-be93-158f15d91add&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5588,
+    "uuid": "31533270-760f-434f-ad48-3e779a2c2577",
+    "address": "6727 Mission Club Blvd # 01-109, Orlando, FL 32821",
+    "street": "6727 Mission Club Blvd # 01-109",
+    "city": "Orlando",
+    "rent": "$2,146 - $2,208",
+    "rent_val": 2146,
+    "specs": "3 bd, 2 ba, 1,251 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1251,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/31533270-760f-434f-ad48-3e779a2c2577",
+    "lat": 28.3871676,
+    "lng": -81.4730243,
+    "title": "La Ventana \u2013 Spacious 3 Bedroom, 2 Bathroom | 1,251 sq.ft.",
+    "description": "Experience modern living and thoughtful design in The La Ventana \u2014 a spacious 3-bedroom, 2-bathroom home with 1,251 sq.ft. of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain.\r\n\r\nThe open-concept living and dining area flows seamlessly into a fully equipped kitchen, creating a bright and inviting space for gatherings or quiet evenings at home. The primary suite offers a private bathroom, while two additional bedrooms share a second full bath \u2014 ideal for guests, home offices, or hobby spaces. Plus, the in-unit washer and dryer makes everyday living effortless.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,251 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,146 - $2,208 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $2,146 - $2,208",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=31533270-760f-434f-ad48-3e779a2c2577&source=Website",
     "available": "NOW"
   },
   {
@@ -12908,6 +13204,39 @@
     "available": "NOW"
   },
   {
+    "id": 5446,
+    "uuid": "eef88cc9-9da8-4985-a92e-de6c3dae6675",
+    "address": "6624 Mission Club Blvd # 10-302, Orlando, FL 32821",
+    "street": "6624 Mission Club Blvd # 10-302",
+    "city": "Orlando",
+    "rent": "$1,296 - $1,333",
+    "rent_val": 1296,
+    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 688,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/eef88cc9-9da8-4985-a92e-de6c3dae6675",
+    "lat": 28.3878162,
+    "lng": -81.4714856,
+    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
+    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,296 - $1,333 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,296 - $1,333",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=eef88cc9-9da8-4985-a92e-de6c3dae6675&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5438,
     "uuid": "a624a6f7-8520-46bd-8bda-d57b9dde698d",
     "address": "2401 Arlington Blvd #2, Charlottesville, VA 22903",
@@ -12988,6 +13317,40 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0b8ace3b-c569-4314-9442-3fb5a9717b84&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5403,
+    "uuid": "252a1ef3-ccb2-47e3-b71e-fd53924f62af",
+    "address": "6624 Mission Club Blvd # 10-310, Orlando, FL 32821",
+    "street": "6624 Mission Club Blvd # 10-310",
+    "city": "Orlando",
+    "rent": "$1,295 - $1,332",
+    "rent_val": 1295,
+    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 688,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/252a1ef3-ccb2-47e3-b71e-fd53924f62af",
+    "lat": 28.3878162,
+    "lng": -81.4714856,
+    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
+    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 - $1,332 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
+    "terms": [
+      "Rent: $1,295 - $1,332",
+      "Application Fee: $79",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=252a1ef3-ccb2-47e3-b71e-fd53924f62af&source=Website",
     "available": "NOW"
   },
   {
@@ -13174,6 +13537,39 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=16e416b9-5774-46b9-98dd-7d9beb1e29c6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 5278,
+    "uuid": "1109b9d6-17d9-4bef-84c6-61b0f86fe9b4",
+    "address": "6663 Mission Club Blvd # 06-203, Orlando, FL 32821",
+    "street": "6663 Mission Club Blvd # 06-203",
+    "city": "Orlando",
+    "rent": "$1,296 - $1,333",
+    "rent_val": 1296,
+    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 688,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1109b9d6-17d9-4bef-84c6-61b0f86fe9b4",
+    "lat": 28.386782,
+    "lng": -81.472261,
+    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
+    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,296 - $1,333 \n\n\n\n\n Application Fee: $79",
+    "terms": [
+      "Rent: $1,296 - $1,333",
+      "Application Fee: $79"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1109b9d6-17d9-4bef-84c6-61b0f86fe9b4&source=Website",
     "available": "NOW"
   },
   {
@@ -14142,8 +14538,8 @@
     "address": "3281 Overstreet East #102, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #102",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 323 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -14316,6 +14712,40 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=038f00d0-540d-481b-86ce-9e62bbffe555&source=Website",
     "available": "9/15/26"
+  },
+  {
+    "id": 4823,
+    "uuid": "62090509-1f8a-493c-ae03-2bcf49bb6918",
+    "address": "5924 Auvers Blvd #307, Orlando, FL 32807",
+    "street": "5924 Auvers Blvd #307",
+    "city": "Orlando",
+    "rent": "$1,334 - $1,445",
+    "rent_val": 1334,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/62090509-1f8a-493c-ae03-2bcf49bb6918",
+    "lat": 28.5733891,
+    "lng": -81.3071154,
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,334 - $1,445 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563",
+    "terms": [
+      "Rent: $1,334 - $1,445",
+      "Application Fee: $95",
+      "Security Deposit: $1,563"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=62090509-1f8a-493c-ae03-2bcf49bb6918&source=Website",
+    "available": "NOW"
   },
   {
     "id": 4822,
@@ -14681,6 +15111,47 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec2bd829-ae0a-42c0-8b54-c6865428f9d7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4694,
+    "uuid": "b259bf95-3b8c-4bef-8288-79fba1c27672",
+    "address": "4397 E Michigan St, Orlando, FL 32812",
+    "street": "4397 E Michigan St",
+    "city": "Orlando",
+    "rent": "$1,095",
+    "rent_val": 1095,
+    "specs": "1 bd, 1 ba, 576 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 576,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ddb415d-189f-4811-babc-85fb86acbeae/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b259bf95-3b8c-4bef-8288-79fba1c27672",
+    "lat": 28.5136637,
+    "lng": -81.331226,
+    "title": "1-Bedroom Gated Condo in Orlando's SoDo District | Crossings at Conway",
+    "description": "Discover effortless living in this gated 1-bedroom, 1-bathroom condo (576 sq. ft.) located at the highly sought-after Crossings at Conway (4001 E Michigan St, Orlando, FL 32812), offering immediate access to the vibrant SoDo district and Downtown Orlando.\r\n\r\nPrime Orlando Location & Lifestyle\r\nPerfect for young professionals, frequent travelers, or anyone seeking a central Orlando location, this unit provides the ideal blend of tranquility and city convenience. Nestled under mature oak trees in a quiet community, you are just minutes away from major employment hubs, dining, and everyday essentials.\r\n\r\nWhy Live at Crossings at Conway?\r\n\r\nUnbeatable Location: Located in the desirable 32812 zip code, offering rapid access to Downtown Orlando, the Orlando International Airport (MCO), and major highways (I-4, SR-408, SR-417).\r\n\r\nSoDo & Hourglass Districts: Enjoy close proximity to top-tier dining, trendy coffee shops, breweries, and boutique shopping in Orlando's rapidly growing local districts.\r\n\r\nCommunity Amenities: Secure gated community access, beautifully maintained grounds, a sparkling swimming pool, tennis courts, and on-site laundry facilities.\r\n\r\nEveryday Convenience: Highly walkable to local groceries (Winn-Dixie), fitness centers (LA Fitness), and pharmacies.\r\n\r\nUnit Features & Specifications\r\nSpace: 576 SF of highly functional, airy living space.\r\n\r\nLayout: 1 Bed / 1 Bath floorplan with ample natural light.\r\n\r\nOutdoor Living: Enjoy access to a private, screened-in patio\u2014perfect for relaxing on warm Florida evenings.\r\n\r\nReady to Call Crossings at Conway Home?\r\nDon't miss out on this competitively priced 1-bedroom condo in one of Orlando's most connected neighborhoods.\r\nSchedule your private tour or submit your application today!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,095",
+      "Application Fee: $95",
+      "Security Deposit: $1,095",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6ddb415d-189f-4811-babc-85fb86acbeae/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4672a4f0-5688-462f-84a8-6e5e45955170/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7c4bfe28-82cd-4301-a12a-d149fa027458/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/60f62655-8736-4577-ac48-c4cb1371667a/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e7fafbd8-2bc7-4aa3-9db2-a034eabb0be8/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0913a76e-19c7-486c-a2fa-3b1ecb940696/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e3298271-6a41-4b9a-9494-32a53cce5101/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b259bf95-3b8c-4bef-8288-79fba1c27672&source=Website",
     "available": "NOW"
   },
   {
@@ -16386,6 +16857,41 @@
     "available": "9/30/26"
   },
   {
+    "id": 3693,
+    "uuid": "1662d61a-f7af-46a9-84df-7f0294aaaa24",
+    "address": "3281 Overstreet East #120, Kissimmee, FL 34747",
+    "street": "3281 Overstreet East #120",
+    "city": "Kissimmee",
+    "rent": "$1,179",
+    "rent_val": 1179,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1662d61a-f7af-46a9-84df-7f0294aaaa24",
+    "lat": 28.345794,
+    "lng": -81.633093,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,179 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,179",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1662d61a-f7af-46a9-84df-7f0294aaaa24&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 3658,
     "uuid": "176b3f55-1581-41f1-a159-f91ef8965bf7",
     "address": "3271 Overstreet East #113, Kissimmee, FL 34747",
@@ -16950,8 +17456,8 @@
     "address": "3281 Overstreet East #202, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #202",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 323 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -17249,8 +17755,8 @@
     "address": "3281 Overstreet East #122, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #122",
     "city": "Kissimmee",
-    "rent": "$1,050",
-    "rent_val": 1050,
+    "rent": "$899",
+    "rent_val": 899,
     "specs": "Studio, 1 ba, 323 Sq. Ft.",
     "beds": 0,
     "baths": 1.0,
@@ -17377,6 +17883,41 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=831cce8c-0e24-4fc5-bf31-7ac04e08282e&source=Website",
     "available": "8/28/26"
+  },
+  {
+    "id": 3468,
+    "uuid": "82d44e1b-fdd2-4d21-b3ac-4cb6e17589ba",
+    "address": "3290 Overstreet East #120, Kissimmee, FL 34747",
+    "street": "3290 Overstreet East #120",
+    "city": "Kissimmee",
+    "rent": "$1,179",
+    "rent_val": 1179,
+    "specs": "1 bd, 1 ba, 646 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 646,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/82d44e1b-fdd2-4d21-b3ac-4cb6e17589ba",
+    "lat": 28.346181,
+    "lng": -81.633753,
+    "title": "Resort Style One Bedroom - 2 MONTH'S FREE ON ALL ONE BEDROOMS!",
+    "description": "Nestled in the heart of Kissimmee, Champions Village offers the ideal place to call home. Enjoy the convenience of being just steps away from supermarkets, shops, restaurants, and more, with easy access to I-4 and Disney for effortless commuting.\r\n\r\nOur newly remodeled units feature modern upgrades, including stainless-steel appliances, stylish light fixtures, wood and tile flooring, plush new carpeting, granite countertops, spacious closets, linen closets, large windows, wireless and cable-ready connections.\r\n\r\nStep outside to beautifully landscaped walkways, three sparkling swimming pools, a recreational area, on-site laundry facilities, a fully equipped fitness center, and cozy fire pits. Plus, we\u2019re a pet-friendly community\u2014restrictions may apply.\r\n\r\nWest Irlo Bronson Memorial Highway in Kissimmee, Florida, is a vibrant corridor offering a variety of attractions for visitors of all ages. Here are some notable destinations along or near this area:\r\n\r\nOld Town, Fun Spot America, Gatorland, Medieval Times Dinner & Tournament, Capone's Dinner & Show, Congo River Golf, Dare 2 Escape, Kissimmee Go-Karts, and so much MORE!\r\n\r\nDiscover affordable luxury and unbeatable value at Champions Village. Schedule a tour today!\r\n\r\nSelect 1-bedroom units feature walk-in closets, while others offer full-size closets. Please call for more information.\r\n\r\nE: ChampionsVillage@atriummanagement.com\r\nP: 407-329-3555\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,179 \n\n\n\n\n Application Fee: $75 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,179",
+      "Application Fee: $75",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Small dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=82d44e1b-fdd2-4d21-b3ac-4cb6e17589ba&source=Website",
+    "available": "NOW"
   },
   {
     "id": 3450,
@@ -18876,8 +19417,8 @@
     "address": "3281 Overstreet East #218, Kissimmee, FL 34747",
     "street": "3281 Overstreet East #218",
     "city": "Kissimmee",
-    "rent": "$1,370",
-    "rent_val": 1370,
+    "rent": "$1,179",
+    "rent_val": 1179,
     "specs": "1 bd, 1 ba, 646 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -22394,55 +22935,6 @@
     "available": "NOW"
   },
   {
-    "id": 842,
-    "uuid": "0653fe66-4cd8-4383-a045-4c02a0bdc501",
-    "address": "920 W. New York Avenue #B202, Deland, FL 32720",
-    "street": "920 W. New York Avenue #B202",
-    "city": "DeLand",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 575 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 575,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6750d33f-7661-48cc-9215-78a1613a9b38/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0653fe66-4cd8-4383-a045-4c02a0bdc501",
-    "lat": 29.027609,
-    "lng": -81.320806,
-    "title": "Modern Living in Historic Downtown DeLand: Renovated 1-Bedroom at Carriage House",
-    "description": "Discover historic charm and modern convenience at Carriage House Apartments, 916 W. New York Avenue \u2014 a beautifully renovated 1-bedroom, 1-bathroom apartment in the heart of Downtown DeLand.\r\n\r\nThis updated unit features a fresh, contemporary interior, on-site community laundry, and optional 1 Gigabit high-speed internet for $60/month. You're just steps from Main Street's historic charm, diverse dining, the DeLand Mural and Sculpture Walks, the Athens Theatre, and nearby Blue Spring and De Leon Springs State Parks.\r\n\r\nPlease note: some photos are virtually staged to showcase the space's potential.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). This property is professionally managed by Atrium Management.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$40 Water Reimbursement\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6750d33f-7661-48cc-9215-78a1613a9b38/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1a2314b8-b2ea-4c3d-9778-6972eefb7236/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/68f1a8b7-b3f0-4a11-bec6-a9c1707d62cf/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f21fe9ec-fe2c-4517-ad98-c42e28552893/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e6a66021-d3c1-4d04-9a75-98eb82078b3e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/aa83c1bd-1d7c-4112-9250-3bc974d3022b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d0212b4c-5537-4907-99f5-80a9797a2ee2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/82ff287d-c31c-4eaf-a774-2fc7b8a6ee51/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/068fcb6a-7c90-45b4-9a36-13dee2821341/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/02f4b5ce-2e76-40f4-a2a7-8b1335bffd15/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b508cba1-70c4-43b4-bb49-831bc1fda7f9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5f221fb9-8326-44de-8039-e860d30f1708/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03a873cb-284a-4042-a5e7-55cc9ea1e37e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/69c6baec-b6c4-42ae-a44f-f235fb70bfdd/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/43615d88-d342-4eed-9c92-329e5df1fb4a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0653fe66-4cd8-4383-a045-4c02a0bdc501&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 812,
     "uuid": "511978e2-2546-49fd-a4bf-4a53411a325a",
     "address": "200 Agnes Court #14, Orlando, FL 32801",
@@ -22588,6 +23080,55 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fee9fbbc-7718-44b8-a171-34349dba8650&source=Website",
     "available": "9/10/26"
+  },
+  {
+    "id": 726,
+    "uuid": "1cae0964-f881-4940-8476-cea58253c09c",
+    "address": "920 W. New York Avenue #B102, Deland, FL 32720",
+    "street": "920 W. New York Avenue #B102",
+    "city": "DeLand",
+    "rent": "$1,095",
+    "rent_val": 1095,
+    "specs": "1 bd, 1 ba, 575 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 575,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6750d33f-7661-48cc-9215-78a1613a9b38/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1cae0964-f881-4940-8476-cea58253c09c",
+    "lat": 29.0275917,
+    "lng": -81.3214181,
+    "title": "Modern Living in Historic Downtown DeLand: Renovated 1-Bedroom at Carriage House",
+    "description": "Discover historic charm and modern convenience at Carriage House Apartments, 916 W. New York Avenue \u2014 a beautifully renovated 1-bedroom, 1-bathroom apartment in the heart of Downtown DeLand.\r\n\r\nThis updated unit features a fresh, contemporary interior, on-site community laundry, and optional 1 Gigabit high-speed internet for $60/month. You're just steps from Main Street's historic charm, diverse dining, the DeLand Mural and Sculpture Walks, the Athens Theatre, and nearby Blue Spring and De Leon Springs State Parks.\r\n\r\nPlease note: some photos are virtually staged to showcase the space's potential.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). This property is professionally managed by Atrium Management.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$40 Water Reimbursement\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,095",
+      "Application Fee: $95",
+      "Security Deposit: $1,095",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6750d33f-7661-48cc-9215-78a1613a9b38/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1a2314b8-b2ea-4c3d-9778-6972eefb7236/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/68f1a8b7-b3f0-4a11-bec6-a9c1707d62cf/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f21fe9ec-fe2c-4517-ad98-c42e28552893/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e6a66021-d3c1-4d04-9a75-98eb82078b3e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/aa83c1bd-1d7c-4112-9250-3bc974d3022b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d0212b4c-5537-4907-99f5-80a9797a2ee2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/82ff287d-c31c-4eaf-a774-2fc7b8a6ee51/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/068fcb6a-7c90-45b4-9a36-13dee2821341/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/02f4b5ce-2e76-40f4-a2a7-8b1335bffd15/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b508cba1-70c4-43b4-bb49-831bc1fda7f9/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5f221fb9-8326-44de-8039-e860d30f1708/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/03a873cb-284a-4042-a5e7-55cc9ea1e37e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/69c6baec-b6c4-42ae-a44f-f235fb70bfdd/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43615d88-d342-4eed-9c92-329e5df1fb4a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1cae0964-f881-4940-8476-cea58253c09c&source=Website",
+    "available": "NOW"
   },
   {
     "id": 720,
