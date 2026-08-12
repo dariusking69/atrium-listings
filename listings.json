@@ -17078,6 +17078,41 @@
     "available": "10/10/26"
   },
   {
+    "id": 3633,
+    "uuid": "9e22597f-ca53-490d-a270-9b930d3e4f25",
+    "address": "1520 Neo Landings Loop, Unit 210, Kissimmee, FL 34744",
+    "street": "1520 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,020",
+    "rent_val": 2020,
+    "specs": "2 bd, 2 ba, 1,093 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1093,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/95f8c35b-e019-40bb-865c-a56007a287f2/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9e22597f-ca53-490d-a270-9b930d3e4f25",
+    "lat": 28.3056952,
+    "lng": -81.3869162,
+    "title": "Aston Square- Cozy 2 Bedroom 2 Bathroom Luxury Apartment Home",
+    "description": "Luxury 2-Bedroom, 2-Bathroom Apartment Home in Kissimmee, FL\r\n\r\nDiscover modern comfort and sophisticated living in our spacious 2-bedroom, 2-bathroom apartment home in the heart of Kissimmee, FL. Designed with elegance and functionality in mind, this stunning residence offers a thoughtfully designed split floorplan for ultimate privacy and convenience.\r\n\r\nThe guest bedroom features a walk-in closet and an en-suite bathroom with an oversized soaking tub, while the primary bedroom boasts a spacious walk-in custom closet and a luxurious trackless shower. Throughout the apartment, you'll find premium vinyl plank flooring, top-of-the-line stainless steel appliances, and keyless entry for a seamless living experience.\r\n\r\nResort-style amenities elevate your lifestyle, including a co-working space, package lockers, electric vehicle charging stations, and a spacious sun deck perfect for relaxation. Stay comfortable year-round with interactive thermostats, unwind in the soaking tubs, or step onto your screened-in patio to enjoy the fresh air.\r\n\r\nFor those who prioritize wellness and productivity, our 24/7 fitness center and business lounge with private work pods provide the perfect balance of activity and focus. Additional conveniences such as oversized storage units ensure that you have ample space for all your belongings.\r\n\r\nExperience luxury living at its finest in this exceptional 2-bedroom, 2-bathroom apartment home. Contact us today to schedule a tour and make it yours!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $2,020",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/95f8c35b-e019-40bb-865c-a56007a287f2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9e22597f-ca53-490d-a270-9b930d3e4f25&source=Website",
+    "available": "10/10/26"
+  },
+  {
     "id": 3627,
     "uuid": "f9c6d4c1-19d1-4064-9b29-50392dca51b4",
     "address": "1710 E Broad St Apt 309, Richmond, VA 23223-7286",
