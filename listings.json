@@ -1,5 +1,85 @@
 [
   {
+    "id": 6351,
+    "uuid": "e5dbbe75-9d5c-4866-b285-33373fd0eeff",
+    "address": "736 Suncrest Loop # 212, Casselberry, FL 32707",
+    "street": "736 Suncrest Loop # 212",
+    "city": "Casselberry",
+    "rent": "$1,483",
+    "rent_val": 1483,
+    "specs": "1 bd, 1 ba, 742 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 742,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e5dbbe75-9d5c-4866-b285-33373fd0eeff",
+    "lat": 28.6941045,
+    "lng": -81.3201585,
+    "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
+    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,483 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/20/26",
+    "terms": [
+      "Rent: $1,483",
+      "Application Fee: $79",
+      "Available 8/20/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/502c27d8-e84b-4af4-8102-e14ef4173b01/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/11a88d7a-22a0-43c7-aa13-501c55e6bd25/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cd77703f-2405-49ff-b8c7-af036d500b1c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05f7bf86-7825-44d0-add3-6e11a6a61b2d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9fc4ca64-25e5-4bbb-b234-ca00a114631f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ef20fb85-cc4f-4d53-b4cf-9ea073b2255e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4e7e342e-f180-4fa6-b630-b7649e66ad76/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/31d78c17-a2e2-4c12-949c-9877644079af/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4519efb8-901b-4b9c-8117-2329071760f8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b6e1b81b-e1db-433c-9a65-21a17a52de4d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5517231e-ec4a-4700-b630-c5da89b46098/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/723fe517-0a99-4cdc-a43e-c2b1028f66ce/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/17199045-6158-4c80-8022-200d7b20e46c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8e4a4d94-77d7-41f2-8e46-571f79573157/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d96469fc-77ef-421f-9314-ff3a127b2fb5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e5dbbe75-9d5c-4866-b285-33373fd0eeff&source=Website",
+    "available": "8/20/26"
+  },
+  {
+    "id": 6350,
+    "uuid": "aee01b67-49c9-4596-bbfc-6becb8143eee",
+    "address": "4121 Southway Ln Apt 54, Triangle, VA 22172-1831",
+    "street": "4121 Southway Ln Apt 54",
+    "city": "Triangle",
+    "rent": "$1,209",
+    "rent_val": 1209,
+    "specs": "1 bd, 1 ba, 468 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 468,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/09243aea-2fd1-4e06-9470-fe0a820b9c43/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aee01b67-49c9-4596-bbfc-6becb8143eee",
+    "lat": 38.5489221,
+    "lng": -77.3361336,
+    "title": "Amazing Location!",
+    "description": "Take advantage of convenience while living at Southampton, shopping and recreation right around the corner! .06 miles from the main gate Quantico .07 miles from I-95 2.2 miles from Locust Shade Park 7.7 miles from Stonebridge at Potomac Town Center 9.0 mile from Potomac Mills Mall. Additional Fees: Pet Rent: $50 per pet per month, Non-refundable pet fee: $250 per pet. Water, Parking, and Trash included.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,209 \n\n\n\n Admin Fee: $150 \n\n Application Fee: $50 \n\n\n\n Available 9/1/26",
+    "terms": [
+      "Rent: $1,209",
+      "Admin Fee: $150",
+      "Application Fee: $50",
+      "Available 9/1/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/09243aea-2fd1-4e06-9470-fe0a820b9c43/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aee01b67-49c9-4596-bbfc-6becb8143eee&source=Website",
+    "available": "9/1/26"
+  },
+  {
     "id": 6349,
     "uuid": "97404bae-9871-4f17-b8cf-e0e551bfe679",
     "address": "5426 Lake Margaret Drive Unit # 426 - 1114, Orlando, FL 32812",
@@ -2490,8 +2570,8 @@
     "address": "5236 Lake Margaret Drive Unit # 236 - 0610, Orlando, FL 32812",
     "street": "5236 Lake Margaret Drive Unit # 236 - 0610",
     "city": "Orlando",
-    "rent": "$1,410",
-    "rent_val": 1410,
+    "rent": "$1,310",
+    "rent_val": 1310,
     "specs": "1 bd, 1 ba, 780 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -2501,9 +2581,9 @@
     "lat": 28.5047079,
     "lng": -81.3177041,
     "title": "780 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,310 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/10/26",
     "terms": [
-      "Rent: $1,410",
+      "Rent: $1,310",
       "Application Fee: $99",
       "Available 9/10/26"
     ],
@@ -3017,8 +3097,8 @@
     "address": "5260 Lake Margaret Drive Unit # 260 - 0101, Orlando, FL 32812",
     "street": "5260 Lake Margaret Drive Unit # 260 - 0101",
     "city": "Orlando",
-    "rent": "$1,513",
-    "rent_val": 1513,
+    "rent": "$1,413",
+    "rent_val": 1413,
     "specs": "1 bd, 1 ba, 780 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -3028,9 +3108,9 @@
     "lat": 28.505284,
     "lng": -81.3168617,
     "title": "780 sq ft Woodhaven Renovated",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,513 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/19/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,413 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/19/26",
     "terms": [
-      "Rent: $1,513",
+      "Rent: $1,413",
       "Application Fee: $99",
       "Available 10/19/26"
     ],
@@ -4746,9 +4826,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,724 \n\n\n\n\n\n\n\n Available Now",
+    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Marina Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,724",
+      "Rent: $1,599",
       "Available Now"
     ],
     "pets": [],
@@ -5147,9 +5227,9 @@
     "lat": 27.8909617,
     "lng": -82.5270743,
     "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,654 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,654",
+      "Rent: $1,499",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -5760,9 +5840,9 @@
     "lat": 27.8664817,
     "lng": -82.52327,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,500",
+      "Rent: $1,299",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -5853,9 +5933,9 @@
     "lat": 27.8666607,
     "lng": -82.5232341,
     "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,540 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,540",
+      "Rent: $1,299",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -5977,9 +6057,9 @@
     "lat": 27.9421021,
     "lng": -82.4852802,
     "title": "Case Residences | 2-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,999 - $2,065 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,849 - $1,915 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,999 - $2,065",
+      "Rent: $1,849 - $1,915",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -6008,9 +6088,9 @@
     "lat": 27.9421021,
     "lng": -82.4852802,
     "title": "Case Residences | 2-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,999 - $2,065 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
+    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,849 - $1,915 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
-      "Rent: $1,999 - $2,065",
+      "Rent: $1,849 - $1,915",
       "Application Fee: $95",
       "Available Now"
     ],
@@ -6183,8 +6263,8 @@
     "address": "5236 Lake Margaret Drive Unit # 236 - 0603, Orlando, FL 32812",
     "street": "5236 Lake Margaret Drive Unit # 236 - 0603",
     "city": "Orlando",
-    "rent": "$1,410",
-    "rent_val": 1410,
+    "rent": "$1,310",
+    "rent_val": 1310,
     "specs": "1 bd, 1 ba, 780 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -6194,9 +6274,9 @@
     "lat": 28.5047079,
     "lng": -81.3177041,
     "title": "780 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,310 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
     "terms": [
-      "Rent: $1,410",
+      "Rent: $1,310",
       "Application Fee: $99",
       "Available 11/8/26"
     ],
@@ -7070,7 +7150,7 @@
     "lat": 28.4985185,
     "lng": -81.2352311,
     "title": "Now Available for Rent \u2013 Beautiful 2 Bedroom, 2.5 Bathroom Townhome in Orlando!",
-    "description": "Welcome home to this spacious and inviting 2-bedroom, 2.5-bath townhome in the heart of Orlando! Designed for comfort and convenience, this well-maintained home features an open-concept living and dining area, a functional kitchen with ample cabinet and counter space, and generously sized bedrooms with plenty of natural light.\r\n\r\nThe primary suite offers a private en-suite bathroom and ample closet space, while the second bedroom and full bath provide the perfect setup for guests, family, or a home office. Enjoy the ease of low-maintenance living with a private patio, in-home laundry, and dedicated parking.\r\n\r\nConveniently located near major highways, shopping, dining, entertainment, and Orlando's world-famous attractions, this townhome offers the perfect balance of comfort and accessibility.\r\n\r\nProperty Highlights:\r\n\r\n2 Spacious Bedrooms\r\n2 Full Bathrooms\r\nOpen Floor Plan\r\nBright Kitchen with Plenty of Storage\r\nPrivate Patio\r\nIn-Home Laundry\r\nDedicated Parking\r\nPrime Orlando Location\r\nAvailable for Immediate Move-In\r\n\r\nAdditional monthly charges - $15.50 renter's insurance, $15.00 monthly filter program, $60.00 internet \r\n\r\nDon't miss this opportunity to make this charming townhome your next home. Schedule your tour today\u2014this one won't last long!\r\n\r\nPlease call Atrium Management 407-585-2721 for more information or to schedule a tour!!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,825 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,825 \n\n\n Available Now",
+    "description": "Welcome home to this spacious and inviting 2-bedroom, 2.5-bath townhome in the heart of Orlando! Designed for comfort and convenience, this well-maintained home features an open-concept living and dining area, a functional kitchen with ample cabinet and counter space, and generously sized bedrooms with plenty of natural light.\r\n\r\nThe primary suite offers a private en-suite bathroom and ample closet space, while the second bedroom and full bath provide the perfect setup for guests, family, or a home office. Enjoy the ease of low-maintenance living with a private patio, in-home laundry, and dedicated parking.\r\n\r\nConveniently located near major highways, shopping, dining, entertainment, and Orlando's world-famous attractions, this townhome offers the perfect balance of comfort and accessibility.\r\n\r\nProperty Highlights:\r\n\r\n2 Spacious Bedrooms\r\n2 Full Bathrooms\r\nOpen Floor Plan\r\nBright Kitchen with Plenty of Storage\r\nPrivate Patio\r\nIn-Home Laundry\r\nDedicated Parking\r\nPrime Orlando Location\r\nAvailable for Immediate Move-In\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets allowed, 2 pet maximum.($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). This property is professionally managed by Atrium Management. AVAILABLE NOW!!!\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,825 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,825 \n\n\n Available Now",
     "terms": [
       "Rent: $1,825",
       "Application Fee: $95",
@@ -7166,12 +7246,12 @@
     "lat": 28.5643942,
     "lng": -81.586314,
     "title": "New Apartment Living in the Heart of Downtown Winter Garden, FL! Studio Unit Available!",
-    "description": "LIMITED SPECIAL: Lease by 8/15 and get half of your first full month RENT FREE!!!\r\n\r\nLocated at 109 S. Boyd Street, Tremaine Boyd is one block south of Plant Street, the West Orange Trail, and everything Downtown Winter Garden has to offer.\r\n\r\nThe one bedroom has stainless steel energy efficient appliances, washer and dryer, luxury vinyl plank flooring and spacious living area. The unit overlooks Boyd Street with large windows. These new finely-crafted apartments embrace the best of both worlds - spacious living quarters and urban-style amenities with the quaint, small town charm of historic downtown Winter Garden just outside of Orlando, Florida. Conveniently located above shops and restaurants and just minutes from Museums, the Plant Street retail district, Garden Theater, and more. Pet Friendly! Professionally managed by Atrium Management Company, please request a showing right from our website Atriummanagement.com\r\n\r\nWinter Garden, Florida is conveniently located in the center of the state, only 25 minutes from Orlando, Florida. That means we're just a half of an hour drive from the Orlando International Airport, Walt Disney World, and other world famous attractions.\r\n\r\nWith that said, Winter Garden has quite a bit to offer, making it one of Central Florida's fastest growing communities. Popular restaurants, churches, museums, and retail shops can be found within easy walking distance of Tremaine Boyd.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\nAdditional Monthly Charges include:\r\n$15 AC Filter Delivery\r\n$15.50 Renters Insurance Fee\r\n$60 Internet\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,745 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,745 \n\n\n Available Now",
+    "description": "LIMITED SPECIAL: Lease by 8/15 and get half of your first full month RENT FREE!!!\r\n\r\nLocated at 109 S. Boyd Street, Tremaine Boyd is one block south of Plant Street, the West Orange Trail, and everything Downtown Winter Garden has to offer.\r\n\r\nThe one bedroom has stainless steel energy efficient appliances, washer and dryer, luxury vinyl plank flooring and spacious living area. The unit overlooks Boyd Street with large windows. These new finely-crafted apartments embrace the best of both worlds - spacious living quarters and urban-style amenities with the quaint, small town charm of historic downtown Winter Garden just outside of Orlando, Florida. Conveniently located above shops and restaurants and just minutes from Museums, the Plant Street retail district, Garden Theater, and more. Pet Friendly! Professionally managed by Atrium Management Company, please request a showing right from our website Atriummanagement.com\r\n\r\nWinter Garden, Florida is conveniently located in the center of the state, only 25 minutes from Orlando, Florida. That means we're just a half of an hour drive from the Orlando International Airport, Walt Disney World, and other world famous attractions.\r\n\r\nWith that said, Winter Garden has quite a bit to offer, making it one of Central Florida's fastest growing communities. Popular restaurants, churches, museums, and retail shops can be found within easy walking distance of Tremaine Boyd.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\nAdditional Monthly Charges include:\r\n$15 AC Filter Delivery\r\n$15.50 Renters Insurance Fee\r\n$60 Internet\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,745 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,745 \n\n\n Available 9/7/26",
     "terms": [
       "Rent: $1,745",
       "Application Fee: $95",
       "Security Deposit: $1,745",
-      "Available Now"
+      "Available 9/7/26"
     ],
     "pets": [
       "Cats allowed",
@@ -7182,7 +7262,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=20d1c7cb-0c29-45bb-b09a-6ea1a6690b21&source=Website",
-    "available": "NOW"
+    "available": "9/7/26"
   },
   {
     "id": 6049,
@@ -9894,7 +9974,7 @@
     "lat": 28.3390792,
     "lng": -81.5357005,
     "title": "Prime Kissimmee Condo Minutes from Disney & Attractions",
-    "description": "Discover comfort and convenience at 3028 Parkway Blvd #108, located in a highly desirable Kissimmee community just minutes from Disney, Celebration, shopping, dining, and major attractions. This well-situated residence offers the perfect blend of location, lifestyle, and value.\r\n\r\nThe home features a functional and open layout designed for everyday living, with a spacious living area, comfortable bedrooms, and a well-appointed kitchen space ideal for meal prep and entertaining. Natural light flows throughout, creating a bright and inviting atmosphere.\r\n\r\nEnjoy living in a community that offers resort-style amenities and beautifully maintained grounds, providing a peaceful retreat while still being close to Orlando\u2019s world-famous entertainment, major highways, and employment hubs.\r\n\r\nPrime Location Highlights:\r\n\r\nMinutes from Walt Disney World & Celebration\r\nClose to shopping, dining, and entertainment\r\nEasy access to I-4, US-192, and Osceola Parkway\r\nShort-term commute to Orlando-area attractions and employers\r\n\r\nPerfect for primary residence, investment opportunity, or vacation-style living, this unit offers exceptional value in one of Central Florida\u2019s most in-demand areas.\r\n\r\n\r\nCall 407-585-2721 today to schedule your private showing!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,450 \n\n\n Available Now",
+    "description": "Discover comfort and convenience at 3028 Parkway Blvd #108, located in a highly desirable Kissimmee community just minutes from Disney, Celebration, shopping, dining, and major attractions. This well-situated residence offers the perfect blend of location, lifestyle, and value.\r\n\r\nThe home features a functional and open layout designed for everyday living, with a spacious living area, comfortable bedrooms, and a well-appointed kitchen space ideal for meal prep and entertaining. Natural light flows throughout, creating a bright and inviting atmosphere.\r\n\r\nEnjoy living in a community that offers resort-style amenities and beautifully maintained grounds, providing a peaceful retreat while still being close to Orlando\u2019s world-famous entertainment, major highways, and employment hubs.\r\n\r\nPrime Location Highlights:\r\n\r\nMinutes from Walt Disney World & Celebration\r\nClose to shopping, dining, and entertainment\r\nEasy access to I-4, US-192, and Osceola Parkway\r\nShort-term commute to Orlando-area attractions and employers\r\n\r\nPerfect for primary residence, investment opportunity, or vacation-style living, this unit offers exceptional value in one of Central Florida\u2019s most in-demand areas.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. No Pets allowed.AVAILABLE NOW!!!\r\n\r\n\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,450 \n\n\n Available Now",
     "terms": [
       "Rent: $1,450",
       "Application Fee: $95",
@@ -10298,8 +10378,8 @@
     "address": "5212 Lake Margaret Drive Unit # 212 - 1213, Orlando, FL 32812",
     "street": "5212 Lake Margaret Drive Unit # 212 - 1213",
     "city": "Orlando",
-    "rent": "$1,513",
-    "rent_val": 1513,
+    "rent": "$1,413",
+    "rent_val": 1413,
     "specs": "1 bd, 1 ba, 780 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -10309,9 +10389,9 @@
     "lat": 28.5041853,
     "lng": -81.3179504,
     "title": "780 sq ft Woodhaven Renovated",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,513 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/13/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,413 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/13/26",
     "terms": [
-      "Rent: $1,513",
+      "Rent: $1,413",
       "Application Fee: $99",
       "Available 9/13/26"
     ],
@@ -14850,40 +14930,6 @@
     "available": "NOW"
   },
   {
-    "id": 4763,
-    "uuid": "edcefbf4-9561-4207-8331-3f0d8a625511",
-    "address": "5216 Lake Margaret Drive Unit # 216 - 1111, Orlando, FL 32812",
-    "street": "5216 Lake Margaret Drive Unit # 216 - 1111",
-    "city": "Orlando",
-    "rent": "$1,516 - $1,604",
-    "rent_val": 1516,
-    "specs": "2 bd, 2 ba, 1,009 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1009,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/55382576-edc6-4a0d-bf8e-6d1399003f57/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/edcefbf4-9561-4207-8331-3f0d8a625511",
-    "lat": 28.5038955,
-    "lng": -81.3176286,
-    "title": "1009 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,516 - $1,604 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,516 - $1,604",
-      "Application Fee: $99",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/55382576-edc6-4a0d-bf8e-6d1399003f57/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=edcefbf4-9561-4207-8331-3f0d8a625511&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 4760,
     "uuid": "bd52e4e3-9141-4e50-aa0e-edef20f35243",
     "address": "5824 Auvers Blvd #204, Orlando, FL 32807",
@@ -15374,8 +15420,8 @@
     "address": "5212 Lake Margaret Drive Unit # 212 - 1206, Orlando, FL 32812",
     "street": "5212 Lake Margaret Drive Unit # 212 - 1206",
     "city": "Orlando",
-    "rent": "$1,243 - $1,320",
-    "rent_val": 1243,
+    "rent": "$1,143 - $1,220",
+    "rent_val": 1143,
     "specs": "1 bd, 1 ba, 780 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -15385,9 +15431,9 @@
     "lat": 28.5041853,
     "lng": -81.3179504,
     "title": "780 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,243 - $1,320 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/16/26",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,143 - $1,220 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 8/16/26",
     "terms": [
-      "Rent: $1,243 - $1,320",
+      "Rent: $1,143 - $1,220",
       "Application Fee: $99",
       "Available 8/16/26"
     ],
@@ -18586,8 +18632,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/21a3240d-1b1b-4ef1-9990-4a791172d462",
     "lat": 28.0528796,
     "lng": -81.9138985,
-    "title": "3 Bedroom Home",
-    "description": "Welcome to this charming 3-bedroom, 1-bathroom home located in the desirable area of Lakeland, FL. \r\n\r\nThis cozy house features stainless steel appliances, tile flooring throughout, and a convenient washer dryer hookup. The spacious backyard provides the perfect setting for outdoor gatherings and relaxation. \r\n\r\nHigh-Speed Internet Built In \u2013 Enjoy the convenience of bulk internet service included with your lease! Every unit is equipped with blazing-fast 1 GIG speeds for only $60/month, provided through trusted national carriers such as AT&T and Spectrum. No installation hassles, no waiting for service \u2013 just reliable, high-speed internet from the day you move in.\r\n\r\nDon't miss the opportunity to make this house your home sweet home. Contact us today to schedule a tour!\r\n\r\n$250 Non Refundable Pet fee for any approved pet\r\n$25 Per month pet rent\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,250 \n\n\n Available Now",
+    "title": "3 Bedroom Home in Lakeland",
+    "description": "Welcome to this charming 3-bedroom, 1-bathroom home located in the desirable area of Lakeland, FL. This cozy house features stainless steel appliances, tile flooring throughout, and a convenient washer dryer hookup. The spacious backyard provides the perfect setting for outdoor gatherings and relaxation. Enjoy the convenience of bulk internet service equipped with blazing-fast 1 GIG speeds for only $60/month included with your lease! Provided through trusted national carriers such as AT&T and Spectrum. No installation hassles, no waiting for service! Just reliable, high-speed internet from the day you move in. Don't miss the opportunity to make this house your home sweet home. Contact us today to schedule a tour!\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application.\r\n\r\nPet Fees:\r\n$250 Non-Refundable per pet fee for any approved pet\r\n$25 Per month pet rent\r\n\r\n$95 Application fee per adult\r\n$295 Admin fee\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,250 \n\n\n Available Now",
     "terms": [
       "Rent: $1,250",
       "Application Fee: $95",
@@ -21510,6 +21556,53 @@
     "available": "NOW"
   },
   {
+    "id": 1661,
+    "uuid": "234171cb-41fb-490c-aa21-eec092107abf",
+    "address": "5305 N Boulevard  - Unit 102, Tampa, FL 33603",
+    "street": "5305 N Boulevard  - Unit 102",
+    "city": "Tampa",
+    "rent": "$1,395",
+    "rent_val": 1395,
+    "specs": "2 bd, 2 ba, 800 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 800,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/bfa76a0f-74ba-43bc-98bf-ea8603c1e01f/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/234171cb-41fb-490c-aa21-eec092107abf",
+    "lat": 27.9956952,
+    "lng": -82.4669832,
+    "title": "Modern Comfort in the Heart of Seminole Heights",
+    "description": "Welcome home to this spacious and beautifully updated apartment featuring brand-new waterproof luxury vinyl flooring throughout, a bright living area perfect for entertaining, and a charming kitchen with quartz countertops, ample cabinetry, double sinks, and top-of-the-line stainless steel appliances. Plus, washer and dryer are included!\r\n\r\nEnjoy the convenience of a pet-friendly community in vibrant Seminole Heights, surrounded by local restaurants, urban diners, and family-friendly spots. Just 10 minutes from Downtown Tampa, Raymond James Stadium, and ZooTampa, this home offers comfort, style, and an unbeatable location.\r\n\r\n\r\nAdditional Monthly Charges:\r\n\u2022 $15.50 Renters Insurance Fee\r\n\u2022 $75 STOA\r\n\u2022 $95 Utility Charge (Water, Sewer & Trash)\r\n\u2022 $60 Group Rate Internet\r\n\r\nTotal monthly rent: $1,640.50 (electric must be set up in your name)\r\n\r\n\r\nVirtual tour below\r\n\r\n https://my.matterport.com/show/?m=FaJ26idcmdo \r\n\r\nProfessional Managed By: Atrium Management\r\nCall: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com \r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,395",
+      "Application Fee: $95",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/bfa76a0f-74ba-43bc-98bf-ea8603c1e01f/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8edb34ab-e547-4b1c-a38d-f9746907159b/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4c0bd6cd-f953-4bbd-a97c-c5e526f52faf/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/875bb7c9-a08d-4123-9bcf-15a12d664c8b/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5f82ded0-b1d8-4e44-99dd-5eece259f476/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/43806908-d08d-4e91-ae0d-8178a2d4b3c3/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/70d21e04-b512-469c-a5de-efda99e9ac4c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/098c01c4-f00d-4107-8ba0-8c8fac90ffbb/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/83ce5ac0-477c-45c6-b58e-c97a404b1551/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b969a205-b793-494c-aec8-4b6a410b5217/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d41fed78-0091-495d-b52c-a364c41dae94/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/9bdd6798-4c40-4b1f-bdbc-34cc5c4e6f59/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/39420837-f898-4fb8-94bc-a501f0ac6231/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=234171cb-41fb-490c-aa21-eec092107abf&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 1652,
     "uuid": "435f854e-6574-40b6-8215-fbcfa00a0ec2",
     "address": "5305 N Boulevard  - Unit 302, Tampa, FL 33603",
@@ -22055,55 +22148,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=16709393-475a-47b5-a932-c731b9c4b725&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 1371,
-    "uuid": "14b98634-984b-4956-99dd-dcf97c37de4a",
-    "address": "5305 N Boulevard  - Unit 212, Tampa, FL 33603",
-    "street": "5305 N Boulevard  - Unit 212",
-    "city": "Tampa",
-    "rent": "$1,395",
-    "rent_val": 1395,
-    "specs": "2 bd, 2 ba, 800 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 800,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b2f5b6ba-5034-43cb-a2c9-87f91f2396a9/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/14b98634-984b-4956-99dd-dcf97c37de4a",
-    "lat": 27.9956952,
-    "lng": -82.4669832,
-    "title": "Gorgeous Seminole Heights Apartment!!!",
-    "description": "**** 1 MONTH FREE ****\r\n\r\n\r\nDiscover comfort and convenience in this beautifully maintained 2-bedroom, 2-bathroom apartment located in one of Tampa's most sought-after neighborhoods. Featuring an open-concept layout, this home offers plenty of space to relax, entertain, and enjoy everyday living.\r\n\r\nThe well-appointed kitchen showcases elegant quartz countertops, stainless steel appliances, double sinks, ample cabinetry, and luxury vinyl waterproof flooring. Tile flooring throughout the main living areas adds both style and easy maintenance. Plus, a full-size washer and dryer are included for your convenience.\r\n\r\nEnjoy everything Seminole Heights has to offer, including local restaurants, coffee shops, breweries, parks, and community gathering spots. Conveniently located just minutes from Downtown Tampa, Raymond James Stadium, and ZooTampa.\r\n\r\nAdditional Monthly Charges:\r\n\u2022 $15.50 Renters Insurance Fee\r\n\u2022 $75 STOA\r\n\u2022 $95 Utility Charge (Water, Sewer & Trash)\r\n\u2022 $60 Group Rate Internet\r\n\r\nTotal monthly rent: $1,640.50 (electric must be set up in your name) \r\n\r\nVirtual tour below\r\n https://my.matterport.com/show/?m=FaJ26idcmdo \r\n\r\nProfessional Managed By: Atrium Management\r\nCall: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,395",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2f5b6ba-5034-43cb-a2c9-87f91f2396a9/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3ed9b1b7-b0cf-4008-9a85-ab0aeef71b7e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f0d9b6a1-9da1-40db-90a8-154bd08bc688/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bb091f18-6cf1-487a-a4ce-3a005253d690/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9d59c0ea-b53f-41aa-a488-81af3d906a4e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/245ad21d-cb40-4705-a27a-e3f85d60ff13/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a4b0f6c8-84f8-49c6-a6cc-1d721c51f609/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ed95eba0-c498-41bb-a87e-bd6c417b713f/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4277be81-e9d3-48f1-906e-7140e81b6d24/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5d6f76c4-cfa7-44c0-a085-25ee184cc92f/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7aad1834-40d0-4ae9-aab3-77cd3a333667/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cc9a4e81-c131-409c-992d-10128713b2e2/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/864c46c4-b66e-4da2-b2c2-de50e2ad090e/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1486515b-a2f4-43d8-8619-a942d53f8a04/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/358fee6b-cf3e-4a7a-ba24-611fd0456f2f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=14b98634-984b-4956-99dd-dcf97c37de4a&source=Website",
     "available": "NOW"
   },
   {
@@ -22752,7 +22796,7 @@
     "lat": 28.5360046,
     "lng": -81.1787538,
     "title": "Exquisite 3 Bed 2 Bath Home For Rent in Orlando, FL AVAILABLE SEPTEMBER!!!",
-    "description": "Welcome home to this BEAUTIFUL home in Orlando, FL! You will feel right at home in the Eastwood Golf Course Community, featuring a community pool, tennis courts, basketball, 2 parks, playground, & basic cable. OPEN living area. Kitchen features ample amount of cabinetry and counter space, great for entertaining family and friends. Natural light throughout. SPACIOUS master bedroom part can be used as a nursery or office. Large backyard and Lawn Care included. Enjoy your evenings and weekends in your oversized backyard and with all the amenities Eastwood has to offer! Master suite features large his and hers closets.\r\n\r\nClose to neighborhood elementary school, Waterford Lakes Town Center, shopping, restaurants, Siemens & Lockheed Martin, near SR 408 & 417. MUST SEE!!! Pets are negotiable with owner approval. This property is professionally managed by Atrium Management. Please call 407-585-2721 to schedule your private showing! AVAILABLE SEPTEMBER 10TH!!!!\r\n\r\nADDITIONAL MONTHLY FEES: $60.00 HIGH SPEED INTERNET, $15.50 RENTER'S INSURANCE, AND $15.00 FILTER PROGRAM!!!\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,400 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,400 \n\n\n Available 9/10/26",
+    "description": "Welcome home to this BEAUTIFUL home in Orlando, FL! You will feel right at home in the Eastwood Golf Course Community, featuring a community pool, tennis courts, basketball, 2 parks, playground, & basic cable. OPEN living area. Kitchen features ample amount of cabinetry and counter space, great for entertaining family and friends. Natural light throughout. SPACIOUS master bedroom part can be used as a nursery or office. Large backyard and Lawn Care included. Enjoy your evenings and weekends in your oversized backyard and with all the amenities Eastwood has to offer! Master suite features large his and hers closets.\r\n\r\nClose to neighborhood elementary school, Waterford Lakes Town Center, shopping, restaurants, Siemens & Lockheed Martin, near SR 408 & 417. MUST SEE!!!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets allowed, 2 pet maximum.($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). This property is professionally managed by Atrium Management. AVAILABLE September 10th!\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,400 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,400 \n\n\n Available 9/10/26",
     "terms": [
       "Rent: $2,400",
       "Application Fee: $95",
@@ -22978,7 +23022,7 @@
     "lat": 28.5567887,
     "lng": -81.2762728,
     "title": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL!",
-    "description": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL! Welcome home to the neighborhood of The Club at Orlando! SPACIOUS living area is nice, bright and airy! The kitchen has a pass-through to the dining area, and separate laundry area. MUST SEE!!! Conveniently located to 408, UCF, 417, Valencia, Florida Hospital and Lockheed Martin to name a few. Per the Club, a maximum of ONE pet per unit and must weigh less than 25 pounds. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE MAY 10TH !!!!!!!!!!!!!!!!!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,550 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,550 \n\n\n Available Now",
+    "description": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL! Welcome home to the neighborhood of The Club at Orlando! SPACIOUS living area is nice, bright and airy! The kitchen has a pass-through to the dining area, and separate laundry area. MUST SEE!!! Conveniently located to 408, UCF, 417, Valencia, Florida Hospital and Lockheed Martin to name a few. Per the Club, a maximum of ONE pet per unit and must weigh less than 25 pounds. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE NOW!!\r\n\r\nHOA Approval Required: Please note that upon approval, there is an HOA application fee of $100.00 per applicant. Please allow approximately 14 days for the HOA approval process.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent), small dogs only, 25 lbs max, 1 pet max.This property is professionally managed by Atrium Management. \r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,550 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,550 \n\n\n Available Now",
     "terms": [
       "Rent: $1,550",
       "Application Fee: $95",
@@ -23039,7 +23083,7 @@
     "lat": 28.5563419,
     "lng": -81.2763588,
     "title": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL!",
-    "description": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL! Welcome home to the neighborhood of The Club at Orlando! SPACIOUS living area is nice, bright and airy! The kitchen has a pass-through to the dining area with a full-size washer and dryer in a separate laundry area. MUST SEE!!! Conveniently located to 408, UCF, 417, Valencia, Florida Hospital and Lockheed Martin to name a few. Pets are not permitted. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE AUGUST 15th!!!\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,500 \n\n\n Available 9/10/26",
+    "description": "Beautiful 2 Bed 2 Bath Condo for Rent in Orlando, FL! Welcome home to the neighborhood of The Club at Orlando! SPACIOUS living area is nice, bright and airy! The kitchen has a pass-through to the dining area with a full-size washer and dryer in a separate laundry area. MUST SEE!!! Conveniently located to 408, UCF, 417, Valencia, Florida Hospital and Lockheed Martin to name a few. Pets are not permitted. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE AUGUST 15th!!!\r\n\r\nHOA Approval Required: Please note that upon approval, there is an HOA application fee of $100.00 per applicant. Please allow approximately 14 days for the HOA approval process.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. NO Pets. This property is professionally managed by Atrium Management. \r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,500 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,500 \n\n\n Available 9/10/26",
     "terms": [
       "Rent: $1,500",
       "Application Fee: $95",
@@ -23177,8 +23221,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/879c78d0-c04d-4f97-8961-c357b99485cf",
     "lat": 28.6966941,
     "lng": -81.5555452,
-    "title": "Dazzling 3 Bed, 2 Bath Updated Gem in Apopka \u2013 LIMITED TIME SPECIAL $500 OFF ONE'S MONTH'S RENT!",
-    "description": "*** LIMITED TIME SPECIAL FOR APPROVED APPLICANTS***\r\nApproved applicants with a move in date by 07/15/25 receive $500 OFF ONE'S MONTH'S RENT\r\n\r\nWelcome home to this beautifully renovated 3 bedroom, 2 bathroom retreat in the heart of Apopka with convenient access to the 414 and all major highways! This stunning home has been fully updated from top to bottom and is ready for you to move in and make it yours.\r\n\r\nStep inside to find brand new vinyl plank flooring flowing throughout and an abundance of natural light flooding the SPACIOUS open-concept living area, enhanced by vaulted ceilings that elevate the space. The modern kitchen is a chef\u2019s dream, featuring new stainless steel appliances, with breakfast bar, and ample cabinetry perfect for all your culinary needs.\r\n\r\nThe large primary suite is your private escape with a walk-in shower and generous space for relaxation. Two additional bedrooms offer flexibility for family, guests, or a home office.\r\n\r\nLocated near top-rated schools including Wolf Lake Elementary, Wolf Lake Middle, and Apopka High, and just minutes from dining, shopping, and entertainment options.\r\n\r\nPets are negotiable with owner approval. \r\n\r\nProfessionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE NOW!\r\n\r\n**BONUS AMENITY INCLUDED** A portion of Tenant's total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program.**\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,150 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,135 \n\n\n Available Now",
+    "title": "Dazzling 3 Bed, 2 Bath Updated Gem in Apopka",
+    "description": "Welcome home to this beautifully renovated 3 bedroom, 2 bathroom retreat in the heart of Apopka with convenient access to the 414 and all major highways! This stunning home has been fully updated from top to bottom and is ready for you to move in and make it yours.\r\n\r\nStep inside to find brand new vinyl plank flooring flowing throughout and an abundance of natural light flooding the SPACIOUS open-concept living area, enhanced by vaulted ceilings that elevate the space. The modern kitchen is a chef\u2019s dream, featuring new stainless steel appliances, with breakfast bar, and ample cabinetry perfect for all your culinary needs.\r\n\r\nThe large primary suite is your private escape with a walk-in shower and generous space for relaxation. Two additional bedrooms offer flexibility for family, guests, or a home office.\r\n\r\nLocated near top-rated schools including Wolf Lake Elementary, Wolf Lake Middle, and Apopka High, and just minutes from dining, shopping, and entertainment options.\r\n\r\nPets are negotiable with owner approval. \r\n\r\nProfessionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE NOW!\r\n\r\n**BONUS AMENITY INCLUDED** A portion of Tenant's total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program.**\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,150 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,135 \n\n\n Available Now",
     "terms": [
       "Rent: $2,150",
       "Application Fee: $95",
@@ -23378,7 +23422,7 @@
     "lat": 28.6794071,
     "lng": -81.4997387,
     "title": "Recently Renovated 3 Bed 2 Bath Home for Rent in Apopka, FL! Move in August 10th",
-    "description": "New pictures of renovation coming soon. Beautiful open formal living/dining area leads back to the kitchen with breakfast bar and an ample amount of cabinetry. Spacious master suite with private bathroom. Large backyard and a 2 car garage. Pets are negotiable with owner approval. Zoned for Apopka Elementary School, Apopka Middle School, Apopka High School. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE JULY 9TH!! \r\n\r\n**BONUS AMENITY INCLUDED** A portion of Tenant's total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program \n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,100 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,100 \n\n\n Available Now",
+    "description": "New pictures of renovation coming soon. Beautiful open formal living/dining area leads back to the kitchen with breakfast bar and an ample amount of cabinetry. Spacious master suite with private bathroom. Large backyard and a 2 car garage. Pets are negotiable with owner approval. Zoned for Apopka Elementary School, Apopka Middle School, Apopka High School. Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing. AVAILABLE Now!!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). Two pets Max. This property is professionally managed by Atrium Management. \r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.00 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n**FILTER PROGRAM** HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program.\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,100 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $2,100 \n\n\n Available Now",
     "terms": [
       "Rent: $2,100",
       "Application Fee: $95",
