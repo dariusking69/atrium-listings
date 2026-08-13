@@ -10920,41 +10920,6 @@
     "available": "NOW"
   },
   {
-    "id": 5706,
-    "uuid": "768e4afe-c6c5-4a10-aedf-f18d7eb8478c",
-    "address": "5924 Auvers Blvd #303, Orlando, FL 32807",
-    "street": "5924 Auvers Blvd #303",
-    "city": "Orlando",
-    "rent": "$1,395",
-    "rent_val": 1395,
-    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1023,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/768e4afe-c6c5-4a10-aedf-f18d7eb8478c",
-    "lat": 28.5733891,
-    "lng": -81.3071154,
-    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
-    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,395",
-      "Application Fee: $95",
-      "Security Deposit: $1,563",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=768e4afe-c6c5-4a10-aedf-f18d7eb8478c&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5701,
     "uuid": "db765d29-be4a-4f31-9bdc-7fafdc59a6f4",
     "address": "500 Maury St Unit 524, Richmond, VA 23224",
