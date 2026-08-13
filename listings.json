@@ -7983,6 +7983,40 @@
     "available": "9/6/26"
   },
   {
+    "id": 5994,
+    "uuid": "6c5b950e-19b0-41b4-88d8-676ed96b1b81",
+    "address": "500 Maury St Unit 535, Richmond, VA 23224",
+    "street": "500 Maury St Unit 535",
+    "city": "Richmond",
+    "rent": "$1,670",
+    "rent_val": 1670,
+    "specs": "1 bd, 1 ba, 692 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 692,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6c5b950e-19b0-41b4-88d8-676ed96b1b81",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,670",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6c5b950e-19b0-41b4-88d8-676ed96b1b81&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5992,
     "uuid": "04b79294-23dc-482e-a133-db1dc8a44722",
     "address": "5924 Auvers Blvd #206, Orlando, FL 32807",
@@ -12330,6 +12364,40 @@
     "available": "NOW"
   },
   {
+    "id": 5513,
+    "uuid": "db6f0554-0801-413c-887c-0eec97f470f3",
+    "address": "500 Maury St Unit 635, Richmond, VA 23224",
+    "street": "500 Maury St Unit 635",
+    "city": "Richmond",
+    "rent": "$1,685",
+    "rent_val": 1685,
+    "specs": "1 bd, 1 ba, 692 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 692,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/db6f0554-0801-413c-887c-0eec97f470f3",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,685",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=db6f0554-0801-413c-887c-0eec97f470f3&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5497,
     "uuid": "34d58822-bef4-4681-acaf-e9dfe4481459",
     "address": "2904 Cardinal St. Unit 110, Deltona, FL 32738",
@@ -13785,6 +13853,40 @@
     "available": "NOW"
   },
   {
+    "id": 5170,
+    "uuid": "d5496cf8-0181-4a81-b5bb-a90f13e96b4b",
+    "address": "500 Maury St Unit 503, Richmond, VA 23224",
+    "street": "500 Maury St Unit 503",
+    "city": "Richmond",
+    "rent": "$1,670",
+    "rent_val": 1670,
+    "specs": "1 bd, 1 ba, 692 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 692,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d5496cf8-0181-4a81-b5bb-a90f13e96b4b",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,670",
+      "Application Fee: $50",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/de0d3870-3025-4102-b5fe-36c83d4f2a3c/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d5496cf8-0181-4a81-b5bb-a90f13e96b4b&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 5117,
     "uuid": "dff9f724-19f0-48b1-a842-e29a9c081f42",
     "address": "1363 W. Broad Street, # 307, Richmond, VA 23220",
@@ -14705,6 +14807,41 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6f751eeb-7efc-493f-acff-eed78ee31da0&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4770,
+    "uuid": "7f06a89a-2368-4fe5-ab57-3ebe307ce371",
+    "address": "500 Maury St Unit 210, Richmond, VA 23224",
+    "street": "500 Maury St Unit 210",
+    "city": "Richmond",
+    "rent": "$1,499",
+    "rent_val": 1499,
+    "specs": "1 bd, 1 ba, 579 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 579,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4732314c-6a8b-42c1-9fb7-d4683e8710c6/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7f06a89a-2368-4fe5-ab57-3ebe307ce371",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,499",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4732314c-6a8b-42c1-9fb7-d4683e8710c6/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7f06a89a-2368-4fe5-ab57-3ebe307ce371&source=Website",
     "available": "NOW"
   },
   {
@@ -19670,55 +19807,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=90791133-34e0-4cf8-891a-bbc587b60f09&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 2686,
-    "uuid": "65cf158d-8406-47de-b0a4-16f8e79c9350",
-    "address": "408 W Howry Ave, Unit 2, Deland, FL 32720",
-    "street": "408 W Howry Ave",
-    "city": "DeLand",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "2 bd, 1.5 ba, 775 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.5,
-    "sqft": 775,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/54cefbc9-96de-4f2b-8507-dfb2eefebca4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/65cf158d-8406-47de-b0a4-16f8e79c9350",
-    "lat": 29.0259916,
-    "lng": -81.31008,
-    "title": "Charming 2nd-Floor 2BR/1.5BA Apartment in DeLand",
-    "description": "Welcome home to this charming 2nd-floor, 2-bedroom, 1.5-bath apartment in the heart of DeLand. Part of an intimate 11-unit building, this 775 sq ft unit features original wood floors and vintage character just blocks from downtown DeLand and Stetson University \u2014 the best of small-town charm with an easy walk to shops, restaurants, and entertainment.\r\n\r\nManaged by Atrium Management. Contact us at 407-585-2721 to schedule your tour.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). This property is professionally managed by Atrium Management. \r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$40 Water Reimbursement\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,045 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,045",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/54cefbc9-96de-4f2b-8507-dfb2eefebca4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/79f970ac-9558-4d1d-b1dc-8b02718d7901/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/35499952-840f-4920-b0ea-b37c542e2e1b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3d34dc16-06c5-4995-8bb8-d6ccfc806fb1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6fc5482e-0180-4bc5-bf4d-aaab04cc76ac/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/43d80ba7-4d56-448d-b39c-80694fe85a48/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/62351945-d527-47e9-9b5d-5c2ff28c21a1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7fec009c-13fa-422b-a78e-c35e2372905a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cdaee686-44bc-4170-842e-beab2cec921c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5d9fc0e7-ca6f-49eb-a7bc-41ba8bf7ebc2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f7ed5c24-f361-4db0-bfbc-e46aff574865/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/69f90838-1d74-49c3-b474-b9a07f7d4916/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd17b54d-8999-46e9-8d59-a8ac7850d718/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ff1df40-d7d1-41ff-82d2-ae4b55274c32/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/454a6071-c5d2-442b-b042-f4ecf1198da7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=65cf158d-8406-47de-b0a4-16f8e79c9350&source=Website",
     "available": "NOW"
   },
   {
