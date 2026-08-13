@@ -1,5 +1,39 @@
 [
   {
+    "id": 6349,
+    "uuid": "97404bae-9871-4f17-b8cf-e0e551bfe679",
+    "address": "5426 Lake Margaret Drive Unit # 426 - 1114, Orlando, FL 32812",
+    "street": "5426 Lake Margaret Drive Unit # 426 - 1114",
+    "city": "Orlando",
+    "rent": "$1,760",
+    "rent_val": 1760,
+    "specs": "2 bd, 2 ba, 1,005 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1005,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4b5035f0-70b0-4fc5-854d-a7f0142e9672/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/97404bae-9871-4f17-b8cf-e0e551bfe679",
+    "lat": 28.5050793,
+    "lng": -81.3157713,
+    "title": "Overlook (Townhome)",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,760 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/8/26",
+    "terms": [
+      "Rent: $1,760",
+      "Application Fee: $99",
+      "Available 9/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4b5035f0-70b0-4fc5-854d-a7f0142e9672/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=97404bae-9871-4f17-b8cf-e0e551bfe679&source=Website",
+    "available": "9/8/26"
+  },
+  {
     "id": 6346,
     "uuid": "ee68ac48-0495-4a75-af68-2765f29cf9fb",
     "address": "500 Maury St Unit 601, Richmond, VA 23224",
@@ -3904,61 +3938,6 @@
     "available": "10/10/26"
   },
   {
-    "id": 6200,
-    "uuid": "f06aab77-b656-41a3-b9a8-14c4ac04fa3a",
-    "address": "4800 Atlantic Blvd Unit D123, Jacksonville, FL 32207",
-    "street": "4800 Atlantic Blvd Unit D123",
-    "city": "Jacksonville",
-    "rent": "$1,099",
-    "rent_val": 1099,
-    "specs": "2 bd, 1.5 ba, 850 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.5,
-    "sqft": 850,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f9d45508-8b8b-4b8d-a937-637a12f5926e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f06aab77-b656-41a3-b9a8-14c4ac04fa3a",
-    "lat": 30.3082327,
-    "lng": -81.6148986,
-    "title": "Lease Your New Home Today!",
-    "description": "Your perfect home is waiting, and now is the best time to make your move.\r\n\r\nFor a limited time, select apartments qualify for reduced monthly rent!\r\n\r\nInquire for details.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. Schedule your tour today \u2014 your new home awaits!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,099",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f9d45508-8b8b-4b8d-a937-637a12f5926e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/32e6fb59-b5b3-4186-95d1-47b41126c6cb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/74050ce6-8e65-465e-97bc-29184aa5cf65/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6a58a3ae-66e4-4666-b8f0-640200c27791/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ad559c54-438e-465f-8112-f5dffffb748c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b056bfd-ecd0-4721-864d-045c5a6baab2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/903e93dc-e8c4-4fb4-9d0e-159451e43963/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/99dc2161-d981-43f2-b687-bd74c6a5b510/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f76a3837-3a53-4242-864e-1e310acbc67e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a6992885-14f3-4330-8051-f9f77e6b316b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/232c0c34-68b0-4a05-9902-c8251a41d18c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0a85bbb5-61a0-40ad-b04f-0565bb794d94/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/61780d03-78db-425a-be3a-59e190a2c1c4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1e61b0d2-a499-4fe2-8655-f0758fdc4c96/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/728568d5-1eb9-48bb-81a3-1df755435bde/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/baa67193-bdf8-4232-be37-69c59d3f8138/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cde3059a-a729-4665-b6f2-946228c29847/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1825fc94-560b-4a31-aed6-e1c647523526/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9fdeeae4-8e1e-4b3b-8c91-d9a04f6130e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/33580a04-0068-46af-8210-309976422916/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1441a9e3-e657-4cef-85b8-9a7419d23d05/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f06aab77-b656-41a3-b9a8-14c4ac04fa3a&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 6199,
     "uuid": "927d501a-5303-4d35-98d3-0206ecad76a7",
     "address": "4800 Atlantic Blvd Unit A206, Jacksonville, FL 32207",
@@ -4756,8 +4735,8 @@
     "address": "5009 S West Shore Blvd Unit 59-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 59-5215",
     "city": "Tampa",
-    "rent": "$1,724",
-    "rent_val": 1724,
+    "rent": "$1,599",
+    "rent_val": 1599,
     "specs": "2 bd, 1 ba, 889 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -5157,8 +5136,8 @@
     "address": "5009 S West Shore Blvd Unit 12-5215, Tampa, FL 33611",
     "street": "5009 S West Shore Blvd Unit 12-5215",
     "city": "Tampa",
-    "rent": "$1,654",
-    "rent_val": 1654,
+    "rent": "$1,499",
+    "rent_val": 1499,
     "specs": "1 bd, 1 ba, 589 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -5770,8 +5749,8 @@
     "address": "6822 S Shamrock Rd Unit 205, Tampa, FL 33616",
     "street": "6822 S Shamrock Rd Unit 205",
     "city": "Tampa",
-    "rent": "$1,500",
-    "rent_val": 1500,
+    "rent": "$1,299",
+    "rent_val": 1299,
     "specs": "1 bd, 1 ba, 561 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -5863,8 +5842,8 @@
     "address": "6822 S Shamrock Rd Unit 101, Tampa, FL 33616",
     "street": "6822 S Shamrock Rd Unit 101",
     "city": "Tampa",
-    "rent": "$1,540",
-    "rent_val": 1540,
+    "rent": "$1,299",
+    "rent_val": 1299,
     "specs": "1 bd, 1 ba, 561 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -5987,8 +5966,8 @@
     "address": "227 S Armenia Ave Unit 17, Tampa, FL 33609",
     "street": "227 S Armenia Ave Unit 17",
     "city": "Tampa",
-    "rent": "$1,999 - $2,065",
-    "rent_val": 1999,
+    "rent": "$1,849 - $1,915",
+    "rent_val": 1849,
     "specs": "2 bd, 1 ba, 751 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -6018,8 +5997,8 @@
     "address": "227 S Armenia Ave Unit 16, Tampa, FL 33609",
     "street": "227 S Armenia Ave Unit 16",
     "city": "Tampa",
-    "rent": "$1,999 - $2,065",
-    "rent_val": 1999,
+    "rent": "$1,849 - $1,915",
+    "rent_val": 1849,
     "specs": "2 bd, 1 ba, 751 Sq. Ft.",
     "beds": 2.0,
     "baths": 1.0,
@@ -10811,50 +10790,6 @@
     "available": "NOW"
   },
   {
-    "id": 5708,
-    "uuid": "be0304ee-dca3-44b1-9307-dfce0811306d",
-    "address": "2102 Gachet Ct #108, Orlando, FL 32807",
-    "street": "2102 Gachet Ct #108",
-    "city": "Orlando",
-    "rent": "$1,615",
-    "rent_val": 1615,
-    "specs": "2 bd, 2 ba, 1,030 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1030,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/be0304ee-dca3-44b1-9307-dfce0811306d",
-    "lat": 28.5736262,
-    "lng": -81.3066844,
-    "title": "Spacious 2-Bedroom Apartment in Baldwin Park \u2013 Pet Friendly!",
-    "description": "Welcome home to The Avenue at Baldwin Park, where comfort and convenience meet style! This beautiful 2-bedroom, 2-bathroom apartment features a split floor plan for added privacy, perfect for roommates or families. Enjoy the ease of having your washer and dryer in-unit, plus modern finishes throughout.\r\n\r\nStep outside and take advantage of the incredible community amenities \u2014 relax by the resort-style pool, shoot hoops on the basketball court, let the kids play at the playground, or spend quality time with your furry friends at the dog park.\r\n\r\nLocated in the desirable Baldwin Park area of Orlando, you\u2019ll be just minutes from shopping, dining, and entertainment, with easy access to major highways.\r\n\r\nHighlights:\r\n\r\n2 Bedrooms / 2 Bathrooms\r\nSplit Floor Plan\r\nHigh speed Internet\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nPool, Basketball Court, Playground & Dog Park\r\n\r\nDon\u2019t miss your chance to call this stunning apartment home \u2014 schedule your tour today (407) 917-7786!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\ncommunity pool\r\nCommunity Dog Park\r\n1st Floor\r\nWasherDryer\r\nBlack Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,615 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/18/26",
-    "terms": [
-      "Rent: $1,615",
-      "Application Fee: $95",
-      "Available 8/18/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/05e74dec-8639-463b-a341-e1dfca339902/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/539fe314-e09a-43f1-ba1f-eaa2c370a6d0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d708842c-d604-4b90-a864-91e6a69801a0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/85dfc10c-809a-4796-9b33-87cd563c0895/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/88a85442-c30d-4665-8549-5409acc99bdb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c541ce2a-442f-40c6-858a-fef8c047c144/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/484d1796-50f3-480c-ab35-7e3d17d3ec58/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81352627-93b0-48e2-b1de-d10e03ffff88/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b933e6a9-91f3-47e1-8c81-f283a261e883/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a6754711-36ca-415f-b175-36c6e65faa80/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=be0304ee-dca3-44b1-9307-dfce0811306d&source=Website",
-    "available": "8/18/26"
-  },
-  {
     "id": 5707,
     "uuid": "10749f55-752a-4b35-b638-2f875a55cc9c",
     "address": "11 East Smith Street Unit 206, Winter Garden, FL 34787",
@@ -14313,6 +14248,41 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=335d4e0c-c7dc-4085-aaf4-9a4f974e6c6e&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 4977,
+    "uuid": "afb7e402-c695-45b6-8d09-1557c1f06d47",
+    "address": "500 Maury St Unit 308, Richmond, VA 23224",
+    "street": "500 Maury St Unit 308",
+    "city": "Richmond",
+    "rent": "$1,650",
+    "rent_val": 1650,
+    "specs": "1 bd, 1 ba, 579 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 579,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4732314c-6a8b-42c1-9fb7-d4683e8710c6/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/afb7e402-c695-45b6-8d09-1557c1f06d47",
+    "lat": 37.5209552,
+    "lng": -77.4351531,
+    "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
+    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,650 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,650",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/4732314c-6a8b-42c1-9fb7-d4683e8710c6/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=afb7e402-c695-45b6-8d09-1557c1f06d47&source=Website",
     "available": "NOW"
   },
   {
@@ -21537,6 +21507,52 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a9cf0527-0b18-474d-ad61-4abe6ab661cb&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 1652,
+    "uuid": "435f854e-6574-40b6-8215-fbcfa00a0ec2",
+    "address": "5305 N Boulevard  - Unit 302, Tampa, FL 33603",
+    "street": "5305 N Boulevard  - Unit 302",
+    "city": "Tampa",
+    "rent": "$1,275",
+    "rent_val": 1275,
+    "specs": "1 bd, 1 ba, 600 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 600,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3c5f8e9c-1c14-48e9-9bfa-28b106aa8e6a/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/435f854e-6574-40b6-8215-fbcfa00a0ec2",
+    "lat": 27.9956952,
+    "lng": -82.4669832,
+    "title": "Beautifully Renovated WATERFRONT Apartment Home!",
+    "description": "Charming 1 Bed 1 Bath Apartment for Rent in Tampa FL! Large area for entertaining family and friends. Charming kitchen with stylish stainless steel appliances, quartz countertops, and luxury vinyl plank flooring. The bedroom leads out to the riverfront patio that boasts a gorgeous view of the Hillsborough River!\r\n\r\nEasily launch a kayak from the property. Kayak storage available free of charge on a first come first serve basis.\r\n\r\nConveniently located 10 mins from Tampa International Airport, Veteran's Expressway, Hillsborough Community College, downtown Tampa, Raymond James stadium & the Tampa Zoo. You will love the close proximity to dining, shopping, grocery stores, gyms, & more on Hillsborough Road. \r\n\r\nBase Rent: $1,275\r\nUtilities: $80\r\nSTOA: $65\r\nInternet: $60\r\nLiability Coverage: $15.50\r\nTotal Monthly Rent: $1495.50\r\nElectric must be set up in tenants name.\r\n\r\nProfessional Managed By: Atrium Management\r\nCall: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,275 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,275",
+      "Application Fee: $95",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/3c5f8e9c-1c14-48e9-9bfa-28b106aa8e6a/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8c8c892a-b766-46a5-9fb4-81c2edd8f299/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/05d765ff-7dbe-4281-8358-0badfda86b31/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0657973f-bb90-4132-aabb-8e6b136f5ba2/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2613f1d8-f5c7-4227-ab99-0f16a85c056a/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c132898f-2954-4e61-86cc-72a3628a91ac/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/42b83fe4-c8a1-4e39-9492-72c76c26e359/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/609c68cc-6ea9-4fda-add0-ec34cf0ab0b8/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/486c59af-0c50-4d72-a1c6-14244a2504d2/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8ccfb3f0-d1c8-4e8e-8ebf-22852d913077/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8c15a1b8-411e-4fd2-9dac-780fbecd42b5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/5f268d16-b99e-4391-9312-242721cbc62a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=435f854e-6574-40b6-8215-fbcfa00a0ec2&source=Website",
     "available": "NOW"
   },
   {
