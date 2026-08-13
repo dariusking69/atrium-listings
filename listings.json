@@ -1,5 +1,36 @@
 [
   {
+    "id": 6353,
+    "uuid": "d1c91cf2-402c-4827-8e05-c37ecf5fed19",
+    "address": "210 W Hyde Park Pl Unit 214-7, Tampa, FL 33606",
+    "street": "210 W Hyde Park Pl Unit 214-7",
+    "city": "Tampa",
+    "rent": "$1,174",
+    "rent_val": 1174,
+    "specs": "Studio, 1 ba, 329 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 329,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d1c91cf2-402c-4827-8e05-c37ecf5fed19",
+    "lat": 27.9407689,
+    "lng": -82.4618021,
+    "title": "Beach Flats | Studio Flat, Hyde Park, Tampa",
+    "description": "Start your Tampa story in a smartly designed Hyde Park studio, ranging from 329 to 492 square feet at Beach Flats. Each home is finished with custom tile and stainless steel appliances, and residents share access to a gated courtyard, fire-pit lounge, outdoor grill kitchen, and covered bike storage. It's a smoke-free, pet-friendly community just minutes from Bayshore Boulevard, Hyde Park Village, and the Riverwalk \u2014 perfect for professionals who want an efficient home base near everything South Tampa has to offer. Schedule a private tour today to find your fit.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,174 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/22/26",
+    "terms": [
+      "Rent: $1,174",
+      "Application Fee: $95",
+      "Available 8/22/26"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d1c91cf2-402c-4827-8e05-c37ecf5fed19&source=Website",
+    "available": "8/22/26"
+  },
+  {
     "id": 6351,
     "uuid": "e5dbbe75-9d5c-4866-b285-33373fd0eeff",
     "address": "736 Suncrest Loop # 212, Casselberry, FL 32707",
@@ -6770,8 +6801,8 @@
     "address": "9137 Grand Island Way, Winter Garden, FL 34787",
     "street": "9137 Grand Island Way",
     "city": "Winter Garden",
-    "rent": "$2,750",
-    "rent_val": 2750,
+    "rent": "$2,650",
+    "rent_val": 2650,
     "specs": "3 bd, 2.5 ba, 1,850 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
@@ -18744,53 +18775,6 @@
     "available": "8/28/26"
   },
   {
-    "id": 3070,
-    "uuid": "51eb156f-5f45-4469-a59e-174fe14d5fd2",
-    "address": "2279 Lilybean Loop, Ocoee, FL 34761",
-    "street": "2279 Lilybean Loop",
-    "city": "Ocoee",
-    "rent": "$2,822",
-    "rent_val": 2822,
-    "specs": "4 bd, 2.5 ba, 1,737 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.5,
-    "sqft": 1737,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/aae99c06-6c4e-43c1-8f14-62aec7551101/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/51eb156f-5f45-4469-a59e-174fe14d5fd2",
-    "lat": 28.595799,
-    "lng": -81.540031,
-    "title": "Ocoee Village - NEWLY Constructed Townhomes for RENT!!!",
-    "description": "*SIX WEEKS FREE ON ALL REAGAN MODELS!! 6 weeks free on all available models if applied by August 15 and move-in by August 31! Already Prorated through the term of the lease.*\r\n\r\nExperience the best of townhome living at Ocoee Village. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-429 full intersection. Providing a direct route to Disney World!\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOn weekends, hang out in our sun-drenched, resort-style pool with your favorite people or unwind with a good book in our cabana area. Our playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,822 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,822",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/aae99c06-6c4e-43c1-8f14-62aec7551101/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/07657738-d77a-4de3-b44f-bbe45872a3a1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/73923e8c-0b95-45c9-a252-0756399a6d32/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4aacc90d-4b89-4c6f-b1a4-f9923509f41f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/71ae6482-b5a0-40fa-abfb-2b71eb555356/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5dd511fa-9d29-446e-a5d0-9b235723886d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/cc63ebe5-d457-4d54-bfa6-224db9cbf013/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11f3cf25-3cc5-415a-afa0-5b497ff0d281/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d51a7cbd-6adb-4475-b07e-ba4c42ec3991/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/453aac4a-7a21-4b15-9725-e2a09f102946/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2679ad5-9bfc-4cc1-8f85-5da3d8478c46/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2767fa9-dae0-47a2-a814-9ac10060afbc/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3f1e0427-6761-4edd-8ce0-dd9a87e6d1db/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=51eb156f-5f45-4469-a59e-174fe14d5fd2&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 3065,
     "uuid": "2fe38e97-d0a8-4b22-9826-915607e7e79f",
     "address": "2247 Lilybean Loop, Ocoee, FL 34761",
@@ -19089,8 +19073,8 @@
     "address": "12270 Fox Hound Ln, Orlando, FL 32826",
     "street": "12270 Fox Hound Ln",
     "city": "Orlando",
-    "rent": "$1,535",
-    "rent_val": 1535,
+    "rent": "$1,500",
+    "rent_val": 1500,
     "specs": "1 bd, 1 ba, 1,200 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
