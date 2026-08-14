@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 297,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -54,7 +54,7 @@
     },
     {
       "name": "The Julian",
-      "count": 49,
+      "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 143
+      "count": 140
     },
     {
       "name": "Richmond",
@@ -246,12 +246,12 @@
       "count": 36
     },
     {
-      "name": "Deltona",
-      "count": 30
+      "name": "Winter Springs",
+      "count": 32
     },
     {
-      "name": "Winter Springs",
-      "count": 28
+      "name": "Deltona",
+      "count": 30
     },
     {
       "name": "Macon",
@@ -263,7 +263,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Sandston",
@@ -423,7 +423,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 49,
+      "count": 48,
       "cities": [
         "Orlando"
       ]
@@ -436,17 +436,17 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 31,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 27,
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -513,17 +513,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 13,
+      "name": "Cranes Landing Apartments",
+      "count": 12,
       "cities": [
-        "Orlando"
+        "Winter Park"
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 13,
+      "name": "Mission Club Apartments",
+      "count": 11,
       "cities": [
-        "Winter Park"
+        "Orlando"
       ]
     },
     {
