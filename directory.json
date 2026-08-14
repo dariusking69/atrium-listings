@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 295,
+      "count": 296,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
+      "phone": "(689) 215-1250",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 50,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 214-5228",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 49,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -116,30 +116,12 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -152,12 +134,30 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "name": "Richmond",
-      "count": 72
+      "count": 67
     },
     {
       "name": "Kissimmee",
@@ -271,7 +271,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Lakeland",
@@ -386,5 +386,5 @@
       "count": 1
     }
   ],
-  "total": 611
+  "total": 605
 }
