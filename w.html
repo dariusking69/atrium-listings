@@ -12,6 +12,8 @@
     &accent=003b4a            hex, with or without '#'
     &name=The+Julian          heading text ('' hides the heading)
     &map=0                    hide the map (auto-off for a single community)
+    &font=site|opensans|plex  site (default) matches the host page's font; the other
+                              two pin a fixed brand font
     &sub=480+N+Terry+Ave      sub-heading under the name
   Renter filters (also written by the Share button):
     &q= &beds= &baths= &min= &max= &sort= &rlat=&rlng=&rmi= &poly=
@@ -60,12 +62,16 @@
 #atr-root{
   --accent:#f13d3d; --accent-dk:#c92c2c;
   --ink:#111418; --muted:#5b6570; --line:#e3e6e8; --card:#fff;
-  font-family:inherit; color:var(--ink);
+  /* --font is deliberately NOT declared here: for a custom property `inherit` is the
+     CSS-wide keyword (it would inherit an undefined parent value), so the var() fallback
+     is what gives real inheritance when nothing sets it. JS sets --font for an explicit
+     ?font= pick, the host font sync, or the in-iframe system fallback. */
+  font-family:var(--font,inherit); color:var(--ink);
   max-width:1320px;margin:0 auto;padding:8px 16px 40px;box-sizing:border-box;-webkit-font-smoothing:antialiased;
 }
 #atr-root *{box-sizing:border-box}
 #atr-root a{text-decoration:none;color:inherit}
-#atr-root button{font-family:inherit}
+#atr-root button{font-family:var(--font,inherit)}
 .atr-head{padding:10px 4px 14px;border-bottom:2px solid var(--accent)}
 .atr-head-name{font-size:26px;font-weight:700;letter-spacing:-.01em;color:var(--accent)}
 .atr-head-sub{font-size:14px;color:var(--muted);margin-top:3px}
@@ -115,7 +121,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 #atr-root a.atr-apply{background:#eef1f2;color:var(--ink)}
 #atr-root a.atr-apply:hover{background:#e0e5e7}
 .atr-empty{text-align:center;padding:60px 20px;color:var(--muted)}
-.atr-pop{width:190px;font-family:inherit}
+.atr-pop{width:190px;font-family:var(--font,inherit)}
 .atr-pop img{width:100%;height:104px;object-fit:cover;border-radius:6px;display:block;margin-bottom:6px}
 .atr-pop .pp{font-weight:700;font-size:14px}
 .atr-pop .pt{font-size:12px;color:#333;margin:2px 0 6px;line-height:1.3}
@@ -162,6 +168,31 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     root.style.setProperty('--accent-dk',shade(accent,.82));
   }
   var wantMap = P.get('map')==null ? null : P.get('map')!=='0';
+
+  // ---------- typography ----------
+  // font=site (default): adopt the host page's font. Inside an iframe CSS `inherit`
+  // reaches only the iframe's own blank document — i.e. Times — so we set a proper
+  // sans fallback and let the host's postMessage upgrade it to their real font.
+  // font=opensans|plex: a fixed brand font; an explicit pick always beats the sync.
+  var FONTS={
+    opensans:{stack:'"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif',
+              css:'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap'},
+    plex:    {stack:'"IBM Plex Sans","Helvetica Neue",Helvetica,Arial,sans-serif',
+              css:'https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap'}
+  };
+  var SYSTEM_STACK='system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
+  var fontChoice=(P.get('font')||'site').toLowerCase();
+  var FIXED_FONT=FONTS[fontChoice]||null;
+  (function(){
+    var r=document.getElementById('atr-root');
+    if(FIXED_FONT){
+      var l=document.createElement('link'); l.rel='stylesheet'; l.href=FIXED_FONT.css;
+      document.head.appendChild(l);
+      r.style.setProperty('--font',FIXED_FONT.stack);
+    } else if(IN_IFRAME){
+      r.style.setProperty('--font',SYSTEM_STACK);   // never fall through to Times
+    }
+  })();
 
   fetch(DATA_URL).then(function(r){return r.json();}).then(function(rows){
     // ---- scope FAIL-CLOSED: a supplied scope that matches nothing yields no listings ----
@@ -213,7 +244,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ---------- shareable URL ----------
   var FILTERS={q:'#atr-q',min:'#atr-min',max:'#atr-max',beds:'#atr-beds',baths:'#atr-baths',sort:'#atr-sort'};
-  var KEEP=['property','city','accent','name','sub','map','parent'];   // config params survive Share
+  var KEEP=['property','city','accent','name','sub','map','parent','font'];   // config params survive Share
   function readParams(){
     Object.keys(FILTERS).forEach(function(k){ if(P.has(k)){ var el=$(FILTERS[k]); if(el) el.value=P.get(k); } });
     if(P.has('rlat')&&P.has('rlng')){
@@ -525,8 +556,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   window.addEventListener('message',function(e){
     var d=e.data;
     if(d&&d.type==='atr-font'&&typeof d.font==='string'){
+      if(FIXED_FONT) return;              // an explicit ?font= pick outranks the host's font
       var f=d.font.trim();
-      if(f&&f.length<200&&/^[\w\s,."'()\-]+$/.test(f)){ var r=$('#atr-root'); if(r)r.style.fontFamily=f; }
+      if(f&&f.length<200&&/^[\w\s,."'()\-]+$/.test(f)){ var r=$('#atr-root'); if(r)r.style.setProperty('--font',f); }
     }
   });
 })();
