@@ -31,10 +31,29 @@ jobs:
             echo "Light refresh (grid only)"
             python3 build.py
           fi
+      - name: Sanity-check the generated data
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          d = json.load(open('listings.json'))
+          w = json.load(open('widget-data.json'))
+          dr = json.load(open('directory.json'))
+          errs = []
+          if len(d) < 100: errs.append(f"only {len(d)} listings — feed looks truncated")
+          if len(w) != len(d): errs.append(f"widget-data {len(w)} != listings {len(d)}")
+          tagged = sum(1 for x in d if x.get('property'))
+          if tagged < len(d) * 0.5:
+              errs.append(f"property tags collapsed: {tagged}/{len(d)} tagged")
+          if len(dr['properties']) < 5:
+              errs.append(f"directory has only {len(dr['properties'])} communities")
+          if errs:
+              print("REFRESH FAILED SANITY CHECK:"); [print(" -", e) for e in errs]; sys.exit(1)
+          print(f"OK: {len(d)} listings, {tagged} tagged, {len(dr['properties'])} communities")
+          PY
       - name: Commit if changed
         run: |
           git config user.name  "atrium-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add index.html grid.html listings.json homes
+          git add index.html grid.html listings.json homes widget-data.json directory.json
           git diff --cached --quiet || git commit -m "Refresh listings $(date -u +%FT%TZ)"
           git push

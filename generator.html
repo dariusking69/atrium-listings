@@ -75,6 +75,10 @@
     <label for="sub">Sub-heading</label>
     <input type="text" id="sub" placeholder="e.g. 480 N Terry Ave, Orlando">
 
+    <label for="parentUrl">Page this will live on <span class="hint" style="display:inline">(optional)</span></label>
+    <input type="text" id="parentUrl" placeholder="https://thejulian.com/availability" spellcheck="false">
+    <div class="hint">Makes the Share button copy that page instead of the bare widget.</div>
+
     <div class="checks">
       <label><input type="checkbox" id="showMap"> Show map with pins</label>
     </div>
@@ -154,16 +158,34 @@
     var h=$('#heading').value.trim(); p.set('name',h);      // explicit, so blank means "no heading"
     var sb=$('#sub').value.trim(); if(sb) p.set('sub',sb);
     p.set('map', $('#showMap').checked?'1':'0');
+    var par=$('#parentUrl').value.trim();
+    if(/^https?:\/\//i.test(par)) p.set('parent',par);   // Share copies this page, not the bare widget
     return BASE+'w.html?'+p.toString();
   }
   function embedCode(url){
     var title=($('#heading').value.trim()||'Atrium')+' — Availability';
-    var h=$('#showMap').checked?1500:1400;
-    return '<iframe src="'+url+'"\n'+
+    var h=$('#showMap').checked?1500:1200;   // starting height; the script below auto-fits it
+    return '<iframe id="atrium-listings" src="'+url+'"\n'+
            '        title="'+title.replace(/"/g,'&quot;')+'"\n'+
            '        style="width:100%;height:'+h+'px;border:0;"\n'+
            '        loading="lazy" referrerpolicy="no-referrer-when-downgrade"\n'+
-           '        allow="clipboard-write"></iframe>';
+           '        allow="clipboard-write"></iframe>\n'+
+           '<script>\n'+
+           '(function(){\n'+
+           '  var f=document.getElementById("atrium-listings");\n'+
+           '  // auto-fit the height so there is no nested scrollbar or trailing white space\n'+
+           '  window.addEventListener("message",function(e){\n'+
+           '    if(e.source!==f.contentWindow) return;\n'+
+           '    var d=e.data;\n'+
+           '    if(d&&d.type==="atr-height"&&typeof d.height==="number"&&d.height>200&&d.height<20000)\n'+
+           '      f.style.height=d.height+"px";\n'+
+           '  });\n'+
+           '  // let the widget inherit this page’s font, and know its public URL for Share links\n'+
+           '  function tell(){ try{ f.contentWindow.postMessage({type:"atr-font",\n'+
+           '    font:getComputedStyle(document.body).fontFamily},"*"); }catch(e){} }\n'+
+           '  f.addEventListener("load",tell); setTimeout(tell,1500);\n'+
+           '})();\n'+
+           '<\/script>';
   }
   var t=null;
   function update(){
@@ -191,7 +213,7 @@
     var v=this.value.trim(); if(/^#?[0-9a-fA-F]{6}$/.test(v)) $('#accent').value=v.startsWith('#')?v:'#'+v;
     update();
   });
-  ['#heading','#sub'].forEach(function(s){ $(s).addEventListener('input',update); });
+  ['#heading','#sub','#parentUrl'].forEach(function(s){ $(s).addEventListener('input',update); });
   $('#showMap').addEventListener('change',update);
 
   $('#copy').addEventListener('click',function(){
