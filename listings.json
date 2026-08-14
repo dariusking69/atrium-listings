@@ -13278,41 +13278,6 @@
     "available": "10/3/26"
   },
   {
-    "id": 5285,
-    "uuid": "b3762807-932e-4eff-8c26-ab8238dd9d2a",
-    "address": "3440 N. Goldenrod Road Unit # 421, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 421",
-    "city": "Winter Park",
-    "rent": "$1,499",
-    "rent_val": 1499,
-    "specs": "2 bd, 2 ba, 1,050 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1050,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b3762807-932e-4eff-8c26-ab8238dd9d2a",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,462 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,499",
-      "Application Fee: $79",
-      "Security Deposit: $1,462",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b3762807-932e-4eff-8c26-ab8238dd9d2a&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5282,
     "uuid": "16e416b9-5774-46b9-98dd-7d9beb1e29c6",
     "address": "3113 W. Marshall Street #305, Richmond, VA 23230",
