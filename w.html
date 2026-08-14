@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<!--
+  ATRIUM CONFIGURABLE LISTINGS WIDGET
+  -----------------------------------
+  One hosted widget that scopes itself from the URL, so a new property widget needs no
+  new build or deploy. Build embed codes visually at /generator.html.
+
+  Scope (pick one; omitting both shows the whole portfolio):
+    ?property=The+Julian      one community (name from directory.json)
+    ?city=Gainesville         one city
+  Customisation:
+    &accent=003b4a            hex, with or without '#'
+    &name=The+Julian          heading text ('' hides the heading)
+    &map=0                    hide the map (auto-off for a single community)
+    &sub=480+N+Terry+Ave      sub-heading under the name
+  Renter filters (also written by the Share button):
+    &q= &beds= &baths= &min= &max= &sort= &rlat=&rlng=&rmi= &poly=
+
+  Scoping is FAIL-CLOSED: if property/city is supplied but matches nothing, the widget
+  shows an empty state rather than falling back to the full portfolio.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Availability — Atrium</title>
+</head>
+<body style="margin:0">
+
+<!-- WIDGET START -->
+<div id="atr-root">
+  <div class="atr-head" id="atr-head" style="display:none">
+    <div class="atr-head-name" id="atr-head-name"></div>
+    <div class="atr-head-sub" id="atr-head-sub"></div>
+  </div>
+  <div class="atr-bar">
+    <input id="atr-q" class="atr-in" type="search" placeholder="Search by address, city, or ZIP…" autocomplete="off">
+    <input id="atr-min" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Min Rent">
+    <input id="atr-max" class="atr-in atr-sm" type="number" inputmode="numeric" placeholder="Max Rent">
+    <select id="atr-beds" class="atr-in"><option value="">Beds</option><option value="0">Studio</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option></select>
+    <select id="atr-baths" class="atr-in"><option value="">Baths</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option></select>
+    <select id="atr-sort" class="atr-in"><option value="rent_desc">Rent (High to Low)</option><option value="rent_asc">Rent (Low to High)</option><option value="sqft">Largest first</option><option value="soonest">Available soonest</option></select>
+    <button id="atr-radius" class="atr-toggle" type="button" title="Search within a distance of a point on the map">Radius</button>
+    <select id="atr-radius-mi" class="atr-in" style="display:none"><option value="1">1 mi</option><option value="3">3 mi</option><option value="5" selected>5 mi</option><option value="10">10 mi</option><option value="25">25 mi</option><option value="50">50 mi</option></select>
+    <button id="atr-draw" class="atr-toggle" type="button" title="Draw an area on the map to filter listings inside it">Draw</button>
+    <button id="atr-reset" class="atr-reset" type="button">Reset</button>
+    <button id="atr-share" class="atr-share" type="button" title="Copy a link to these results">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
+      <span class="atr-share-label">Share</span></button>
+    <span id="atr-count" class="atr-count"></span>
+  </div>
+  <div class="atr-split" id="atr-split">
+    <div class="atr-map-wrap" id="atr-map-wrap"><div id="atr-map"></div></div>
+    <div id="atr-grid" class="atr-grid"></div>
+  </div>
+  <div id="atr-empty" class="atr-empty" style="display:none">No homes match your filters.</div>
+</div>
+
+<style>
+#atr-root{
+  --accent:#f13d3d; --accent-dk:#c92c2c;
+  --ink:#111418; --muted:#5b6570; --line:#e3e6e8; --card:#fff;
+  font-family:inherit; color:var(--ink);
+  max-width:1320px;margin:0 auto;padding:8px 16px 40px;box-sizing:border-box;-webkit-font-smoothing:antialiased;
+}
+#atr-root *{box-sizing:border-box}
+#atr-root a{text-decoration:none;color:inherit}
+#atr-root button{font-family:inherit}
+.atr-head{padding:10px 4px 14px;border-bottom:2px solid var(--accent)}
+.atr-head-name{font-size:26px;font-weight:700;letter-spacing:-.01em;color:var(--accent)}
+.atr-head-sub{font-size:14px;color:var(--muted);margin-top:3px}
+.atr-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 4px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.atr-in{font:inherit;font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:6px;padding:9px 12px;outline:none;height:38px}
+.atr-in:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(0,0,0,.08)}
+#atr-q{flex:1 1 200px;min-width:150px}
+.atr-sm{width:104px}
+select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-right:28px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='none' stroke='%235b6570' stroke-width='2'><path d='M1 3l4 4 4-4'/></svg>");
+  background-repeat:no-repeat;background-position:right 10px center}
+.atr-toggle{font:inherit;font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:6px;height:38px;padding:0 12px;cursor:pointer;white-space:nowrap}
+.atr-toggle:hover{border-color:var(--accent)}
+.atr-toggle.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.atr-reset{font:inherit;font-size:13px;font-weight:600;color:var(--accent);background:none;border:0;cursor:pointer;padding:8px;text-decoration:underline}
+.atr-share{font:inherit;font-size:13px;font-weight:600;color:#fff;background:var(--accent);border:0;border-radius:6px;height:38px;padding:0 14px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.atr-share:hover{background:var(--accent-dk)}
+.atr-share.ok{background:#1a7f37}.atr-share.err{background:#8a6d00}
+.atr-count{font-size:13px;color:var(--muted);margin-left:auto}
+.atr-split{display:flex;gap:18px;align-items:flex-start}
+.atr-map-wrap{flex:0 0 40%;position:sticky;top:12px;align-self:flex-start}
+#atr-map{height:calc(100vh - 90px);min-height:520px;border-radius:10px;overflow:hidden;background:#eef1f2;border:1px solid var(--line)}
+.atr-split.nomap .atr-map-wrap{display:none}
+.atr-grid{flex:1 1 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;min-width:0}
+.atr-card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;display:flex;flex-direction:column;
+  transition:box-shadow .16s,transform .16s;animation:atr-rise .42s cubic-bezier(.22,.9,.3,1) both;animation-delay:var(--d,0ms)}
+@keyframes atr-rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.atr-card{animation:none}}
+.atr-card:hover{transform:translateY(-3px);box-shadow:0 14px 32px -18px rgba(0,0,0,.4)}
+.atr-card.atr-hl{box-shadow:0 0 0 2px var(--accent),0 14px 32px -18px rgba(0,0,0,.4)}
+.atr-media{position:relative;display:block;aspect-ratio:4/3;background:#eef1f2}
+.atr-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .35s}
+.atr-media img.on{opacity:1}
+.atr-badge{position:absolute;bottom:0;font-size:13px;font-weight:600;padding:7px 11px;line-height:1}
+.atr-price{left:0;background:var(--accent);color:#fff}
+.atr-avail{right:0;background:rgba(255,255,255,.92);color:var(--ink);font-weight:500}
+.atr-body{display:block;padding:13px 14px 4px}
+.atr-t1{font-size:15.5px;font-weight:700;line-height:1.25;color:var(--accent)}
+.atr-t2{font-size:13px;color:var(--muted);margin-top:2px;line-height:1.35}
+.atr-specs{display:flex;gap:12px;align-items:center;font-size:13px;color:#333;padding:9px 14px 12px;flex-wrap:wrap}
+.atr-specs span{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.atr-specs svg{width:16px;height:16px;flex:none;color:var(--accent)}
+.atr-actions{display:grid;grid-template-columns:1fr 1fr;margin-top:auto}
+.atr-btn{text-align:center;padding:11px 8px;font-size:13.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600}
+#atr-root a.atr-details{background:var(--accent);color:#fff}
+#atr-root a.atr-details:hover{background:var(--accent-dk)}
+#atr-root a.atr-apply{background:#eef1f2;color:var(--ink)}
+#atr-root a.atr-apply:hover{background:#e0e5e7}
+.atr-empty{text-align:center;padding:60px 20px;color:var(--muted)}
+.atr-pop{width:190px;font-family:inherit}
+.atr-pop img{width:100%;height:104px;object-fit:cover;border-radius:6px;display:block;margin-bottom:6px}
+.atr-pop .pp{font-weight:700;font-size:14px}
+.atr-pop .pt{font-size:12px;color:#333;margin:2px 0 6px;line-height:1.3}
+.atr-pop a{color:var(--accent);font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.5px}
+.leaflet-popup-content{margin:10px}
+#atr-map .leaflet-div-icon{background:transparent;border:0}
+#atr-map .atr-pin{filter:drop-shadow(0 1px 1px rgba(0,0,0,.3))}
+@media(max-width:900px){
+  .atr-split{flex-direction:column}
+  .atr-map-wrap{position:relative;top:0;flex:none;width:100%}
+  #atr-map{height:300px;min-height:0}
+  .atr-grid{width:100%;grid-template-columns:repeat(auto-fill,minmax(165px,1fr))}
+}
+</style>
+
+<script>
+(function(){
+  var DATA_URL='widget-data.json', DETAIL_BASE='homes/';
+  var P=new URLSearchParams(location.search);
+  var $=function(s){return document.querySelector(s);};
+  var DATA=[], MAP=null, RADIUS=null, POLY=null, pickMode=false, drawMode=false;
+
+  // ---------- config from URL (sanitised) ----------
+  function hex(v){ v=(v||'').replace(/^#/,''); return /^[0-9a-fA-F]{3}([0-9a-fA-F]{3})?$/.test(v) ? '#'+v : null; }
+  function shade(h,amt){
+    var c=h.slice(1); if(c.length===3) c=c[0]+c[0]+c[1]+c[1]+c[2]+c[2];
+    var n=parseInt(c,16), r=(n>>16)&255, g=(n>>8)&255, b=n&255;
+    var f=function(x){ return Math.max(0,Math.min(255,Math.round(x*amt))); };
+    return '#'+((1<<24)+(f(r)<<16)+(f(g)<<8)+f(b)).toString(16).slice(1);
+  }
+  var SCOPE={ property:(P.get('property')||'').trim(), city:(P.get('city')||'').trim() };
+  var accent=hex(P.get('accent'));
+  if(accent){
+    var root=$('#atr-root');
+    root.style.setProperty('--accent',accent);
+    root.style.setProperty('--accent-dk',shade(accent,.82));
+  }
+  var wantMap = P.get('map')==null ? null : P.get('map')!=='0';
+
+  fetch(DATA_URL).then(function(r){return r.json();}).then(function(rows){
+    // ---- scope FAIL-CLOSED: a supplied scope that matches nothing yields no listings ----
+    var scoped=rows;
+    if(SCOPE.property) scoped=rows.filter(function(l){return (l.p||'').toLowerCase()===SCOPE.property.toLowerCase();});
+    else if(SCOPE.city) scoped=rows.filter(function(l){return (l.c||'').toLowerCase()===SCOPE.city.toLowerCase();});
+
+    DATA=scoped.map(function(l){
+      return {id:l.id, address:l.a||'', unit:l.u||'', city:l.c||'', zip:l.z||'', property:l.p||'',
+              rent:l.r||'', rent_val:l.rv||0, beds:(l.bd==null?null:l.bd), baths:(l.ba==null?null:l.ba),
+              sqft:l.sf==null?null:l.sf, photo:l.ph||'', available:l.av||'NOW', lat:l.lat, lng:l.lng,
+              detail:DETAIL_BASE+l.id+'.html', apply:l.ap||'#'};
+    });
+
+    // ---- heading ----
+    var name = P.get('name');
+    if(name===null) name = SCOPE.property || SCOPE.city || '';
+    name=String(name).slice(0,80);
+    var sub=String(P.get('sub')||'').slice(0,120);
+    if(!sub && SCOPE.property && DATA.length){
+      var addrs={}; DATA.forEach(function(l){ var b=l.address.split(',')[0].replace(/\s*(unit|apt|#|-)\s*\S+.*$/i,'').trim(); addrs[b]=1; });
+      var keys=Object.keys(addrs);
+      sub = keys.length===1 ? (keys[0]+(DATA[0].city?', '+DATA[0].city:'')) : (DATA[0].city||'');
+    }
+    if(name){ $('#atr-head').style.display=''; $('#atr-head-name').textContent=name; $('#atr-head-sub').textContent=sub; }
+
+    // ---- map on/off (auto: off for a single building) ----
+    var oneBuilding=(function(){
+      var s={}; DATA.forEach(function(l){ if(l.lat!=null) s[l.lat.toFixed(4)+','+l.lng.toFixed(4)]=1; });
+      return Object.keys(s).length<=1;
+    })();
+    var showMap = wantMap===null ? !oneBuilding : wantMap;
+    if(!showMap){ $('#atr-split').classList.add('nomap'); ['#atr-radius','#atr-draw','#atr-radius-mi'].forEach(function(s){$(s).style.display='none';}); }
+    if(!SCOPE.property && !SCOPE.city){} // whole portfolio
+
+    buildScopeUI(); readParams(); wire();
+    if(showMap){ MAP=makeMap(); if(MAP.onClick)MAP.onClick(onMapPick);
+      if(RADIUS&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
+      if(POLY&&MAP.drawPolygon)MAP.drawPolygon(POLY); }
+    apply();
+  }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load availability.</p>'; console.error(e); });
+
+  function buildScopeUI(){
+    // A single community doesn't need a free-text search over one address.
+    if(SCOPE.property){ $('#atr-q').style.display='none'; }
+  }
+
+  // ---------- shareable URL ----------
+  var FILTERS={q:'#atr-q',min:'#atr-min',max:'#atr-max',beds:'#atr-beds',baths:'#atr-baths',sort:'#atr-sort'};
+  var KEEP=['property','city','accent','name','sub','map'];   // config params survive Share
+  function readParams(){
+    Object.keys(FILTERS).forEach(function(k){ if(P.has(k)){ var el=$(FILTERS[k]); if(el) el.value=P.get(k); } });
+    if(P.has('rlat')&&P.has('rlng')){
+      RADIUS={lat:parseFloat(P.get('rlat')),lng:parseFloat(P.get('rlng')),mi:parseFloat(P.get('rmi'))||5};
+      var mi=$('#atr-radius-mi'); mi.value=RADIUS.mi; mi.style.display='';
+      var rb=$('#atr-radius'); rb.classList.add('active'); rb.textContent='Radius ✕';
+    }
+    if(P.has('poly')){
+      var nums=P.get('poly').split('_').map(parseFloat).filter(function(n){return !isNaN(n);});
+      var pl=[]; for(var i=0;i+1<nums.length;i+=2) pl.push([nums[i],nums[i+1]]);
+      if(pl.length>=3){ POLY=pl; var db=$('#atr-draw'); db.classList.add('active'); db.textContent='Area ✕'; }
+    }
+  }
+  function syncUrl(){
+    var out=new URLSearchParams();
+    KEEP.forEach(function(k){ if(P.has(k)) out.set(k,P.get(k)); });
+    Object.keys(FILTERS).forEach(function(k){
+      var v=$(FILTERS[k]).value;
+      if(v!=='' && !(k==='sort' && v==='rent_desc')) out.set(k,v);
+    });
+    if(RADIUS){ out.set('rlat',RADIUS.lat.toFixed(5)); out.set('rlng',RADIUS.lng.toFixed(5)); out.set('rmi',RADIUS.mi); }
+    if(POLY&&POLY.length>=3) out.set('poly',POLY.map(function(p){return p[0].toFixed(4)+'_'+p[1].toFixed(4);}).join('_'));
+    var qs=out.toString();
+    try{ history.replaceState(null,'',qs?location.pathname+'?'+qs:location.pathname); }catch(e){}
+  }
+  function copyText(t){
+    try{
+      var ta=document.createElement('textarea'); ta.value=t; ta.setAttribute('readonly','');
+      ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0;border:0;padding:0';
+      document.body.appendChild(ta); ta.focus(); ta.select();
+      try{ ta.setSelectionRange(0,t.length); }catch(e){}
+      var ok=document.execCommand('copy'); document.body.removeChild(ta);
+      if(ok) return Promise.resolve();
+    }catch(e){}
+    if(navigator.clipboard&&navigator.clipboard.writeText) return navigator.clipboard.writeText(t);
+    return Promise.reject();
+  }
+  function share(){
+    syncUrl();
+    var b=$('#atr-share'), l=b.querySelector('.atr-share-label');
+    var flash=function(m,ok){ l.textContent=m; b.classList.toggle('ok',!!ok); b.classList.toggle('err',!ok);
+      setTimeout(function(){ l.textContent='Share'; b.classList.remove('ok'); b.classList.remove('err'); },1800); };
+    copyText(location.href).then(function(){flash('Link copied',true);},function(){flash('Press ⌘/Ctrl+C',false);});
+  }
+
+  // ---------- filter + render ----------
+  function milesBetween(la1,lo1,la2,lo2){
+    var R=3958.8,r=Math.PI/180,dLa=(la2-la1)*r,dLo=(lo2-lo1)*r;
+    var a=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*r)*Math.cos(la2*r)*Math.sin(dLo/2)*Math.sin(dLo/2);
+    return 2*R*Math.asin(Math.sqrt(a));
+  }
+  function inPolygon(lat,lng,poly){
+    var ins=false;
+    for(var i=0,j=poly.length-1;i<poly.length;j=i++){
+      var yi=poly[i][0],xi=poly[i][1],yj=poly[j][0],xj=poly[j][1];
+      if(((yi>lat)!=(yj>lat))&&(lng<(xj-xi)*(lat-yi)/(yj-yi)+xi)) ins=!ins;
+    }
+    return ins;
+  }
+  function availTime(a){
+    if(!a||a.toUpperCase()==='NOW') return 0;
+    var m=a.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4})/); if(!m) return 0;
+    var y=+m[3]; if(y<100)y+=2000; return new Date(y,(+m[1])-1,+m[2]).getTime();
+  }
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function apply(){
+    var q=$('#atr-q').value.trim().toLowerCase();
+    var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
+    var bd=$('#atr-beds').value, ba=$('#atr-baths').value;
+    var rows=DATA.filter(function(l){
+      if(q && l.address.toLowerCase().indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0) return false;
+      if(mn!=null && l.rent_val<mn) return false;
+      if(mx!=null && l.rent_val>0 && l.rent_val>mx) return false;
+      if(bd!==''){ if(bd==='0'){ if(l.beds!==0) return false; } else if((l.beds||0)<+bd) return false; }
+      if(ba!=='' && (l.baths||0)<+ba) return false;
+      if(RADIUS){ if(l.lat==null) return false; if(milesBetween(RADIUS.lat,RADIUS.lng,l.lat,l.lng)>RADIUS.mi) return false; }
+      if(POLY){ if(l.lat==null) return false; if(!inPolygon(l.lat,l.lng,POLY)) return false; }
+      return true;
+    });
+    var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
+    rows.sort(function(a,b){
+      if(s==='rent_asc') return asc(a.rent_val)-asc(b.rent_val);
+      if(s==='sqft')     return (b.sqft||0)-(a.sqft||0);
+      if(s==='soonest')  return availTime(a.available)-availTime(b.available);
+      return b.rent_val-a.rent_val;
+    });
+    render(rows); if(MAP)MAP.setData(rows);
+    var word=SCOPE.property?' unit':' home';
+    $('#atr-count').textContent=rows.length+word+(rows.length===1?' available':'s available');
+    $('#atr-empty').style.display=rows.length?'none':'block';
+    syncUrl();
+  }
+  var ICONS={
+    bed:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 7v11M3 12h18v6M21 18v-4a3 3 0 0 0-3-3H9"/><path d="M3 11V6a1 1 0 0 1 1-1h4a2 2 0 0 1 2 2v2"/></svg>',
+    bath:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 12V6a2 2 0 0 1 4 0M3 12h18v3a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4z"/><path d="M6 19l-1 2M18 19l1 2"/></svg>',
+    ruler:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="8" width="20" height="8" rx="1"/><path d="M6 8v3M10 8v4M14 8v3M18 8v4"/></svg>'
+  };
+  function render(rows){
+    var g=$('#atr-grid'); g.innerHTML='';
+    rows.forEach(function(l,i){
+      var price=l.rent_val>0?esc(l.rent)+'/mo':'Contact';
+      var beds=l.beds===0?'Studio':(l.beds!=null?l.beds+' Bed':'—');
+      var baths=l.baths!=null?l.baths+' Bath':'—';
+      var sqft=l.sqft!=null?l.sqft.toLocaleString()+' sq ft':'—';
+      // In a single-community widget the street repeats on every card, so lead with the unit.
+      var t1 = SCOPE.property && l.unit ? 'Unit '+esc(l.unit) : esc(l.address.split(',')[0]);
+      var t2 = SCOPE.property ? esc([l.city].filter(Boolean).join(', ')) : esc(l.address.split(',').slice(1).join(',').trim());
+      var c=document.createElement('div'); c.className='atr-card'; c.dataset.id=l.id;
+      c.style.setProperty('--d',Math.min(i*20,400)+'ms');
+      c.innerHTML=
+        '<a class="atr-media" href="'+esc(l.detail)+'">'+
+          (l.photo?'<img loading="lazy" src="'+esc(l.photo)+'" alt="">':'')+
+          '<span class="atr-badge atr-price">'+price+'</span>'+
+          '<span class="atr-badge atr-avail">'+esc(l.available)+'</span></a>'+
+        '<a class="atr-body" href="'+esc(l.detail)+'"><div class="atr-t1">'+t1+'</div><div class="atr-t2">'+t2+'</div></a>'+
+        '<div class="atr-specs"><span>'+ICONS.bed+beds+'</span><span>'+ICONS.bath+baths+'</span><span>'+ICONS.ruler+sqft+'</span></div>'+
+        '<div class="atr-actions"><a class="atr-btn atr-details" href="'+esc(l.detail)+'">Details</a>'+
+        '<a class="atr-btn atr-apply" href="'+esc(l.apply)+'" target="_blank" rel="noopener">Apply</a></div>';
+      var img=c.querySelector('img'); if(img){img.onload=function(){img.classList.add('on');}; if(img.complete)img.classList.add('on');}
+      g.appendChild(c);
+    });
+  }
+  function popHtml(l){
+    return '<div class="atr-pop">'+(l.photo?'<img src="'+esc(l.photo)+'" alt="">':'')+
+      '<div class="pp">'+(l.rent_val>0?esc(l.rent):'Contact')+'</div>'+
+      '<div class="pt">'+esc(l.address)+'</div>'+
+      '<a href="'+esc(l.detail)+'">View details →</a></div>';
+  }
+  function highlight(id){
+    document.querySelectorAll('.atr-card.atr-hl').forEach(function(c){c.classList.remove('atr-hl');});
+    var c=document.querySelector('.atr-card[data-id="'+id+'"]');
+    if(c){c.classList.add('atr-hl'); c.scrollIntoView({behavior:'smooth',block:'center'});}
+  }
+  function onMapPick(lat,lng){
+    if(!pickMode) return;
+    pickMode=false;
+    RADIUS={lat:lat,lng:lng,mi:+$('#atr-radius-mi').value||5};
+    $('#atr-radius-mi').style.display='';
+    var b=$('#atr-radius'); b.classList.add('active'); b.textContent='Radius ✕';
+    if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
+    apply();
+  }
+  function simplifyPoly(pts,max){
+    if(pts.length<=max) return pts.slice();
+    var out=[],step=pts.length/max;
+    for(var i=0;i<pts.length;i+=step) out.push(pts[Math.floor(i)]);
+    return out;
+  }
+  function onPolyDone(ll){
+    drawMode=false; var b=$('#atr-draw');
+    if(MAP&&MAP.stopDraw)MAP.stopDraw();
+    if(!ll||ll.length<3){ b.classList.toggle('active',!!POLY); b.textContent=POLY?'Area ✕':'Draw'; return; }
+    POLY=simplifyPoly(ll,40);
+    if(MAP&&MAP.drawPolygon)MAP.drawPolygon(POLY);
+    b.classList.add('active'); b.textContent='Area ✕'; apply();
+  }
+  function reset(){
+    ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
+    ['#atr-beds','#atr-baths'].forEach(function(s){$(s).value='';});
+    $('#atr-sort').value='rent_desc';
+    RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
+    $('#atr-radius-mi').style.display='none';
+    var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='Radius';
+    POLY=null; drawMode=false; if(MAP&&MAP.stopDraw)MAP.stopDraw(); if(MAP&&MAP.clearPolygon)MAP.clearPolygon();
+    var db=$('#atr-draw'); db.classList.remove('active'); db.textContent='Draw';
+    apply();
+  }
+  function wire(){
+    Object.keys(FILTERS).forEach(function(k){ $(FILTERS[k]).addEventListener('input',apply); });
+    $('#atr-reset').addEventListener('click',reset);
+    $('#atr-share').addEventListener('click',share);
+    $('#atr-radius').addEventListener('click',function(){
+      var b=$('#atr-radius');
+      if(RADIUS||pickMode){ RADIUS=null;pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
+        $('#atr-radius-mi').style.display='none'; b.classList.remove('active'); b.textContent='Radius'; apply(); }
+      else { if(drawMode){drawMode=false; if(MAP&&MAP.stopDraw)MAP.stopDraw(); var db=$('#atr-draw'); db.classList.toggle('active',!!POLY); db.textContent=POLY?'Area ✕':'Draw';}
+        pickMode=true; b.classList.add('active'); b.textContent='Click the map…'; }
+    });
+    $('#atr-radius-mi').addEventListener('change',function(){
+      if(RADIUS){ RADIUS.mi=+this.value; if(MAP&&MAP.drawCircle)MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi); apply(); }
+    });
+    $('#atr-draw').addEventListener('click',function(){
+      var b=$('#atr-draw');
+      if(POLY||drawMode){ POLY=null;drawMode=false; if(MAP&&MAP.stopDraw)MAP.stopDraw(); if(MAP&&MAP.clearPolygon)MAP.clearPolygon();
+        b.classList.remove('active'); b.textContent='Draw'; apply(); }
+      else { if(pickMode){pickMode=false; var rb=$('#atr-radius'); rb.classList.toggle('active',!!RADIUS); rb.textContent=RADIUS?'Radius ✕':'Radius';}
+        drawMode=true; b.classList.add('active'); b.textContent='Draw on the map…';
+        if(MAP&&MAP.startDraw)MAP.startDraw(onPolyDone); }
+    });
+  }
+
+  // ---------- map (Leaflet / OpenStreetMap) ----------
+  var RED_PIN_TPL='<svg xmlns="http://www.w3.org/2000/svg" width="26" height="38" viewBox="0 0 26 38"><path d="M13 0C5.8 0 0 5.8 0 13c0 9.2 13 25 13 25s13-15.8 13-25C26 5.8 20.2 0 13 0z" fill="ACCENT"/><circle cx="13" cy="13" r="5" fill="#fff"/></svg>';
+  function pinSvg(){ return RED_PIN_TPL.replace('ACCENT', accent || '#ea4335'); }
+  function loadScript(src,cb){var s=document.createElement('script');s.src=src;s.async=true;s.onload=cb;document.head.appendChild(s);}
+  function loadCss(href){var l=document.createElement('link');l.rel='stylesheet';l.href=href;document.head.appendChild(l);}
+  function makeMap(){
+    var api={pending:null,map:null,layer:null};
+    loadCss('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css');
+    loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',function(){
+      api.map=L.map('atr-map',{scrollWheelZoom:false}).setView([28.4,-81.3],8);
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+        {maxZoom:19,attribution:'&copy; OpenStreetMap, &copy; CARTO'}).addTo(api.map);
+      api.layer=L.layerGroup().addTo(api.map);
+      api.map.on('click',function(e){ if(api._onClick)api._onClick(e.latlng.lat,e.latlng.lng); });
+      try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
+      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();
+        if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}
+        if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}
+        if(api._pendingDraw){api._pendingDraw();api._pendingDraw=null;}
+        if(api.last)api.render(api.last);},60);});
+      if(api.pending){api.render(api.pending);api.pending=null;}
+    });
+    var icon=function(){return L.divIcon({className:'atr-pin',html:pinSvg(),iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
+    api.render=function(rows){
+      api.last=rows; api.map.invalidateSize(); api.layer.clearLayers();
+      var pts=[];
+      rows.forEach(function(l){ if(l.lat==null||l.lng==null)return;
+        var m=L.marker([l.lat,l.lng],{icon:icon()}).bindPopup(popHtml(l));
+        m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
+      });
+      if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
+      else if(api._poly){ api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]}); }
+      else if(pts.length){
+        var bb=L.latLngBounds(pts);
+        if(bb.getNorth()-bb.getSouth()<0.004&&bb.getEast()-bb.getWest()<0.004) api.map.setView(bb.getCenter(),15);
+        else api.map.fitBounds(pts,{padding:[40,40],maxZoom:13});
+      }
+    };
+    api.drawCircle=function(lat,lng,mi){
+      var d=function(){
+        if(api._circle)api.map.removeLayer(api._circle);
+        if(api._center)api.map.removeLayer(api._center);
+        var col=accent||'#ea4335';
+        api._circle=L.circle([lat,lng],{radius:mi*1609.34,color:col,weight:2,fillColor:col,fillOpacity:.07,interactive:false}).addTo(api.map);
+        api._center=L.circleMarker([lat,lng],{radius:5,color:'#fff',weight:2,fillColor:col,fillOpacity:1,interactive:false}).addTo(api.map);
+        api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]});
+      };
+      if(api.map)d(); else api._pendingCircle=d;
+    };
+    api.clearCircle=function(){
+      if(api._circle){api.map.removeLayer(api._circle);api._circle=null;}
+      if(api._center){api.map.removeLayer(api._center);api._center=null;}
+      api._pendingCircle=null;
+    };
+    api.drawPolygon=function(ll){
+      var d=function(){
+        if(api._poly)api.map.removeLayer(api._poly);
+        var col=accent||'#ea4335';
+        api._poly=L.polygon(ll,{color:col,weight:2,fillColor:col,fillOpacity:.08,interactive:false}).addTo(api.map);
+        try{api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]});}catch(e){}
+      };
+      if(api.map)d(); else api._pendingPoly=d;
+    };
+    api.clearPolygon=function(){ if(api._poly){api.map.removeLayer(api._poly);api._poly=null;} api._pendingPoly=null; };
+    api.startDraw=function(done){
+      if(!api.map){ api._pendingDraw=function(){api.startDraw(done);}; return; }
+      var map=api.map, cont=map.getContainer();
+      map.dragging.disable(); if(map.tap)map.tap.disable(); cont.style.cursor='crosshair';
+      var drawing=false, pts=[], line=null;
+      var toLL=function(ev){ var t=ev.touches?ev.touches[0]:ev; var r=cont.getBoundingClientRect();
+        return map.containerPointToLatLng(L.point(t.clientX-r.left,t.clientY-r.top)); };
+      var down=function(ev){ ev.preventDefault(); drawing=true; pts=[toLL(ev)];
+        if(line)map.removeLayer(line); line=L.polyline(pts,{color:accent||'#ea4335',weight:2}).addTo(map); };
+      var move=function(ev){ if(!drawing)return; ev.preventDefault(); pts.push(toLL(ev)); line.setLatLngs(pts); };
+      var up=function(){ if(!drawing)return; drawing=false; if(line){map.removeLayer(line);line=null;}
+        done(pts.map(function(p){return [p.lat,p.lng];})); };
+      api._draw={cont:cont,down:down,move:move,up:up};
+      cont.addEventListener('pointerdown',down); cont.addEventListener('pointermove',move); window.addEventListener('pointerup',up);
+    };
+    api.stopDraw=function(){
+      var d=api._draw;
+      if(d){ d.cont.removeEventListener('pointerdown',d.down); d.cont.removeEventListener('pointermove',d.move);
+        window.removeEventListener('pointerup',d.up); d.cont.style.cursor=''; api._draw=null; }
+      if(api.map){ api.map.dragging.enable(); if(api.map.tap)api.map.tap.enable(); }
+    };
+    return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
+            refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); },
+            onClick:function(cb){api._onClick=cb;}, drawCircle:api.drawCircle, clearCircle:api.clearCircle,
+            drawPolygon:api.drawPolygon, clearPolygon:api.clearPolygon, startDraw:api.startDraw, stopDraw:api.stopDraw};
+  }
+
+  window.addEventListener('pageshow',function(){ if(MAP&&MAP.refresh)MAP.refresh(); });
+  window.addEventListener('message',function(e){
+    var d=e.data;
+    if(d&&d.type==='atr-font'&&typeof d.font==='string'){
+      var f=d.font.trim();
+      if(f&&f.length<200&&/^[\w\s,."'()\-]+$/.test(f)){ var r=$('#atr-root'); if(r)r.style.fontFamily=f; }
+    }
+  });
+})();
+</script>
+<!-- WIDGET END -->
+
+</body>
+</html>

@@ -170,7 +170,17 @@ def fetch_detail(listing):
     pets = _items(m.group(1) if m else "")
     m = re.search(r'rental_applications/new\?listable_uid=([a-f0-9-]+)', h)
     apply_url = f"{BASE}/listings/rental_applications/new?listable_uid={m.group(1)}&source=Website" if m else listing["appfolio_url"]
-    listing.update(title=title, description=desc, terms=terms, pets=pets,
+    # Property/portfolio identity: the detail page sidebar carries the community name,
+    # its logo and leasing phone. Named communities give e.g. "The Julian"; scattered
+    # single-family rentals fall back to the default company portfolio name.
+    m = re.search(r'<img alt="([^"]*)"\s+class="sidebar__portfolio-logo"', h)
+    prop = _clean(m.group(1)).rstrip("*").strip() if m else ""
+    m = re.search(r'sidebar__portfolio-logo"\s+src="([^"]+)"', h)
+    logo = m.group(1) if m else ""
+    m = re.search(r'portfolio-logo.*?</div>.*?<div[^>]*>\s*([^<]+)<br>\s*([\(\)\d\s.\-]{10,20})<br>', h, re.S)
+    phone = m.group(2).strip() if m else ""
+    listing.update(property=prop, logo=logo, phone=phone,
+                   title=title, description=desc, terms=terms, pets=pets,
                    photos=photos or ([listing["photo"]] if listing["photo"] else []),
                    apply_url=apply_url)
     return listing
@@ -185,8 +195,9 @@ def enrich(listings, force=False):
     todo = []
     for l in listings:
         c = cache.get(l["id"])
-        if c and not force and c.get("photos"):
-            l.update({k: c[k] for k in ("title", "description", "terms", "pets", "photos", "apply_url") if k in c})
+        if c and not force and c.get("photos") and c.get("property") is not None:
+            l.update({k: c[k] for k in ("title", "description", "terms", "pets", "photos", "apply_url",
+                                        "property", "logo", "phone") if k in c})
         else:
             todo.append(l)
     if todo:
@@ -249,6 +260,10 @@ def build(listings):
     for l in listings:
         l["available"] = derive_available(l.get("terms"))
         l["city"] = parse_city(l.get("address", ""))  # re-derive so cached data is corrected too
+        m = re.search(r"(\d{5})(?:-\d{4})?\s*$", l.get("address", ""))
+        l["zip"] = m.group(1) if m else ""
+        m = re.search(r"\b(?:unit|apt|apartment|#)\s*([A-Za-z0-9-]+)", l.get("street", ""), re.I)
+        l["unit"] = m.group(1) if m else ""
     (HERE / "homes").mkdir(exist_ok=True)
     for l in listings:
         (HERE / "homes" / f'{l["id"]}.html').write_text(build_detail_page(l), encoding="utf-8")
@@ -269,6 +284,39 @@ def build(listings):
         '<script>location.replace("widget.html"+location.search+location.hash)</script>'
         '<a href="widget.html">View residential listings</a>', encoding="utf-8")
     (HERE / "listings.json").write_text(json.dumps(listings, indent=2), encoding="utf-8")
+
+    # Slim feed for the configurable widget (w.html) + generator. Grid fields only —
+    # every embed downloads this once, so keep it small (no descriptions/galleries).
+    slim = [{
+        "id": l.get("id"), "a": l.get("address", ""), "u": l.get("unit", ""),
+        "c": l.get("city", ""), "z": l.get("zip", ""), "p": l.get("property", ""),
+        "r": l.get("rent", ""), "rv": l.get("rent_val", 0),
+        "bd": l.get("beds"), "ba": l.get("baths"), "sf": l.get("sqft"),
+        "ph": l.get("photo", ""), "av": l.get("available", "NOW"),
+        "lat": l.get("lat"), "lng": l.get("lng"),
+        "ap": l.get("apply_url") or l.get("appfolio_url", ""),
+    } for l in listings]
+    (HERE / "widget-data.json").write_text(json.dumps(slim, separators=(",", ":")), encoding="utf-8")
+
+    # Directory of scopes the generator offers (property communities + cities).
+    props, cities = {}, {}
+    for l in listings:
+        p = (l.get("property") or "").strip()
+        if p:
+            e = props.setdefault(p, {"name": p, "count": 0, "logo": l.get("logo", ""),
+                                     "phone": l.get("phone", ""), "cities": set()})
+            e["count"] += 1
+            e["cities"].add(l.get("city", ""))
+        ct = (l.get("city") or "").strip()
+        if ct:
+            cities[ct] = cities.get(ct, 0) + 1
+    directory = {
+        "properties": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
+                              for v in props.values()), key=lambda x: -x["count"]),
+        "cities": sorted(({"name": k, "count": v} for k, v in cities.items()), key=lambda x: -x["count"]),
+        "total": len(listings),
+    }
+    (HERE / "directory.json").write_text(json.dumps(directory, indent=2), encoding="utf-8")
     print(f"Built index.html + {len(listings)} detail pages in homes/")
 
 
