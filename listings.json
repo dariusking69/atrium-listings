@@ -1,5 +1,73 @@
 [
   {
+    "id": 6426,
+    "uuid": "9211c641-ef67-4f53-9078-13b1cdc4cd4c",
+    "address": "6613 Mission Club Blvd # 11-307, Orlando, FL 32821",
+    "street": "6613 Mission Club Blvd # 11-307",
+    "city": "Orlando",
+    "rent": "$1,953",
+    "rent_val": 1953,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9211c641-ef67-4f53-9078-13b1cdc4cd4c",
+    "lat": 28.3876359,
+    "lng": -81.4722765,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,953 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/8/26",
+    "terms": [
+      "Rent: $1,953",
+      "Application Fee: $79",
+      "Available 9/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9211c641-ef67-4f53-9078-13b1cdc4cd4c&source=Website",
+    "available": "9/8/26"
+  },
+  {
+    "id": 6425,
+    "uuid": "4fcbff97-e460-432f-9ab5-9dff5ead735a",
+    "address": "6715 Mission Club Blvd # 02-105, Orlando, FL 32821",
+    "street": "6715 Mission Club Blvd # 02-105",
+    "city": "Orlando",
+    "rent": "$1,968",
+    "rent_val": 1968,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4fcbff97-e460-432f-9ab5-9dff5ead735a",
+    "lat": 28.386396,
+    "lng": -81.4726922,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,968 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 10/7/26",
+    "terms": [
+      "Rent: $1,968",
+      "Application Fee: $79",
+      "Available 10/7/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4fcbff97-e460-432f-9ab5-9dff5ead735a&source=Website",
+    "available": "10/7/26"
+  },
+  {
     "id": 6423,
     "uuid": "e0eb88ec-7198-442b-88bf-4e46b3724e2d",
     "address": "2050 Old Clinton Rd Unit R6, Macon, GA 31211",
@@ -6000,51 +6068,6 @@
     "available": "NOW"
   },
   {
-    "id": 6207,
-    "uuid": "e90ffac1-e01a-496f-9a02-f9b1d469a5d1",
-    "address": "5342 Lake Margaret Drive Unit # 342 - 0503, Orlando, FL 32812",
-    "street": "5342 Lake Margaret Drive Unit # 342 - 0503",
-    "city": "Orlando",
-    "rent": "$1,424 - $1,521",
-    "rent_val": 1424,
-    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 923,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e90ffac1-e01a-496f-9a02-f9b1d469a5d1",
-    "lat": 28.5053214,
-    "lng": -81.3169592,
-    "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,424 - $1,521 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
-    "terms": [
-      "Rent: $1,424 - $1,521",
-      "Application Fee: $99",
-      "Available 11/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a938281-c825-408f-895e-cfcdc4b8aa39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ce0e5ea-2721-4dbf-b7e4-13078bc80100/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/607cd82b-28d6-440c-a26b-504fff885ad9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a814fae-adc3-4046-a761-14ff28635d02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ee06a70-d861-4f28-b5c2-9da1dbf2ebeb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03439119-a3ac-424f-b9ca-c3230bf572ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee9015b3-39d6-43ce-9600-c0a95148fe5d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ee6c7f-41c9-4010-8820-5ed2f3f0ab1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a643af-2409-47f5-86ba-6948cbd1077b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/735122b0-7a49-4360-b4df-c3b4fbac31e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b4384c7-60ea-499a-9240-8c3447455689/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e90ffac1-e01a-496f-9a02-f9b1d469a5d1&source=Website",
-    "available": "11/8/26"
-  },
-  {
     "id": 6206,
     "uuid": "ac56191d-e1df-4bd7-86b0-1c9c15624ea8",
     "address": "1710 E Broad St Apt 409, Richmond, VA 23223-7291",
@@ -6078,42 +6101,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ac56191d-e1df-4bd7-86b0-1c9c15624ea8&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 6205,
-    "uuid": "07e2ddbc-6389-4177-b9af-1f1dd6e81c96",
-    "address": "1710 E Broad St Apt 306, Richmond, VA 23223-7286",
-    "street": "1710 E Broad St Apt 306",
-    "city": "Richmond",
-    "rent": "$1,099",
-    "rent_val": 1099,
-    "specs": "1 bd, 1 ba, 617 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 617,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ad9514a0-cc82-44c8-aeb8-068d9e58c938/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/07e2ddbc-6389-4177-b9af-1f1dd6e81c96",
-    "lat": 37.5360498,
-    "lng": -77.4256982,
-    "title": "A.4",
-    "description": "Cozy 1-Bedroom Apartment | 617 Sq. Ft.\r\nEnjoy modern comfort and efficient living in this thoughtfully designed 617-square-foot, one-bedroom, one-bath apartment at Raven's Place Apartments. This inviting floor plan features an open living area that flows into a contemporary kitchen, creating a functional space perfect for relaxing, entertaining, or working from home.\r\n\r\nThe private bedroom offers generous closet space, while the well-appointed bathroom and in-home washer and dryer provide everyday convenience. Beautiful bamboo flooring and granite countertops add a touch of style and sophistication to your home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,099",
-      "Admin Fee: $235",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/ad9514a0-cc82-44c8-aeb8-068d9e58c938/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=07e2ddbc-6389-4177-b9af-1f1dd6e81c96&source=Website",
     "available": "NOW"
   },
   {
@@ -14366,6 +14353,40 @@
     "available": "NOW"
   },
   {
+    "id": 5592,
+    "uuid": "55635c12-a996-43a7-af65-240b84092d2b",
+    "address": "6648 Mission Club Blvd # 08-209, Orlando, FL 32821",
+    "street": "6648 Mission Club Blvd # 08-209",
+    "city": "Orlando",
+    "rent": "$1,999",
+    "rent_val": 1999,
+    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1126,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/55635c12-a996-43a7-af65-240b84092d2b",
+    "lat": 28.3868055,
+    "lng": -81.4715016,
+    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft.",
+    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,999 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/8/26",
+    "terms": [
+      "Rent: $1,999",
+      "Application Fee: $79",
+      "Available 9/8/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=55635c12-a996-43a7-af65-240b84092d2b&source=Website",
+    "available": "9/8/26"
+  },
+  {
     "id": 5588,
     "uuid": "31533270-760f-434f-ad48-3e779a2c2577",
     "address": "6727 Mission Club Blvd # 01-109, Orlando, FL 32821",
@@ -15254,10 +15275,11 @@
     "lat": 28.3878162,
     "lng": -81.4714856,
     "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,296 - $1,333 \n\n\n\n\n Application Fee: $79",
+    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,296 - $1,333 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/19/26",
     "terms": [
       "Rent: $1,296 - $1,333",
-      "Application Fee: $79"
+      "Application Fee: $79",
+      "Available 8/19/26"
     ],
     "pets": [
       "Cats allowed",
@@ -15268,7 +15290,7 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=eef88cc9-9da8-4985-a92e-de6c3dae6675&source=Website",
-    "available": "NOW"
+    "available": "8/19/26"
   },
   {
     "id": 5426,
@@ -17615,6 +17637,40 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=757e2d86-0ec1-47c4-bfc9-b21e29e03bcc&source=Website",
     "available": "9/10/26"
+  },
+  {
+    "id": 4322,
+    "uuid": "5ee47944-af96-4f8e-816a-8fac39e47c04",
+    "address": "6663 Mission Club Blvd # 06-206, Orlando, FL 32821",
+    "street": "6663 Mission Club Blvd # 06-206",
+    "city": "Orlando",
+    "rent": "$1,608 - $1,688",
+    "rent_val": 1608,
+    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 962,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5ee47944-af96-4f8e-816a-8fac39e47c04",
+    "lat": 28.386782,
+    "lng": -81.472261,
+    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
+    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,608 - $1,688 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/25/26",
+    "terms": [
+      "Rent: $1,608 - $1,688",
+      "Application Fee: $79",
+      "Available 8/25/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5ee47944-af96-4f8e-816a-8fac39e47c04&source=Website",
+    "available": "8/25/26"
   },
   {
     "id": 4270,
@@ -23893,8 +23949,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c306955d-fe7e-4d35-8391-7339a5531eda",
     "lat": 29.6286213,
     "lng": -82.3759788,
-    "title": "ONE MONTH FREE!!! MOVE IN NOW!!!",
-    "description": "ONE MONTH FREE!!! The First 8 Months of your lease will be discounted up to $144.00 Per Month!!!\r\n\r\nWelcome home to this Newly Renovated Apartment at The Hammocks By Butler! Featuring brand new quartz counter tops, luxury vinyl plank hardwood floors, stainless steel appliances, upgraded cabinets and SO much more! THIS RENOVATION IS A MUST SEE! You will also love the Oversized Walk-In Closet and Open Concept Floor-plan. \r\n\r\nStay cool all year long by the pool with all new furniture or cook out on the brand new gas grilling station. Additionally, enjoy access to the brand new state of the art gym facility of our sister property right around the corner!\r\n\r\nCommunity includes pool, access to 24 hr. fitness center and clubhouse, 24 hr laundry facility and newly renovated courtyard with gas grills!\r\n\r\nAt The Hammocks by Butler the name says it all, the location of this community couldn\u2019t be closer to Butler Plaza. For foodies, no ingredients are out of reach with Trader Joes, Publix, Whole Foods, and Aldi all right in your back yard. Not a cook, dine in at 4 Rivers, Bahama Breeze, Bonefish Grill, PF Changs, or a multitude of other options. Do it all in style after shopping at Target, REI, Anthropology, and Agapanthus. Or stay in and enjoy the amazing on site amenities Pool, Covered Grilling Station, Hammock Hangout, and Community Fire Pit. In front of the community is Free transportation to the University and Shands via RTS.\r\n\r\nPlease call (352) 377-2596 to schedule your private showing! AVAILABLE NOW!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,149 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "title": "ONE MONTH FREE!!! Only $250 Moves you in!!! MOVE IN TODAY!",
+    "description": "ONE MONTH FREE!!! Only $250 Moves you in!!! MOVE IN TODAY! Lease must be signed by 8/19 and must move in by 8/31\r\n\r\nWelcome home to this Newly Renovated Apartment at The Hammocks By Butler! Featuring brand new quartz counter tops, luxury vinyl plank hardwood floors, stainless steel appliances, upgraded cabinets and SO much more! THIS RENOVATION IS A MUST SEE! You will also love the Oversized Walk-In Closet and Open Concept Floor-plan. \r\n\r\nStay cool all year long by the pool with all new furniture or cook out on the brand new gas grilling station. Additionally, enjoy access to the brand new state of the art gym facility of our sister property right around the corner!\r\n\r\nCommunity includes pool, access to 24 hr. fitness center and clubhouse, 24 hr laundry facility and newly renovated courtyard with gas grills!\r\n\r\nAt The Hammocks by Butler the name says it all, the location of this community couldn\u2019t be closer to Butler Plaza. For foodies, no ingredients are out of reach with Trader Joes, Publix, Whole Foods, and Aldi all right in your back yard. Not a cook, dine in at 4 Rivers, Bahama Breeze, Bonefish Grill, PF Changs, or a multitude of other options. Do it all in style after shopping at Target, REI, Anthropology, and Agapanthus. Or stay in and enjoy the amazing on site amenities Pool, Covered Grilling Station, Hammock Hangout, and Community Fire Pit. In front of the community is Free transportation to the University and Shands via RTS.\r\n\r\nPlease call (352) 377-2596 to schedule your private showing! AVAILABLE NOW!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,149 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,149",
       "Application Fee: $50",
@@ -24014,8 +24070,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7afda2e8-8b01-418c-a0bd-9cd23e08c447",
     "lat": 29.6159392,
     "lng": -82.3716538,
-    "title": "ONE MONTH FREE!!! MOVE IN NOW!!!",
-    "description": "ONE MONTH FREE!!! The First 8 Months of your lease will be discounted up to $141.00 Per Month!!!\r\n\r\nRenovated One Bedroom Apartment!!! Featuring brand new quartz counter tops, luxury vinyl plank hardwood floors, stainless steel appliances, upgraded cabinets, all new fixtures, large walk in closets, and SO much more! MUST SEE!\r\n\r\nThis close knit community is focused around a centrally located community area. Come relax with a glass of wine by the fire pit, under the trees and caf\u00e9 lights, or have some friends over for a cook out at the outdoor kitchen and relax while taking in the beautiful artwork crafted by a local artist.\r\n\r\nStay cool all year long by the pool and enjoy access to the brand new state of the art gym facility of our sister property right around the corner! \r\n\r\nCommunity includes 24 hr laundry facility and newly renovated courtyard with gas grills! Minutes from the University of Florida, VA hospital, Shands at UF, North Florida Regional, Butler Plaza, and Celebration Pointe. In front of the community is Free transportation to the University and Shands via RTS.\r\n\r\nPlease call (352) 375-3077 to schedule your private showing! AVAILABLE NOW!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "title": "ONE MONTH FREE!!! Only $250 Moves you in!!! MOVE IN TODAY!",
+    "description": "ONE MONTH FREE!!! Only $250 Moves you in!!! MOVE IN TODAY! Lease must be signed by 8/19 and must move in by 8/31\r\n\r\nRenovated One Bedroom Apartment!!! Featuring brand new quartz counter tops, luxury vinyl plank hardwood floors, stainless steel appliances, upgraded cabinets, all new fixtures, large walk in closets, and SO much more! MUST SEE!\r\n\r\nThis close knit community is focused around a centrally located community area. Come relax with a glass of wine by the fire pit, under the trees and caf\u00e9 lights, or have some friends over for a cook out at the outdoor kitchen and relax while taking in the beautiful artwork crafted by a local artist.\r\n\r\nStay cool all year long by the pool and enjoy access to the brand new state of the art gym facility of our sister property right around the corner! \r\n\r\nCommunity includes 24 hr laundry facility and newly renovated courtyard with gas grills! Minutes from the University of Florida, VA hospital, Shands at UF, North Florida Regional, Butler Plaza, and Celebration Pointe. In front of the community is Free transportation to the University and Shands via RTS.\r\n\r\nPlease call (352) 375-3077 to schedule your private showing! AVAILABLE NOW!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,099",
       "Application Fee: $50",
@@ -24190,8 +24246,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/751aa4e8-de6e-471b-aec3-d3e1c2799215",
     "lat": 29.6333252,
     "lng": -82.3801059,
-    "title": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!!",
-    "description": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!! \r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "title": "MOVE IN FOR ONLY $250.00!!! IMMEDIATE MOVE IN!!!",
+    "description": "Only $250 Moves you in!!! MOVE IN TODAY! Lease must be signed by 8/19 and must move in by 8/31\r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
       "Rent: $1,099",
       "Application Fee: $50",
@@ -24259,8 +24315,8 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a59677b5-3d88-48b1-b86a-3e769f1470d8",
     "lat": 29.6333252,
     "lng": -82.3801059,
-    "title": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!!",
-    "description": "ONLY $899!!! LIMITED AVAILABLITY, ONLY A FEW UNITS LEFT!!! MUST SIGN BY 8/12/26!!! \r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $899 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
+    "title": "MOVE IN FOR ONLY $250.00!!! IMMEDIATE MOVE IN!!!",
+    "description": "Only $250 Moves you in!!! MOVE IN TODAY! Lease must be signed by 8/19 and must move in by 8/31\r\n\r\nDiscover your next home in a sought-after Hammocks community, freshly renovated and move-in ready. Inside, you'll find brand-new granite countertops, gleaming hardwood floors, upgraded cabinetry, and white appliances, plus ceiling fans throughout, a spacious walk-in closet, and a dedicated dining area. The details are already done, all you have to do is move in.\r\n\r\nStep outside and enjoy everything the community has to offer. Beat the heat at the resort-style pool with all-new furniture, fire up the brand-new gas grill stations in the newly renovated courtyard, or break a sweat in the state-of-the-art fitness center with brand-new equipment. A 24-hour laundry facility and welcoming clubhouse round out the experience.\r\n\r\nAnd the location couldn't be better, just minutes from the University of Florida, UF Health Shands, the VA Hospital, North Florida Regional Medical Center, Butler Plaza, and The Oaks Mall.\r\n\r\nCall (352) 375-3077 to schedule your private showing, units are available now!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $899 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
       "Rent: $899",
       "Application Fee: $50",
