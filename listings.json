@@ -1,5 +1,1535 @@
 [
   {
+    "id": 6408,
+    "uuid": "9959d117-bb87-4d9a-9286-cdda7282c24a",
+    "address": "480 N Terry Ave Unit 1221, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1221",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9959d117-bb87-4d9a-9286-cdda7282c24a",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9959d117-bb87-4d9a-9286-cdda7282c24a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6407,
+    "uuid": "a701823d-af86-4b2d-b216-1636d7e605ad",
+    "address": "480 N Terry Ave Unit 1215, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1215",
+    "city": "Orlando",
+    "rent": "$1,555",
+    "rent_val": 1555,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a701823d-af86-4b2d-b216-1636d7e605ad",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,555 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,555",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a701823d-af86-4b2d-b216-1636d7e605ad&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6406,
+    "uuid": "444af388-6152-48d3-9b3b-2fee9a924050",
+    "address": "480 N Terry Ave Unit 1121, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1121",
+    "city": "Orlando",
+    "rent": "$1,540",
+    "rent_val": 1540,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/444af388-6152-48d3-9b3b-2fee9a924050",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,540 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,540",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=444af388-6152-48d3-9b3b-2fee9a924050&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6405,
+    "uuid": "f00bf867-2fcd-49a6-b5ce-a8022c45eb38",
+    "address": "480 N Terry Ave Unit 1120, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1120",
+    "city": "Orlando",
+    "rent": "$2,545",
+    "rent_val": 2545,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f00bf867-2fcd-49a6-b5ce-a8022c45eb38",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,545 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,545",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f00bf867-2fcd-49a6-b5ce-a8022c45eb38&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6404,
+    "uuid": "69196305-a9b7-4573-a3f8-1f22c0bf8dc4",
+    "address": "480 N Terry Ave Unit 1117, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1117",
+    "city": "Orlando",
+    "rent": "$1,565",
+    "rent_val": 1565,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/69196305-a9b7-4573-a3f8-1f22c0bf8dc4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,565 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,565",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=69196305-a9b7-4573-a3f8-1f22c0bf8dc4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6403,
+    "uuid": "6adf42a4-be85-4dc8-8572-a048a5c6d029",
+    "address": "480 N Terry Ave Unit 1113, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1113",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6adf42a4-be85-4dc8-8572-a048a5c6d029",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6adf42a4-be85-4dc8-8572-a048a5c6d029&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6402,
+    "uuid": "a86bd861-69a0-48dc-93e1-b8bcdbeda7a4",
+    "address": "480 N Terry Ave Unit 1023, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1023",
+    "city": "Orlando",
+    "rent": "$2,590",
+    "rent_val": 2590,
+    "specs": "3 bd, 2 ba, 1,291 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1291,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a86bd861-69a0-48dc-93e1-b8bcdbeda7a4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,590 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,590",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a86bd861-69a0-48dc-93e1-b8bcdbeda7a4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6401,
+    "uuid": "a00dbad5-6e7e-4524-9ed7-5fdd7e0fbd44",
+    "address": "480 N Terry Ave Unit 1021, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1021",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a00dbad5-6e7e-4524-9ed7-5fdd7e0fbd44",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a00dbad5-6e7e-4524-9ed7-5fdd7e0fbd44&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6400,
+    "uuid": "8a40382d-0a29-409d-8e9b-dffb656cd311",
+    "address": "480 N Terry Ave Unit 1009, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1009",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8a40382d-0a29-409d-8e9b-dffb656cd311",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8a40382d-0a29-409d-8e9b-dffb656cd311&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6399,
+    "uuid": "074d5fa9-c58f-4949-921c-e479933bb34d",
+    "address": "480 N Terry Ave Unit 0923, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0923",
+    "city": "Orlando",
+    "rent": "$2,585",
+    "rent_val": 2585,
+    "specs": "3 bd, 2 ba, 1,291 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1291,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/074d5fa9-c58f-4949-921c-e479933bb34d",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,585 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,585",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=074d5fa9-c58f-4949-921c-e479933bb34d&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6398,
+    "uuid": "fe858667-0483-4bfb-9165-962dd951527a",
+    "address": "480 N Terry Ave Unit 0821, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0821",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fe858667-0483-4bfb-9165-962dd951527a",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fe858667-0483-4bfb-9165-962dd951527a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6397,
+    "uuid": "3a638336-b28c-4a9a-85f4-e0046ac110ec",
+    "address": "480 N Terry Ave Unit 0815, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0815",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3a638336-b28c-4a9a-85f4-e0046ac110ec",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3a638336-b28c-4a9a-85f4-e0046ac110ec&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6396,
+    "uuid": "7b14a69a-ea36-4236-a1bf-e5edc520b881",
+    "address": "480 N Terry Ave Unit 0717, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0717",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7b14a69a-ea36-4236-a1bf-e5edc520b881",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7b14a69a-ea36-4236-a1bf-e5edc520b881&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6395,
+    "uuid": "c457a319-bff5-42a7-9c73-80cdf050e3d2",
+    "address": "480 N Terry Ave Unit 0711, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0711",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c457a319-bff5-42a7-9c73-80cdf050e3d2",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c457a319-bff5-42a7-9c73-80cdf050e3d2&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6394,
+    "uuid": "13719da3-ba51-4a7a-b710-409014044691",
+    "address": "480 N Terry Ave Unit 0621, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0621",
+    "city": "Orlando",
+    "rent": "$1,505",
+    "rent_val": 1505,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/13719da3-ba51-4a7a-b710-409014044691",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,505 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,505",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=13719da3-ba51-4a7a-b710-409014044691&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6393,
+    "uuid": "3dfc6eaf-6c79-4318-82d9-9aadf849b1cb",
+    "address": "480 N Terry Ave Unit 0507, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0507",
+    "city": "Orlando",
+    "rent": "$1,738",
+    "rent_val": 1738,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3dfc6eaf-6c79-4318-82d9-9aadf849b1cb",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,738 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,738",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3dfc6eaf-6c79-4318-82d9-9aadf849b1cb&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6392,
+    "uuid": "d5537e36-9564-4585-ba22-68a28baa603b",
+    "address": "480 N Terry Ave Unit 0321, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0321",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 391 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 391,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d5537e36-9564-4585-ba22-68a28baa603b",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d5537e36-9564-4585-ba22-68a28baa603b&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6391,
+    "uuid": "842c4daf-1230-4d21-8d7c-d6d3ca412e39",
+    "address": "480 N Terry Ave Unit 0319, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0319",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/842c4daf-1230-4d21-8d7c-d6d3ca412e39",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=842c4daf-1230-4d21-8d7c-d6d3ca412e39&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6390,
+    "uuid": "159c2925-5a0d-45b5-8c3c-06aeede546d7",
+    "address": "480 N Terry Ave Unit 0313, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0313",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/159c2925-5a0d-45b5-8c3c-06aeede546d7",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=159c2925-5a0d-45b5-8c3c-06aeede546d7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6389,
+    "uuid": "375df28b-a233-463d-89be-9983254cfdd4",
+    "address": "480 N Terry Ave Unit 0119, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0119",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/375df28b-a233-463d-89be-9983254cfdd4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=375df28b-a233-463d-89be-9983254cfdd4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6388,
+    "uuid": "34083162-ce89-422b-b674-97d87b538175",
+    "address": "480 N Terry Ave Unit 0107, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0107",
+    "city": "Orlando",
+    "rent": "$2,320",
+    "rent_val": 2320,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/34083162-ce89-422b-b674-97d87b538175",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,320 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,320",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=34083162-ce89-422b-b674-97d87b538175&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6387,
+    "uuid": "cca07d7e-6256-46a3-8c01-3152df7b2f4b",
+    "address": "480 N Terry Ave Unit 1427, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1427",
+    "city": "Orlando",
+    "rent": "$1,590",
+    "rent_val": 1590,
+    "specs": "Studio, 1 ba, 553 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 553,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cca07d7e-6256-46a3-8c01-3152df7b2f4b",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,590 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,590",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cca07d7e-6256-46a3-8c01-3152df7b2f4b&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6386,
+    "uuid": "578838ff-3047-4747-9dae-a78b53602b0a",
+    "address": "480 N Terry Ave Unit 1402, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1402",
+    "city": "Orlando",
+    "rent": "$2,330",
+    "rent_val": 2330,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/578838ff-3047-4747-9dae-a78b53602b0a",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,330 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,330",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=578838ff-3047-4747-9dae-a78b53602b0a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6385,
+    "uuid": "4da7ee2c-a2f6-4e1d-b127-0d34ff301e99",
+    "address": "480 N Terry Ave Unit 1329, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1329",
+    "city": "Orlando",
+    "rent": "$2,260",
+    "rent_val": 2260,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4da7ee2c-a2f6-4e1d-b127-0d34ff301e99",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,260 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,260",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4da7ee2c-a2f6-4e1d-b127-0d34ff301e99&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6384,
+    "uuid": "57738452-ead0-47df-b9fd-558a243887ad",
+    "address": "480 N Terry Ave Unit 1320, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1320",
+    "city": "Orlando",
+    "rent": "$2,540",
+    "rent_val": 2540,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/57738452-ead0-47df-b9fd-558a243887ad",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,540 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,540",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=57738452-ead0-47df-b9fd-558a243887ad&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6383,
+    "uuid": "694a2315-b3e2-43c4-8e4c-68d70af8f0f4",
+    "address": "480 N Terry Ave Unit 1309, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1309",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/694a2315-b3e2-43c4-8e4c-68d70af8f0f4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=694a2315-b3e2-43c4-8e4c-68d70af8f0f4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6382,
+    "uuid": "78fb602f-88d5-4d07-8cda-06e31825990b",
+    "address": "480 N Terry Ave Unit 1218, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1218",
+    "city": "Orlando",
+    "rent": "$2,465",
+    "rent_val": 2465,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/78fb602f-88d5-4d07-8cda-06e31825990b",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,465 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,465",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=78fb602f-88d5-4d07-8cda-06e31825990b&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6381,
+    "uuid": "e72d041c-6e72-487b-a5cb-953f0f678e18",
+    "address": "480 N Terry Ave Unit 1213, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1213",
+    "city": "Orlando",
+    "rent": "$1,555",
+    "rent_val": 1555,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e72d041c-6e72-487b-a5cb-953f0f678e18",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,555 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,555",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e72d041c-6e72-487b-a5cb-953f0f678e18&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6380,
+    "uuid": "2f0365cf-984e-4a21-9886-5a80cf997c6f",
+    "address": "480 N Terry Ave Unit 1125, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1125",
+    "city": "Orlando",
+    "rent": "$1,590",
+    "rent_val": 1590,
+    "specs": "Studio, 1 ba, 553 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 553,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2f0365cf-984e-4a21-9886-5a80cf997c6f",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,590 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,590",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2f0365cf-984e-4a21-9886-5a80cf997c6f&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6379,
+    "uuid": "98b72007-45cf-45ff-ac5a-24d707105b36",
+    "address": "480 N Terry Ave Unit 1109, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1109",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/98b72007-45cf-45ff-ac5a-24d707105b36",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=98b72007-45cf-45ff-ac5a-24d707105b36&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6378,
+    "uuid": "d7cbee3b-c40b-4666-9377-208a03b0846a",
+    "address": "480 N Terry Ave Unit 1032, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1032",
+    "city": "Orlando",
+    "rent": "$2,390",
+    "rent_val": 2390,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d7cbee3b-c40b-4666-9377-208a03b0846a",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,390 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,390",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d7cbee3b-c40b-4666-9377-208a03b0846a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6377,
+    "uuid": "31c0ec03-96c6-4164-8600-e64fc9fa1e90",
+    "address": "480 N Terry Ave Unit 1016, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1016",
+    "city": "Orlando",
+    "rent": "$1,560",
+    "rent_val": 1560,
+    "specs": "Studio, 1 ba, 519 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 519,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/31c0ec03-96c6-4164-8600-e64fc9fa1e90",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,560 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,560",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=31c0ec03-96c6-4164-8600-e64fc9fa1e90&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6376,
+    "uuid": "8da544bd-b2e9-4f11-b3b7-9ba72386abf7",
+    "address": "480 N Terry Ave Unit 1003, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1003",
+    "city": "Orlando",
+    "rent": "$1,575",
+    "rent_val": 1575,
+    "specs": "Studio, 1 ba, 553 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 553,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8da544bd-b2e9-4f11-b3b7-9ba72386abf7",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,575 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,575",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8da544bd-b2e9-4f11-b3b7-9ba72386abf7&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6375,
+    "uuid": "9601f42d-eeac-4d62-8ac8-810de741e410",
+    "address": "480 N Terry Ave Unit 0932, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0932",
+    "city": "Orlando",
+    "rent": "$2,385",
+    "rent_val": 2385,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9601f42d-eeac-4d62-8ac8-810de741e410",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,385 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,385",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9601f42d-eeac-4d62-8ac8-810de741e410&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6374,
+    "uuid": "56f4079a-2701-45e1-931f-56e80360b352",
+    "address": "480 N Terry Ave Unit 0913, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0913",
+    "city": "Orlando",
+    "rent": "$1,545",
+    "rent_val": 1545,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/56f4079a-2701-45e1-931f-56e80360b352",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,545 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,545",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=56f4079a-2701-45e1-931f-56e80360b352&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6373,
+    "uuid": "731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6",
+    "address": "480 N Terry Ave Unit 0911, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0911",
+    "city": "Orlando",
+    "rent": "$1,545",
+    "rent_val": 1545,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,545 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,545",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6372,
+    "uuid": "485e4774-6c33-4d30-991a-882796b3d2e2",
+    "address": "480 N Terry Ave Unit 0732, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0732",
+    "city": "Orlando",
+    "rent": "$2,375",
+    "rent_val": 2375,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/485e4774-6c33-4d30-991a-882796b3d2e2",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,375 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,375",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=485e4774-6c33-4d30-991a-882796b3d2e2&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6371,
+    "uuid": "5f303971-73f0-4e30-b81e-5ee96bc0ade4",
+    "address": "480 N Terry Ave Unit 0630, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0630",
+    "city": "Orlando",
+    "rent": "$1,925",
+    "rent_val": 1925,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5f303971-73f0-4e30-b81e-5ee96bc0ade4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,925 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,925",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5f303971-73f0-4e30-b81e-5ee96bc0ade4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6370,
+    "uuid": "91e02693-7ee8-43cd-ba35-af87c0b30856",
+    "address": "480 N Terry Ave Unit 0623, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0623",
+    "city": "Orlando",
+    "rent": "$2,570",
+    "rent_val": 2570,
+    "specs": "3 bd, 2 ba, 1,291 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1291,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/91e02693-7ee8-43cd-ba35-af87c0b30856",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,570 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,570",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=91e02693-7ee8-43cd-ba35-af87c0b30856&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6369,
+    "uuid": "80583555-8528-4d6e-8e8e-d540883dd1d0",
+    "address": "480 N Terry Ave Unit 0617, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0617",
+    "city": "Orlando",
+    "rent": "$1,352",
+    "rent_val": 1352,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/80583555-8528-4d6e-8e8e-d540883dd1d0",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,352",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=80583555-8528-4d6e-8e8e-d540883dd1d0&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6368,
+    "uuid": "376d4caa-adc3-4b42-9c5f-a54064f2ce26",
+    "address": "480 N Terry Ave Unit 0607, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0607",
+    "city": "Orlando",
+    "rent": "$2,330",
+    "rent_val": 2330,
+    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1071,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/376d4caa-adc3-4b42-9c5f-a54064f2ce26",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,330 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,330",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=376d4caa-adc3-4b42-9c5f-a54064f2ce26&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6367,
+    "uuid": "1ecb57f8-94a9-4b43-80ad-6535085e08f3",
+    "address": "480 N Terry Ave Unit 0513, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0513",
+    "city": "Orlando",
+    "rent": "$1,525",
+    "rent_val": 1525,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1ecb57f8-94a9-4b43-80ad-6535085e08f3",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,525 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,525",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1ecb57f8-94a9-4b43-80ad-6535085e08f3&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6366,
+    "uuid": "71381dbb-0d1b-438f-b283-ac1ab4740dd4",
+    "address": "480 N Terry Ave Unit 0506, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0506",
+    "city": "Orlando",
+    "rent": "$1,845",
+    "rent_val": 1845,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/71381dbb-0d1b-438f-b283-ac1ab4740dd4",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,845",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=71381dbb-0d1b-438f-b283-ac1ab4740dd4&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6365,
+    "uuid": "cafa34ed-44c4-4fa7-9574-3df5afd606e0",
+    "address": "480 N Terry Ave Unit 0501, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0501",
+    "city": "Orlando",
+    "rent": "$2,225",
+    "rent_val": 2225,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cafa34ed-44c4-4fa7-9574-3df5afd606e0",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,225 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,225",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cafa34ed-44c4-4fa7-9574-3df5afd606e0&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6364,
+    "uuid": "70585b69-841c-4f47-8fdc-79c08f716191",
+    "address": "480 N Terry Ave Unit 0422, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0422",
+    "city": "Orlando",
+    "rent": "$1,633",
+    "rent_val": 1633,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/70585b69-841c-4f47-8fdc-79c08f716191",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,633 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,633",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=70585b69-841c-4f47-8fdc-79c08f716191&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6363,
+    "uuid": "8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3",
+    "address": "480 N Terry Ave Unit 0416, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0416",
+    "city": "Orlando",
+    "rent": "$1,530",
+    "rent_val": 1530,
+    "specs": "Studio, 1 ba, 519 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 519,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,530 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,530",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6362,
+    "uuid": "ac64878b-5084-4abf-bfe6-ad677e72819a",
+    "address": "480 N Terry Ave Unit 0412, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0412",
+    "city": "Orlando",
+    "rent": "$2,770",
+    "rent_val": 2770,
+    "specs": "3 bd, 2 ba, 1,344 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1344,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ac64878b-5084-4abf-bfe6-ad677e72819a",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,770 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,770",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ac64878b-5084-4abf-bfe6-ad677e72819a&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6361,
+    "uuid": "890c02d8-67fb-4eed-a5d1-afaa1c9509af",
+    "address": "480 N Terry Ave Unit 0410, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0410",
+    "city": "Orlando",
+    "rent": "$1,840",
+    "rent_val": 1840,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/890c02d8-67fb-4eed-a5d1-afaa1c9509af",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,840 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,840",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=890c02d8-67fb-4eed-a5d1-afaa1c9509af&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6360,
+    "uuid": "77355876-bd51-4eb3-bbb1-e73a88a054b6",
+    "address": "480 N Terry Ave Unit 0408, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0408",
+    "city": "Orlando",
+    "rent": "$1,840",
+    "rent_val": 1840,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/77355876-bd51-4eb3-bbb1-e73a88a054b6",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,840 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,840",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=77355876-bd51-4eb3-bbb1-e73a88a054b6&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6359,
+    "uuid": "3048a1d9-3484-407e-a061-a9dcb32aabd2",
+    "address": "480 N Terry Ave Unit 0327, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0327",
+    "city": "Orlando",
+    "rent": "$1,540",
+    "rent_val": 1540,
+    "specs": "Studio, 1 ba, 553 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 553,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3048a1d9-3484-407e-a061-a9dcb32aabd2",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $1,540 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $1,540",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3048a1d9-3484-407e-a061-a9dcb32aabd2&source=Website",
+    "available": "NOW"
+  },
+  {
+    "id": 6358,
+    "uuid": "7d4da1e5-2433-4977-b9af-b13bea4c08e7",
+    "address": "480 N Terry Ave Unit 0202, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0202",
+    "city": "Orlando",
+    "rent": "$2,275",
+    "rent_val": 2275,
+    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1098,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7d4da1e5-2433-4977-b9af-b13bea4c08e7",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "title": "",
+    "description": "Rental Terms \n \n Rent: $2,275 \n\n\n\n\n Application Fee: $95",
+    "terms": [
+      "Rent: $2,275",
+      "Application Fee: $95"
+    ],
+    "pets": [],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7d4da1e5-2433-4977-b9af-b13bea4c08e7&source=Website",
+    "available": "NOW"
+  },
+  {
     "id": 6357,
     "uuid": "1bcfcb81-63b2-4a05-b438-6e82bd566e67",
     "address": "5009 S West Shore Blvd Unit 61-5215, Tampa, FL 33611",
@@ -10622,52 +12152,6 @@
     "available": "9/1/26"
   },
   {
-    "id": 5755,
-    "uuid": "9c4e15bb-e892-4272-b282-a85900e18e85",
-    "address": "27 Golf Terrace Dr Unit # 27-211, Winter Springs, FL 32708",
-    "street": "27 Golf Terrace Dr Unit # 27-211",
-    "city": "Winter Springs",
-    "rent": "$1,572 - $1,686",
-    "rent_val": 1572,
-    "specs": "2 bd, 2 ba, 1,096 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1096,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c4e15bb-e892-4272-b282-a85900e18e85",
-    "lat": 28.7031476,
-    "lng": -81.3229124,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,572 - $1,686 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,572 - $1,686",
-      "Application Fee: $79",
-      "Security Deposit: $1,598",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/71433c09-12b4-4a6f-8574-47d4f74c1120/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/29d171c0-5cda-42b6-bf2d-04dc19507fc2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5d4a894a-0b17-4fa9-b1c4-af04ad46bbee/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ebbf845-af12-4b42-bc50-a188b5c593d8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ed1ea44-5274-4c38-aeec-679a6db3e70d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e803f6b5-d307-459e-914c-d3ecf89adb14/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f9d6c1b9-0f9a-4b71-9f46-18b63e36308f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fd785c06-7139-457b-9a89-615b9dd93a90/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/dc5343e6-b5d6-41ca-a8c6-9089f077ae29/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a046686d-571f-4511-bdb7-491e4f4b987a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/31fcf673-e672-422b-9d83-206068cbbe00/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81421639-fd61-4846-b144-0c44ca2d2af5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c4e15bb-e892-4272-b282-a85900e18e85&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5751,
     "uuid": "a4ecef3b-04a3-4bcb-929e-7687213eae92",
     "address": "1520 Neo Landings Loop, Unit 416, Kissimmee, FL 34744",
@@ -13310,39 +14794,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=16e416b9-5774-46b9-98dd-7d9beb1e29c6&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5278,
-    "uuid": "1109b9d6-17d9-4bef-84c6-61b0f86fe9b4",
-    "address": "6663 Mission Club Blvd # 06-203, Orlando, FL 32821",
-    "street": "6663 Mission Club Blvd # 06-203",
-    "city": "Orlando",
-    "rent": "$1,296 - $1,333",
-    "rent_val": 1296,
-    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 688,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1109b9d6-17d9-4bef-84c6-61b0f86fe9b4",
-    "lat": 28.386782,
-    "lng": -81.472261,
-    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,296 - $1,333 \n\n\n\n\n Application Fee: $79",
-    "terms": [
-      "Rent: $1,296 - $1,333",
-      "Application Fee: $79"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1109b9d6-17d9-4bef-84c6-61b0f86fe9b4&source=Website",
     "available": "NOW"
   },
   {
