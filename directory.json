@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 294,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 139
+      "count": 138
     },
     {
       "name": "Richmond",
@@ -247,7 +247,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -437,7 +437,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -464,17 +464,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 23,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 23,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 22,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 482,
-  "total": 604
+  "mfTotal": 480,
+  "total": 602
 }
