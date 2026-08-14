@@ -2159,37 +2159,6 @@
     "available": "10/8/26"
   },
   {
-    "id": 6353,
-    "uuid": "d1c91cf2-402c-4827-8e05-c37ecf5fed19",
-    "address": "210 W Hyde Park Pl Unit 214-7, Tampa, FL 33606",
-    "street": "210 W Hyde Park Pl Unit 214-7",
-    "city": "Tampa",
-    "rent": "$1,174",
-    "rent_val": 1174,
-    "specs": "Studio, 1 ba, 329 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 329,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d1c91cf2-402c-4827-8e05-c37ecf5fed19",
-    "lat": 27.9407689,
-    "lng": -82.4618021,
-    "title": "Beach Flats | Studio Flat, Hyde Park, Tampa",
-    "description": "Start your Tampa story in a smartly designed Hyde Park studio, ranging from 329 to 492 square feet at Beach Flats. Each home is finished with custom tile and stainless steel appliances, and residents share access to a gated courtyard, fire-pit lounge, outdoor grill kitchen, and covered bike storage. It's a smoke-free, pet-friendly community just minutes from Bayshore Boulevard, Hyde Park Village, and the Riverwalk \u2014 perfect for professionals who want an efficient home base near everything South Tampa has to offer. Schedule a private tour today to find your fit.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,174 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/22/26",
-    "terms": [
-      "Rent: $1,174",
-      "Application Fee: $95",
-      "Available 8/22/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8e7d298-4a5c-487f-97eb-439a153c501b/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d1c91cf2-402c-4827-8e05-c37ecf5fed19&source=Website",
-    "available": "8/22/26"
-  },
-  {
     "id": 6351,
     "uuid": "e5dbbe75-9d5c-4866-b285-33373fd0eeff",
     "address": "736 Suncrest Loop # 212, Casselberry, FL 32707",
@@ -10294,52 +10263,6 @@
     "available": "NOW"
   },
   {
-    "id": 5978,
-    "uuid": "b801ac65-064b-4cb1-af3f-234b85b5fbed",
-    "address": "2050 Old Clinton Rd Unit O1, Macon, GA 31211",
-    "street": "2050 Old Clinton Rd Unit O1",
-    "city": "Macon",
-    "rent": "$900",
-    "rent_val": 900,
-    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b801ac65-064b-4cb1-af3f-234b85b5fbed",
-    "lat": 32.8756594,
-    "lng": -83.6138899,
-    "title": "2bed/1bath - AVAILABLE NOW!",
-    "description": "Whether you're sharing the space or just want room to breathe, this two-bedroom home delivers. With up to 900 square feet, there's space for a home office, a guest room, or whatever fits your life. Enjoy pet-friendly living with a pool, onsite laundry, and a dishwasher \u2014 plus a location that puts you close to Mercer University, shopping, and easy highway access. \r\n\r\nStarting at $900 a month, it's solid value in the heart of Macon.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $900 \n\n\n\n\n Application Fee: $25 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $900",
-      "Application Fee: $25",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/e5a01b69-29f0-4fa4-832d-7c14d064cae8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/479ba45b-546a-4cb6-a7e6-089ce0f157af/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5efc7d1a-e32a-4698-8e81-dcb338efb264/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2adffe9-9f61-4843-8762-46bf3ec5c5af/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/edbd73f8-0502-4049-8168-99b1b78a04ab/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bec00cb7-547a-4805-9a9f-4243fa396854/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/510d6c9e-8e04-41dc-9b7c-960cf4056598/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/45313e56-af0d-4bf2-8f96-d7a4106da476/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8a27b3a5-9b8b-433b-9715-86f3ef3f51cc/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c9a48662-4f66-4ad8-a622-cece242081d7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c4c58a05-7a3b-4f33-b441-a5c2ebe08d98/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/431d1b4c-2986-44da-a2be-7d234afd9908/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8bcf68ab-d8b1-4058-af1a-b2b3a95fcda7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b801ac65-064b-4cb1-af3f-234b85b5fbed&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5975,
     "uuid": "63778008-b66b-4700-a25a-8f3a8e944590",
     "address": "2641 Emerald Island Blvd, Kissimmee, FL 34747",
@@ -11053,55 +10976,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ee502a2-9914-40f9-b978-7b2b42e2f82b&source=Website",
-    "available": "NOW"
-  },
-  {
-    "id": 5931,
-    "uuid": "6fe09fe5-7c98-4a79-9e88-2752debc34b3",
-    "address": "7557 Arlington Expressway Unit C301, Jacksonville, FL 32211",
-    "street": "7557 Arlington Expressway Unit C301",
-    "city": "Jacksonville",
-    "rent": "$999",
-    "rent_val": 999,
-    "specs": "1 bd, 1 ba, 725 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 725,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/eadcf1db-3c71-49b7-b7aa-4202cbe023e7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6fe09fe5-7c98-4a79-9e88-2752debc34b3",
-    "lat": 30.3295094,
-    "lng": -81.5798272,
-    "title": "Special Low Rates!! Limited Time Only!! Renovated 1bed/1bath",
-    "description": "Now is the perfect time to make your move and take advantage of this limited-time special!\r\n\r\nWith comfortable living spaces and a community designed to feel like home, this opportunity won\u2019t last long, reach out today before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $999",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/eadcf1db-3c71-49b7-b7aa-4202cbe023e7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/72c1660f-26bc-4c6f-9f82-976fcb83118c/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/864434b2-00f4-48d7-9bb3-1063dbfe91cd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d6bb8c65-cf49-4081-a623-f846f38d25a1/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4d54ee29-7c11-4acb-9fb8-004425b5775b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b9290b02-c22a-4f8c-b4b5-c3cda7d45809/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c03c5e6c-e6d1-4116-b514-c02300874a07/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/65b5f4ff-f644-4673-90a8-d00fa910c0a6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/384ceb5c-d672-4b90-b850-d0fb045a98db/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ccee5fe9-60aa-4a88-96fd-38bd76b86099/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/11c178ea-451e-46ce-b590-e0a0f574627b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5efa42ac-a1fd-4f29-baf2-b3b30ddf29e1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a2b9135-268a-443f-a8fc-e2b4b9879d4d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d1899458-0c02-478a-9b77-e5ee3c985701/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/31d94f5c-9057-4f90-8217-dd275b32989f/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6fe09fe5-7c98-4a79-9e88-2752debc34b3&source=Website",
     "available": "NOW"
   },
   {
@@ -16297,41 +16171,6 @@
     "available": "NOW"
   },
   {
-    "id": 5103,
-    "uuid": "ec46a35c-b221-4283-a73a-fb3a7323627b",
-    "address": "1363 W. Broad Street, # 306, Richmond, VA 23220",
-    "street": "1363 W. Broad Street",
-    "city": "Richmond",
-    "rent": "$2,199",
-    "rent_val": 2199,
-    "specs": "3 bd, 3 ba, 1,084 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 3.0,
-    "sqft": 1084,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ec46a35c-b221-4283-a73a-fb3a7323627b",
-    "lat": 37.5535353,
-    "lng": -77.4555948,
-    "title": "C",
-    "description": "Rental Terms \n \n Rent: $2,199 \n\n\n\n\n Application Fee: $55 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,199",
-      "Application Fee: $55",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/82ccd1cb-a3ac-42bf-ac42-00d69f37897a/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ec46a35c-b221-4283-a73a-fb3a7323627b&source=Website",
-    "available": "NOW"
-  },
-  {
     "id": 5057,
     "uuid": "4867c8cc-ebdc-4a41-b621-1a10623498bf",
     "address": "500 Maury St Unit 209, Richmond, VA 23224",
@@ -20703,6 +20542,47 @@
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1b3878fc-0132-4b7c-9bba-36a73145ad25&source=Website",
     "available": "8/28/26"
+  },
+  {
+    "id": 3091,
+    "uuid": "49e7c70a-30cc-4746-83e0-f133d3ed968c",
+    "address": "947 Valencia Isle Dr., Orlando, FL 32825",
+    "street": "947 Valencia Isle Dr.",
+    "city": "Orlando",
+    "rent": "$2,608",
+    "rent_val": 2608,
+    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1648,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/49e7c70a-30cc-4746-83e0-f133d3ed968c",
+    "lat": 28.555704,
+    "lng": -81.264408,
+    "title": "The Washington - 3 Bedroom with 2 Car Garage!",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,608 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/22/26",
+    "terms": [
+      "Rent: $2,608",
+      "Application Fee: $95",
+      "Security Deposit: $500",
+      "Available 8/22/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1026e368-bb41-4b00-a7f6-4a2bacd116e2/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a9983231-7485-45fe-b566-06958c8c675f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bcbf1e98-9ba9-4fc6-946f-6a71ae75dc2c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/0eabf96e-5ba6-4e37-bd64-826cade1718f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/09cdf0bb-6b39-4f7a-8c30-e9bf9aaf00f4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1f7d02fe-e6f2-421f-93f9-7ece9b093d54/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=49e7c70a-30cc-4746-83e0-f133d3ed968c&source=Website",
+    "available": "8/22/26"
   },
   {
     "id": 3065,
