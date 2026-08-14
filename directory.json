@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 296,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 140
+      "count": 139
     },
     {
       "name": "Richmond",
@@ -457,17 +457,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 24,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 24,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 23,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 483,
-  "total": 605
+  "mfTotal": 482,
+  "total": 604
 }
