@@ -2282,41 +2282,6 @@
     "unit": "0416"
   },
   {
-    "id": 6362,
-    "uuid": "ac64878b-5084-4abf-bfe6-ad677e72819a",
-    "address": "480 N Terry Ave Unit 0412, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0412",
-    "city": "Orlando",
-    "rent": "$2,770",
-    "rent_val": 2770,
-    "specs": "3 bd, 2 ba, 1,344 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1344,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ac64878b-5084-4abf-bfe6-ad677e72819a",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "",
-    "description": "Rental Terms \n \n Rent: $2,770 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $2,770",
-      "Application Fee: $95"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2d1005a2-446d-49b7-92f2-d987f9c6b520/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ac64878b-5084-4abf-bfe6-ad677e72819a&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "0412"
-  },
-  {
     "id": 6361,
     "uuid": "890c02d8-67fb-4eed-a5d1-afaa1c9509af",
     "address": "480 N Terry Ave Unit 0410, Orlando, FL 32801",
@@ -3775,66 +3740,6 @@
     "available": "9/23/26",
     "zip": "32707",
     "unit": ""
-  },
-  {
-    "id": 6319,
-    "uuid": "6526e1c1-1e40-4599-8a52-0de71139761b",
-    "address": "4800 Atlantic Blvd Unit D226, Jacksonville, FL 32207",
-    "street": "4800 Atlantic Blvd Unit D226",
-    "city": "Jacksonville",
-    "rent": "$1,049",
-    "rent_val": 1049,
-    "specs": "2 bd, 1.5 ba, 850 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.5,
-    "sqft": 850,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5c279344-eaa0-4af7-afb0-50f5911315f4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6526e1c1-1e40-4599-8a52-0de71139761b",
-    "lat": 30.3082327,
-    "lng": -81.6148986,
-    "title": "Lease Your New Home Today!",
-    "description": "Your perfect home is waiting, and now is the best time to make your move. \r\n\r\nFor a limited time, select apartments qualify for reduced monthly rent!\r\n\r\nInquire for details.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. \r\n\r\nSchedule your tour today \u2014 your new home awaits! \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,049 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,049",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5c279344-eaa0-4af7-afb0-50f5911315f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f2143822-1dbe-4fd1-a747-d81bb4656797/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/885d76d4-e680-43db-822d-ca36566bc4e5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2991911-7c60-4dde-b0ac-fcc95c357dde/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3de237b9-bc2b-4aa7-80c7-373854d9451e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/86cf931a-850e-4add-8f3f-699861a9e83a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bc56f7b2-76df-495d-875c-f3c9631be405/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7b669d5c-fed2-4b87-b8de-7c4bb001ef23/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2bad9e4a-3a97-413d-beef-874b7fefd01a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/76f93421-883b-458b-b8e3-7223ea83ea72/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50c7316b-5804-46d2-a636-ea3504b05e16/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5a465a29-d325-4fea-99c0-eb016d80c4e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a7ced5f6-664d-4c6c-af76-508278ec2236/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1bcd8077-29f2-4057-9734-d3203933f345/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7fd56416-d5d7-430b-94e2-0c58587821a7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c0f20ec8-a4c0-48e7-9507-cd6b250d94d2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/9ac0ec75-b618-4416-854f-6b8441ae838a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3eddbb6e-0f19-4fce-878d-757010053227/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6cd2bff4-04e0-4dc8-9b02-c793a65f5f81/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bdfd597d-22f7-4148-b966-e3fb85a7aca2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f7bc30d6-ca9c-4f44-8438-426d0670948e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6526e1c1-1e40-4599-8a52-0de71139761b&source=Website",
-    "property": "Oasis at San Marco",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-    "phone": "(904) 527-2336",
-    "available": "NOW",
-    "zip": "32207",
-    "unit": "D226"
   },
   {
     "id": 6318,
@@ -13870,6 +13775,56 @@
     "unit": ""
   },
   {
+    "id": 5824,
+    "uuid": "7e6068b4-01e8-498f-8e7a-bc05496f5d73",
+    "address": "32 Mowbray Ln Unit # 32-301, Winter Springs, FL 32708",
+    "street": "32 Mowbray Ln Unit # 32-301",
+    "city": "Winter Springs",
+    "rent": "$1,785",
+    "rent_val": 1785,
+    "specs": "3 bd, 2 ba, 1,327 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1327,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d8390925-0887-4a5a-b51c-e1a20e310bd1/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7e6068b4-01e8-498f-8e7a-bc05496f5d73",
+    "lat": 28.7034571,
+    "lng": -81.3213374,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,785 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/25/26",
+    "terms": [
+      "Rent: $1,785",
+      "Application Fee: $79",
+      "Available 8/25/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d8390925-0887-4a5a-b51c-e1a20e310bd1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/395c84ad-37a9-41b7-8733-b5cdda5a222a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/89ee85c9-8eaf-469b-bafd-48eca198bbca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fcd6e658-75b8-482b-9775-62d20307e095/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a7609448-cc11-4320-b3c6-3e743bab95e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2ea3c1bd-e26a-47f4-aeb0-d4205dc1a2ec/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4ab5462-5a9d-447e-98be-5f13c854e738/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b56bda55-5d42-44e2-b157-1e9436f35c1f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/663543a5-c5bf-43dc-94ac-0f1667190869/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed6104c1-f38f-4c04-b092-7fafb4345c3e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e622e5a1-2854-474e-b954-fa856bc017cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/88fca889-4309-4e58-94a2-24fabd65c2e3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7e6068b4-01e8-498f-8e7a-bc05496f5d73&source=Website",
+    "available": "8/25/26",
+    "zip": "32708",
+    "unit": ""
+  },
+  {
     "id": 5823,
     "uuid": "aa2fea5c-7da1-4598-8075-5a48944a5fb1",
     "address": "07 Loblolly Ct Unit # 07-204, Winter Springs, FL 32708",
@@ -16227,45 +16182,6 @@
     "unit": ""
   },
   {
-    "id": 5588,
-    "uuid": "31533270-760f-434f-ad48-3e779a2c2577",
-    "address": "6727 Mission Club Blvd # 01-109, Orlando, FL 32821",
-    "street": "6727 Mission Club Blvd # 01-109",
-    "city": "Orlando",
-    "rent": "$2,146 - $2,208",
-    "rent_val": 2146,
-    "specs": "3 bd, 2 ba, 1,251 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1251,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/31533270-760f-434f-ad48-3e779a2c2577",
-    "lat": 28.3871676,
-    "lng": -81.4730243,
-    "title": "La Ventana \u2013 Spacious 3 Bedroom, 2 Bathroom | 1,251 sq.ft.",
-    "description": "Experience modern living and thoughtful design in The La Ventana \u2014 a spacious 3-bedroom, 2-bathroom home with 1,251 sq.ft. of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain.\r\n\r\nThe open-concept living and dining area flows seamlessly into a fully equipped kitchen, creating a bright and inviting space for gatherings or quiet evenings at home. The primary suite offers a private bathroom, while two additional bedrooms share a second full bath \u2014 ideal for guests, home offices, or hobby spaces. Plus, the in-unit washer and dryer makes everyday living effortless.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,251 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,146 - $2,208 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $2,146 - $2,208",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=31533270-760f-434f-ad48-3e779a2c2577&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": ""
-  },
-  {
     "id": 5581,
     "uuid": "366752c1-b552-4963-a37f-f506c32225f9",
     "address": "500 Maury St Unit 411, Richmond, VA 23224",
@@ -17285,45 +17201,6 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
-  },
-  {
-    "id": 5403,
-    "uuid": "252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "address": "6624 Mission Club Blvd # 10-310, Orlando, FL 32821",
-    "street": "6624 Mission Club Blvd # 10-310",
-    "city": "Orlando",
-    "rent": "$1,295 - $1,332",
-    "rent_val": 1295,
-    "specs": "1 bd, 1 ba, 688 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 688,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/252a1ef3-ccb2-47e3-b71e-fd53924f62af",
-    "lat": 28.3878162,
-    "lng": -81.4714856,
-    "title": "La Paloma \u2013 1 Bedroom, 1 Bathroom | 688 sq.ft.",
-    "description": "Welcome to The La Paloma at Mission Club\r\n\r\nFind your perfect balance of comfort, style, and convenience in The La Paloma \u2014 a modern 1-bedroom, 1-bathroom floor plan offering 688 sq.ft. of thoughtfully designed living space. It\u2019s the ideal home for those who love contemporary design and effortless living.\r\n\r\nThe open-concept layout connects your living, dining, and kitchen areas seamlessly, creating a bright and welcoming space for both relaxing and entertaining. Your spacious primary suite features a large closet and a private full bath, while the in-home washer and dryer make daily routines simple and stress-free.\r\n\r\nJust beyond your front door, you\u2019ll find Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 688 sq.ft. | 1 Bedroom | 1 Bathroom\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 - $1,332 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,295 - $1,332",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=252a1ef3-ccb2-47e3-b71e-fd53924f62af&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
     "unit": ""
   },
   {
@@ -19329,52 +19206,6 @@
     "phone": "(305) 783-9814",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
-  },
-  {
-    "id": 4694,
-    "uuid": "b259bf95-3b8c-4bef-8288-79fba1c27672",
-    "address": "4397 E Michigan St, Orlando, FL 32812",
-    "street": "4397 E Michigan St",
-    "city": "Orlando",
-    "rent": "$1,095",
-    "rent_val": 1095,
-    "specs": "1 bd, 1 ba, 576 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 576,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ddb415d-189f-4811-babc-85fb86acbeae/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b259bf95-3b8c-4bef-8288-79fba1c27672",
-    "lat": 28.5136637,
-    "lng": -81.331226,
-    "title": "1-Bedroom Gated Condo in Orlando's SoDo District | Crossings at Conway",
-    "description": "Discover effortless living in this gated 1-bedroom, 1-bathroom condo (576 sq. ft.) located at the highly sought-after Crossings at Conway (4001 E Michigan St, Orlando, FL 32812), offering immediate access to the vibrant SoDo district and Downtown Orlando.\r\n\r\nPrime Orlando Location & Lifestyle\r\nPerfect for young professionals, frequent travelers, or anyone seeking a central Orlando location, this unit provides the ideal blend of tranquility and city convenience. Nestled under mature oak trees in a quiet community, you are just minutes away from major employment hubs, dining, and everyday essentials.\r\n\r\nWhy Live at Crossings at Conway?\r\n\r\nUnbeatable Location: Located in the desirable 32812 zip code, offering rapid access to Downtown Orlando, the Orlando International Airport (MCO), and major highways (I-4, SR-408, SR-417).\r\n\r\nSoDo & Hourglass Districts: Enjoy close proximity to top-tier dining, trendy coffee shops, breweries, and boutique shopping in Orlando's rapidly growing local districts.\r\n\r\nCommunity Amenities: Secure gated community access, beautifully maintained grounds, a sparkling swimming pool, tennis courts, and on-site laundry facilities.\r\n\r\nEveryday Convenience: Highly walkable to local groceries (Winn-Dixie), fitness centers (LA Fitness), and pharmacies.\r\n\r\nUnit Features & Specifications\r\nSpace: 576 SF of highly functional, airy living space.\r\n\r\nLayout: 1 Bed / 1 Bath floorplan with ample natural light.\r\n\r\nOutdoor Living: Enjoy access to a private, screened-in patio\u2014perfect for relaxing on warm Florida evenings.\r\n\r\nReady to Call Crossings at Conway Home?\r\nDon't miss out on this competitively priced 1-bedroom condo in one of Orlando's most connected neighborhoods.\r\nSchedule your private tour or submit your application today!\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum. This property is professionally managed by Atrium Management.\r\n\r\n\r\nAdditional Monthly Charges include:\r\n$15.50 Renters Insurance Fee\r\n$60 Group Rate Internet Fee\r\n\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,095 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,095 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,095",
-      "Application Fee: $95",
-      "Security Deposit: $1,095",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Small dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ddb415d-189f-4811-babc-85fb86acbeae/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4672a4f0-5688-462f-84a8-6e5e45955170/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7c4bfe28-82cd-4301-a12a-d149fa027458/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/60f62655-8736-4577-ac48-c4cb1371667a/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e7fafbd8-2bc7-4aa3-9db2-a034eabb0be8/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0913a76e-19c7-486c-a2fa-3b1ecb940696/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e3298271-6a41-4b9a-9494-32a53cce5101/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b259bf95-3b8c-4bef-8288-79fba1c27672&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(407) 585-2721",
-    "available": "NOW",
-    "zip": "32812",
     "unit": ""
   },
   {

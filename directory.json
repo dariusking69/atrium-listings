@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 295,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -45,7 +45,7 @@
     },
     {
       "name": "The Julian",
-      "count": 51,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -134,15 +134,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -158,6 +149,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 147
+      "count": 143
     },
     {
       "name": "Richmond",
@@ -251,7 +251,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Macon",
@@ -266,11 +266,11 @@
       "count": 19
     },
     {
-      "name": "Jacksonville",
-      "count": 19
+      "name": "Sandston",
+      "count": 18
     },
     {
-      "name": "Sandston",
+      "name": "Jacksonville",
       "count": 18
     },
     {
@@ -386,5 +386,5 @@
       "count": 1
     }
   ],
-  "total": 615
+  "total": 611
 }
