@@ -386,5 +386,308 @@
       "count": 1
     }
   ],
+  "pgs": [
+    {
+      "name": "PG1",
+      "count": 15
+    },
+    {
+      "name": "PG2",
+      "count": 23
+    },
+    {
+      "name": "PG3",
+      "count": 21
+    },
+    {
+      "name": "PG4",
+      "count": 16
+    },
+    {
+      "name": "PG5",
+      "count": 13
+    },
+    {
+      "name": "PG7",
+      "count": 7
+    },
+    {
+      "name": "PG8",
+      "count": 5
+    },
+    {
+      "name": "PG9",
+      "count": 11
+    }
+  ],
+  "mfProperties": [
+    {
+      "name": "The Julian",
+      "count": 49,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 39,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
+      "name": "Cardinal Village",
+      "count": 29,
+      "cities": [
+        "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 27,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 26,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 24,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 24,
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 23,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 21,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 20,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 18,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 16,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 13,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 10,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 10,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 9,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 8,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 8,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Keys at Wildwood",
+      "count": 7,
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 7,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 5,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Mirabella Apartments",
+      "count": 5,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 4,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
+      "name": "The Hammocks off 6th",
+      "count": 4,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "The Jeffersonian",
+      "count": 3,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
+      "name": "Hammocks off Newberry",
+      "count": 3,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "Southampton Apartments",
+      "count": 2,
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
+      "name": "The Hammocks at Camelot",
+      "count": 2,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "The Hammocks on 20th",
+      "count": 2,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "The Hammocks by Butler",
+      "count": 1,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "The Hammocks on 34th",
+      "count": 1,
+      "cities": [
+        "Gainesville"
+      ]
+    }
+  ],
+  "mfTotal": 483,
   "total": 605
 }

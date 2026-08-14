@@ -256,7 +256,20 @@ def derive_available(terms):
     return "NOW"
 
 
+def _groups():
+    """uuid -> {pg, mf, mfp} from sync_groups.py. Absent/stale is survivable: listings
+    simply carry no PG/MF tag and those scopes disappear from the directory."""
+    f = HERE / "groups.json"
+    if not f.exists():
+        return {}
+    try:
+        return json.loads(f.read_text())
+    except Exception:
+        return {}
+
+
 def build(listings):
+    groups = _groups()
     for l in listings:
         l["available"] = derive_available(l.get("terms"))
         l["city"] = parse_city(l.get("address", ""))  # re-derive so cached data is corrected too
@@ -264,6 +277,12 @@ def build(listings):
         l["zip"] = m.group(1) if m else ""
         m = re.search(r"\b(?:unit|apt|apartment|#)\s*([A-Za-z0-9-]+)", l.get("street", ""), re.I)
         l["unit"] = m.group(1) if m else ""
+        g = groups.get(str(l.get("uuid") or ""), {})
+        l["pg"] = g.get("pg", "")
+        l["mf"] = bool(g.get("mf"))
+        # MF community name from AppFolio beats the scraped portfolio name (which is
+        # generic for ~40% of MF listings); fall back to the scrape for non-MF.
+        l["community"] = g.get("mfp") or (l.get("property") or "")
     (HERE / "homes").mkdir(exist_ok=True)
     for l in listings:
         (HERE / "homes" / f'{l["id"]}.html').write_text(build_detail_page(l), encoding="utf-8")
@@ -289,7 +308,8 @@ def build(listings):
     # every embed downloads this once, so keep it small (no descriptions/galleries).
     slim = [{
         "id": l.get("id"), "a": l.get("address", ""), "u": l.get("unit", ""),
-        "c": l.get("city", ""), "z": l.get("zip", ""), "p": l.get("property", ""),
+        "c": l.get("city", ""), "z": l.get("zip", ""), "p": l.get("community", "") or l.get("property", ""),
+        "pg": l.get("pg", ""), "mf": 1 if l.get("mf") else 0,
         "r": l.get("rent", ""), "rv": l.get("rent_val", 0),
         "bd": l.get("beds"), "ba": l.get("baths"), "sf": l.get("sqft"),
         "ph": l.get("photo", ""), "av": l.get("available", "NOW"),
@@ -310,10 +330,26 @@ def build(listings):
         ct = (l.get("city") or "").strip()
         if ct:
             cities[ct] = cities.get(ct, 0) + 1
+    # PGs and Multifamily communities come from AppFolio group membership (sync_groups.py),
+    # so a newly onboarded property joins these lists on its own.
+    pgs, mfprops = {}, {}
+    for l in listings:
+        pg = (l.get("pg") or "").strip()
+        if pg:
+            pgs[pg] = pgs.get(pg, 0) + 1
+        if l.get("mf") and (l.get("community") or "").strip():
+            n = l["community"].strip()
+            e = mfprops.setdefault(n, {"name": n, "count": 0, "cities": set()})
+            e["count"] += 1
+            e["cities"].add(l.get("city", ""))
     directory = {
         "properties": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
                               for v in props.values()), key=lambda x: -x["count"]),
         "cities": sorted(({"name": k, "count": v} for k, v in cities.items()), key=lambda x: -x["count"]),
+        "pgs": sorted(({"name": k, "count": v} for k, v in pgs.items()), key=lambda x: x["name"]),
+        "mfProperties": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
+                                for v in mfprops.values()), key=lambda x: -x["count"]),
+        "mfTotal": sum(1 for l in listings if l.get("mf")),
         "total": len(listings),
     }
     (HERE / "directory.json").write_text(json.dumps(directory, indent=2), encoding="utf-8")

@@ -33,7 +33,10 @@
     "phone": "(689) 220-0831",
     "available": "8/18/26",
     "zip": "32801",
-    "unit": "1129"
+    "unit": "1129",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6429,
@@ -69,7 +72,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0525"
+    "unit": "0525",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6428,
@@ -119,7 +125,10 @@
     "phone": "(689) 215-1250",
     "available": "11/2/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6426,
@@ -157,7 +166,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6425,
@@ -195,7 +207,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6423,
@@ -246,7 +261,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "R6"
+    "unit": "R6",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6422,
@@ -297,7 +315,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "R1"
+    "unit": "R1",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6421,
@@ -349,7 +370,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "Q6"
+    "unit": "Q6",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6420,
@@ -401,7 +425,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "P2"
+    "unit": "P2",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6419,
@@ -452,7 +479,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "M1"
+    "unit": "M1",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6418,
@@ -504,7 +534,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "L2"
+    "unit": "L2",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6417,
@@ -555,7 +588,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "K7"
+    "unit": "K7",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6416,
@@ -606,7 +642,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "I4"
+    "unit": "I4",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6415,
@@ -658,7 +697,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "F8"
+    "unit": "F8",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6414,
@@ -710,7 +752,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "E2"
+    "unit": "E2",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6413,
@@ -750,7 +795,10 @@
     "phone": "(804) 409-2858",
     "available": "8/24/26",
     "zip": "23224",
-    "unit": "637"
+    "unit": "637",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 6412,
@@ -788,7 +836,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6408,
@@ -823,7 +874,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1221"
+    "unit": "1221",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6407,
@@ -858,7 +912,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1215"
+    "unit": "1215",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6406,
@@ -893,7 +950,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1121"
+    "unit": "1121",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6405,
@@ -928,7 +988,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1120"
+    "unit": "1120",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6404,
@@ -963,7 +1026,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1117"
+    "unit": "1117",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6403,
@@ -998,7 +1064,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1113"
+    "unit": "1113",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6402,
@@ -1033,7 +1102,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1023"
+    "unit": "1023",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6401,
@@ -1068,7 +1140,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1021"
+    "unit": "1021",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6400,
@@ -1103,7 +1178,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1009"
+    "unit": "1009",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6398,
@@ -1138,7 +1216,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0821"
+    "unit": "0821",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6397,
@@ -1173,7 +1254,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0815"
+    "unit": "0815",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6396,
@@ -1208,7 +1292,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0717"
+    "unit": "0717",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6395,
@@ -1243,7 +1330,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0711"
+    "unit": "0711",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6394,
@@ -1278,7 +1368,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0621"
+    "unit": "0621",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6393,
@@ -1313,7 +1406,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0507"
+    "unit": "0507",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6392,
@@ -1348,7 +1444,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0321"
+    "unit": "0321",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6391,
@@ -1383,7 +1482,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0319"
+    "unit": "0319",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6390,
@@ -1418,7 +1520,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0313"
+    "unit": "0313",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6389,
@@ -1453,7 +1558,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0119"
+    "unit": "0119",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6388,
@@ -1488,7 +1596,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0107"
+    "unit": "0107",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6387,
@@ -1523,7 +1634,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1427"
+    "unit": "1427",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6386,
@@ -1558,7 +1672,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1402"
+    "unit": "1402",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6385,
@@ -1593,7 +1710,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1329"
+    "unit": "1329",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6384,
@@ -1628,7 +1748,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1320"
+    "unit": "1320",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6383,
@@ -1663,7 +1786,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1309"
+    "unit": "1309",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6382,
@@ -1698,7 +1824,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1218"
+    "unit": "1218",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6381,
@@ -1733,7 +1862,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1213"
+    "unit": "1213",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6380,
@@ -1768,7 +1900,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1125"
+    "unit": "1125",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6379,
@@ -1803,7 +1938,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1109"
+    "unit": "1109",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6378,
@@ -1838,7 +1976,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1032"
+    "unit": "1032",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6376,
@@ -1873,7 +2014,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "1003"
+    "unit": "1003",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6375,
@@ -1908,7 +2052,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0932"
+    "unit": "0932",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6374,
@@ -1943,7 +2090,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0913"
+    "unit": "0913",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6373,
@@ -1978,7 +2128,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0911"
+    "unit": "0911",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6372,
@@ -2013,7 +2166,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0732"
+    "unit": "0732",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6371,
@@ -2048,7 +2204,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0630"
+    "unit": "0630",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6369,
@@ -2083,7 +2242,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0617"
+    "unit": "0617",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6368,
@@ -2118,7 +2280,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0607"
+    "unit": "0607",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6367,
@@ -2153,7 +2318,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0513"
+    "unit": "0513",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6366,
@@ -2188,7 +2356,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0506"
+    "unit": "0506",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6365,
@@ -2223,7 +2394,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0501"
+    "unit": "0501",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6364,
@@ -2258,7 +2432,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0422"
+    "unit": "0422",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6363,
@@ -2293,7 +2470,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0416"
+    "unit": "0416",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6361,
@@ -2328,7 +2508,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0410"
+    "unit": "0410",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6360,
@@ -2363,7 +2546,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0408"
+    "unit": "0408",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6359,
@@ -2398,7 +2584,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0327"
+    "unit": "0327",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6358,
@@ -2433,7 +2622,10 @@
     "phone": "(689) 220-0831",
     "available": "NOW",
     "zip": "32801",
-    "unit": "0202"
+    "unit": "0202",
+    "pg": "",
+    "mf": true,
+    "community": "The Julian"
   },
   {
     "id": 6357,
@@ -2469,7 +2661,10 @@
     "phone": "(813) 214-5228",
     "available": "10/10/26",
     "zip": "33611",
-    "unit": "61-5215"
+    "unit": "61-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6356,
@@ -2504,7 +2699,10 @@
     "phone": "(407) 205-8418",
     "available": "NOW",
     "zip": "32792",
-    "unit": "117"
+    "unit": "117",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6354,
@@ -2542,7 +2740,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6351,
@@ -2595,7 +2796,10 @@
     "phone": "(689) 300-5868",
     "available": "8/20/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6350,
@@ -2632,7 +2836,10 @@
     "phone": "(703) 420-3619",
     "available": "9/1/26",
     "zip": "22172",
-    "unit": "54"
+    "unit": "54",
+    "pg": "",
+    "mf": true,
+    "community": "Southampton Apartments"
   },
   {
     "id": 6349,
@@ -2671,7 +2878,10 @@
     "phone": "(689) 215-1250",
     "available": "9/8/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6346,
@@ -2710,7 +2920,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "601"
+    "unit": "601",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 6345,
@@ -2750,7 +2963,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6343,
@@ -2789,7 +3005,10 @@
     "phone": "(689) 215-0812",
     "available": "8/19/26",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6342,
@@ -2829,7 +3048,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6341,
@@ -2877,7 +3099,10 @@
     "phone": "(689) 215-0818",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6340,
@@ -2917,7 +3142,10 @@
     "phone": "(321) 395-8432",
     "available": "8/18/26",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6339,
@@ -2957,7 +3185,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6338,
@@ -3007,7 +3238,10 @@
     "phone": "(689) 215-1250",
     "available": "11/6/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6337,
@@ -3056,7 +3290,10 @@
     "phone": "(352) 234-3496",
     "available": "NOW",
     "zip": "32653",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6335,
@@ -3096,7 +3333,10 @@
     "phone": "(689) 215-8516",
     "available": "10/18/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6334,
@@ -3136,7 +3376,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34787",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6333,
@@ -3176,7 +3419,10 @@
     "phone": "(689) 215-0818",
     "available": "8/24/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6332,
@@ -3213,7 +3459,10 @@
     "phone": "(703) 420-3619",
     "available": "10/28/26",
     "zip": "22172",
-    "unit": "43"
+    "unit": "43",
+    "pg": "",
+    "mf": true,
+    "community": "Southampton Apartments"
   },
   {
     "id": 6330,
@@ -3265,7 +3514,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "F2"
+    "unit": "F2",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6329,
@@ -3317,7 +3569,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "E7"
+    "unit": "E7",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6328,
@@ -3369,7 +3624,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "C2"
+    "unit": "C2",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6327,
@@ -3421,7 +3679,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "A6"
+    "unit": "A6",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6326,
@@ -3474,7 +3735,10 @@
     "phone": "(689) 300-5868",
     "available": "10/18/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6325,
@@ -3514,7 +3778,10 @@
     "phone": "(689) 215-0818",
     "available": "8/21/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6324,
@@ -3554,7 +3821,10 @@
     "phone": "(804) 626-5885",
     "available": "8/17/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6323,
@@ -3607,7 +3877,10 @@
     "phone": "(689) 300-5868",
     "available": "10/13/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6322,
@@ -3647,7 +3920,10 @@
     "phone": "(804) 626-5885",
     "available": "11/10/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6321,
@@ -3696,7 +3972,10 @@
     "phone": "(689) 215-0818",
     "available": "8/18/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6320,
@@ -3753,7 +4032,10 @@
     "phone": "(689) 300-5868",
     "available": "9/23/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6318,
@@ -3807,7 +4089,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33803",
-    "unit": "55"
+    "unit": "55",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6317,
@@ -3857,7 +4142,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33803",
-    "unit": "41"
+    "unit": "41",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6316,
@@ -3910,7 +4198,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33803",
-    "unit": "35"
+    "unit": "35",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6315,
@@ -3950,7 +4241,10 @@
     "phone": "(689) 215-0818",
     "available": "10/26/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6314,
@@ -4000,7 +4294,10 @@
     "phone": "(689) 215-1250",
     "available": "9/10/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6313,
@@ -4037,7 +4334,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34787",
-    "unit": "108"
+    "unit": "108",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6312,
@@ -4105,7 +4405,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6310,
@@ -4160,7 +4463,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33803",
-    "unit": "1"
+    "unit": "1",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6309,
@@ -4210,7 +4516,10 @@
     "phone": "(689) 215-1250",
     "available": "9/10/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6307,
@@ -4263,7 +4572,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6305,
@@ -4316,7 +4628,10 @@
     "phone": "(689) 300-5868",
     "available": "10/11/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6304,
@@ -4369,7 +4684,10 @@
     "phone": "(689) 300-5868",
     "available": "10/12/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6303,
@@ -4405,7 +4723,10 @@
     "phone": "(813) 285-4812",
     "available": "8/24/26",
     "zip": "33611",
-    "unit": "21-5013"
+    "unit": "21-5013",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6301,
@@ -4455,7 +4776,10 @@
     "phone": "(689) 215-0818",
     "available": "11/2/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6300,
@@ -4495,7 +4819,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6299,
@@ -4535,7 +4862,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6298,
@@ -4575,7 +4905,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6297,
@@ -4615,7 +4948,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6296,
@@ -4655,7 +4991,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6295,
@@ -4691,7 +5030,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "07-5215"
+    "unit": "07-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6294,
@@ -4741,7 +5083,10 @@
     "phone": "(689) 215-1250",
     "available": "9/10/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6292,
@@ -4781,7 +5126,10 @@
     "phone": "(689) 215-0818",
     "available": "9/15/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6291,
@@ -4837,7 +5185,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "H304"
+    "unit": "H304",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 6290,
@@ -4891,7 +5242,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "G104"
+    "unit": "G104",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 6289,
@@ -4945,7 +5299,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "D207"
+    "unit": "D207",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 6288,
@@ -4999,7 +5356,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "C205"
+    "unit": "C205",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 6286,
@@ -5039,7 +5399,10 @@
     "phone": "(689) 215-0818",
     "available": "9/15/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6284,
@@ -5078,7 +5441,10 @@
     "phone": "(689) 215-1250",
     "available": "11/5/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6283,
@@ -5129,7 +5495,10 @@
     "phone": "(689) 300-4121",
     "available": "10/6/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6282,
@@ -5169,7 +5538,10 @@
     "phone": "(804) 409-4983",
     "available": "10/10/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 6280,
@@ -5220,7 +5592,10 @@
     "phone": "(689) 300-4121",
     "available": "10/10/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6279,
@@ -5272,7 +5647,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "D5"
+    "unit": "D5",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6277,
@@ -5323,7 +5701,10 @@
     "phone": "(689) 300-4121",
     "available": "9/11/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6275,
@@ -5405,7 +5786,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32712",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6273,
@@ -5444,7 +5828,10 @@
     "phone": "(689) 215-1250",
     "available": "9/10/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6272,
@@ -5494,7 +5881,10 @@
     "phone": "(689) 300-4121",
     "available": "9/11/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6271,
@@ -5547,7 +5937,10 @@
     "phone": "(689) 300-5868",
     "available": "8/25/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6270,
@@ -5586,7 +5979,10 @@
     "phone": "(689) 215-0812",
     "available": "8/26/26",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6269,
@@ -5636,7 +6032,10 @@
     "phone": "(689) 215-1250",
     "available": "11/7/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6268,
@@ -5686,7 +6085,10 @@
     "phone": "(689) 215-0818",
     "available": "11/6/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6266,
@@ -5736,7 +6138,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33805",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6263,
@@ -5791,7 +6196,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32806",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6262,
@@ -5841,7 +6249,10 @@
     "phone": "(689) 215-1250",
     "available": "11/7/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6261,
@@ -5891,7 +6302,10 @@
     "phone": "(689) 215-1250",
     "available": "10/27/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6260,
@@ -5944,7 +6358,10 @@
     "phone": "(689) 300-5868",
     "available": "10/7/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6259,
@@ -5992,7 +6409,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32601",
-    "unit": "53"
+    "unit": "53",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6257,
@@ -6031,7 +6451,10 @@
     "phone": "(689) 215-1250",
     "available": "10/19/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6256,
@@ -6079,7 +6502,10 @@
     "phone": "(804) 626-5885",
     "available": "9/17/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6253,
@@ -6127,7 +6553,10 @@
     "phone": "(689) 219-7477",
     "available": "10/10/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Valencia Isle"
   },
   {
     "id": 6252,
@@ -6167,7 +6596,10 @@
     "phone": "(689) 215-8516",
     "available": "10/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6251,
@@ -6215,7 +6647,10 @@
     "phone": "(813) 553-3444",
     "available": "NOW",
     "zip": "33629",
-    "unit": "12"
+    "unit": "12",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6249,
@@ -6267,7 +6702,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 6248,
@@ -6319,7 +6757,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 6245,
@@ -6369,7 +6810,10 @@
     "phone": "(689) 215-0818",
     "available": "9/3/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6243,
@@ -6409,7 +6853,10 @@
     "phone": "(689) 300-6288",
     "available": "10/7/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6242,
@@ -6460,7 +6907,10 @@
     "phone": "(689) 300-4121",
     "available": "10/23/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6241,
@@ -6500,7 +6950,10 @@
     "phone": "(863) 204-1180",
     "available": "9/11/26",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Chase"
   },
   {
     "id": 6240,
@@ -6551,7 +7004,10 @@
     "phone": "(689) 300-4121",
     "available": "10/15/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6239,
@@ -6587,7 +7043,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "28-5215"
+    "unit": "28-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6235,
@@ -6627,7 +7086,10 @@
     "phone": "(689) 300-6288",
     "available": "10/5/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6234,
@@ -6667,7 +7129,10 @@
     "phone": "(689) 300-6288",
     "available": "10/23/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6233,
@@ -6707,7 +7172,10 @@
     "phone": "(689) 300-6288",
     "available": "9/30/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6210,
@@ -6747,7 +7215,10 @@
     "phone": "(689) 215-0818",
     "available": "9/20/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 6208,
@@ -6784,7 +7255,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34787",
-    "unit": "306"
+    "unit": "306",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6206,
@@ -6825,7 +7299,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "409"
+    "unit": "409",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 6204,
@@ -6866,7 +7343,10 @@
     "phone": "(804) 977-2457",
     "available": "8/24/26",
     "zip": "23223",
-    "unit": "217"
+    "unit": "217",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 6203,
@@ -6907,7 +7387,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "213"
+    "unit": "213",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 6202,
@@ -6947,7 +7430,10 @@
     "phone": "(689) 215-8516",
     "available": "10/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6199,
@@ -7007,7 +7493,10 @@
     "phone": "(904) 527-2336",
     "available": "9/7/26",
     "zip": "32207",
-    "unit": "A206"
+    "unit": "A206",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 6198,
@@ -7064,7 +7553,10 @@
     "phone": "(689) 300-5868",
     "available": "9/28/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6194,
@@ -7114,7 +7606,10 @@
     "phone": "(407) 243-8937",
     "available": "NOW",
     "zip": "32780",
-    "unit": ""
+    "unit": "",
+    "pg": "PG8",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6193,
@@ -7154,7 +7649,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6192,
@@ -7194,7 +7692,10 @@
     "phone": "(689) 215-8516",
     "available": "9/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6189,
@@ -7245,7 +7746,10 @@
     "phone": "(689) 300-4121",
     "available": "8/27/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6186,
@@ -7307,7 +7811,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 6185,
@@ -7369,7 +7876,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 6184,
@@ -7431,7 +7941,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 6182,
@@ -7481,7 +7994,10 @@
     "phone": "(689) 215-1250",
     "available": "10/25/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6181,
@@ -7520,7 +8036,10 @@
     "phone": "(689) 215-1250",
     "available": "10/21/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6180,
@@ -7571,7 +8090,10 @@
     "phone": "(813) 428-8643",
     "available": "NOW",
     "zip": "33616",
-    "unit": "A"
+    "unit": "A",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6177,
@@ -7619,7 +8141,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6171,
@@ -7667,7 +8192,10 @@
     "phone": "(689) 219-7477",
     "available": "8/31/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Valencia Isle"
   },
   {
     "id": 6170,
@@ -7720,7 +8248,10 @@
     "phone": "(689) 300-5868",
     "available": "10/23/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6166,
@@ -7760,7 +8291,10 @@
     "phone": "(804) 626-5885",
     "available": "10/27/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6161,
@@ -7795,7 +8329,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "59-5215"
+    "unit": "59-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6160,
@@ -7831,7 +8368,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "58-5215"
+    "unit": "58-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6158,
@@ -7867,7 +8407,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "52-5215"
+    "unit": "52-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6156,
@@ -7903,7 +8446,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "49-5215"
+    "unit": "49-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6155,
@@ -7939,7 +8485,10 @@
     "phone": "(813) 214-5228",
     "available": "9/3/26",
     "zip": "33611",
-    "unit": "46-5215"
+    "unit": "46-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6153,
@@ -7975,7 +8524,10 @@
     "phone": "(813) 214-5228",
     "available": "8/25/26",
     "zip": "33611",
-    "unit": "39-5215"
+    "unit": "39-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6152,
@@ -8011,7 +8563,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "33-5215"
+    "unit": "33-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6151,
@@ -8047,7 +8602,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "32-5215"
+    "unit": "32-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6150,
@@ -8083,7 +8641,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "27-5215"
+    "unit": "27-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6149,
@@ -8119,7 +8680,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "26-5215"
+    "unit": "26-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6148,
@@ -8155,7 +8719,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "24-5215"
+    "unit": "24-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6147,
@@ -8191,7 +8758,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "19-5215"
+    "unit": "19-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6146,
@@ -8226,7 +8796,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "18-5215"
+    "unit": "18-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6145,
@@ -8262,7 +8835,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "12-5215"
+    "unit": "12-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6144,
@@ -8322,7 +8898,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "10-5215"
+    "unit": "10-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6143,
@@ -8358,7 +8937,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "09-5215"
+    "unit": "09-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6142,
@@ -8394,7 +8976,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "08-5215"
+    "unit": "08-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6141,
@@ -8430,7 +9015,10 @@
     "phone": "(813) 214-5228",
     "available": "NOW",
     "zip": "33611",
-    "unit": "03-5215"
+    "unit": "03-5215",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Marina Flats"
   },
   {
     "id": 6140,
@@ -8466,7 +9054,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "39-5017"
+    "unit": "39-5017",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6139,
@@ -8502,7 +9093,10 @@
     "phone": "(813) 285-4812",
     "available": "8/18/26",
     "zip": "33611",
-    "unit": "35-5017"
+    "unit": "35-5017",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6138,
@@ -8538,7 +9132,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "32-5015"
+    "unit": "32-5015",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6137,
@@ -8574,7 +9171,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "30-5015"
+    "unit": "30-5015",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6136,
@@ -8610,7 +9210,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "28-5015"
+    "unit": "28-5015",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6134,
@@ -8646,7 +9249,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "25-5015"
+    "unit": "25-5015",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6133,
@@ -8682,7 +9288,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "24-5013"
+    "unit": "24-5013",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6132,
@@ -8718,7 +9327,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "23-5013"
+    "unit": "23-5013",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6131,
@@ -8754,7 +9366,10 @@
     "phone": "(813) 285-4812",
     "available": "NOW",
     "zip": "33611",
-    "unit": "06-5009"
+    "unit": "06-5009",
+    "pg": "",
+    "mf": true,
+    "community": "Westshore Flats I"
   },
   {
     "id": 6130,
@@ -8790,7 +9405,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "213"
+    "unit": "213",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6129,
@@ -8826,7 +9444,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "209"
+    "unit": "209",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6128,
@@ -8862,7 +9483,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "208"
+    "unit": "208",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6127,
@@ -8898,7 +9522,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "207"
+    "unit": "207",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6126,
@@ -8934,7 +9561,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "206"
+    "unit": "206",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6125,
@@ -8970,7 +9600,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "205"
+    "unit": "205",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6124,
@@ -9006,7 +9639,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "111"
+    "unit": "111",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6123,
@@ -9042,7 +9678,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "104"
+    "unit": "104",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6122,
@@ -9078,7 +9717,10 @@
     "phone": "(727) 284-9806",
     "available": "NOW",
     "zip": "33616",
-    "unit": "101"
+    "unit": "101",
+    "pg": "",
+    "mf": true,
+    "community": "The William at Westshore"
   },
   {
     "id": 6120,
@@ -9114,7 +9756,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "24"
+    "unit": "24",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6119,
@@ -9150,7 +9795,10 @@
     "phone": "(813) 921-7949",
     "available": "10/7/26",
     "zip": "33609",
-    "unit": "23"
+    "unit": "23",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6118,
@@ -9186,7 +9834,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "18"
+    "unit": "18",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6117,
@@ -9222,7 +9873,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "17"
+    "unit": "17",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6116,
@@ -9258,7 +9912,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "16"
+    "unit": "16",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6115,
@@ -9294,7 +9951,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "12"
+    "unit": "12",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6114,
@@ -9330,7 +9990,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "10"
+    "unit": "10",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6113,
@@ -9366,7 +10029,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "7"
+    "unit": "7",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6112,
@@ -9402,7 +10068,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "5"
+    "unit": "5",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6110,
@@ -9438,7 +10107,10 @@
     "phone": "(813) 921-7949",
     "available": "NOW",
     "zip": "33609",
-    "unit": "2"
+    "unit": "2",
+    "pg": "",
+    "mf": true,
+    "community": "Case Residences"
   },
   {
     "id": 6104,
@@ -9477,7 +10149,10 @@
     "phone": "(689) 215-1250",
     "available": "11/8/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6102,
@@ -9540,7 +10215,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32714",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6101,
@@ -9593,7 +10271,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6099,
@@ -9632,7 +10313,10 @@
     "phone": "(689) 300-6288",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6097,
@@ -9689,7 +10373,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34743",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6089,
@@ -9728,7 +10415,10 @@
     "phone": "(689) 215-1250",
     "available": "10/25/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6088,
@@ -9767,7 +10457,10 @@
     "phone": "(321) 446-3321",
     "available": "NOW",
     "zip": "32903",
-    "unit": ""
+    "unit": "",
+    "pg": "PG8",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6082,
@@ -9807,7 +10500,10 @@
     "phone": "(689) 300-6288",
     "available": "9/28/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6079,
@@ -9906,7 +10602,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32771",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6078,
@@ -9995,7 +10694,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32827",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6074,
@@ -10057,7 +10759,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34787",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6071,
@@ -10122,7 +10827,10 @@
     "phone": "(813) 428-8643",
     "available": "NOW",
     "zip": "33614",
-    "unit": ""
+    "unit": "",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6066,
@@ -10175,7 +10883,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6065,
@@ -10227,7 +10938,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6064,
@@ -10281,7 +10995,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "G301"
+    "unit": "G301",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 6061,
@@ -10321,7 +11038,10 @@
     "phone": "(689) 300-6288",
     "available": "9/9/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6058,
@@ -10361,7 +11081,10 @@
     "phone": "(804) 409-4983",
     "available": "8/31/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 6056,
@@ -10401,7 +11124,10 @@
     "phone": "(689) 215-8516",
     "available": "9/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6051,
@@ -10452,7 +11178,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "C4"
+    "unit": "C4",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 6050,
@@ -10492,7 +11221,10 @@
     "phone": "(407) 585-2721",
     "available": "9/7/26",
     "zip": "34787",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6049,
@@ -10543,7 +11275,10 @@
     "phone": "(689) 300-4121",
     "available": "10/10/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6048,
@@ -10596,7 +11331,10 @@
     "phone": "(689) 300-5868",
     "available": "8/25/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 6047,
@@ -10634,7 +11372,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 6042,
@@ -10685,7 +11426,10 @@
     "phone": "(689) 300-4121",
     "available": "9/18/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6041,
@@ -10725,7 +11469,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 6040,
@@ -10784,7 +11531,10 @@
     "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
-    "unit": "J149"
+    "unit": "J149",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 6039,
@@ -10824,7 +11574,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6038,
@@ -10864,7 +11617,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 6034,
@@ -10914,7 +11670,10 @@
     "phone": "(689) 215-1250",
     "available": "9/26/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 6026,
@@ -10954,7 +11713,10 @@
     "phone": "(689) 300-6288",
     "available": "9/19/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 6022,
@@ -11005,7 +11767,10 @@
     "phone": "(689) 300-4121",
     "available": "10/4/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 6018,
@@ -11045,7 +11810,10 @@
     "phone": "(689) 215-8516",
     "available": "9/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6013,
@@ -11093,7 +11861,10 @@
     "phone": "(352) 247-2202",
     "available": "NOW",
     "zip": "32607",
-    "unit": "12"
+    "unit": "12",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6008,
@@ -11133,7 +11904,10 @@
     "phone": "(689) 215-8516",
     "available": "9/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 6005,
@@ -11195,7 +11969,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33823",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 6004,
@@ -11245,7 +12022,10 @@
     "phone": "(689) 215-1250",
     "available": "10/4/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5998,
@@ -11285,7 +12065,10 @@
     "phone": "(804) 626-5885",
     "available": "10/6/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5995,
@@ -11325,7 +12108,10 @@
     "phone": "(689) 215-0818",
     "available": "9/6/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5994,
@@ -11364,7 +12150,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "535"
+    "unit": "535",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5992,
@@ -11404,7 +12193,10 @@
     "phone": "(689) 215-0818",
     "available": "8/20/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5987,
@@ -11455,7 +12247,10 @@
     "phone": "(689) 215-0818",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5980,
@@ -11506,7 +12301,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "P1"
+    "unit": "P1",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5975,
@@ -11617,7 +12415,10 @@
     "phone": "(321) 368-1138",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5970,
@@ -11657,7 +12458,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 5966,
@@ -11709,7 +12513,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "O5"
+    "unit": "O5",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5965,
@@ -11761,7 +12568,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "N3"
+    "unit": "N3",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5962,
@@ -11813,7 +12623,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "B7"
+    "unit": "B7",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5957,
@@ -11872,7 +12685,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32821",
-    "unit": "107"
+    "unit": "107",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5956,
@@ -11921,7 +12737,10 @@
     "phone": "(352) 234-3496",
     "available": "NOW",
     "zip": "34480",
-    "unit": "4"
+    "unit": "4",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5954,
@@ -11961,7 +12780,10 @@
     "phone": "(689) 300-6288",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 5952,
@@ -12048,7 +12870,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32141",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5949,
@@ -12097,7 +12922,10 @@
     "phone": "(689) 215-0818",
     "available": "9/5/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5942,
@@ -12137,7 +12965,10 @@
     "phone": "(804) 626-5885",
     "available": "9/24/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5937,
@@ -12184,7 +13015,10 @@
     "phone": "(689) 215-1250",
     "available": "9/19/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5936,
@@ -12238,7 +13072,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "N102"
+    "unit": "N102",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 5933,
@@ -12292,7 +13129,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "H301"
+    "unit": "H301",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 5928,
@@ -12342,7 +13182,10 @@
     "phone": "(689) 300-4121",
     "available": "9/28/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5927,
@@ -12377,7 +13220,10 @@
     "phone": "(804) 426-8360",
     "available": "9/14/26",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5926,
@@ -12426,7 +13272,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34746",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5923,
@@ -12477,7 +13326,10 @@
     "phone": "(689) 300-4121",
     "available": "9/11/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5922,
@@ -12529,7 +13381,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "T4"
+    "unit": "T4",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5917,
@@ -12580,7 +13435,10 @@
     "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5915,
@@ -12620,7 +13478,10 @@
     "phone": "(804) 409-4983",
     "available": "9/2/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 5912,
@@ -12659,7 +13520,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 5910,
@@ -12710,7 +13574,10 @@
     "phone": "(689) 300-4121",
     "available": "8/23/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5909,
@@ -12760,7 +13627,10 @@
     "phone": "(689) 215-1250",
     "available": "10/2/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5901,
@@ -12801,7 +13671,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "408"
+    "unit": "408",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 5898,
@@ -12852,7 +13725,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "I3"
+    "unit": "I3",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5894,
@@ -12903,7 +13779,10 @@
     "phone": "(689) 300-4121",
     "available": "8/25/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5893,
@@ -12943,7 +13822,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 5892,
@@ -13017,7 +13899,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32712",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5890,
@@ -13062,7 +13947,10 @@
     "phone": "(804) 426-8360",
     "available": "8/20/26",
     "zip": "23230",
-    "unit": "104"
+    "unit": "104",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5879,
@@ -13113,7 +14001,10 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "P8"
+    "unit": "P8",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5878,
@@ -13165,7 +14056,10 @@
     "phone": "(478) 330-3584",
     "available": "8/15/26",
     "zip": "31211",
-    "unit": "B5"
+    "unit": "B5",
+    "pg": "",
+    "mf": true,
+    "community": "Timber Pointe Apartments"
   },
   {
     "id": 5871,
@@ -13205,7 +14099,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5861,
@@ -13265,7 +14162,10 @@
     "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
-    "unit": "D122"
+    "unit": "D122",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 5855,
@@ -13304,7 +14204,10 @@
     "phone": "(689) 215-1250",
     "available": "8/23/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5854,
@@ -13353,7 +14256,10 @@
     "phone": "(689) 215-0818",
     "available": "9/14/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5849,
@@ -13400,7 +14306,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32601",
-    "unit": "36"
+    "unit": "36",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5846,
@@ -13439,7 +14348,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "627"
+    "unit": "627",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5845,
@@ -13478,7 +14390,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "527"
+    "unit": "527",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5844,
@@ -13530,7 +14445,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 5841,
@@ -13568,7 +14486,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 5837,
@@ -13608,7 +14529,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5836,
@@ -13648,7 +14572,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5830,
@@ -13687,7 +14614,10 @@
     "phone": "(689) 215-1250",
     "available": "8/28/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5828,
@@ -13735,7 +14665,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34747",
-    "unit": "108"
+    "unit": "108",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5825,
@@ -13786,7 +14719,10 @@
     "phone": "(689) 300-4121",
     "available": "8/17/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5824,
@@ -13836,7 +14772,10 @@
     "phone": "(689) 300-4121",
     "available": "8/25/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5823,
@@ -13887,7 +14826,10 @@
     "phone": "(689) 300-4121",
     "available": "9/8/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5818,
@@ -13927,7 +14869,10 @@
     "phone": "(689) 300-6288",
     "available": "8/31/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 5816,
@@ -13967,7 +14912,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5815,
@@ -14007,7 +14955,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5814,
@@ -14047,7 +14998,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5812,
@@ -14087,7 +15041,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5809,
@@ -14127,7 +15084,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5808,
@@ -14167,7 +15127,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5805,
@@ -14207,7 +15170,10 @@
     "phone": "(689) 300-6288",
     "available": "8/16/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 5798,
@@ -14246,7 +15212,10 @@
     "phone": "(689) 215-1250",
     "available": "9/13/26",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 5796,
@@ -14286,7 +15255,10 @@
     "phone": "(804) 409-4983",
     "available": "9/14/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 5776,
@@ -14326,7 +15298,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5771,
@@ -14366,7 +15341,10 @@
     "phone": "(689) 300-6288",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 5768,
@@ -14405,7 +15383,10 @@
     "phone": "(689) 215-0812",
     "available": "8/19/26",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 5767,
@@ -14454,7 +15435,10 @@
     "phone": "(689) 215-0818",
     "available": "9/1/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5751,
@@ -14494,7 +15478,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 5749,
@@ -14534,7 +15521,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 5742,
@@ -14573,7 +15563,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "614"
+    "unit": "614",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5741,
@@ -14612,7 +15605,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "611"
+    "unit": "611",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5729,
@@ -14668,7 +15664,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "J301"
+    "unit": "J301",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 5719,
@@ -14719,7 +15718,10 @@
     "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5718,
@@ -14770,7 +15772,10 @@
     "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5707,
@@ -14825,7 +15830,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34787",
-    "unit": "206"
+    "unit": "206",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5701,
@@ -14864,7 +15872,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "524"
+    "unit": "524",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5697,
@@ -14904,7 +15915,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 5688,
@@ -14944,7 +15958,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5687,
@@ -14984,7 +16001,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5685,
@@ -15024,7 +16044,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5679,
@@ -15087,7 +16110,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32118",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5672,
@@ -15172,7 +16198,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32765",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5669,
@@ -15215,7 +16244,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "310"
+    "unit": "310",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5668,
@@ -15258,7 +16290,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "309"
+    "unit": "309",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5667,
@@ -15301,7 +16336,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "308"
+    "unit": "308",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5666,
@@ -15344,7 +16382,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "307"
+    "unit": "307",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5665,
@@ -15387,7 +16428,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "306"
+    "unit": "306",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5664,
@@ -15430,7 +16474,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "305"
+    "unit": "305",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5663,
@@ -15473,7 +16520,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "304"
+    "unit": "304",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5662,
@@ -15516,7 +16566,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "303"
+    "unit": "303",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5661,
@@ -15559,7 +16612,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "302"
+    "unit": "302",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5660,
@@ -15602,7 +16658,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "301"
+    "unit": "301",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5659,
@@ -15645,7 +16704,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "210"
+    "unit": "210",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5658,
@@ -15688,7 +16750,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "209"
+    "unit": "209",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5657,
@@ -15731,7 +16796,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "208"
+    "unit": "208",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5656,
@@ -15774,7 +16842,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "207"
+    "unit": "207",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5655,
@@ -15817,7 +16888,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "206"
+    "unit": "206",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5653,
@@ -15860,7 +16934,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "204"
+    "unit": "204",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5652,
@@ -15903,7 +16980,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "203"
+    "unit": "203",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5651,
@@ -15946,7 +17026,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "202"
+    "unit": "202",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5650,
@@ -15989,7 +17072,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "201"
+    "unit": "201",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5634,
@@ -16037,7 +17123,10 @@
     "phone": "(321) 368-1138",
     "available": "NOW",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5630,
@@ -16077,7 +17166,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 5610,
@@ -16116,7 +17208,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "416"
+    "unit": "416",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5597,
@@ -16155,7 +17250,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "427"
+    "unit": "427",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5592,
@@ -16193,7 +17291,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 5581,
@@ -16233,7 +17334,10 @@
     "phone": "(804) 409-2858",
     "available": "9/22/26",
     "zip": "23224",
-    "unit": "411"
+    "unit": "411",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5566,
@@ -16284,7 +17388,10 @@
     "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5565,
@@ -16328,7 +17435,10 @@
     "phone": "(804) 426-8360",
     "available": "NOW",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5557,
@@ -16368,7 +17478,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5556,
@@ -16408,7 +17521,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5513,
@@ -16447,7 +17563,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "635"
+    "unit": "635",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5497,
@@ -16490,7 +17609,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "110"
+    "unit": "110",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5496,
@@ -16533,7 +17655,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "109"
+    "unit": "109",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5495,
@@ -16576,7 +17701,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "108"
+    "unit": "108",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5494,
@@ -16619,7 +17747,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "107"
+    "unit": "107",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5493,
@@ -16662,7 +17793,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "106"
+    "unit": "106",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5492,
@@ -16705,7 +17839,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "105"
+    "unit": "105",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5491,
@@ -16748,7 +17885,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "104"
+    "unit": "104",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5490,
@@ -16791,7 +17931,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "104"
+    "unit": "104",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5489,
@@ -16834,7 +17977,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "102"
+    "unit": "102",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5488,
@@ -16877,7 +18023,10 @@
     "phone": "(407) 349-7054",
     "available": "NOW",
     "zip": "32738",
-    "unit": "101"
+    "unit": "101",
+    "pg": "",
+    "mf": true,
+    "community": "Cardinal Village"
   },
   {
     "id": 5484,
@@ -16928,7 +18077,10 @@
     "phone": "(689) 215-0818",
     "available": "11/9/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5476,
@@ -16967,7 +18119,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "619"
+    "unit": "619",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5467,
@@ -17041,7 +18196,10 @@
     "phone": "(813) 553-3444",
     "available": "NOW",
     "zip": "33578",
-    "unit": ""
+    "unit": "",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5466,
@@ -17097,7 +18255,10 @@
     "phone": "(434) 443-6987",
     "available": "NOW",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Jeffersonian"
   },
   {
     "id": 5463,
@@ -17136,7 +18297,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "511"
+    "unit": "511",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5446,
@@ -17175,7 +18339,10 @@
     "phone": "(689) 215-0812",
     "available": "8/19/26",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 5426,
@@ -17215,7 +18382,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 5399,
@@ -17255,7 +18425,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "304"
+    "unit": "304",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5378,
@@ -17295,7 +18468,10 @@
     "phone": "(804) 626-5885",
     "available": "9/7/26",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 5355,
@@ -17334,7 +18510,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "537"
+    "unit": "537",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5291,
@@ -17385,7 +18564,10 @@
     "phone": "(689) 300-4121",
     "available": "10/3/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5282,
@@ -17425,7 +18607,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 5259,
@@ -17489,7 +18674,10 @@
     "phone": "(434) 443-6987",
     "available": "8/17/26",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Jeffersonian"
   },
   {
     "id": 5248,
@@ -17552,7 +18740,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 5244,
@@ -17615,7 +18806,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 5238,
@@ -17656,7 +18850,10 @@
     "phone": "(804) 426-8360",
     "available": "NOW",
     "zip": "23230",
-    "unit": "202"
+    "unit": "202",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5226,
@@ -17721,7 +18918,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 5225,
@@ -17786,7 +18986,10 @@
     "phone": "(352) 268-6987",
     "available": "NOW",
     "zip": "34484",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Keys at Wildwood"
   },
   {
     "id": 5212,
@@ -17850,7 +19053,10 @@
     "phone": "(434) 443-6987",
     "available": "8/20/26",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Jeffersonian"
   },
   {
     "id": 5195,
@@ -17903,7 +19109,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 5170,
@@ -17942,7 +19151,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "503"
+    "unit": "503",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5117,
@@ -17982,7 +19194,10 @@
     "phone": "(804) 977-1161",
     "available": "9/4/26",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 5109,
@@ -18022,7 +19237,10 @@
     "phone": "(804) 977-1161",
     "available": "8/16/26",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 5108,
@@ -18062,7 +19280,10 @@
     "phone": "(804) 977-1161",
     "available": "NOW",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 5106,
@@ -18102,7 +19323,10 @@
     "phone": "(804) 977-1161",
     "available": "8/28/26",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 5105,
@@ -18141,7 +19365,10 @@
     "phone": "(804) 977-1161",
     "available": "NOW",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 5057,
@@ -18180,7 +19407,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "209"
+    "unit": "209",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 5040,
@@ -18239,7 +19469,10 @@
     "phone": "(656) 207-2843",
     "available": "NOW",
     "zip": "33616",
-    "unit": "D"
+    "unit": "D",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 5019,
@@ -18297,7 +19530,10 @@
     "phone": "(407) 205-8418",
     "available": "NOW",
     "zip": "32804",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4987,
@@ -18338,7 +19574,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "301"
+    "unit": "301",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 4983,
@@ -18386,7 +19625,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32608",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4977,
@@ -18426,7 +19668,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "308"
+    "unit": "308",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 4925,
@@ -18478,7 +19723,10 @@
     "phone": "(689) 300-5868",
     "available": "8/17/26",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 4885,
@@ -18529,7 +19777,10 @@
     "phone": "(689) 300-4121",
     "available": "9/9/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 4871,
@@ -18568,7 +19819,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 4869,
@@ -18628,7 +19882,10 @@
     "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
-    "unit": "I256"
+    "unit": "I256",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 4862,
@@ -18690,7 +19947,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32608",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4843,
@@ -18730,7 +19990,10 @@
     "phone": "(804) 409-4983",
     "available": "9/15/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 4823,
@@ -18769,7 +20032,10 @@
     "phone": "(689) 215-0818",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4822,
@@ -18820,7 +20086,10 @@
     "phone": "(689) 215-0818",
     "available": "9/1/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4818,
@@ -18860,7 +20129,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "246"
+    "unit": "246",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 4816,
@@ -18900,7 +20172,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "203"
+    "unit": "203",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 4809,
@@ -18939,7 +20214,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 4771,
@@ -18980,7 +20258,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "313"
+    "unit": "313",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 4770,
@@ -19020,7 +20301,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "210"
+    "unit": "210",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 4766,
@@ -19060,7 +20344,10 @@
     "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
-    "unit": "218"
+    "unit": "218",
+    "pg": "",
+    "mf": true,
+    "community": "The Hub"
   },
   {
     "id": 4760,
@@ -19108,7 +20395,10 @@
     "phone": "(689) 215-0818",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4747,
@@ -19165,7 +20455,10 @@
     "phone": "(407) 243-8937",
     "available": "NOW",
     "zip": "32780",
-    "unit": ""
+    "unit": "",
+    "pg": "PG8",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4731,
@@ -19220,7 +20513,10 @@
     "phone": "(305) 783-9814",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4684,
@@ -19260,7 +20556,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 4632,
@@ -19311,7 +20610,10 @@
     "phone": "(689) 300-4121",
     "available": "9/9/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 4619,
@@ -19361,7 +20663,10 @@
     "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 4578,
@@ -19412,7 +20717,10 @@
     "phone": "(689) 215-0818",
     "available": "8/24/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4571,
@@ -19462,7 +20770,10 @@
     "phone": "(689) 300-4121",
     "available": "9/9/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 4439,
@@ -19502,7 +20813,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "311"
+    "unit": "311",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 4436,
@@ -19542,7 +20856,10 @@
     "phone": "(689) 215-0818",
     "available": "11/9/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4435,
@@ -19593,7 +20910,10 @@
     "phone": "(689) 300-4121",
     "available": "9/9/26",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 4434,
@@ -19635,7 +20955,10 @@
     "phone": "(904) 290-2931",
     "available": "NOW",
     "zip": "34420",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4418,
@@ -19675,7 +20998,10 @@
     "phone": "(804) 409-4983",
     "available": "9/10/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 4322,
@@ -19713,7 +21039,10 @@
     "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mission Club Apartments"
   },
   {
     "id": 4270,
@@ -19764,7 +21093,10 @@
     "phone": "(689) 215-0818",
     "available": "11/4/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4195,
@@ -19810,7 +21142,10 @@
     "phone": "(689) 215-1250",
     "available": "NOW",
     "zip": "32812",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Barber Park Apartments"
   },
   {
     "id": 4193,
@@ -19850,7 +21185,10 @@
     "phone": "(689) 215-0818",
     "available": "9/20/26",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4192,
@@ -19899,7 +21237,10 @@
     "phone": "(689) 215-0818",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 4154,
@@ -19939,7 +21280,10 @@
     "phone": "(689) 300-6288",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
   },
   {
     "id": 4136,
@@ -19992,7 +21336,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 4122,
@@ -20044,7 +21391,10 @@
     "phone": "(689) 300-5868",
     "available": "NOW",
     "zip": "32707",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Reserve at Lake Irene"
   },
   {
     "id": 4032,
@@ -20102,7 +21452,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33844",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 4005,
@@ -20146,7 +21499,10 @@
     "phone": "(689) 210-4518",
     "available": "8/31/26",
     "zip": "34771",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Sutton Fields"
   },
   {
     "id": 3996,
@@ -20186,7 +21542,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3991,
@@ -20238,7 +21597,10 @@
     "phone": "(813) 355-9968",
     "available": "NOW",
     "zip": "33759",
-    "unit": "3"
+    "unit": "3",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3925,
@@ -20278,7 +21640,10 @@
     "phone": "(863) 204-1180",
     "available": "9/10/26",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Chase"
   },
   {
     "id": 3924,
@@ -20318,7 +21683,10 @@
     "phone": "(804) 409-4983",
     "available": "11/3/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3914,
@@ -20378,7 +21746,10 @@
     "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
-    "unit": "F115"
+    "unit": "F115",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 3862,
@@ -20418,7 +21789,10 @@
     "phone": "(863) 204-1180",
     "available": "9/11/26",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Chase"
   },
   {
     "id": 3857,
@@ -20458,7 +21832,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3848,
@@ -20518,7 +21895,10 @@
     "phone": "(904) 527-2336",
     "available": "10/10/26",
     "zip": "32207",
-    "unit": "F111"
+    "unit": "F111",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 3829,
@@ -20551,7 +21931,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3802,
@@ -20591,7 +21974,10 @@
     "phone": "(804) 977-1161",
     "available": "9/15/26",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 3792,
@@ -20631,7 +22017,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3785,
@@ -20671,7 +22060,10 @@
     "phone": "(804) 977-1161",
     "available": "9/8/26",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Coliseum Lofts"
   },
   {
     "id": 3755,
@@ -20723,7 +22115,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3748,
@@ -20763,7 +22158,10 @@
     "phone": "(804) 409-4983",
     "available": "9/22/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3737,
@@ -20822,7 +22220,10 @@
     "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
-    "unit": "B232"
+    "unit": "B232",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 3713,
@@ -20862,7 +22263,10 @@
     "phone": "(804) 409-4983",
     "available": "9/30/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3693,
@@ -20902,7 +22306,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3658,
@@ -20942,7 +22349,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3652,
@@ -20982,7 +22392,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 3636,
@@ -21022,7 +22435,10 @@
     "phone": "(689) 215-8516",
     "available": "10/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3633,
@@ -21062,7 +22478,10 @@
     "phone": "(689) 215-8516",
     "available": "10/10/26",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3622,
@@ -21102,7 +22521,10 @@
     "phone": "(804) 409-4983",
     "available": "9/9/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3597,
@@ -21171,7 +22593,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32789",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3587,
@@ -21225,7 +22650,10 @@
     "phone": "(407) 243-8937",
     "available": "9/15/26",
     "zip": "32907",
-    "unit": ""
+    "unit": "",
+    "pg": "PG8",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3583,
@@ -21265,7 +22693,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3568,
@@ -21331,7 +22762,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": "106"
+    "unit": "106",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3561,
@@ -21387,7 +22821,10 @@
     "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
-    "unit": "H104"
+    "unit": "H104",
+    "pg": "",
+    "mf": true,
+    "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
     "id": 3557,
@@ -21426,7 +22863,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3549,
@@ -21466,7 +22906,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3540,
@@ -21507,7 +22950,10 @@
     "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
-    "unit": "417"
+    "unit": "417",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
   },
   {
     "id": 3539,
@@ -21559,7 +23005,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3528,
@@ -21619,7 +23068,10 @@
     "phone": "(904) 527-2336",
     "available": "8/21/26",
     "zip": "32207",
-    "unit": "H260"
+    "unit": "H260",
+    "pg": "",
+    "mf": true,
+    "community": "Oasis at San Marco"
   },
   {
     "id": 3522,
@@ -21660,7 +23112,10 @@
     "phone": "(434) 231-4999",
     "available": "NOW",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Six Hundred West Main"
   },
   {
     "id": 3495,
@@ -21700,7 +23155,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3489,
@@ -21740,7 +23198,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3488,
@@ -21780,7 +23241,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3487,
@@ -21820,7 +23284,10 @@
     "phone": "(804) 626-5885",
     "available": "NOW",
     "zip": "23150",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Gerwyn Manor"
   },
   {
     "id": 3485,
@@ -21855,7 +23322,10 @@
     "phone": "(804) 426-8360",
     "available": "8/28/26",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3468,
@@ -21895,7 +23365,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3450,
@@ -21936,7 +23409,10 @@
     "phone": "(434) 231-4999",
     "available": "NOW",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Six Hundred West Main"
   },
   {
     "id": 3437,
@@ -21977,7 +23453,10 @@
     "phone": "(434) 231-4999",
     "available": "9/10/26",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Six Hundred West Main"
   },
   {
     "id": 3421,
@@ -22029,7 +23508,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3386,
@@ -22069,7 +23551,10 @@
     "phone": "(804) 409-4983",
     "available": "8/30/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3375,
@@ -22121,7 +23606,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3350,
@@ -22169,7 +23657,10 @@
     "phone": "(689) 219-7477",
     "available": "9/25/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Valencia Isle"
   },
   {
     "id": 3347,
@@ -22209,7 +23700,10 @@
     "phone": "(863) 204-1180",
     "available": "10/10/26",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Chase"
   },
   {
     "id": 3327,
@@ -22249,7 +23743,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3313,
@@ -22289,7 +23786,10 @@
     "phone": "(804) 409-4983",
     "available": "9/10/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3303,
@@ -22329,7 +23829,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3294,
@@ -22369,7 +23872,10 @@
     "phone": "(804) 409-4983",
     "available": "9/16/26",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3293,
@@ -22409,7 +23915,10 @@
     "phone": "(804) 409-4983",
     "available": "NOW",
     "zip": "23230",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
   },
   {
     "id": 3284,
@@ -22450,7 +23959,10 @@
     "phone": "(434) 231-4999",
     "available": "8/22/26",
     "zip": "22903",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Six Hundred West Main"
   },
   {
     "id": 3266,
@@ -22490,7 +24002,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3259,
@@ -22565,7 +24080,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": "308"
+    "unit": "308",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3205,
@@ -22605,7 +24123,10 @@
     "phone": "(863) 204-1180",
     "available": "9/11/26",
     "zip": "33896",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Chase"
   },
   {
     "id": 3201,
@@ -22661,7 +24182,10 @@
     "phone": "(863) 320-0517",
     "available": "NOW",
     "zip": "33801",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 3197,
@@ -22701,7 +24225,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 3138,
@@ -22741,7 +24268,10 @@
     "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3100,
@@ -22787,7 +24317,10 @@
     "phone": "(689) 219-7477",
     "available": "8/28/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Valencia Isle"
   },
   {
     "id": 3091,
@@ -22833,7 +24366,10 @@
     "phone": "(689) 219-7477",
     "available": "8/22/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Valencia Isle"
   },
   {
     "id": 3065,
@@ -22885,7 +24421,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3063,
@@ -22937,7 +24476,10 @@
     "phone": "(689) 407-7964",
     "available": "NOW",
     "zip": "34761",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Ocoee Village"
   },
   {
     "id": 3025,
@@ -22983,7 +24525,10 @@
     "phone": "(689) 210-4518",
     "available": "8/31/26",
     "zip": "34771",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Sutton Fields"
   },
   {
     "id": 3021,
@@ -23027,7 +24572,10 @@
     "phone": "(689) 210-4518",
     "available": "9/11/26",
     "zip": "34771",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Sutton Fields"
   },
   {
     "id": 2975,
@@ -23086,7 +24634,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": "301"
+    "unit": "301",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2953,
@@ -23156,7 +24707,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32751",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2937,
@@ -23212,7 +24766,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32826",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2920,
@@ -23286,7 +24843,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2906,
@@ -23334,7 +24894,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32601",
-    "unit": "D"
+    "unit": "D",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2901,
@@ -23386,7 +24949,10 @@
     "phone": "(352) 234-3496",
     "available": "NOW",
     "zip": "32653",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2897,
@@ -23426,7 +24992,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 2887,
@@ -23476,7 +25045,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": "202"
+    "unit": "202",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2884,
@@ -23516,7 +25088,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 2874,
@@ -23556,7 +25131,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 2858,
@@ -23627,7 +25205,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33803",
-    "unit": "N7"
+    "unit": "N7",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2855,
@@ -23672,7 +25253,10 @@
     "phone": "(804) 426-8360",
     "available": "NOW",
     "zip": "23220",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2850,
@@ -23712,7 +25296,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 2837,
@@ -23752,7 +25339,10 @@
     "phone": "(321) 395-8432",
     "available": "NOW",
     "zip": "34747",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Champions Village"
   },
   {
     "id": 2712,
@@ -23809,7 +25399,10 @@
     "phone": "(407) 585-2721",
     "available": "10/10/26",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2705,
@@ -23885,7 +25478,10 @@
     "phone": "(813) 553-3444",
     "available": "NOW",
     "zip": "33598",
-    "unit": ""
+    "unit": "",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2687,
@@ -23938,7 +25534,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32826",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2682,
@@ -23975,7 +25574,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32608",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2662,
@@ -24021,7 +25623,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32653",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2659,
@@ -24066,7 +25671,10 @@
     "phone": "(352) 234-3496",
     "available": "NOW",
     "zip": "32653",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2572,
@@ -24111,7 +25719,10 @@
     "phone": "(804) 426-8360",
     "available": "NOW",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2560,
@@ -24168,7 +25779,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33811",
-    "unit": ""
+    "unit": "",
+    "pg": "PG9",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2559,
@@ -24232,7 +25846,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2527,
@@ -24303,7 +25920,10 @@
     "phone": "(352) 559-3304",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks at Camelot"
   },
   {
     "id": 2477,
@@ -24348,7 +25968,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32608",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2440,
@@ -24399,7 +26022,10 @@
     "phone": "(407) 205-8418",
     "available": "NOW",
     "zip": "32801",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2429,
@@ -24437,7 +26063,10 @@
     "phone": "(813) 355-9968",
     "available": "NOW",
     "zip": "33603",
-    "unit": "210"
+    "unit": "210",
+    "pg": "PG5",
+    "mf": true,
+    "community": "Janie B Apartments"
   },
   {
     "id": 2398,
@@ -24489,7 +26118,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "34420",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2203,
@@ -24537,7 +26169,10 @@
     "phone": "(804) 426-8360",
     "available": "NOW",
     "zip": "23223",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2164,
@@ -24590,7 +26225,10 @@
     "phone": "(904) 290-2931",
     "available": "NOW",
     "zip": "34420",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2095,
@@ -24636,7 +26274,10 @@
     "phone": "(352) 505-5174",
     "available": "NOW",
     "zip": "32608",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2078,
@@ -24696,7 +26337,10 @@
     "phone": "(352) 247-2202",
     "available": "NOW",
     "zip": "32607",
-    "unit": "5"
+    "unit": "5",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2041,
@@ -24762,7 +26406,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "34741",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 2008,
@@ -24824,7 +26471,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "34473",
-    "unit": ""
+    "unit": "",
+    "pg": "PG4",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1884,
@@ -24901,7 +26551,10 @@
     "phone": "(352) 327-9223",
     "available": "9/10/26",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mirabella Apartments"
   },
   {
     "id": 1794,
@@ -24972,7 +26625,10 @@
     "phone": "(352) 559-3304",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks at Camelot"
   },
   {
     "id": 1792,
@@ -25012,7 +26668,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32828",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1790,
@@ -25076,7 +26735,10 @@
     "phone": "(352) 450-0906",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Camelot Properties"
   },
   {
     "id": 1789,
@@ -25144,7 +26806,10 @@
     "phone": "(352) 450-0906",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Camelot Properties"
   },
   {
     "id": 1787,
@@ -25212,7 +26877,10 @@
     "phone": "(352) 327-9223",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mirabella Apartments"
   },
   {
     "id": 1785,
@@ -25289,7 +26957,10 @@
     "phone": "(352) 450-0906",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Camelot Properties"
   },
   {
     "id": 1784,
@@ -25361,7 +27032,10 @@
     "phone": "(352) 450-0906",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": false,
+    "community": "Camelot Properties"
   },
   {
     "id": 1783,
@@ -25430,7 +27104,10 @@
     "phone": "(352) 327-9223",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mirabella Apartments"
   },
   {
     "id": 1782,
@@ -25486,7 +27163,10 @@
     "phone": "(352) 327-9223",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mirabella Apartments"
   },
   {
     "id": 1771,
@@ -25553,7 +27233,10 @@
     "phone": "(352) 327-9223",
     "available": "NOW",
     "zip": "32607",
-    "unit": ""
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Mirabella Apartments"
   },
   {
     "id": 1767,
@@ -25605,7 +27288,10 @@
     "phone": "(407) 243-8937",
     "available": "NOW",
     "zip": "32935",
-    "unit": "A"
+    "unit": "A",
+    "pg": "PG8",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1708,
@@ -25689,7 +27375,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32746",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1707,
@@ -25741,7 +27430,10 @@
     "phone": "(813) 553-3444",
     "available": "NOW",
     "zip": "33604",
-    "unit": ""
+    "unit": "",
+    "pg": "PG5",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1661,
@@ -25793,7 +27485,10 @@
     "phone": "(813) 355-9968",
     "available": "NOW",
     "zip": "33603",
-    "unit": "102"
+    "unit": "102",
+    "pg": "PG5",
+    "mf": true,
+    "community": "Janie B Apartments"
   },
   {
     "id": 1652,
@@ -25844,7 +27539,10 @@
     "phone": "(813) 355-9968",
     "available": "NOW",
     "zip": "33603",
-    "unit": "302"
+    "unit": "302",
+    "pg": "PG5",
+    "mf": true,
+    "community": "Janie B Apartments"
   },
   {
     "id": 1547,
@@ -25906,7 +27604,10 @@
     "phone": "(813) 787-4477",
     "available": "NOW",
     "zip": "33603",
-    "unit": "401"
+    "unit": "401",
+    "pg": "PG5",
+    "mf": true,
+    "community": "Janie B Apartments"
   },
   {
     "id": 1466,
@@ -25959,7 +27660,10 @@
     "phone": "(407) 585-2721",
     "available": "10/10/26",
     "zip": "34772",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1464,
@@ -26028,7 +27732,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32714",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1453,
@@ -26079,7 +27786,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32839",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1448,
@@ -26130,7 +27840,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32807",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1426,
@@ -26190,7 +27903,10 @@
     "phone": "(352) 332-3199",
     "available": "8/15/26",
     "zip": "32607",
-    "unit": "160"
+    "unit": "160",
+    "pg": "",
+    "mf": true,
+    "community": "Hammocks off Newberry"
   },
   {
     "id": 1425,
@@ -26260,7 +27976,10 @@
     "phone": "(352) 332-3199",
     "available": "NOW",
     "zip": "32607",
-    "unit": "20"
+    "unit": "20",
+    "pg": "",
+    "mf": true,
+    "community": "Hammocks off Newberry"
   },
   {
     "id": 1420,
@@ -26333,7 +28052,10 @@
     "phone": "(352) 332-3199",
     "available": "8/25/26",
     "zip": "32607",
-    "unit": "41"
+    "unit": "41",
+    "pg": "",
+    "mf": true,
+    "community": "Hammocks off Newberry"
   },
   {
     "id": 1410,
@@ -26391,7 +28113,10 @@
     "phone": "(813) 787-4477",
     "available": "NOW",
     "zip": "33603",
-    "unit": "407"
+    "unit": "407",
+    "pg": "PG5",
+    "mf": true,
+    "community": "Janie B Apartments"
   },
   {
     "id": 1341,
@@ -26446,7 +28171,10 @@
     "phone": "(352) 372-3826",
     "available": "10/10/26",
     "zip": "32609",
-    "unit": "92"
+    "unit": "92",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks off 6th"
   },
   {
     "id": 1311,
@@ -26515,7 +28243,10 @@
     "phone": "(407) 258-1332",
     "available": "NOW",
     "zip": "32608",
-    "unit": "109"
+    "unit": "109",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks by Butler"
   },
   {
     "id": 1256,
@@ -26577,7 +28308,10 @@
     "phone": "(352) 372-3826",
     "available": "NOW",
     "zip": "32609",
-    "unit": "23"
+    "unit": "23",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks off 6th"
   },
   {
     "id": 1191,
@@ -26645,7 +28379,10 @@
     "phone": "(407) 258-1332",
     "available": "NOW",
     "zip": "32609",
-    "unit": "63"
+    "unit": "63",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks on 34th"
   },
   {
     "id": 1187,
@@ -26708,7 +28445,10 @@
     "phone": "(352) 372-3826",
     "available": "NOW",
     "zip": "32609",
-    "unit": "51"
+    "unit": "51",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks off 6th"
   },
   {
     "id": 1186,
@@ -26768,7 +28508,10 @@
     "phone": "(352) 372-3826",
     "available": "9/10/26",
     "zip": "32609",
-    "unit": "3"
+    "unit": "3",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks off 6th"
   },
   {
     "id": 1165,
@@ -26842,7 +28585,10 @@
     "phone": "(352) 375-3077",
     "available": "NOW",
     "zip": "32607",
-    "unit": "18"
+    "unit": "18",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks on 20th"
   },
   {
     "id": 1159,
@@ -26915,7 +28661,10 @@
     "phone": "(352) 375-3077",
     "available": "NOW",
     "zip": "32607",
-    "unit": "151"
+    "unit": "151",
+    "pg": "",
+    "mf": true,
+    "community": "The Hammocks on 20th"
   },
   {
     "id": 1130,
@@ -26963,7 +28712,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32803",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 1019,
@@ -27024,7 +28776,10 @@
     "phone": "(407) 585-2721",
     "available": "8/15/26",
     "zip": "32746",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 949,
@@ -27075,7 +28830,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32750",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 926,
@@ -27127,7 +28885,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32828",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 903,
@@ -27178,7 +28939,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32771",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 866,
@@ -27233,7 +28997,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32801",
-    "unit": "112"
+    "unit": "112",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 847,
@@ -27277,7 +29044,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 812,
@@ -27326,7 +29096,10 @@
     "phone": "(407) 585-2721",
     "available": "12/10/26",
     "zip": "32801",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 731,
@@ -27392,7 +29165,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 730,
@@ -27439,7 +29215,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32825",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 726,
@@ -27493,7 +29272,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32720",
-    "unit": ""
+    "unit": "",
+    "pg": "PG1",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 720,
@@ -27546,7 +29328,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32725",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 691,
@@ -27603,7 +29388,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32712",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 625,
@@ -27666,7 +29454,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32708",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 615,
@@ -27719,7 +29510,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32750",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 609,
@@ -27766,7 +29560,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32789",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 604,
@@ -27818,7 +29615,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32703",
-    "unit": ""
+    "unit": "",
+    "pg": "PG3",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 479,
@@ -27863,7 +29663,10 @@
     "phone": "(305) 783-9814",
     "available": "NOW",
     "zip": "32806",
-    "unit": ""
+    "unit": "",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 456,
@@ -27925,7 +29728,10 @@
     "phone": "(305) 783-9814",
     "available": "NOW",
     "zip": "32804",
-    "unit": ""
+    "unit": "",
+    "pg": "PG7",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 274,
@@ -27981,7 +29787,10 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32792",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 196,
@@ -28040,7 +29849,10 @@
     "phone": "(407) 585-2721",
     "available": "9/10/26",
     "zip": "32771",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   },
   {
     "id": 186,
@@ -28114,6 +29926,9 @@
     "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "32746",
-    "unit": ""
+    "unit": "",
+    "pg": "PG2",
+    "mf": false,
+    "community": "Atrium Management Company"
   }
 ]

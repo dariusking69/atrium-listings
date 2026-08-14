@@ -8,6 +8,8 @@
   Scope (pick one; omitting both shows the whole portfolio):
     ?property=The+Julian      one community (name from directory.json)
     ?city=Gainesville         one city
+    ?pg=PG1                   everything in an AppFolio property group
+    ?mf=1                     the whole Multifamily portfolio
   Customisation:
     &accent=003b4a            hex, with or without '#'
     &name=The+Julian          heading text ('' hides the heading)
@@ -160,7 +162,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   // FAIL-CLOSED: presence of the key is what scopes, not its value. A present-but-empty
   // ?property= (CMS stripped it, bad copy/paste) must yield nothing — never the whole portfolio.
   var SCOPE={ property:(P.get('property')||'').trim(), city:(P.get('city')||'').trim(),
-              hasProperty:P.has('property'), hasCity:P.has('city') };
+              pg:(P.get('pg')||'').trim().toUpperCase(), mf:(P.get('mf')||'').trim(),
+              hasProperty:P.has('property'), hasCity:P.has('city'),
+              hasPg:P.has('pg'), hasMf:P.has('mf') };
   var accent=hex(P.get('accent'));
   if(accent){
     var root=$('#atr-root');
@@ -201,6 +205,10 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       ? rows.filter(function(l){return (l.p||'').toLowerCase()===SCOPE.property.toLowerCase();}) : [];
     else if(SCOPE.hasCity) scoped=SCOPE.city
       ? rows.filter(function(l){return (l.c||'').toLowerCase()===SCOPE.city.toLowerCase();}) : [];
+    else if(SCOPE.hasPg) scoped=SCOPE.pg
+      ? rows.filter(function(l){return (l.pg||'').toUpperCase()===SCOPE.pg;}) : [];
+    else if(SCOPE.hasMf) scoped=(SCOPE.mf&&SCOPE.mf!=='0')
+      ? rows.filter(function(l){return !!l.mf;}) : [];
 
     DATA=scoped.map(function(l){
       return {id:l.id, address:l.a||'', unit:l.u||'', city:l.c||'', zip:l.z||'', property:l.p||'',
@@ -211,7 +219,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
     // ---- heading ----
     var name = P.get('name');
-    if(name===null) name = SCOPE.property || SCOPE.city || '';
+    if(name===null) name = SCOPE.property || SCOPE.city || SCOPE.pg || (SCOPE.hasMf&&SCOPE.mf!=='0'?'Multifamily':'') || '';
     name=String(name).slice(0,80);
     var sub=String(P.get('sub')||'').slice(0,120);
     if(!sub && SCOPE.property && DATA.length){
@@ -244,7 +252,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ---------- shareable URL ----------
   var FILTERS={q:'#atr-q',min:'#atr-min',max:'#atr-max',beds:'#atr-beds',baths:'#atr-baths',sort:'#atr-sort'};
-  var KEEP=['property','city','accent','name','sub','map','parent','font'];   // config params survive Share
+  var KEEP=['property','city','pg','mf','accent','name','sub','map','parent','font'];   // config params survive Share
   function readParams(){
     Object.keys(FILTERS).forEach(function(k){ if(P.has(k)){ var el=$(FILTERS[k]); if(el) el.value=P.get(k); } });
     if(P.has('rlat')&&P.has('rlng')){
