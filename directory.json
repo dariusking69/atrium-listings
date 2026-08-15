@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 292,
+      "count": 291,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 48,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 214-5228",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 47,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 137
+      "count": 136
     },
     {
       "name": "Richmond",
@@ -247,7 +247,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Deltona",
@@ -423,7 +423,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 48,
+      "count": 47,
       "cities": [
         "Orlando"
       ]
@@ -437,7 +437,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 29,
       "cities": [
         "Winter Springs"
       ]
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 479,
-  "total": 599
+  "mfTotal": 477,
+  "total": 597
 }
