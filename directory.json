@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 293,
+      "count": 295,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 136
+      "count": 137
     },
     {
       "name": "Richmond",
@@ -306,6 +306,10 @@
       "count": 4
     },
     {
+      "name": "Longwood",
+      "count": 3
+    },
+    {
       "name": "Sanford",
       "count": 3
     },
@@ -331,10 +335,6 @@
     },
     {
       "name": "Ocala",
-      "count": 2
-    },
-    {
-      "name": "Longwood",
       "count": 2
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "PG2",
-      "count": 23
+      "count": 25
     },
     {
       "name": "PG3",
@@ -689,5 +689,5 @@
     }
   ],
   "mfTotal": 479,
-  "total": 599
+  "total": 601
 }
