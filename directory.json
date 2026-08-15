@@ -45,7 +45,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 50,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 214-5228",
       "cities": [
@@ -239,7 +239,7 @@
     },
     {
       "name": "Tampa",
-      "count": 60
+      "count": 59
     },
     {
       "name": "Gainesville",
@@ -548,13 +548,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 9,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 8,
       "cities": [
@@ -573,6 +566,13 @@
       "count": 8,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 8,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 480,
-  "total": 602
+  "mfTotal": 479,
+  "total": 601
 }

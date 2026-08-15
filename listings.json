@@ -9622,45 +9622,6 @@
     "community": "The William at Westshore"
   },
   {
-    "id": 6124,
-    "uuid": "75ef86bc-ab0e-4b20-86af-64f9c5790450",
-    "address": "6822 S Shamrock Rd Unit 111, Tampa, FL 33616",
-    "street": "6822 S Shamrock Rd Unit 111",
-    "city": "Tampa",
-    "rent": "$1,565",
-    "rent_val": 1565,
-    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 561,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/75ef86bc-ab0e-4b20-86af-64f9c5790450",
-    "lat": 27.8662164,
-    "lng": -82.5232166,
-    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,565 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,565",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0130cded-a7e0-44c2-944a-2476a6d4cb5e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=75ef86bc-ab0e-4b20-86af-64f9c5790450&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 284-9806",
-    "available": "NOW",
-    "zip": "33616",
-    "unit": "111",
-    "pg": "",
-    "mf": true,
-    "community": "The William at Westshore"
-  },
-  {
     "id": 6123,
     "uuid": "a09af91e-a02e-4d2b-b534-084ce604ca20",
     "address": "6822 S Shamrock Rd Unit 104, Tampa, FL 33616",
