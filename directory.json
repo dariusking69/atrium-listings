@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 292,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -108,7 +108,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 138
+      "count": 137
     },
     {
       "name": "Richmond",
@@ -235,7 +235,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 61
+      "count": 62
     },
     {
       "name": "Tampa",
@@ -290,12 +290,12 @@
       "count": 7
     },
     {
-      "name": "Winter Garden",
+      "name": "Davenport",
       "count": 6
     },
     {
-      "name": "Davenport",
-      "count": 6
+      "name": "Winter Garden",
+      "count": 5
     },
     {
       "name": "Apopka",
@@ -389,7 +389,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 15
+      "count": 14
     },
     {
       "name": "PG2",
@@ -397,7 +397,7 @@
     },
     {
       "name": "PG3",
-      "count": 21
+      "count": 20
     },
     {
       "name": "PG4",
@@ -507,7 +507,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 16,
+      "count": 17,
       "cities": [
         "Kissimmee"
       ]
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 478,
-  "total": 600
+  "mfTotal": 479,
+  "total": 599
 }
