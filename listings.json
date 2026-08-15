@@ -1,5 +1,48 @@
 [
   {
+    "id": 6436,
+    "uuid": "964a6bfa-3c7f-4bcd-8082-14ad443e3e2a",
+    "address": "3440 N. Goldenrod Road Unit # 713, Winter Park, FL 32792",
+    "street": "3440 N. Goldenrod Road Unit # 713",
+    "city": "Winter Park",
+    "rent": "$1,267",
+    "rent_val": 1267,
+    "specs": "1 bd, 1 ba, 800 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 800,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/964a6bfa-3c7f-4bcd-8082-14ad443e3e2a",
+    "lat": 28.5892965,
+    "lng": -81.2887011,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-6288",
+    "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,267 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,383 \n\n\n Available 9/25/26",
+    "terms": [
+      "Rent: $1,267",
+      "Application Fee: $79",
+      "Security Deposit: $1,383",
+      "Available 9/25/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7889efc5-e8b7-461b-9197-32cf3a369e15/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=964a6bfa-3c7f-4bcd-8082-14ad443e3e2a&source=Website",
+    "available": "9/25/26",
+    "zip": "32792",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Cranes Landing Apartments"
+  },
+  {
     "id": 6433,
     "uuid": "ee9e7ccd-67c0-4203-bb22-2895f186902b",
     "address": "24 Andrea Dr Unit # 24-209, Winter Springs, FL 32708",
@@ -1980,9 +2023,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d7cbee3b-c40b-4666-9377-208a03b0846a",
     "lat": 28.549462,
     "lng": -81.3873209,
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
     "title": "Spacious 2 Bed Apartment in Downtown Orlando \u2013 The Rembrandt",
     "description": "2 Bed, 2 Bath, 1,098 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The Julian's largest two-bedroom, with two full bedroom suites and a generous shared living space.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,390 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/3/26",
     "terms": [
@@ -1999,6 +2039,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d7cbee3b-c40b-4666-9377-208a03b0846a&source=Website",
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
     "available": "9/3/26",
     "zip": "32801",
     "unit": "1032",
