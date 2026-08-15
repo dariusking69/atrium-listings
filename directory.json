@@ -44,21 +44,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 49,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 214-5228",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 48,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 214-5228",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "name": "Tampa",
-      "count": 59
+      "count": 58
     },
     {
       "name": "Gainesville",
@@ -534,17 +534,17 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 10,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 9,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 9,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 479,
-  "total": 601
+  "mfTotal": 478,
+  "total": 600
 }
