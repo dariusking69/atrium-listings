@@ -15501,58 +15501,6 @@
     "community": "Mission Club Apartments"
   },
   {
-    "id": 5767,
-    "uuid": "ed952f58-6050-403c-9f9c-c99bc73d0fa8",
-    "address": "5832 Auvers Blvd #201, Orlando, FL 32807",
-    "street": "5832 Auvers Blvd #201",
-    "city": "Orlando",
-    "rent": "$1,475",
-    "rent_val": 1475,
-    "specs": "2 bd, 2 ba, 1,030 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1030,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ed952f58-6050-403c-9f9c-c99bc73d0fa8",
-    "lat": 28.5743926,
-    "lng": -81.3051884,
-    "title": "Spacious 2-Bedroom Apartment in Baldwin Park \u2013 Pet Friendly!",
-    "description": "Welcome home to The Avenue at Baldwin Park, where comfort and convenience meet style! This beautiful 2-bedroom, 2-bathroom apartment features a split floor plan for added privacy, perfect for roommates or families. Enjoy the ease of having your washer and dryer in-unit, plus modern finishes throughout.\r\n\r\nStep outside and take advantage of the incredible community amenities \u2014 relax by the resort-style pool, shoot hoops on the basketball court, let the kids play at the playground, or spend quality time with your furry friends at the dog park.\r\n\r\nLocated in the desirable Baldwin Park area of Orlando, you\u2019ll be just minutes from shopping, dining, and entertainment, with easy access to major highways.\r\n\r\nHighlights:\r\n\r\n2 Bedrooms / 2 Bathrooms\r\nSplit Floor Plan\r\nHigh speed Internet\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nPool, Basketball Court, Playground & Dog Park\r\n\r\nDon\u2019t miss your chance to call this stunning apartment home \u2014 schedule your tour today (407) 917-7786!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\ncommunity pool\r\nCommunity Dog Park\r\n1st Floor\r\nWasherDryer\r\nBlack Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,475 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/1/26",
-    "terms": [
-      "Rent: $1,475",
-      "Application Fee: $95",
-      "Available 9/1/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6ea7045f-6c2f-4b0d-b7d2-e1689106f86d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/05e74dec-8639-463b-a341-e1dfca339902/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/539fe314-e09a-43f1-ba1f-eaa2c370a6d0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d708842c-d604-4b90-a864-91e6a69801a0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/85dfc10c-809a-4796-9b33-87cd563c0895/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/88a85442-c30d-4665-8549-5409acc99bdb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c541ce2a-442f-40c6-858a-fef8c047c144/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/484d1796-50f3-480c-ab35-7e3d17d3ec58/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/81352627-93b0-48e2-b1de-d10e03ffff88/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b933e6a9-91f3-47e1-8c81-f283a261e883/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a6754711-36ca-415f-b175-36c6e65faa80/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ed952f58-6050-403c-9f9c-c99bc73d0fa8&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0818",
-    "available": "9/1/26",
-    "zip": "32807",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Avenues of Baldwin Park"
-  },
-  {
     "id": 5751,
     "uuid": "a4ecef3b-04a3-4bcb-929e-7687213eae92",
     "address": "1520 Neo Landings Loop, Unit 416, Kissimmee, FL 34744",
