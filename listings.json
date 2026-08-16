@@ -11279,49 +11279,6 @@
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
-    "id": 6061,
-    "uuid": "1f8fc612-15a6-4272-ba87-925907d4838f",
-    "address": "3440 N. Goldenrod Road Unit # 936, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 936",
-    "city": "Winter Park",
-    "rent": "$1,395",
-    "rent_val": 1395,
-    "specs": "2 bd, 2 ba, 950 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 950,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c313b08e-e73d-4d1a-9663-549cfe019d9d/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1f8fc612-15a6-4272-ba87-925907d4838f",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "*Upgraded* 2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,395 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,595 \n\n\n Available 9/9/26",
-    "terms": [
-      "Rent: $1,395",
-      "Application Fee: $79",
-      "Security Deposit: $1,595",
-      "Available 9/9/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c313b08e-e73d-4d1a-9663-549cfe019d9d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1f8fc612-15a6-4272-ba87-925907d4838f&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-6288",
-    "available": "9/9/26",
-    "zip": "32792",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Cranes Landing Apartments"
-  },
-  {
     "id": 6058,
     "uuid": "199fe4af-d255-47c2-b7f9-c85bd0247a9a",
     "address": "3113 W. Marshall Street #521, Richmond, VA 23230",

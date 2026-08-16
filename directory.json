@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 290,
+      "count": 289,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -259,7 +259,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Casselberry",
@@ -514,7 +514,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 13,
+      "count": 12,
       "cities": [
         "Winter Park"
       ]
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 474,
-  "total": 596
+  "mfTotal": 473,
+  "total": 595
 }
