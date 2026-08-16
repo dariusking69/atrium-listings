@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 293,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -227,7 +227,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 137
+      "count": 136
     },
     {
       "name": "Richmond",
@@ -472,7 +472,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 22,
+      "count": 21,
       "cities": [
         "Orlando"
       ]
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 478,
-  "total": 600
+  "mfTotal": 477,
+  "total": 599
 }
