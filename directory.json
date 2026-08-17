@@ -44,21 +44,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 51,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 214-5228",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 44,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -161,6 +161,15 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -176,15 +185,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -227,11 +227,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 130
+      "count": 137
     },
     {
       "name": "Richmond",
-      "count": 67
+      "count": 68
     },
     {
       "name": "Kissimmee",
@@ -282,16 +282,16 @@
       "count": 8
     },
     {
+      "name": "Davenport",
+      "count": 7
+    },
+    {
       "name": "Oxford",
       "count": 7
     },
     {
       "name": "Charlottesville",
       "count": 7
-    },
-    {
-      "name": "Davenport",
-      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -318,10 +318,6 @@
       "count": 3
     },
     {
-      "name": "Lake Mary",
-      "count": 3
-    },
-    {
       "name": "Triangle",
       "count": 2
     },
@@ -335,6 +331,10 @@
     },
     {
       "name": "Ocala",
+      "count": 2
+    },
+    {
+      "name": "Lake Mary",
       "count": 2
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "PG2",
-      "count": 25
+      "count": 24
     },
     {
       "name": "PG3",
@@ -423,7 +423,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 44,
+      "count": 51,
       "cities": [
         "Orlando"
       ]
@@ -590,17 +590,17 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 6,
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Valencia Isle",
       "count": 5,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 5,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 469,
-  "total": 590
+  "mfTotal": 477,
+  "total": 598
 }
