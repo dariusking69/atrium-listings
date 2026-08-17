@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 286,
+      "count": 287,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -99,7 +99,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 18,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -144,7 +144,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -246,16 +246,20 @@
       "count": 36
     },
     {
+      "name": "Winter Springs",
+      "count": 30
+    },
+    {
       "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Winter Springs",
-      "count": 29
-    },
-    {
       "name": "Macon",
       "count": 24
+    },
+    {
+      "name": "Sandston",
+      "count": 19
     },
     {
       "name": "Winter Park",
@@ -266,12 +270,8 @@
       "count": 18
     },
     {
-      "name": "Sandston",
-      "count": 18
-    },
-    {
       "name": "Jacksonville",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Lakeland",
@@ -436,6 +436,13 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 29,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
@@ -443,15 +450,8 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 28,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
-      "count": 25,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -471,17 +471,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 21,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 21,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 20,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -492,17 +492,17 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 19,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 18,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 18,
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -562,17 +562,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -688,6 +688,6 @@
       ]
     }
   ],
-  "mfTotal": 476,
-  "total": 597
+  "mfTotal": 477,
+  "total": 598
 }
