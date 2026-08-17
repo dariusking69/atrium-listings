@@ -89,7 +89,7 @@
     },
     {
       "name": "The Nest",
-      "count": 20,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -124,21 +124,21 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "name": "Richmond",
-      "count": 67
+      "count": 69
     },
     {
       "name": "Kissimmee",
@@ -466,6 +466,13 @@
       ]
     },
     {
+      "name": "The Nest",
+      "count": 21,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 21,
       "cities": [
@@ -477,13 +484,6 @@
       "count": 20,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 20,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -536,6 +536,13 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 9,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 9,
       "cities": [
@@ -547,13 +554,6 @@
       "count": 8,
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 8,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 475,
-  "total": 594
+  "mfTotal": 477,
+  "total": 596
 }

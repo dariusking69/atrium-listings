@@ -1,5 +1,48 @@
 [
   {
+    "id": 6447,
+    "uuid": "331238cc-95d1-4fcc-bcf2-dfaf23e2a174",
+    "address": "3113 W. Marshall Street #313, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #313",
+    "city": "Richmond",
+    "rent": "$1,713",
+    "rent_val": 1713,
+    "specs": "1 bd, 1 ba, 727 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 727,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/394b1eeb-008f-4db9-9e52-b76aa993b97d/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/331238cc-95d1-4fcc-bcf2-dfaf23e2a174",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "property": "The Nest",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+    "phone": "(804) 409-4983",
+    "title": "The Harbor",
+    "description": "Rental Terms \n \n Rent: $1,713 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/1/26",
+    "terms": [
+      "Rent: $1,713",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 10/1/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/394b1eeb-008f-4db9-9e52-b76aa993b97d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=331238cc-95d1-4fcc-bcf2-dfaf23e2a174&source=Website",
+    "available": "10/1/26",
+    "zip": "23230",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Nest"
+  },
+  {
     "id": 6446,
     "uuid": "38a7405c-0d83-4611-bf0f-972b435f7811",
     "address": "480 N Terry Ave Unit 1314, Orlando, FL 32801",
@@ -20620,6 +20663,50 @@
     "community": "The Avenues at Winter Springs"
   },
   {
+    "id": 4596,
+    "uuid": "13fa5fe9-e779-4360-8a03-23ccee01edc5",
+    "address": "1710 E Broad St Apt 314, Richmond, VA 23223-7286",
+    "street": "1710 E Broad St Apt 314",
+    "city": "Richmond",
+    "rent": "$1,199",
+    "rent_val": 1199,
+    "specs": "1 bd, 1 ba, 908 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 908,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/73fe9adc-82d8-4485-b193-b32320a034e3/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/13fa5fe9-e779-4360-8a03-23ccee01edc5",
+    "lat": 37.5360498,
+    "lng": -77.4256982,
+    "property": "Raven Place",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+    "phone": "(804) 977-2457",
+    "title": "A4.1 Executive 1-Bedroom Apartment with Bonus Office | 908 Sq. Ft.",
+    "description": "Executive 1-Bedroom Apartment with Bonus Office | 908 Sq. Ft.\r\n\r\nEnjoy exceptional space and flexibility in this 908-square-foot, one-bedroom, one-bath apartment at Raven's Place Apartments. Designed for today's lifestyle, this expansive floor plan includes a spacious living room, a generously sized bedroom, and a dedicated office or flex space\u2014perfect for working from home, studying, or creating a hobby room.\r\n\r\nThe thoughtfully designed kitchen features granite countertops, ample cabinet space, and a functional layout that makes meal preparation effortless. The oversized living area provides plenty of room for entertaining, relaxing, or creating multiple seating areas, while the private bedroom offers a peaceful retreat with generous closet space.\r\n\r\nBeautiful bamboo flooring flows throughout the apartment, and a full-size washer and dryer provide the convenience of in-home laundry.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,199",
+      "Admin Fee: $235",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/73fe9adc-82d8-4485-b193-b32320a034e3/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=13fa5fe9-e779-4360-8a03-23ccee01edc5&source=Website",
+    "available": "NOW",
+    "zip": "23223",
+    "unit": "314",
+    "pg": "",
+    "mf": true,
+    "community": "Raven Place"
+  },
+  {
     "id": 4578,
     "uuid": "71bd11e4-5620-4877-92f0-a4215b724b54",
     "address": "5888 Auvers Blvd #104, Orlando, FL 32807",
@@ -21311,8 +21398,8 @@
     "address": "5041 Hutton Drive, St. Cloud, FL 34771",
     "street": "5041 Hutton Drive",
     "city": "St. Cloud",
-    "rent": "$2,200",
-    "rent_val": 2200,
+    "rent": "$2,750",
+    "rent_val": 2750,
     "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
     "beds": 4.0,
     "baths": 2.5,
@@ -24473,8 +24560,8 @@
     "address": "1100 Lake Shadow Circle #2306, Maitland, FL 32751",
     "street": "1100 Lake Shadow Circle #2306",
     "city": "Maitland",
-    "rent": "$1,595",
-    "rent_val": 1595,
+    "rent": "$1,565",
+    "rent_val": 1565,
     "specs": "2 bd, 2 ba, 1,048 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.0,
