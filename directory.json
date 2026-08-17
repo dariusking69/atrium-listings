@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 287,
+      "count": 285,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -28,7 +28,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Oviedo",
         "Oxford",
         "Palm Bay",
         "Richmond",
@@ -45,7 +44,7 @@
     },
     {
       "name": "The Julian",
-      "count": 51,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -152,21 +151,21 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -227,11 +226,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 137
+      "count": 136
     },
     {
       "name": "Richmond",
-      "count": 68
+      "count": 67
     },
     {
       "name": "Kissimmee",
@@ -306,16 +305,16 @@
       "count": 4
     },
     {
-      "name": "Longwood",
-      "count": 3
-    },
-    {
       "name": "Sanford",
       "count": 3
     },
     {
       "name": "Belleview",
       "count": 3
+    },
+    {
+      "name": "Longwood",
+      "count": 2
     },
     {
       "name": "Triangle",
@@ -347,10 +346,6 @@
     },
     {
       "name": "Daytona Beach",
-      "count": 1
-    },
-    {
-      "name": "Oviedo",
       "count": 1
     },
     {
@@ -393,7 +388,7 @@
     },
     {
       "name": "PG2",
-      "count": 24
+      "count": 22
     },
     {
       "name": "PG3",
@@ -423,7 +418,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 51,
+      "count": 50,
       "cities": [
         "Orlando"
       ]
@@ -583,17 +578,17 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -688,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 477,
-  "total": 598
+  "mfTotal": 475,
+  "total": 594
 }
