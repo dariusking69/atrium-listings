@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/331238cc-95d1-4fcc-bcf2-dfaf23e2a174",
     "lat": 37.5662879,
     "lng": -77.4734839,
-    "property": "The Nest",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-    "phone": "(804) 409-4983",
     "title": "The Harbor",
     "description": "Rental Terms \n \n Rent: $1,713 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/1/26",
     "terms": [
@@ -35,6 +32,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=331238cc-95d1-4fcc-bcf2-dfaf23e2a174&source=Website",
+    "property": "The Nest",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+    "phone": "(804) 409-4983",
     "available": "10/1/26",
     "zip": "23230",
     "unit": "",
@@ -1950,47 +1950,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6393,
-    "uuid": "3dfc6eaf-6c79-4318-82d9-9aadf849b1cb",
-    "address": "480 N Terry Ave Unit 0507, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0507",
-    "city": "Orlando",
-    "rent": "$1,738",
-    "rent_val": 1738,
-    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1071,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0c8c6f46-9bf7-4bac-9c3d-a3260885aac8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3dfc6eaf-6c79-4318-82d9-9aadf849b1cb",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "2 Bed 2 Bath Apartment in Creative Village \u2013 The Picasso",
-    "description": "2 Bed, 2 Bath, 1,071 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A flexible two-bedroom, two-bath layout with a living and dining area sized for everyday use.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,738 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $1,738",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/0c8c6f46-9bf7-4bac-9c3d-a3260885aac8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3dfc6eaf-6c79-4318-82d9-9aadf849b1cb&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "0507",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6392,
     "uuid": "d5537e36-9564-4585-ba22-68a28baa603b",
     "address": "480 N Terry Ave Unit 0321, Orlando, FL 32801",
@@ -2155,47 +2114,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6386,
-    "uuid": "578838ff-3047-4747-9dae-a78b53602b0a",
-    "address": "480 N Terry Ave Unit 1402, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 1402",
-    "city": "Orlando",
-    "rent": "$2,330",
-    "rent_val": 2330,
-    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1098,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/578838ff-3047-4747-9dae-a78b53602b0a",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Spacious 2 Bed Apartment in Downtown Orlando \u2013 The Rembrandt",
-    "description": "2 Bed, 2 Bath, 1,098 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The Julian's largest two-bedroom, with two full bedroom suites and a generous shared living space.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,330 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $2,330",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=578838ff-3047-4747-9dae-a78b53602b0a&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "1402",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6385,
     "uuid": "4da7ee2c-a2f6-4e1d-b127-0d34ff301e99",
     "address": "480 N Terry Ave Unit 1329, Orlando, FL 32801",
@@ -2314,47 +2232,6 @@
     "available": "NOW",
     "zip": "32801",
     "unit": "1309",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
-    "id": 6382,
-    "uuid": "78fb602f-88d5-4d07-8cda-06e31825990b",
-    "address": "480 N Terry Ave Unit 1218, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 1218",
-    "city": "Orlando",
-    "rent": "$2,465",
-    "rent_val": 2465,
-    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1071,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/efbb0f4b-b687-4213-9a82-b332f10baeda/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/78fb602f-88d5-4d07-8cda-06e31825990b",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "2 Bed 2 Bath Apartment in Creative Village \u2013 The Picasso",
-    "description": "2 Bed, 2 Bath, 1,071 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A flexible two-bedroom, two-bath layout with a living and dining area sized for everyday use.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,465 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $2,465",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/efbb0f4b-b687-4213-9a82-b332f10baeda/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=78fb602f-88d5-4d07-8cda-06e31825990b&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "1218",
     "pg": "",
     "mf": true,
     "community": "The Julian"
@@ -3059,48 +2936,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6360,
-    "uuid": "77355876-bd51-4eb3-bbb1-e73a88a054b6",
-    "address": "480 N Terry Ave Unit 0408, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0408",
-    "city": "Orlando",
-    "rent": "$1,840",
-    "rent_val": 1840,
-    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 726,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/77355876-bd51-4eb3-bbb1-e73a88a054b6",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "1 Bed 1 Bath Apartment in Creative Village \u2013 The Matisse",
-    "description": "1 Bed, 1 Bath, 726 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A one-bedroom with room to separate work from rest, plus a private patio or balcony.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,840 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
-    "terms": [
-      "Rent: $1,840",
-      "Application Fee: $95",
-      "Available 8/31/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=77355876-bd51-4eb3-bbb1-e73a88a054b6&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "8/31/26",
-    "zip": "32801",
-    "unit": "0408",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6359,
     "uuid": "3048a1d9-3484-407e-a061-a9dcb32aabd2",
     "address": "480 N Terry Ave Unit 0327, Orlando, FL 32801",
@@ -3137,47 +2972,6 @@
     "available": "NOW",
     "zip": "32801",
     "unit": "0327",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
-    "id": 6358,
-    "uuid": "7d4da1e5-2433-4977-b9af-b13bea4c08e7",
-    "address": "480 N Terry Ave Unit 0202, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0202",
-    "city": "Orlando",
-    "rent": "$2,275",
-    "rent_val": 2275,
-    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1098,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7d4da1e5-2433-4977-b9af-b13bea4c08e7",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Spacious 2 Bed Apartment in Downtown Orlando \u2013 The Rembrandt",
-    "description": "2 Bed, 2 Bath, 1,098 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The Julian's largest two-bedroom, with two full bedroom suites and a generous shared living space.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,275 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $2,275",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7d4da1e5-2433-4977-b9af-b13bea4c08e7&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "0202",
     "pg": "",
     "mf": true,
     "community": "The Julian"
@@ -8467,59 +8261,6 @@
     "pg": "",
     "mf": true,
     "community": "Keys at Wildwood"
-  },
-  {
-    "id": 6182,
-    "uuid": "48ec9aac-209c-4c51-b57a-ffe944d745c0",
-    "address": "5392 Lake Margaret Drive Unit # 392 - 0804, Orlando, FL 32812",
-    "street": "5392 Lake Margaret Drive Unit # 392 - 0804",
-    "city": "Orlando",
-    "rent": "$1,399 - $1,496",
-    "rent_val": 1399,
-    "specs": "2 bd, 2 ba, 923 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 923,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/48ec9aac-209c-4c51-b57a-ffe944d745c0",
-    "lat": 28.5035758,
-    "lng": -81.3148625,
-    "title": "923 sq ft Fieldstone",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 - $1,496 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/25/26",
-    "terms": [
-      "Rent: $1,399 - $1,496",
-      "Application Fee: $99",
-      "Available 10/25/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/cd60fcce-926b-4df9-bcf4-f4059fa7331c/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a938281-c825-408f-895e-cfcdc4b8aa39/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ce0e5ea-2721-4dbf-b7e4-13078bc80100/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/607cd82b-28d6-440c-a26b-504fff885ad9/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2a814fae-adc3-4046-a761-14ff28635d02/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1ee06a70-d861-4f28-b5c2-9da1dbf2ebeb/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/03439119-a3ac-424f-b9ca-c3230bf572ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ee9015b3-39d6-43ce-9600-c0a95148fe5d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51ee6c7f-41c9-4010-8820-5ed2f3f0ab1c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d4a643af-2409-47f5-86ba-6948cbd1077b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/735122b0-7a49-4360-b4df-c3b4fbac31e3/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b4384c7-60ea-499a-9240-8c3447455689/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=48ec9aac-209c-4c51-b57a-ffe944d745c0&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-1250",
-    "available": "10/25/26",
-    "zip": "32812",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Barber Park Apartments"
   },
   {
     "id": 6181,
@@ -20678,9 +20419,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/13fa5fe9-e779-4360-8a03-23ccee01edc5",
     "lat": 37.5360498,
     "lng": -77.4256982,
-    "property": "Raven Place",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-    "phone": "(804) 977-2457",
     "title": "A4.1 Executive 1-Bedroom Apartment with Bonus Office | 908 Sq. Ft.",
     "description": "Executive 1-Bedroom Apartment with Bonus Office | 908 Sq. Ft.\r\n\r\nEnjoy exceptional space and flexibility in this 908-square-foot, one-bedroom, one-bath apartment at Raven's Place Apartments. Designed for today's lifestyle, this expansive floor plan includes a spacious living room, a generously sized bedroom, and a dedicated office or flex space\u2014perfect for working from home, studying, or creating a hobby room.\r\n\r\nThe thoughtfully designed kitchen features granite countertops, ample cabinet space, and a functional layout that makes meal preparation effortless. The oversized living area provides plenty of room for entertaining, relaxing, or creating multiple seating areas, while the private bedroom offers a peaceful retreat with generous closet space.\r\n\r\nBeautiful bamboo flooring flows throughout the apartment, and a full-size washer and dryer provide the convenience of in-home laundry.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
@@ -20699,6 +20437,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=13fa5fe9-e779-4360-8a03-23ccee01edc5&source=Website",
+    "property": "Raven Place",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+    "phone": "(804) 977-2457",
     "available": "NOW",
     "zip": "23223",
     "unit": "314",
@@ -21266,61 +21007,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b85eef44-6cf6-42f6-90cf-b7962047ca30&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-5868",
-    "available": "NOW",
-    "zip": "32707",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Reserve at Lake Irene"
-  },
-  {
-    "id": 4122,
-    "uuid": "c82ca85d-33b2-4af5-a9d4-342ddfa6e9e1",
-    "address": "700 Suncrest Loop # 306, Casselberry, FL 32707",
-    "street": "700 Suncrest Loop # 306",
-    "city": "Casselberry",
-    "rent": "$1,378 - $1,464",
-    "rent_val": 1378,
-    "specs": "2 bd, 2 ba, 988 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 988,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f9fa53e6-b47f-46be-8890-b9750ea91057/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c82ca85d-33b2-4af5-a9d4-342ddfa6e9e1",
-    "lat": 28.6948015,
-    "lng": -81.3218342,
-    "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
-    "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,378 - $1,464 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,378 - $1,464",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f9fa53e6-b47f-46be-8890-b9750ea91057/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/35b754c8-e180-4f41-9af4-315cba85efce/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/18b94825-f087-43e1-a02b-3e1d591ce6ae/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/4ae2409d-02fc-4b91-8949-810a1bd711ee/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bab59863-8b7f-411d-8bbc-1d513ad77516/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3451c85c-cd7f-4739-a1b6-329695cdd50c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f51b8572-e2eb-48d5-a737-4d3d6774003f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3c0fb149-7964-4a60-9408-d23fd8014d37/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ada12990-5aec-4cc2-bd85-eaf292241127/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c0fa81ff-6d0d-4187-b4ef-3d4b81be298c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d22e562a-58c8-4a53-9f49-cc9625803169/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a3a85209-0f56-4d51-8253-18fd945ed280/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/adc5d1d7-e13e-455d-a589-3c8cf72fe56f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2500dea4-7ccc-41bf-8a9a-0d96699871d0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c82ca85d-33b2-4af5-a9d4-342ddfa6e9e1&source=Website",
     "property": "Atrium Management Company",
     "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
     "phone": "(689) 300-5868",
