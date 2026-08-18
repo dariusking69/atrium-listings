@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 281,
+      "count": 280,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -285,12 +285,12 @@
       "count": 7
     },
     {
-      "name": "Oxford",
+      "name": "Charlottesville",
       "count": 7
     },
     {
-      "name": "Charlottesville",
-      "count": 7
+      "name": "Oxford",
+      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -306,10 +306,6 @@
     },
     {
       "name": "Sanford",
-      "count": 3
-    },
-    {
-      "name": "Belleview",
       "count": 3
     },
     {
@@ -330,6 +326,14 @@
     },
     {
       "name": "Ocala",
+      "count": 2
+    },
+    {
+      "name": "DeLand",
+      "count": 2
+    },
+    {
+      "name": "Belleview",
       "count": 2
     },
     {
@@ -375,16 +379,12 @@
     {
       "name": "Melbourne",
       "count": 1
-    },
-    {
-      "name": "DeLand",
-      "count": 1
     }
   ],
   "pgs": [
     {
       "name": "PG1",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG2",
@@ -396,7 +396,7 @@
     },
     {
       "name": "PG4",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG5",
@@ -571,17 +571,17 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 7,
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Keys at Wildwood",
+      "count": 6,
+      "cities": [
+        "Oxford"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 468,
-  "total": 587
+  "mfTotal": 467,
+  "total": 586
 }
