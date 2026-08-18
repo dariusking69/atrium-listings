@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 282,
+      "count": 283,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "The Julian",
-      "count": 44,
+      "count": 40,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -62,7 +62,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 125
+      "count": 120
     },
     {
       "name": "Richmond",
@@ -234,11 +234,11 @@
     },
     {
       "name": "Kissimmee",
-      "count": 61
+      "count": 60
     },
     {
       "name": "Tampa",
-      "count": 58
+      "count": 59
     },
     {
       "name": "Gainesville",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -400,7 +400,7 @@
     },
     {
       "name": "PG5",
-      "count": 13
+      "count": 14
     },
     {
       "name": "PG7",
@@ -418,21 +418,21 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 44,
+      "count": 40,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "Champions Village",
-      "count": 38,
+      "count": 37,
       "cities": [
         "Kissimmee"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -480,17 +480,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 19,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 18,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 464,
-  "total": 585
+  "mfTotal": 459,
+  "total": 581
 }
