@@ -3197,48 +3197,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6358,
-    "uuid": "7d4da1e5-2433-4977-b9af-b13bea4c08e7",
-    "address": "480 N Terry Ave Unit 0202, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0202",
-    "city": "Orlando",
-    "rent": "$2,275",
-    "rent_val": 2275,
-    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1098,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7d4da1e5-2433-4977-b9af-b13bea4c08e7",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Spacious 2 Bed Apartment in Downtown Orlando \u2013 The Rembrandt",
-    "description": "2 Bed, 2 Bath, 1,098 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The Julian's largest two-bedroom, with two full bedroom suites and a generous shared living space.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,275 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
-    "terms": [
-      "Rent: $2,275",
-      "Application Fee: $95",
-      "Available 8/31/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7d4da1e5-2433-4977-b9af-b13bea4c08e7&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "8/31/26",
-    "zip": "32801",
-    "unit": "0202",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6357,
     "uuid": "1bcfcb81-63b2-4a05-b438-6e82bd566e67",
     "address": "5009 S West Shore Blvd Unit 61-5215, Tampa, FL 33611",
