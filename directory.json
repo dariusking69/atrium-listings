@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 283,
+      "count": 284,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(689) 300-4121",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -432,7 +432,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 29,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 463,
-  "total": 582
+  "mfTotal": 464,
+  "total": 583
 }
