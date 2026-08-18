@@ -205,21 +205,21 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Southampton Apartments",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
       "phone": "(703) 420-3619",
       "cities": [
         "Triangle"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     }
   ],
@@ -301,11 +301,11 @@
       "count": 4
     },
     {
-      "name": "St. Cloud",
-      "count": 4
+      "name": "Sanford",
+      "count": 3
     },
     {
-      "name": "Sanford",
+      "name": "St. Cloud",
       "count": 3
     },
     {
@@ -634,13 +634,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 3,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "cities": [
@@ -652,6 +645,13 @@
       "count": 2,
       "cities": [
         "Triangle"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 2,
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 461,
-  "total": 584
+  "mfTotal": 460,
+  "total": 583
 }
