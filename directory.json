@@ -43,6 +43,15 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 50,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -58,15 +67,6 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 38,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 123
+      "count": 135
     },
     {
       "name": "Richmond",
@@ -417,17 +417,17 @@
   ],
   "mfProperties": [
     {
+      "name": "The Julian",
+      "count": 50,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 39,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 38,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 464,
-  "total": 583
+  "mfTotal": 476,
+  "total": 595
 }
