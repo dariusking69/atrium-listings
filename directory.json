@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 284,
+      "count": 285,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -178,21 +178,21 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 121
+      "count": 122
     },
     {
       "name": "Richmond",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Winter Springs",
@@ -396,7 +396,7 @@
     },
     {
       "name": "PG4",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG5",
@@ -585,6 +585,13 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Keys at Wildwood",
       "count": 5,
       "cities": [
@@ -603,13 +610,6 @@
       "count": 5,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Valencia Isle",
-      "count": 4,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 460,
-  "total": 582
+  "mfTotal": 461,
+  "total": 584
 }
