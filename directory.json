@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 280,
+      "count": 282,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-4121",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -53,7 +53,7 @@
     },
     {
       "name": "The Julian",
-      "count": 46,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -62,7 +62,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 39,
+      "count": 38,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 127
+      "count": 125
     },
     {
       "name": "Richmond",
@@ -234,7 +234,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Tampa",
@@ -274,7 +274,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Ocoee",
@@ -289,11 +289,11 @@
       "count": 7
     },
     {
-      "name": "Oxford",
-      "count": 6
+      "name": "Winter Garden",
+      "count": 5
     },
     {
-      "name": "Winter Garden",
+      "name": "Oxford",
       "count": 5
     },
     {
@@ -307,6 +307,14 @@
     {
       "name": "Sanford",
       "count": 3
+    },
+    {
+      "name": "Belleview",
+      "count": 3
+    },
+    {
+      "name": "Haines City",
+      "count": 2
     },
     {
       "name": "Longwood",
@@ -333,10 +341,6 @@
       "count": 2
     },
     {
-      "name": "Belleview",
-      "count": 2
-    },
-    {
       "name": "Lake Mary",
       "count": 2
     },
@@ -354,10 +358,6 @@
     },
     {
       "name": "Riverview",
-      "count": 1
-    },
-    {
-      "name": "Haines City",
       "count": 1
     },
     {
@@ -396,7 +396,7 @@
     },
     {
       "name": "PG4",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG5",
@@ -404,7 +404,7 @@
     },
     {
       "name": "PG7",
-      "count": 7
+      "count": 6
     },
     {
       "name": "PG8",
@@ -412,20 +412,20 @@
     },
     {
       "name": "PG9",
-      "count": 11
+      "count": 13
     }
   ],
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 46,
+      "count": 44,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "Champions Village",
-      "count": 39,
+      "count": 38,
       "cities": [
         "Kissimmee"
       ]
@@ -446,7 +446,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 25,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -578,17 +578,17 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 6,
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 6,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Keys at Wildwood",
+      "count": 5,
+      "cities": [
+        "Oxford"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 467,
-  "total": 586
+  "mfTotal": 464,
+  "total": 585
 }
