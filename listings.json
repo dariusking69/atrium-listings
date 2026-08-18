@@ -2331,48 +2331,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6386,
-    "uuid": "578838ff-3047-4747-9dae-a78b53602b0a",
-    "address": "480 N Terry Ave Unit 1402, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 1402",
-    "city": "Orlando",
-    "rent": "$2,330",
-    "rent_val": 2330,
-    "specs": "2 bd, 2 ba, 1,098 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1098,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/578838ff-3047-4747-9dae-a78b53602b0a",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Spacious 2 Bed Apartment in Downtown Orlando \u2013 The Rembrandt",
-    "description": "2 Bed, 2 Bath, 1,098 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The Julian's largest two-bedroom, with two full bedroom suites and a generous shared living space.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,330 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/1/26",
-    "terms": [
-      "Rent: $2,330",
-      "Application Fee: $95",
-      "Available 10/1/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a8291b75-337f-4de1-828b-e9dd0f56ce21/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=578838ff-3047-4747-9dae-a78b53602b0a&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "10/1/26",
-    "zip": "32801",
-    "unit": "1402",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6385,
     "uuid": "4da7ee2c-a2f6-4e1d-b127-0d34ff301e99",
     "address": "480 N Terry Ave Unit 1329, Orlando, FL 32801",
@@ -2491,47 +2449,6 @@
     "available": "NOW",
     "zip": "32801",
     "unit": "1309",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
-    "id": 6382,
-    "uuid": "78fb602f-88d5-4d07-8cda-06e31825990b",
-    "address": "480 N Terry Ave Unit 1218, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 1218",
-    "city": "Orlando",
-    "rent": "$2,465",
-    "rent_val": 2465,
-    "specs": "2 bd, 2 ba, 1,071 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1071,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/efbb0f4b-b687-4213-9a82-b332f10baeda/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/78fb602f-88d5-4d07-8cda-06e31825990b",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "2 Bed 2 Bath Apartment in Creative Village \u2013 The Picasso",
-    "description": "2 Bed, 2 Bath, 1,071 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A flexible two-bedroom, two-bath layout with a living and dining area sized for everyday use.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,465 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $2,465",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/efbb0f4b-b687-4213-9a82-b332f10baeda/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=78fb602f-88d5-4d07-8cda-06e31825990b&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "1218",
     "pg": "",
     "mf": true,
     "community": "The Julian"
@@ -11912,6 +11829,60 @@
     "community": "Barber Park Apartments"
   },
   {
+    "id": 6002,
+    "uuid": "12a48fe5-5890-4918-a2e0-08c54a64d277",
+    "address": "23 Andrea Dr Unit # 23-104, Winter Springs, FL 32708",
+    "street": "23 Andrea Dr Unit # 23-104",
+    "city": "Winter Springs",
+    "rent": "$1,299",
+    "rent_val": 1299,
+    "specs": "1 bd, 1 ba, 733 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 733,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/12a48fe5-5890-4918-a2e0-08c54a64d277",
+    "lat": 28.7015654,
+    "lng": -81.3236929,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,396 \n\n\n Available 9/5/26",
+    "terms": [
+      "Rent: $1,299",
+      "Application Fee: $79",
+      "Security Deposit: $1,396",
+      "Available 9/5/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/6f79a7d5-da43-4729-ae30-d52c17465318/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c3e0ad68-0c1b-47f8-bc8a-87a0569b4ef5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7e484747-ad17-4c72-8841-054411c2436c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2e342813-3453-4ad8-8268-b463bd772624/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/51d820e4-e473-4aeb-8370-9876464c9b48/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/1cc533fc-3b18-4953-a758-7668cff03d1b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/913e23c2-fa92-4e29-98d6-d2c99d80d02f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a8ef6561-aa4b-4860-8e4e-8abc46f08a09/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/81ddd919-68b1-4f1e-855a-b45b60be2f2e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/13bcb5e7-5e16-4768-a7b7-32be412f8341/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d559668d-5eee-461d-9093-14233332cc71/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/70d1c316-d388-4f25-a330-05f9660188e5/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=12a48fe5-5890-4918-a2e0-08c54a64d277&source=Website",
+    "available": "9/5/26",
+    "zip": "32708",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
+  },
+  {
     "id": 5998,
     "uuid": "50eaa245-c19f-4046-944c-032774c51d56",
     "address": "5200 Lewis Road #23, Sandston, VA 23150",
@@ -17948,6 +17919,60 @@
     "pg": "",
     "mf": true,
     "community": "Gerwyn Manor"
+  },
+  {
+    "id": 5358,
+    "uuid": "64139ac6-25bd-4ac0-a443-32dfedbf28ee",
+    "address": "13 Cherry Laurel Ct Unit # 13-106, Winter Springs, FL 32708",
+    "street": "13 Cherry Laurel Ct Unit # 13-106",
+    "city": "Winter Springs",
+    "rent": "$1,266",
+    "rent_val": 1266,
+    "specs": "1 bd, 1 ba, 822 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 822,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/64139ac6-25bd-4ac0-a443-32dfedbf28ee",
+    "lat": 28.7022165,
+    "lng": -81.3227799,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,266 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,576 \n\n\n Available Now",
+    "terms": [
+      "Rent: $1,266",
+      "Application Fee: $79",
+      "Security Deposit: $1,576",
+      "Available Now"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/ccc4afcc-6637-4cd0-bfce-6d89b81ce0f4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8581e339-99ff-4864-8934-1a8e136ff4f1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f14a7066-d722-4172-a178-4d5316c4d678/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/4de86026-e306-4268-849c-aa0d311a7d66/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/20526b43-7db2-4396-bb64-871c8f8c3c76/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/862a3268-73e8-4ea5-910e-2297d153c813/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7d07ffa5-0ef9-4e82-8ba6-37e6d3315896/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/3f1a8684-0cac-4ad3-bce6-539ac8fe5f9d/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/895debd5-60aa-42f2-8e4c-4c579f97c005/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/de8083df-94fd-4ae7-8a2f-dd3a18ac680f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e1500564-1657-4b5f-9908-5328cba93bb4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/adba0cd4-2556-4a0a-877a-0b94318804a3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=64139ac6-25bd-4ac0-a443-32dfedbf28ee&source=Website",
+    "available": "NOW",
+    "zip": "32708",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
   },
   {
     "id": 5357,
