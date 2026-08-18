@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 283,
+      "count": 284,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -226,11 +226,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 120
+      "count": 121
     },
     {
       "name": "Richmond",
-      "count": 69
+      "count": 70
     },
     {
       "name": "Kissimmee",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -281,11 +281,11 @@
       "count": 8
     },
     {
-      "name": "Davenport",
-      "count": 7
+      "name": "Charlottesville",
+      "count": 8
     },
     {
-      "name": "Charlottesville",
+      "name": "Davenport",
       "count": 7
     },
     {
@@ -311,10 +311,6 @@
     {
       "name": "Belleview",
       "count": 3
-    },
-    {
-      "name": "Haines City",
-      "count": 2
     },
     {
       "name": "Longwood",
@@ -343,6 +339,10 @@
     {
       "name": "Lake Mary",
       "count": 2
+    },
+    {
+      "name": "Haines City",
+      "count": 1
     },
     {
       "name": "Auburndale",
@@ -412,7 +412,7 @@
     },
     {
       "name": "PG9",
-      "count": 13
+      "count": 12
     }
   ],
   "mfProperties": [
@@ -432,7 +432,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -446,7 +446,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -613,6 +613,13 @@
       ]
     },
     {
+      "name": "The Jeffersonian",
+      "count": 4,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
@@ -624,13 +631,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 3,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 459,
-  "total": 581
+  "mfTotal": 460,
+  "total": 582
 }
