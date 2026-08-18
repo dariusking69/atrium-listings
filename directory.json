@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 284,
+      "count": 282,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -43,21 +43,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 49,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 214-5228",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 47,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -178,21 +178,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 134
+      "count": 129
     },
     {
       "name": "Richmond",
@@ -384,7 +384,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG2",
@@ -418,7 +418,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 49,
+      "count": 47,
       "cities": [
         "Orlando"
       ]
@@ -446,7 +446,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Orlando"
       ]
@@ -592,13 +592,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Janie B Apartments",
       "count": 5,
       "cities": [
@@ -610,6 +603,13 @@
       "count": 5,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 475,
-  "total": 594
+  "mfTotal": 471,
+  "total": 589
 }

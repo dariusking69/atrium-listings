@@ -3032,47 +3032,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6363,
-    "uuid": "8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3",
-    "address": "480 N Terry Ave Unit 0416, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0416",
-    "city": "Orlando",
-    "rent": "$1,530",
-    "rent_val": 1530,
-    "specs": "Studio, 1 ba, 519 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 519,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c2aa2224-6223-42d1-a22f-4cf3345beb5e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Spacious Studio Apartment in Downtown Orlando \u2013 The Dali",
-    "description": "Studio, 1 Bath, 519 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. Extra elbow room for a studio, with space to separate sleeping and living areas.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,530 \n\n\n\n\n Application Fee: $95",
-    "terms": [
-      "Rent: $1,530",
-      "Application Fee: $95"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c2aa2224-6223-42d1-a22f-4cf3345beb5e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8fe9f512-d5ea-47ad-8c05-16b53e9ac2e3&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "0416",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
     "id": 6361,
     "uuid": "890c02d8-67fb-4eed-a5d1-afaa1c9509af",
     "address": "480 N Terry Ave Unit 0410, Orlando, FL 32801",
@@ -3109,48 +3068,6 @@
     "available": "NOW",
     "zip": "32801",
     "unit": "0410",
-    "pg": "",
-    "mf": true,
-    "community": "The Julian"
-  },
-  {
-    "id": 6360,
-    "uuid": "77355876-bd51-4eb3-bbb1-e73a88a054b6",
-    "address": "480 N Terry Ave Unit 0408, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0408",
-    "city": "Orlando",
-    "rent": "$1,840",
-    "rent_val": 1840,
-    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 726,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/77355876-bd51-4eb3-bbb1-e73a88a054b6",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "1 Bed 1 Bath Apartment in Creative Village \u2013 The Matisse",
-    "description": "1 Bed, 1 Bath, 726 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A one-bedroom with room to separate work from rest, plus a private patio or balcony.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,840 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
-    "terms": [
-      "Rent: $1,840",
-      "Application Fee: $95",
-      "Available 8/31/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=77355876-bd51-4eb3-bbb1-e73a88a054b6&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "8/31/26",
-    "zip": "32801",
-    "unit": "0408",
     "pg": "",
     "mf": true,
     "community": "The Julian"
@@ -13984,8 +13901,8 @@
   {
     "id": 5898,
     "uuid": "3a07fb57-5125-40f6-9b01-ea596c5abb0a",
-    "address": "2050 Old Clinton Rd Unit I3, Macon, GA 31211",
-    "street": "2050 Old Clinton Rd Unit I3",
+    "address": "2050 Old Clinton Rd Unit S1, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit S1",
     "city": "Macon",
     "rent": "$900",
     "rent_val": 900,
@@ -14030,7 +13947,7 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "I3",
+    "unit": "S1",
     "pg": "",
     "mf": true,
     "community": "Timber Pointe Apartments"
@@ -19919,48 +19836,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 4861,
-    "uuid": "a66ced68-2fbd-490f-8e7f-2d7940c64744",
-    "address": "5864 Auvers Blvd #202, Orlando, FL 32807",
-    "street": "5864 Auvers Blvd #202",
-    "city": "Orlando",
-    "rent": "$1,300",
-    "rent_val": 1300,
-    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1023,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a66ced68-2fbd-490f-8e7f-2d7940c64744",
-    "lat": 28.5723323,
-    "lng": -81.3053064,
-    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
-    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,300 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563",
-    "terms": [
-      "Rent: $1,300",
-      "Application Fee: $95",
-      "Security Deposit: $1,563"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a66ced68-2fbd-490f-8e7f-2d7940c64744&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0818",
-    "available": "NOW",
-    "zip": "32807",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Avenues of Baldwin Park"
-  },
-  {
     "id": 4843,
     "uuid": "038f00d0-540d-481b-86ce-9e62bbffe555",
     "address": "3113 W. Marshall Street #420, Richmond, VA 23230",
@@ -24101,55 +23976,6 @@
     "community": "Valencia Isle"
   },
   {
-    "id": 3091,
-    "uuid": "49e7c70a-30cc-4746-83e0-f133d3ed968c",
-    "address": "947 Valencia Isle Dr., Orlando, FL 32825",
-    "street": "947 Valencia Isle Dr.",
-    "city": "Orlando",
-    "rent": "$2,608",
-    "rent_val": 2608,
-    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.5,
-    "sqft": 1648,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/49e7c70a-30cc-4746-83e0-f133d3ed968c",
-    "lat": 28.555704,
-    "lng": -81.264408,
-    "title": "The Washington - 3 Bedroom with 2 Car Garage!",
-    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,608 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/22/26",
-    "terms": [
-      "Rent: $2,608",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/22/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/8bb5092e-8a87-4396-9c1b-61b8eaed7ee5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1026e368-bb41-4b00-a7f6-4a2bacd116e2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a9983231-7485-45fe-b566-06958c8c675f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bcbf1e98-9ba9-4fc6-946f-6a71ae75dc2c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/0eabf96e-5ba6-4e37-bd64-826cade1718f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/09cdf0bb-6b39-4f7a-8c30-e9bf9aaf00f4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1f7d02fe-e6f2-421f-93f9-7ece9b093d54/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=49e7c70a-30cc-4746-83e0-f133d3ed968c&source=Website",
-    "property": "Valencia Isle",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-    "phone": "(689) 219-7477",
-    "available": "8/22/26",
-    "zip": "32825",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Valencia Isle"
-  },
-  {
     "id": 3065,
     "uuid": "2fe38e97-d0a8-4b22-9826-915607e7e79f",
     "address": "2247 Lilybean Loop, Ocoee, FL 34761",
@@ -27536,60 +27362,6 @@
     "zip": "32714",
     "unit": "",
     "pg": "PG2",
-    "mf": false,
-    "community": "Atrium Management Company"
-  },
-  {
-    "id": 1453,
-    "uuid": "56f513db-683d-42a7-baf1-0e552e9af0be",
-    "address": "4715 S Rio Grande Avenue  - 5, Orlando, FL 32839",
-    "street": "4715 S Rio Grande Avenue  - 5",
-    "city": "Orlando",
-    "rent": "$1,150",
-    "rent_val": 1150,
-    "specs": "1 bd, 1 ba",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": null,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/50e6d0bc-af88-4143-84bd-ef94a753a6c4/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/56f513db-683d-42a7-baf1-0e552e9af0be",
-    "lat": 28.4919428,
-    "lng": -81.4004403,
-    "title": "Gorgeous Newly Renovated 1st floor Apartment Home",
-    "description": "Boutique Lakeside Living: Experience upscale living at Lake Tyler Manor, located in South Orlando.\r\n\r\nNewly Renovated Apartments:\r\n- Spacious units with a mix of comfort and elegance.\r\n- In-unit washer/dryer\r\n- A short walk to Orange Blossom Trail shops.\r\n- Millenia Mall and Costco just 5 minutes away.\r\n- Downtown Orlando less than 10 minutes away.\r\n\r\nModern Amenities:\r\n- Generous floor plans with natural light.\r\n- Stylish and functional renovations.\r\n\r\nScenic Outdoors:\r\n- Common area with a reedy deck.\r\n- Stunning views of Lake Tyler.\r\n- Priced to Lease: An exceptional value for its location and amenities.\r\n\r\nRental Requirements:\r\n\r\nCombined gross household income of at least 3 times the monthly rent\r\nMinimum 600 credit score\r\nNo prior evictions or outstanding collections with apartment communities, property management companies, or utility providers\r\n\r\n\r\n$95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable ($250 Nonrefundable pet fee one time fee per pet and $25 per month per pet on additional rent). 2 pets maximum .This property is professionally managed by Atrium Management.\r\n\r\nAdditional Monthly Charges include:\r\n$15 Filter Program Fee\r\n$15.50 Renters Insurance Fee\r\n$50 Utility Fee\r\n$60 Group Rate Internet Fee\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application. ***\r\n\r\nBy submitting your information, you consent to being contacted by the Property Manager and AppFolio via SMS, phone, and email.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,150 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,150 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,150",
-      "Application Fee: $95",
-      "Security Deposit: $1,150",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Small dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/50e6d0bc-af88-4143-84bd-ef94a753a6c4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c5a90c02-ad59-4ee6-bee2-044bd56602fb/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e6060c51-5a50-40e7-8c1d-36b95cbcc456/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/19500b0a-fb36-4578-b185-6913a444c555/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a334393b-03b3-40dc-84fd-891fa448d334/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/77793112-2f73-43a1-bbbc-69c623eaed23/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6d9babed-b999-4953-958c-def56fb9e789/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c275f6f9-8ede-4b4f-b9d6-32695674babc/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ba10fb87-d8a7-4824-a2b7-d35fbc0139e1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7267b8a8-84ba-4a0e-9afd-da1b940613fb/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/1dc75f88-e652-4d1b-b3ff-19dbb083a8e1/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d5b359bc-c219-42a4-9614-f63dfca6090c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=56f513db-683d-42a7-baf1-0e552e9af0be&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(407) 585-2721",
-    "available": "NOW",
-    "zip": "32839",
-    "unit": "",
-    "pg": "PG1",
     "mf": false,
     "community": "Atrium Management Company"
   },
