@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 281,
+      "count": 280,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 235-7109",
       "cities": [
@@ -225,7 +225,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 115
+      "count": 114
     },
     {
       "name": "Richmond",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Tampa",
-      "count": 60
+      "count": 59
     },
     {
       "name": "Kissimmee",
@@ -473,7 +473,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Tampa"
       ]
@@ -549,17 +549,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 458,
-  "total": 578
+  "mfTotal": 456,
+  "total": 576
 }
