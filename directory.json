@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 287,
+      "count": 286,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 120
+      "count": 119
     },
     {
       "name": "Richmond",
@@ -446,7 +446,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 460,
-  "total": 583
+  "mfTotal": 459,
+  "total": 582
 }
