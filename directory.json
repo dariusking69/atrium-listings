@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 281,
+      "count": 282,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -114,21 +114,21 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -265,11 +265,11 @@
     },
     {
       "name": "Casselberry",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Jacksonville",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Ocoee",
@@ -494,7 +494,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
@@ -521,17 +521,17 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 10,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 10,
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 9,
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 454,
-  "total": 574
+  "mfTotal": 456,
+  "total": 576
 }
