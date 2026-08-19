@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 285,
+      "count": 281,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -13,7 +13,6 @@
         "Casselberry",
         "Charlottesville",
         "Clearwater",
-        "Davenport",
         "Daytona Beach",
         "DeLand",
         "Deltona",
@@ -107,7 +106,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -226,7 +225,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 117
+      "count": 116
     },
     {
       "name": "Richmond",
@@ -238,7 +237,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 56
+      "count": 57
     },
     {
       "name": "Gainesville",
@@ -266,7 +265,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Jacksonville",
@@ -286,7 +285,7 @@
     },
     {
       "name": "Davenport",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -325,10 +324,6 @@
       "count": 2
     },
     {
-      "name": "Altamonte Springs",
-      "count": 2
-    },
-    {
       "name": "Ocala",
       "count": 2
     },
@@ -342,6 +337,10 @@
     },
     {
       "name": "Haines City",
+      "count": 1
+    },
+    {
+      "name": "Altamonte Springs",
       "count": 1
     },
     {
@@ -388,11 +387,11 @@
     },
     {
       "name": "PG2",
-      "count": 22
+      "count": 21
     },
     {
       "name": "PG3",
-      "count": 18
+      "count": 17
     },
     {
       "name": "PG4",
@@ -412,7 +411,7 @@
     },
     {
       "name": "PG9",
-      "count": 12
+      "count": 11
     }
   ],
   "mfProperties": [
@@ -495,9 +494,16 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 14,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -505,13 +511,6 @@
       "count": 13,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 13,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -691,5 +690,5 @@
     }
   ],
   "mfTotal": 454,
-  "total": 577
+  "total": 574
 }
