@@ -115,6 +115,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -130,15 +139,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -273,6 +273,10 @@
       "count": 16
     },
     {
+      "name": "Ocoee",
+      "count": 10
+    },
+    {
       "name": "Lakeland",
       "count": 9
     },
@@ -282,10 +286,6 @@
     },
     {
       "name": "Davenport",
-      "count": 7
-    },
-    {
-      "name": "Ocoee",
       "count": 7
     },
     {
@@ -522,6 +522,13 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 10,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 9,
       "cities": [
@@ -554,13 +561,6 @@
       "count": 8,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 7,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 457,
-  "total": 580
+  "mfTotal": 460,
+  "total": 583
 }
