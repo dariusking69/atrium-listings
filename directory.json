@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 285,
+      "count": 284,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -142,21 +142,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -226,7 +226,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 119
+      "count": 118
     },
     {
       "name": "Richmond",
@@ -270,7 +270,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Ocoee",
@@ -487,17 +487,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 18,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 17,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 17,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -564,17 +564,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 7,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 6,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 460,
-  "total": 583
+  "mfTotal": 458,
+  "total": 581
 }
