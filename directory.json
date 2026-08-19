@@ -44,9 +44,9 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 48,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 214-5228",
+      "phone": "(727) 235-7109",
       "cities": [
         "Tampa"
       ]
@@ -234,7 +234,7 @@
     },
     {
       "name": "Tampa",
-      "count": 59
+      "count": 60
     },
     {
       "name": "Kissimmee",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Sandston",
@@ -432,7 +432,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -501,17 +501,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 13,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 12,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -669,6 +669,13 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -683,6 +690,6 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 576
+  "mfTotal": 454,
+  "total": 577
 }
