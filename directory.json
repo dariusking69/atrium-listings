@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 283,
+      "count": 285,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(689) 215-0818",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -107,7 +107,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 17,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -233,12 +233,12 @@
       "count": 70
     },
     {
-      "name": "Kissimmee",
-      "count": 60
-    },
-    {
       "name": "Tampa",
       "count": 59
+    },
+    {
+      "name": "Kissimmee",
+      "count": 56
     },
     {
       "name": "Gainesville",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 34
     },
     {
       "name": "Deltona",
@@ -257,11 +257,11 @@
       "count": 24
     },
     {
-      "name": "Sandston",
-      "count": 19
+      "name": "Winter Park",
+      "count": 18
     },
     {
-      "name": "Winter Park",
+      "name": "Sandston",
       "count": 18
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -446,7 +446,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -481,21 +481,14 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Sandston"
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 17,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Barber Park Apartments",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -505,6 +498,13 @@
       "count": 16,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 13,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 456,
-  "total": 579
+  "mfTotal": 453,
+  "total": 576
 }

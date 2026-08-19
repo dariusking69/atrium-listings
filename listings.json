@@ -1,5 +1,58 @@
 [
   {
+    "id": 6455,
+    "uuid": "4f74a1de-dd21-4ff2-acbc-d04324c004c6",
+    "address": "5840 Auvers Blvd #107, Orlando, FL 32807",
+    "street": "5840 Auvers Blvd #107",
+    "city": "Orlando",
+    "rent": "$1,870",
+    "rent_val": 1870,
+    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1023,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/54a32d94-c3d3-4dce-95cf-9bb999fcb885/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4f74a1de-dd21-4ff2-acbc-d04324c004c6",
+    "lat": 28.5737063,
+    "lng": -81.304395,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 215-0818",
+    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
+    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nHome Features:\r\n\r\n1,023 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\r\nSplit Floor Plan for Added Privacy\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nModern Kitchen & Open Living Space\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nHigh Speed Internet\r\nDog Park\r\n\r\nEnjoy the perfect balance of comfort, convenience, and community at The Avenue at Baldwin Park.\r\nTour The Anson today and discover your new home!\r\n#407-671-0200\r\n\r\nRental Terms\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nCommunity Park\r\nCommunity Playground\r\nCommunity Lake\r\nIn Unit Washer and Dryer\r\nCarpet\r\nCommunity Swimming Pool\r\nHigh Speed Internet\r\nPrivate Patio\r\nCommunity Grill\r\nbasketball court\r\nCommunity Dog Park\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,870 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,536 \n\n\n Available 11/20/26",
+    "terms": [
+      "Rent: $1,870",
+      "Application Fee: $95",
+      "Security Deposit: $1,536",
+      "Available 11/20/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/54a32d94-c3d3-4dce-95cf-9bb999fcb885/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/d4e55349-7e07-4bb8-a4f2-4bf9b277fc18/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2c49792c-d0ae-4219-adf0-340339aba94a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/497409e3-95f7-40fc-a310-be5a80194c39/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bba8b308-98ac-4975-aa41-e597324e878c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a063b873-9409-4aed-9188-2bec8b5ed186/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f54bee61-0f6b-4400-95fc-6d7f665e3d0a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/cab43826-c6e0-4e9c-81fd-9fbc6ef87a67/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/124e1105-5580-4825-bbb2-7f6af5e29a9e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b72d6bde-dba2-47d2-ad29-041747620cf4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/33a5ab98-e310-4422-bae8-62ec646fb9ca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4f74a1de-dd21-4ff2-acbc-d04324c004c6&source=Website",
+    "available": "11/20/26",
+    "zip": "32807",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "Avenues of Baldwin Park"
+  },
+  {
     "id": 6452,
     "uuid": "361dc39b-724b-4df4-b9f2-1e9b3eafbf26",
     "address": "1216 Margaret Ave, Haines City, FL 33844",
@@ -3097,48 +3150,6 @@
     "pg": "",
     "mf": true,
     "community": "Southampton Apartments"
-  },
-  {
-    "id": 6349,
-    "uuid": "97404bae-9871-4f17-b8cf-e0e551bfe679",
-    "address": "5426 Lake Margaret Drive Unit # 426 - 1114, Orlando, FL 32812",
-    "street": "5426 Lake Margaret Drive Unit # 426 - 1114",
-    "city": "Orlando",
-    "rent": "$1,760",
-    "rent_val": 1760,
-    "specs": "2 bd, 2 ba, 1,005 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1005,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4b5035f0-70b0-4fc5-854d-a7f0142e9672/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/97404bae-9871-4f17-b8cf-e0e551bfe679",
-    "lat": 28.5050793,
-    "lng": -81.3157713,
-    "title": "Overlook (Townhome)",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,760 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/8/26",
-    "terms": [
-      "Rent: $1,760",
-      "Application Fee: $99",
-      "Available 9/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/4b5035f0-70b0-4fc5-854d-a7f0142e9672/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=97404bae-9871-4f17-b8cf-e0e551bfe679&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-1250",
-    "available": "9/8/26",
-    "zip": "32812",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Barber Park Apartments"
   },
   {
     "id": 6346,
@@ -6568,49 +6579,6 @@
     "pg": "",
     "mf": true,
     "community": "Valencia Isle"
-  },
-  {
-    "id": 6252,
-    "uuid": "dde423ac-c4bf-4131-9f77-6078b1254ea8",
-    "address": "1540 Neo Landings Loop, Unit 207, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,020",
-    "rent_val": 2020,
-    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1132,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dde423ac-c4bf-4131-9f77-6078b1254ea8",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
-    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
-    "terms": [
-      "Rent: $2,020",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 10/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=dde423ac-c4bf-4131-9f77-6078b1254ea8&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "10/10/26",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Aston Square Apartments"
   },
   {
     "id": 6251,
@@ -11479,49 +11447,6 @@
     "community": "The Avenues at Winter Springs"
   },
   {
-    "id": 6018,
-    "uuid": "d91ee199-a3d0-421e-85ca-505c88df05f6",
-    "address": "1540 Neo Landings Loop, Unit 217, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$1,995",
-    "rent_val": 1995,
-    "specs": "2 bd, 2 ba, 1,093 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1093,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b5cc7d09-4c68-4fff-86bf-709db6467772/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d91ee199-a3d0-421e-85ca-505c88df05f6",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- Snug 2 Bedroom 2 Bathroom",
-    "description": "Discover the 2B Floorplan \u2013 Modern 2-Bedroom, 2-Bathroom Luxury Living in Kissimmee, FL\r\n\r\nExperience upscale living in the heart of Kissimmee with our 2B Floorplan, a thoughtfully designed 2-bedroom, 2-bathroom apartment that seamlessly blends style, comfort, and convenience.\r\n\r\nThis modern residence offers resort-style amenities, including a sparkling pool, a top-floor media lounge with a rooftop deck, and a 24/7 fitness center.\r\n\r\nInside, the private ensuite boasts marble-inspired tile walls and double vanities for added comfort. Vinyl plank flooring extends throughout the common areas, complementing the sleek stainless steel appliances and spacious walk-in custom closets.\r\n\r\nThe kitchen is a chef\u2019s dream, featuring quartz countertops, a functional kitchen island, an abundance of shaker-style cabinets with a soft-close feature, and interactive thermostats for personalized climate control.\r\n\r\nRelax in your soaking tub, take in the fresh air from your screened-in patio, and enjoy the added convenience of oversized storage units. With electric vehicle charging stations, a dedicated co-working space, and secure package lockers, this apartment truly has everything you need for a refined and effortless lifestyle.\r\n\r\nDon\u2019t miss the opportunity to make this inviting 2-bedroom, 2-bathroom apartment your new home. Contact us today to schedule a tour!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,995 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
-    "terms": [
-      "Rent: $1,995",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 9/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/b5cc7d09-4c68-4fff-86bf-709db6467772/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d91ee199-a3d0-421e-85ca-505c88df05f6&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "9/10/26",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Aston Square Apartments"
-  },
-  {
     "id": 6013,
     "uuid": "1d46d516-1b2e-46b9-8de4-d34576904dd3",
     "address": "3650 SW 20th Avenue  - Unit 12, Gainesville, FL 32607",
@@ -11571,49 +11496,6 @@
     "pg": "PG4",
     "mf": false,
     "community": "Atrium Management Company"
-  },
-  {
-    "id": 6008,
-    "uuid": "7bbb0365-4b5d-4c8b-8ea3-93e2e95543fd",
-    "address": "1520 Neo Landings Loop, Unit 206, Kissimmee, FL 34744",
-    "street": "1520 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,020",
-    "rent_val": 2020,
-    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1132,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7bbb0365-4b5d-4c8b-8ea3-93e2e95543fd",
-    "lat": 28.3056952,
-    "lng": -81.3869162,
-    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
-    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
-    "terms": [
-      "Rent: $2,020",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 9/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7bbb0365-4b5d-4c8b-8ea3-93e2e95543fd&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "9/10/26",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Aston Square Apartments"
   },
   {
     "id": 6005,
@@ -14263,6 +14145,59 @@
     "community": "The Avenues at Winter Springs"
   },
   {
+    "id": 5824,
+    "uuid": "7e6068b4-01e8-498f-8e7a-bc05496f5d73",
+    "address": "32 Mowbray Ln Unit # 32-301, Winter Springs, FL 32708",
+    "street": "32 Mowbray Ln Unit # 32-301",
+    "city": "Winter Springs",
+    "rent": "$1,785",
+    "rent_val": 1785,
+    "specs": "3 bd, 2 ba, 1,327 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1327,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d8390925-0887-4a5a-b51c-e1a20e310bd1/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7e6068b4-01e8-498f-8e7a-bc05496f5d73",
+    "lat": 28.7034571,
+    "lng": -81.3213374,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,785 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/25/26",
+    "terms": [
+      "Rent: $1,785",
+      "Application Fee: $79",
+      "Available 8/25/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/d8390925-0887-4a5a-b51c-e1a20e310bd1/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/395c84ad-37a9-41b7-8733-b5cdda5a222a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/89ee85c9-8eaf-469b-bafd-48eca198bbca/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/fcd6e658-75b8-482b-9775-62d20307e095/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a7609448-cc11-4320-b3c6-3e743bab95e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2ea3c1bd-e26a-47f4-aeb0-d4205dc1a2ec/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a4ab5462-5a9d-447e-98be-5f13c854e738/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b56bda55-5d42-44e2-b157-1e9436f35c1f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/663543a5-c5bf-43dc-94ac-0f1667190869/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ed6104c1-f38f-4c04-b092-7fafb4345c3e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e622e5a1-2854-474e-b954-fa856bc017cc/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/88fca889-4309-4e58-94a2-24fabd65c2e3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7e6068b4-01e8-498f-8e7a-bc05496f5d73&source=Website",
+    "available": "8/25/26",
+    "zip": "32708",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
+  },
+  {
     "id": 5823,
     "uuid": "aa2fea5c-7da1-4598-8075-5a48944a5fb1",
     "address": "07 Loblolly Ct Unit # 07-204, Winter Springs, FL 32708",
@@ -14658,49 +14593,6 @@
     "pg": "",
     "mf": true,
     "community": "The Nest"
-  },
-  {
-    "id": 5776,
-    "uuid": "581abbe5-48ac-4cd7-b0fe-b4a9fa90265a",
-    "address": "5200 Lewis Road #73, Sandston, VA 23150",
-    "street": "5200 Lewis Road #73",
-    "city": "Sandston",
-    "rent": "$1,373",
-    "rent_val": 1373,
-    "specs": "2 bd, 1 ba, 900 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 900,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/7af9b5d8-94fd-4c9e-9ee0-a9bc0e6d9163/original.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/581abbe5-48ac-4cd7-b0fe-b4a9fa90265a",
-    "lat": 37.5163935,
-    "lng": -77.3415454,
-    "title": "",
-    "description": "Rental Terms \n \n Rent: $1,373 \n\n\n\n Admin Fee: $200 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,373",
-      "Admin Fee: $200",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=581abbe5-48ac-4cd7-b0fe-b4a9fa90265a&source=Website",
-    "property": "Gerwyn Manor",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-    "phone": "(804) 626-5885",
-    "available": "NOW",
-    "zip": "23150",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Gerwyn Manor"
   },
   {
     "id": 5771,
@@ -16339,49 +16231,6 @@
     "pg": "PG1",
     "mf": false,
     "community": "Atrium Management Company"
-  },
-  {
-    "id": 5630,
-    "uuid": "0eb4ff99-eee9-4001-8c0d-694d1b7130f8",
-    "address": "1540 Neo Landings Loop, Unit 314, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,359",
-    "rent_val": 2359,
-    "specs": "3 bd, 2 ba, 1,570 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1570,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/86547829-c637-4e2f-9b87-c5d7e0c96834/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0eb4ff99-eee9-4001-8c0d-694d1b7130f8",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- Corner 3 bedroom with extended Patio and Den",
-    "description": "Luxury Corner 3-Bedroom Apartment with Extended Patio & Den in Kissimmee, FL\r\n\r\nExperience upscale living in our spacious corner 3-bedroom apartment with an extended patio and den, designed for comfort and sophistication in the heart of Kissimmee, FL. This modern residence offers resort-style amenities, including a spacious sun deck, top-floor media lounge with a rooftop deck, and a 24/7 fitness center.\r\n\r\nInside, the apartment features elegant vinyl plank flooring, stainless steel appliances, quartz countertops, and luxurious soaking tubs, creating a perfect blend of style and functionality. Enjoy the ease of keyless entry, secure package lockers, and electric vehicle charging stations for a seamless living experience.\r\n\r\nSpacious walk-in custom closets and oversized storage units ensure ample space for all your belongings. Stay comfortable year-round with interactive thermostats and unwind in the fresh air from your screened-in patio.\r\n\r\nFor professionals, our community offers a dedicated co-working space and a business lounge with private work pods, providing the ideal setting for productivity and focus.\r\n\r\nDon\u2019t miss the opportunity to experience luxury living at its finest in this stunning apartment community. Contact us today to schedule a tour and secure your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,359 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,359",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/86547829-c637-4e2f-9b87-c5d7e0c96834/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0eb4ff99-eee9-4001-8c0d-694d1b7130f8&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "NOW",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Aston Square Apartments"
   },
   {
     "id": 5610,
@@ -19153,6 +19002,60 @@
     "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
     "phone": "(689) 300-4121",
     "available": "9/9/26",
+    "zip": "32708",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "community": "The Avenues at Winter Springs"
+  },
+  {
+    "id": 4878,
+    "uuid": "e1206b8d-5631-464d-82e5-cf324a053035",
+    "address": "23 Andrea Dr Unit # 23-306, Winter Springs, FL 32708",
+    "street": "23 Andrea Dr Unit # 23-306",
+    "city": "Winter Springs",
+    "rent": "$1,392 - $1,503",
+    "rent_val": 1392,
+    "specs": "2 bd, 2 ba, 944 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 944,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1fdc9011-cac4-4239-9a8d-ed1ed95d6965/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e1206b8d-5631-464d-82e5-cf324a053035",
+    "lat": 28.7015654,
+    "lng": -81.3236929,
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
+    "title": "Experience resort-style living at The Avenues at Winter Springs!",
+    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,392 - $1,503 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,552 \n\n\n Available 8/20/26",
+    "terms": [
+      "Rent: $1,392 - $1,503",
+      "Application Fee: $79",
+      "Security Deposit: $1,552",
+      "Available 8/20/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/1fdc9011-cac4-4239-9a8d-ed1ed95d6965/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/da4ede9e-5812-4815-96df-36e995b3ff20/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/560ea9c3-2eca-461c-a593-78f8a632a1c3/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/38a1f0c3-73c9-4ca4-b89b-a5bd003e477a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/af00a9df-f4d4-4a03-9598-df11b7615d0a/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ef828e7d-8d5d-467c-806a-3978fe407a9b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/a09ff355-5fec-4e7a-9a9a-13d210db7da4/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/7bdf6256-9532-4b60-b00a-d2f3ff525e88/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/e9dffeee-1893-4ddd-b26b-7925f0333c74/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/08b97d41-c2cd-4a93-a7de-999aaebbba78/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/c3d3099c-dfe3-4e52-b1c2-9da89ece7183/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/b8bb3e84-d210-42e4-b1b4-3b1d66ace3ee/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e1206b8d-5631-464d-82e5-cf324a053035&source=Website",
+    "available": "8/20/26",
     "zip": "32708",
     "unit": "",
     "pg": "",
