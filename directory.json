@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 282,
+      "count": 281,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -69,21 +69,21 @@
       ]
     },
     {
+      "name": "The Hub",
+      "count": 26,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "The Hub",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -225,11 +225,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 116
+      "count": 115
     },
     {
       "name": "Richmond",
-      "count": 70
+      "count": 73
     },
     {
       "name": "Tampa",
@@ -445,9 +445,16 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 26,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -455,13 +462,6 @@
       "count": 24,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "The Hub",
-      "count": 23,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 456,
-  "total": 576
+  "mfTotal": 458,
+  "total": 578
 }
