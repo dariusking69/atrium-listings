@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/43067ce6-9531-4e47-8d6c-a8a37dd2152c",
     "lat": 27.9407689,
     "lng": -82.4618021,
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 235-7109",
     "title": "Beach Flats | 1-Bedroom Flats (450-650 SF), Hyde Park, Tampa",
     "description": "Find room to breathe in a one-bedroom home at Beach Flats, ranging from 450 to 650 square feet in the heart of historic Hyde Park. Custom tile finishes and stainless steel appliances anchor each residence, and select layouts open onto a private wrap-around porch \u2014 ideal for morning coffee or evening wind-downs. Beyond your door, a gated courtyard, fire pit, and grill kitchen create easy spaces to unwind, all within walking distance of Hyde Park Village and Bayshore Boulevard. Pet-friendly and smoke-free. Apply online today to secure your one-bedroom retreat.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/10/26",
     "terms": [
@@ -31,6 +28,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=43067ce6-9531-4e47-8d6c-a8a37dd2152c&source=Website",
+    "property": "Inicio Tampa",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+    "phone": "(727) 235-7109",
     "available": "10/10/26",
     "zip": "33606",
     "unit": "214-2",
@@ -14564,9 +14564,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1025034a-3d17-4c5a-9d17-eafd32cb4d9c",
     "lat": 28.5892965,
     "lng": -81.2887011,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-6288",
     "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
     "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,327 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,383 \n\n\n Available Now",
     "terms": [
@@ -14584,6 +14581,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1025034a-3d17-4c5a-9d17-eafd32cb4d9c&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-6288",
     "available": "NOW",
     "zip": "32792",
     "unit": "",
