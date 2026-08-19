@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 280,
+      "count": 279,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -264,12 +264,12 @@
       "count": 18
     },
     {
-      "name": "Casselberry",
+      "name": "Jacksonville",
       "count": 16
     },
     {
-      "name": "Jacksonville",
-      "count": 16
+      "name": "Casselberry",
+      "count": 15
     },
     {
       "name": "Ocoee",
@@ -494,7 +494,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Casselberry"
       ]
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 456,
-  "total": 576
+  "mfTotal": 455,
+  "total": 575
 }
