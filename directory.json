@@ -134,7 +134,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -277,15 +277,15 @@
       "count": 9
     },
     {
-      "name": "Ocoee",
-      "count": 8
-    },
-    {
       "name": "Charlottesville",
       "count": 8
     },
     {
       "name": "Davenport",
+      "count": 7
+    },
+    {
+      "name": "Ocoee",
       "count": 7
     },
     {
@@ -550,17 +550,17 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 8,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 7,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -683,6 +683,6 @@
       ]
     }
   ],
-  "mfTotal": 458,
-  "total": 581
+  "mfTotal": 457,
+  "total": 580
 }
