@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 273,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 553-3444",
       "cities": [
@@ -70,7 +70,7 @@
     },
     {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -299,7 +299,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -308,7 +308,7 @@
     },
     {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -362,7 +362,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -541,19 +541,19 @@
       ]
     },
     {
-      "name": "The Hammocks off 6th",
-      "count": 4,
+      "name": "Hammocks off Newberry",
+      "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(352) 372-3826",
+      "phone": "(352) 332-3199",
       "cities": [
         "Gainesville"
       ]
     },
     {
-      "name": "Hammocks off Newberry",
+      "name": "The Hammocks off 6th",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(352) 332-3199",
+      "phone": "(352) 372-3826",
       "cities": [
         "Gainesville"
       ]
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 273,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,11 +739,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 114
+      "count": 112
     },
     {
       "name": "Richmond",
-      "count": 74
+      "count": 73
     },
     {
       "name": "Tampa",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Winter Springs",
@@ -959,14 +959,14 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Richmond"
       ]
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Orlando"
       ]
@@ -1147,14 +1147,14 @@
       ]
     },
     {
-      "name": "The Hammocks off 6th",
-      "count": 4,
+      "name": "Hammocks off Newberry",
+      "count": 3,
       "cities": [
         "Gainesville"
       ]
     },
     {
-      "name": "Hammocks off Newberry",
+      "name": "The Hammocks off 6th",
       "count": 3,
       "cities": [
         "Gainesville"
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 570,
+  "mfTotal": 449,
+  "total": 566,
   "groups": [
     {
       "key": "inicio",
