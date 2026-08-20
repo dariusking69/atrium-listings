@@ -19,6 +19,7 @@ Output:
   listings.json        enriched data cache
 """
 import json, re, sys, ssl, html, urllib.request
+from urllib.parse import quote
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
@@ -26,6 +27,11 @@ HERE = Path(__file__).parent
 SUB = "atriummanagement"
 BASE = f"https://{SUB}.appfolio.com"
 LISTINGS_URL = f"{BASE}/listings"
+# Every lead AppFolio captures carries this string on its guest card. It is the ONLY
+# way to tell an Inicio-site lead from a meetatrium.com one, so it must reach BOTH
+# branches of apply_url below — the fallback branch shipped without it for months and
+# nothing surfaced it. Per-embed overrides ride the widget's &src= at click time.
+SOURCE_DEFAULT = "Website"
 
 try:
     import certifi
@@ -169,7 +175,9 @@ def fetch_detail(listing):
     m = re.search(r'js-pet-policy-list[^>]*>(.*?)</ul>', h, re.S)
     pets = _items(m.group(1) if m else "")
     m = re.search(r'rental_applications/new\?listable_uid=([a-f0-9-]+)', h)
-    apply_url = f"{BASE}/listings/rental_applications/new?listable_uid={m.group(1)}&source=Website" if m else listing["appfolio_url"]
+    apply_url = (f"{BASE}/listings/rental_applications/new?listable_uid={m.group(1)}"
+                 f"&source={quote(SOURCE_DEFAULT)}") if m else \
+        f'{listing["appfolio_url"]}{"&" if "?" in listing["appfolio_url"] else "?"}source={quote(SOURCE_DEFAULT)}'
     # Property/portfolio identity: the detail page sidebar carries the community name,
     # its logo and leasing phone. Named communities give e.g. "The Julian"; scattered
     # single-family rentals fall back to the default company portfolio name.
@@ -257,19 +265,24 @@ def derive_available(terms):
 
 
 def _groups():
-    """uuid -> {pg, mf, mfp} from sync_groups.py. Absent/stale is survivable: listings
-    simply carry no PG/MF tag and those scopes disappear from the directory."""
+    """(uuid -> {pg, mf, mfp, g}, client-group meta) from sync_groups.py. Absent/stale is
+    survivable: listings simply carry no PG/MF tag and those scopes disappear from the
+    directory. The "_meta" entry carries each client group's FULL property list, including
+    properties with zero listed units — that is how a property with no current vacancy
+    (Ivy Flats) stays visible to the widget builder instead of silently vanishing."""
     f = HERE / "groups.json"
     if not f.exists():
-        return {}
+        return {}, {}
     try:
-        return json.loads(f.read_text())
+        d = json.loads(f.read_text())
     except Exception:
-        return {}
+        return {}, {}
+    meta = d.pop("_meta", {}) if isinstance(d, dict) else {}
+    return d, (meta.get("groups") or {})
 
 
 def build(listings):
-    groups = _groups()
+    groups, client_groups = _groups()
     for l in listings:
         l["available"] = derive_available(l.get("terms"))
         l["city"] = parse_city(l.get("address", ""))  # re-derive so cached data is corrected too
@@ -280,6 +293,10 @@ def build(listings):
         g = groups.get(str(l.get("uuid") or ""), {})
         l["pg"] = g.get("pg", "")
         l["mf"] = bool(g.get("mf"))
+        # Client-portfolio group keys (sync_groups.CLIENT_GROUPS). Separate key from `pg`
+        # on purpose: `pg` is matched against eight hardcoded labels in w.html and
+        # overloading it would silently break every PG embed.
+        l["cg"] = [str(x) for x in (g.get("g") or []) if x]
         # MF community name from AppFolio beats the scraped portfolio name (which is
         # generic for ~40% of MF listings); fall back to the scrape for non-MF.
         l["community"] = g.get("mfp") or (l.get("property") or "")
@@ -315,7 +332,15 @@ def build(listings):
         "ph": l.get("photo", ""), "av": l.get("available", "NOW"),
         "lat": l.get("lat"), "lng": l.get("lng"),
         "ap": l.get("apply_url") or l.get("appfolio_url", ""),
+        # `af` is the AppFolio listing page. Needed because a client-hosted embed sends
+        # unit clicks there (owner-branded, has Contact Us + Schedule Showing) instead of
+        # to our Atrium-red detail page, which carries no form and no phone.
+        "af": l.get("appfolio_url", ""),
+        "g": ",".join(l.get("cg") or []),
     } for l in listings]
+    for row in slim:                     # keep the feed small: 49 of 573 rows have a group
+        if not row["g"]:
+            del row["g"]
     (HERE / "widget-data.json").write_text(json.dumps(slim, separators=(",", ":")), encoding="utf-8")
 
     # Directory of scopes the generator offers (property communities + cities).
@@ -385,6 +410,15 @@ def build(listings):
                                 for v in mfprops.values()), key=lambda x: -x["count"]),
         "mfTotal": sum(1 for l in listings if l.get("mf")),
         "total": len(listings),
+        # Client portfolios, keyed on an AppFolio property-group id we pin. `properties`
+        # is the group's real membership and `listings` the count live right now — a
+        # group with 0 listings this week still belongs in the builder's picker, so the
+        # builder must render on `properties`, never on what the feed happens to contain.
+        "groups": sorted(({"key": k, "name": v.get("name", k), "id": v.get("id", ""),
+                           "properties": sorted(v.get("properties") or []),
+                           "units": v.get("units", 0),
+                           "listings": sum(1 for l in listings if k in (l.get("cg") or []))}
+                          for k, v in client_groups.items()), key=lambda x: x["name"]),
     }
     (HERE / "directory.json").write_text(json.dumps(directory, indent=2), encoding="utf-8")
     print(f"Built index.html + {len(listings)} detail pages in homes/")

@@ -30,6 +30,11 @@ OUT = HERE / "groups.json"
 PGS = {"PG1": "13", "PG2": "15", "PG3": "14", "PG4": "31",
        "PG5": "40", "PG7": "72", "PG8": "75", "PG9": "80"}
 MF_GROUP = "254"
+# Third-party portfolios we publish a scoped widget for. Keyed on the AppFolio property
+# GROUP id, never on property names: the group is the client's own list, so a rename or a
+# newly onboarded building resolves here with no change to the embed URL living on their
+# CMS. We only get to hand that URL over once.
+CLIENT_GROUPS = {"inicio": {"id": "288", "name": "Inicio Living"}}
 BATCH = 6          # properties per unit_directory call — keeps every call under the 5,000-row cap
 
 try:
@@ -104,7 +109,10 @@ def main():
         for r in rows:
             uid = str(r.get("rentable_uid") or "")
             if uid:
-                out.setdefault(uid, {})["pg"] = label
+                e = out.setdefault(uid, {})
+                e["pg"] = label
+                if r.get("property_id"):
+                    e.setdefault("pid", str(r["property_id"]))
                 n += 1
         print(f"  {label}: {len(rows)} units")
 
@@ -128,11 +136,44 @@ def main():
             e["pid"] = pid
         print(f"  batch {i // BATCH + 1}/{(len(ids) + BATCH - 1) // BATCH}: {len(rows)} units")
 
+    meta = {"groups": {}}
+    for key, cfg in CLIENT_GROUPS.items():
+        time.sleep(1.5)
+        props = report(c, "property_directory", scope(group_ids=[cfg["id"]]))
+        pnames = sorted({(p.get("property_name") or "").strip() for p in props if p.get("property_name")})
+        if not props:
+            # An empty client group is indistinguishable from a rate-limited read, and a
+            # blank widget on a client's own site is the worst possible failure. Refuse to
+            # write a groups.json that would produce one.
+            print(f"ERROR: client group {key} (id {cfg['id']}) returned 0 properties — "
+                  f"refusing to write {OUT.name}", file=sys.stderr)
+            return 1
+        ids = [str(p["property_id"]) for p in props if p.get("property_id")]
+        n = 0
+        for i in range(0, len(ids), BATCH):
+            time.sleep(1.5)
+            for r in units(c, property_ids=ids[i:i + BATCH]):
+                uid = str(r.get("rentable_uid") or "")
+                if not uid:
+                    continue
+                e = out.setdefault(uid, {})
+                e.setdefault("g", [])
+                if key not in e["g"]:
+                    e["g"].append(key)
+                e.setdefault("pid", str(r.get("property_id") or ""))
+                n += 1
+        # `properties` is the full membership including buildings with no vacancy today.
+        meta["groups"][key] = {"id": cfg["id"], "name": cfg["name"], "properties": pnames, "units": n}
+        print(f"Client group {key} (id {cfg['id']}): {len(props)} properties, {n} units")
+        print(f"  {', '.join(pnames)}")
+
+    out["_meta"] = meta
     OUT.write_text(json.dumps(out, indent=0, sort_keys=True), encoding="utf-8")
-    mf = sum(1 for v in out.values() if v.get("mf"))
-    pg = sum(1 for v in out.values() if v.get("pg"))
-    print(f"\nWrote {OUT.name}: {len(out)} units mapped ({pg} in a PG, {mf} multifamily, "
-          f"{len({v['mfp'] for v in out.values() if v.get('mfp')})} MF properties)")
+    rows = [v for k, v in out.items() if k != "_meta"]
+    mf = sum(1 for v in rows if v.get("mf"))
+    pg = sum(1 for v in rows if v.get("pg"))
+    print(f"\nWrote {OUT.name}: {len(rows)} units mapped ({pg} in a PG, {mf} multifamily, "
+          f"{len({v['mfp'] for v in rows if v.get('mfp')})} MF properties)")
     return 0
 
 
