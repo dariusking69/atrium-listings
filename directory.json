@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 277,
+      "count": 276,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 553-3444",
       "cities": [
@@ -106,20 +106,11 @@
     },
     {
       "name": "Aston Square",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -129,6 +120,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -371,20 +371,11 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -397,21 +388,30 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 277,
+      "count": 276,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -706,7 +706,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 14,
+      "count": 13,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -716,7 +716,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -751,7 +751,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 57
+      "count": 56
     },
     {
       "name": "Gainesville",
@@ -774,16 +774,16 @@
       "count": 18
     },
     {
-      "name": "Winter Park",
-      "count": 16
-    },
-    {
       "name": "Casselberry",
       "count": 16
     },
     {
+      "name": "Winter Park",
+      "count": 15
+    },
+    {
       "name": "Jacksonville",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Ocoee",
@@ -1015,16 +1015,9 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1035,17 +1028,24 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 10,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 456,
-  "total": 573,
+  "mfTotal": 453,
+  "total": 570,
   "groups": [
     {
       "key": "inicio",
