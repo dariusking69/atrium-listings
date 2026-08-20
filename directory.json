@@ -214,7 +214,7 @@
     },
     {
       "name": "Sutton Fields",
-      "count": 2,
+      "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
@@ -304,10 +304,6 @@
       "count": 3
     },
     {
-      "name": "St. Cloud",
-      "count": 3
-    },
-    {
       "name": "Belleview",
       "count": 3
     },
@@ -325,6 +321,10 @@
     },
     {
       "name": "Ocala",
+      "count": 2
+    },
+    {
+      "name": "St. Cloud",
       "count": 2
     },
     {
@@ -647,13 +647,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 2,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "The Hammocks at Camelot",
       "count": 2,
       "cities": [
@@ -675,6 +668,13 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 1,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 454,
-  "total": 574
+  "mfTotal": 453,
+  "total": 573
 }

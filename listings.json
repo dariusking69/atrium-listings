@@ -20315,53 +20315,6 @@
     "community": "Reserve at Lake Irene"
   },
   {
-    "id": 4005,
-    "uuid": "ad43e14f-e21d-4510-b8e8-8ff5e573d3f7",
-    "address": "5041 Hutton Drive, St. Cloud, FL 34771",
-    "street": "5041 Hutton Drive",
-    "city": "St. Cloud",
-    "rent": "$2,750",
-    "rent_val": 2750,
-    "specs": "4 bd, 2.5 ba, 1,704 Sq. Ft.",
-    "beds": 4.0,
-    "baths": 2.5,
-    "sqft": 1704,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/2c1cda36-4c7f-4688-8e2a-76ddc24e4cb2/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ad43e14f-e21d-4510-b8e8-8ff5e573d3f7",
-    "lat": 28.3134223,
-    "lng": -81.2395838,
-    "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
-    "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,200 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
-    "terms": [
-      "Rent: $2,200",
-      "Application Fee: $95",
-      "Security Deposit: $500",
-      "Available 8/31/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/2c1cda36-4c7f-4688-8e2a-76ddc24e4cb2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ae007b7a-3dc0-4ccd-a901-8b39643fd194/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c1c19b28-a2af-4982-94da-9eb367a1b4ca/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ec4ec76-ef4b-4a11-96d3-d3c384be2fec/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2979626f-8ae8-450e-bdf4-ed964fa99734/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ad43e14f-e21d-4510-b8e8-8ff5e573d3f7&source=Website",
-    "property": "Sutton Fields",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-    "phone": "(689) 210-4518",
-    "available": "8/31/26",
-    "zip": "34771",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Sutton Fields"
-  },
-  {
     "id": 3996,
     "uuid": "c6511d33-3212-4c09-8a45-9351fcd4ddf0",
     "address": "3251 Overstreet East #225, Kissimmee, FL 34747",
