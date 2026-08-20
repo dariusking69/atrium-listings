@@ -78,21 +78,21 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -316,21 +316,21 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -380,7 +380,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -696,7 +696,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 23,
+      "count": 21,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -767,23 +767,23 @@
     },
     {
       "name": "Macon",
-      "count": 23
-    },
-    {
-      "name": "Winter Park",
-      "count": 18
+      "count": 21
     },
     {
       "name": "Sandston",
       "count": 18
     },
     {
-      "name": "Jacksonville",
-      "count": 16
+      "name": "Winter Park",
+      "count": 17
     },
     {
       "name": "Casselberry",
-      "count": 15
+      "count": 16
+    },
+    {
+      "name": "Jacksonville",
+      "count": 16
     },
     {
       "name": "Ocoee",
@@ -972,17 +972,17 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 23,
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 21,
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
@@ -1022,7 +1022,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "cities": [
         "Winter Park"
       ]
@@ -1203,6 +1203,6 @@
       ]
     }
   ],
-  "mfTotal": 455,
-  "total": 576
+  "mfTotal": 453,
+  "total": 574
 }
