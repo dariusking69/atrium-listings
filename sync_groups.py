@@ -34,7 +34,10 @@ MF_GROUP = "254"
 # GROUP id, never on property names: the group is the client's own list, so a rename or a
 # newly onboarded building resolves here with no change to the embed URL living on their
 # CMS. We only get to hand that URL over once.
+# Keys MUST be lowercase: w.html lowercases ?group= before matching (fail-closed), so a
+# mixed-case key here would produce an embed that silently matches nothing.
 CLIENT_GROUPS = {"inicio": {"id": "288", "name": "Inicio Living"}}
+assert all(k == k.lower() for k in CLIENT_GROUPS), "CLIENT_GROUPS keys must be lowercase"
 BATCH = 6          # properties per unit_directory call — keeps every call under the 5,000-row cap
 
 try:
@@ -105,6 +108,12 @@ def main():
     for label, gid in PGS.items():
         time.sleep(1.5)
         rows = units(c, group_ids=[gid])
+        if not rows:
+            # Every PG has units. Zero means a rate limit or a broken scope, and writing it
+            # would blank that PG's embeds while looking like a clean run.
+            print(f"ERROR: {label} (group {gid}) returned 0 units — refusing to write {OUT.name}",
+                  file=sys.stderr)
+            return 1
         n = 0
         for r in rows:
             uid = str(r.get("rentable_uid") or "")
@@ -118,6 +127,10 @@ def main():
 
     print("Multifamily (group 254):")
     props = report(c, "property_directory", scope(group_ids=[MF_GROUP]))
+    if not props:
+        print(f"ERROR: Multifamily (group {MF_GROUP}) returned 0 properties — "
+              f"refusing to write {OUT.name}", file=sys.stderr)
+        return 1
     ids = [str(p["property_id"]) for p in props if p.get("property_id")]
     names = {str(p["property_id"]): (p.get("property_name") or "").strip() for p in props}
     print(f"  {len(ids)} properties")
@@ -136,18 +149,54 @@ def main():
             e["pid"] = pid
         print(f"  batch {i // BATCH + 1}/{(len(ids) + BATCH - 1) // BATCH}: {len(rows)} units")
 
+    # A client group reading empty must NOT throw away a good PG + Multifamily pass: that
+    # is thousands of units of fresh membership discarded over one group. Carry the last
+    # known-good client tags forward instead, so the client's embed holds at yesterday's
+    # data rather than going blank, and still exit non-zero so the failure is loud.
+    prev = {}
+    if OUT.exists():
+        try:
+            prev = json.loads(OUT.read_text())
+        except Exception:
+            prev = {}
+    prev_meta = (prev.get("_meta") or {}).get("groups") or {}
+
+    def carry_forward(key):
+        # Restore one client group's unit tags from the previous groups.json.
+        for uid, e in prev.items():
+            if uid == "_meta" or key not in (e.get("g") or []):
+                continue
+            t = out.setdefault(uid, {})
+            t.setdefault("g", [])
+            if key not in t["g"]:
+                t["g"].append(key)
+            if e.get("pid"):
+                t.setdefault("pid", e["pid"])
+        return prev_meta.get(key)
+
     meta = {"groups": {}}
+    failed = []
     for key, cfg in CLIENT_GROUPS.items():
         time.sleep(1.5)
-        props = report(c, "property_directory", scope(group_ids=[cfg["id"]]))
+        try:
+            props = report(c, "property_directory", scope(group_ids=[cfg["id"]]))
+            exc_note = ""
+        except Exception as exc:
+            props, exc_note = [], f" ({exc})"
         pnames = sorted({(p.get("property_name") or "").strip() for p in props if p.get("property_name")})
         if not props:
             # An empty client group is indistinguishable from a rate-limited read, and a
-            # blank widget on a client's own site is the worst possible failure. Refuse to
-            # write a groups.json that would produce one.
-            print(f"ERROR: client group {key} (id {cfg['id']}) returned 0 properties — "
-                  f"refusing to write {OUT.name}", file=sys.stderr)
-            return 1
+            # blank widget on a client's own site is the worst possible failure.
+            print(f"ERROR: client group {key} (id {cfg['id']}) returned 0 properties{exc_note}",
+                  file=sys.stderr)
+            held = carry_forward(key)
+            if held:
+                meta["groups"][key] = held
+                print(f"  holding {key} at the previous sync: {held.get('units')} units", file=sys.stderr)
+            else:
+                print(f"  no previous data for {key} — its embed will render EMPTY", file=sys.stderr)
+            failed.append(key)
+            continue
         ids = [str(p["property_id"]) for p in props if p.get("property_id")]
         n = 0
         for i in range(0, len(ids), BATCH):
@@ -174,6 +223,10 @@ def main():
     pg = sum(1 for v in rows if v.get("pg"))
     print(f"\nWrote {OUT.name}: {len(rows)} units mapped ({pg} in a PG, {mf} multifamily, "
           f"{len({v['mfp'] for v in rows if v.get('mfp')})} MF properties)")
+    if failed:
+        print(f"\nClient group(s) {', '.join(failed)} did not refresh; held at the previous "
+              f"sync where possible. See the errors above.", file=sys.stderr)
+        return 1
     return 0
 
 
