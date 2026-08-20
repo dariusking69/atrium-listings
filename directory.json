@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 278,
+      "count": 279,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
+      "phone": "(813) 553-3444",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -233,7 +233,7 @@
     },
     {
       "name": "Tampa",
-      "count": 59
+      "count": 60
     },
     {
       "name": "Kissimmee",
@@ -253,7 +253,7 @@
     },
     {
       "name": "Macon",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Winter Park",
@@ -399,7 +399,7 @@
     },
     {
       "name": "PG5",
-      "count": 14
+      "count": 15
     },
     {
       "name": "PG7",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 24,
+      "count": 23,
       "cities": [
         "Macon"
       ]
@@ -689,6 +689,6 @@
       ]
     }
   ],
-  "mfTotal": 453,
+  "mfTotal": 452,
   "total": 573
 }
