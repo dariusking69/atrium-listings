@@ -11167,49 +11167,6 @@
     "community": "Barber Park Apartments"
   },
   {
-    "id": 6026,
-    "uuid": "9589487b-5979-4e54-b251-5f3035b16e2b",
-    "address": "3440 N. Goldenrod Road Unit # 822, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 822",
-    "city": "Winter Park",
-    "rent": "$1,505",
-    "rent_val": 1505,
-    "specs": "2 bd, 2 ba, 1,050 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1050,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9589487b-5979-4e54-b251-5f3035b16e2b",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "2 Bed 2 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,505 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,462 \n\n\n Available 9/19/26",
-    "terms": [
-      "Rent: $1,505",
-      "Application Fee: $79",
-      "Security Deposit: $1,462",
-      "Available 9/19/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f632dac6-c9d1-4715-826a-3c5a8260e2f7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9589487b-5979-4e54-b251-5f3035b16e2b&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-6288",
-    "available": "9/19/26",
-    "zip": "32792",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "community": "Cranes Landing Apartments"
-  },
-  {
     "id": 6022,
     "uuid": "5be3d007-fc1c-411e-9739-8f3e0e4d40a6",
     "address": "31 David&#39;s Ln Unit # 31-104, Winter Springs, FL 32708",
