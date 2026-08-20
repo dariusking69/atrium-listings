@@ -26,7 +26,10 @@
     &details=appfolio         unit clicks go to AppFolio's owner-branded detail page,
                               which carries Contact Us and Schedule Showing; ours has
                               neither, and links back to Atrium's whole portfolio
-    &tel=813-555-0100         leasing number shown when filters match nothing
+    &tel=813-555-0100         leasing number shown when filters match nothing. Must be a
+                              plain 10-digit US number (or +country). Anything else — an
+                              extension, a label, prose — is refused outright rather than
+                              shown, because the label and the dial string must agree.
   Customisation:
     &accent=003b4a            hex, with or without '#'
     &name=The+Julian          heading text ('' hides the heading)
@@ -210,13 +213,32 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   // to what every existing embed already emits.
   var SRC=String(P.get('src')||'').trim().slice(0,60);
   var DETAILS_AF=(P.get('details')||'').toLowerCase()==='appfolio';
-  var TEL=String(P.get('tel')||'').trim().slice(0,24);
-  // Rewrite (or add) source= on an AppFolio URL. Leaves everything else untouched.
+  // Mirrors build.py's SOURCE_DEFAULT. Never emit an AppFolio link with NO source=: the
+  // `af` value in the feed carries no query string, so details=appfolio without &src=
+  // would send every Contact Us and Schedule Showing to a guest card with a blank source
+  // — strictly worse than the "Website" our own page has always carried.
+  var SOURCE_DEFAULT='Website';
   function withSource(u){
-    if(!u||!SRC) return u||'';
-    if(u.indexOf('source=')>-1) return u.replace(/([?&]source=)[^&#]*/,'$1'+encodeURIComponent(SRC));
-    return u+(u.indexOf('?')>-1?'&':'?')+'source='+encodeURIComponent(SRC);
+    if(!u) return '';
+    var s=SRC||SOURCE_DEFAULT;
+    // $-sequences are special in a replace() replacement string, so use a function.
+    if(u.indexOf('source=')>-1) return u.replace(/([?&]source=)[^&#]*/,function(_,p1){ return p1+encodeURIComponent(s); });
+    return u+(u.indexOf('?')>-1?'&':'?')+'source='+encodeURIComponent(s);
   }
+
+  // ?tel= is free text typed by a human. Parse it ONCE and render the label and the dial
+  // string from the same parse, or show neither: a widget that displays one number and
+  // dials another loses the lead at the exact moment the empty state exists to save it.
+  var TEL=(function(){
+    var raw=String(P.get('tel')||'').trim();
+    if(!raw) return null;
+    var plus=raw.charAt(0)==='+';
+    var d=raw.replace(/[^0-9]/g,'');
+    if(plus) return (d.length>=11&&d.length<=15) ? {label:'+'+d, dial:'+'+d} : null;
+    if(d.length===11&&d.charAt(0)==='1') d=d.slice(1);
+    if(d.length!==10) return null;              // extensions, prose, partial numbers: refuse
+    return {label:'('+d.slice(0,3)+') '+d.slice(3,6)+'-'+d.slice(6), dial:d};
+  })();
   var accent=hex(P.get('accent'));
   if(accent){
     var root=$('#atr-root');
@@ -319,7 +341,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(SCOPE.property){ $('#atr-q').style.display='none'; }
     if(TEL){
       var t=$('#atr-empty-tel');
-      t.innerHTML='Or call us at <a href="tel:'+esc(TEL.replace(/[^0-9+]/g,''))+'">'+esc(TEL)+'</a>';
+      t.innerHTML='Or call us at <a href="tel:'+esc(TEL.dial)+'">'+esc(TEL.label)+'</a>';
       t.style.display='';
     }
     // Reuses the toolbar Reset, which clears renter filters and leaves the scope alone.
