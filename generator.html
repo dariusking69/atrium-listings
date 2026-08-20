@@ -1,231 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Atrium — Listing Widget Generator</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
+<title>Widget builder has moved</title>
+<!--
+  RETIRED 2026-08-20.
+
+  This page built its dropdown from directory.json's `properties` list, which is keyed on
+  the parent property name. Where a property holds differently-named communities it matches
+  no listing at all, so the page offered scopes like "Inicio Tampa (49)" whose own preview
+  rendered "0 units available" — it contradicted itself, and it would hand a client a
+  permanently blank widget. build.py and w.html were fixed for that in d1e2ee7; this
+  consumer was left behind.
+
+  The builder now lives in Beacon (Marketing > Widgets), where it is behind the company
+  login, reads the same feed, offers client-portfolio scoping, lead-source stamping, and
+  refuses to emit an embed that matches no homes. There is one generator.
+-->
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=https://www.beaconbyatrium.com/#/widgets">
+<script>location.replace("https://www.beaconbyatrium.com/#/widgets");</script>
 <style>
-  :root{--red:#f13d3d;--ink:#111418;--muted:#5b6570;--line:#e3e6e8;--bg:#f5f6f7}
-  *{box-sizing:border-box}
-  body{margin:0;font-family:"Open Sans",Arial,sans-serif;color:var(--ink);background:var(--bg)}
-  header{background:#fff;border-bottom:1px solid var(--line)}
-  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
-  header .wrap{display:flex;align-items:center;gap:14px;padding:16px 20px}
-  header img{height:28px}
-  h1{font-size:19px;margin:0;font-weight:700}
-  .sub{color:var(--muted);font-size:13px;margin-top:2px}
-  main{padding:24px 20px 60px}
-  .cols{display:grid;grid-template-columns:340px 1fr;gap:24px;align-items:start}
-  .panel{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px}
-  .panel h2{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 14px}
-  label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
-  label:first-of-type{margin-top:0}
-  .hint{font-weight:400;color:var(--muted);font-size:12px;margin-top:3px}
-  input[type=text],select{width:100%;font:inherit;font-size:14px;padding:9px 11px;border:1px solid var(--line);border-radius:6px;background:#fff;outline:none}
-  input[type=text]:focus,select:focus{border-color:var(--red);box-shadow:0 0 0 3px rgba(241,61,61,.13)}
-  .row{display:flex;gap:8px;align-items:center}
-  input[type=color]{width:44px;height:38px;padding:2px;border:1px solid var(--line);border-radius:6px;background:#fff;cursor:pointer}
-  .swatches{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
-  .sw{width:24px;height:24px;border-radius:5px;border:1px solid rgba(0,0,0,.15);cursor:pointer}
-  .checks{display:flex;flex-direction:column;gap:9px;margin-top:6px}
-  .checks label{display:flex;align-items:center;gap:8px;margin:0;font-weight:400;font-size:13.5px;cursor:pointer}
-  .out{margin-top:18px}
-  textarea{width:100%;height:120px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;line-height:1.5;
-    padding:10px;border:1px solid var(--line);border-radius:6px;resize:vertical;background:#fbfbfc}
-  .btn{font:inherit;font-size:14px;font-weight:700;color:#fff;background:var(--red);border:0;border-radius:6px;padding:11px 16px;cursor:pointer;width:100%;margin-top:9px}
-  .btn:hover{background:#d92f2f}
-  .btn.ok{background:#1a7f37}
-  .btn.sec{background:#fff;color:var(--ink);border:1px solid var(--line)}
-  .btn.sec:hover{background:#f3f4f5}
-  .previewbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;gap:12px;flex-wrap:wrap}
-  .previewbar .t{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700}
-  .urlline{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--muted);word-break:break-all;
-    background:#fff;border:1px solid var(--line);border-radius:6px;padding:8px 10px;margin-bottom:10px}
-  iframe.pv{width:100%;height:760px;border:1px solid var(--line);border-radius:10px;background:#fff}
-  .note{font-size:12.5px;color:var(--muted);line-height:1.55;margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
-  .note b{color:var(--ink)}
-  @media(max-width:900px){.cols{grid-template-columns:1fr}iframe.pv{height:560px}}
+  body{font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#111418;
+       background:#f5f5f7;margin:0;display:grid;place-items:center;min-height:100vh;padding:24px}
+  .b{background:#fff;border:1px solid #e3e6e8;border-radius:12px;padding:28px 32px;max-width:460px}
+  h1{font-size:19px;margin:0 0 10px}
+  p{margin:0 0 12px;color:#5b6570}
+  a{color:#f13d3d;font-weight:700}
 </style>
-</head>
-<body>
-<header><div class="wrap">
-  <img src="static/atrium-mark.png" alt="Atrium">
-  <div><h1>Listing Widget Generator</h1><div class="sub">Pick a property, style it, copy the embed code.</div></div>
-</div></header>
-
-<main class="wrap"><div class="cols">
-  <div class="panel">
-    <h2>1 · What to show</h2>
-    <label for="scope">Property or area</label>
-    <select id="scope"></select>
-    <div class="hint" id="scopeHint"></div>
-
-    <h2 style="margin-top:22px">2 · Style</h2>
-    <label for="accent">Accent colour</label>
-    <div class="row">
-      <input type="color" id="accent" value="#f13d3d">
-      <input type="text" id="accentHex" value="#f13d3d" spellcheck="false">
-    </div>
-    <div class="swatches" id="swatches"></div>
-
-    <label for="heading">Heading <span class="hint" style="display:inline">(blank = none)</span></label>
-    <input type="text" id="heading" placeholder="e.g. The Julian">
-    <label for="sub">Sub-heading</label>
-    <input type="text" id="sub" placeholder="e.g. 480 N Terry Ave, Orlando">
-
-    <label for="parentUrl">Page this will live on <span class="hint" style="display:inline">(optional)</span></label>
-    <input type="text" id="parentUrl" placeholder="https://thejulian.com/availability" spellcheck="false">
-    <div class="hint">Makes the Share button copy that page instead of the bare widget.</div>
-
-    <div class="checks">
-      <label><input type="checkbox" id="showMap"> Show map with pins</label>
-    </div>
-    <div class="hint">Off by default for a single building (every unit shares one address).</div>
-
-    <div class="out">
-      <h2>3 · Embed code</h2>
-      <textarea id="embed" readonly spellcheck="false"></textarea>
-      <button class="btn" id="copy">Copy embed code</button>
-      <button class="btn sec" id="openTab">Open widget in a new tab</button>
-    </div>
-
-    <div class="note">
-      <b>How to use it:</b> in Squarespace, add a <b>Code Block</b> to the page, paste this in,
-      and make sure <b>Display Source</b> is toggled <b>off</b>. The block looks blank in the
-      editor — check the published page. Listings refresh themselves every 30 minutes.
-    </div>
-  </div>
-
-  <div>
-    <div class="previewbar">
-      <span class="t">Live preview</span>
-      <span class="t" id="countNote"></span>
-    </div>
-    <div class="urlline" id="urlline"></div>
-    <iframe class="pv" id="pv" title="Widget preview"></iframe>
-  </div>
-</div></main>
-
-<script>
-(function(){
-  var $=function(s){return document.querySelector(s);};
-  var BASE=location.href.replace(/\/[^\/]*$/,'/');     // same folder as this page
-  var DIR={properties:[],cities:[],total:0};
-
-  var SWATCHES=['#f13d3d','#003b4a','#111418','#1a7f37','#0f4c81','#7a4b2a','#5b2c6f','#b8860b'];
-  SWATCHES.forEach(function(c){
-    var d=document.createElement('div'); d.className='sw'; d.style.background=c; d.title=c;
-    d.onclick=function(){ $('#accent').value=c; $('#accentHex').value=c; update(); };
-    $('#swatches').appendChild(d);
-  });
-
-  fetch('directory.json').then(function(r){return r.json();}).then(function(d){
-    DIR=d;
-    var s=$('#scope');
-    var o=document.createElement('option'); o.value=''; o.textContent='Entire portfolio ('+d.total+' listings)'; s.appendChild(o);
-    var gp=document.createElement('optgroup'); gp.label='Communities';
-    d.properties.forEach(function(p){
-      var op=document.createElement('option');
-      op.value='property:'+p.name; op.textContent=p.name+' ('+p.count+')';
-      op.dataset.count=p.count; op.dataset.cities=(p.cities||[]).join(', ');
-      gp.appendChild(op);
-    });
-    s.appendChild(gp);
-    var gc=document.createElement('optgroup'); gc.label='Cities';
-    d.cities.forEach(function(c){
-      var op=document.createElement('option');
-      op.value='city:'+c.name; op.textContent=c.name+' ('+c.count+')'; op.dataset.count=c.count;
-      gc.appendChild(op);
-    });
-    s.appendChild(gc);
-    update();
-  }).catch(function(){ $('#urlline').textContent='Could not load directory.json'; });
-
-  function currentScope(){
-    var v=$('#scope').value;
-    if(!v) return {kind:'', name:''};
-    var i=v.indexOf(':');
-    return {kind:v.slice(0,i), name:v.slice(i+1)};
-  }
-  function buildUrl(){
-    var sc=currentScope(), p=new URLSearchParams();
-    if(sc.kind==='property') p.set('property',sc.name);
-    else if(sc.kind==='city') p.set('city',sc.name);
-    var acc=$('#accentHex').value.trim();
-    if(/^#?[0-9a-fA-F]{6}$/.test(acc)) p.set('accent',acc.replace('#',''));
-    var h=$('#heading').value.trim(); p.set('name',h);      // explicit, so blank means "no heading"
-    var sb=$('#sub').value.trim(); if(sb) p.set('sub',sb);
-    p.set('map', $('#showMap').checked?'1':'0');
-    var par=$('#parentUrl').value.trim();
-    if(/^https?:\/\//i.test(par)) p.set('parent',par);   // Share copies this page, not the bare widget
-    return BASE+'w.html?'+p.toString();
-  }
-  function embedCode(url){
-    var title=($('#heading').value.trim()||'Atrium')+' — Availability';
-    var h=$('#showMap').checked?1500:1200;   // starting height; the script below auto-fits it
-    return '<iframe id="atrium-listings" src="'+url+'"\n'+
-           '        title="'+title.replace(/"/g,'&quot;')+'"\n'+
-           '        style="width:100%;height:'+h+'px;border:0;"\n'+
-           '        loading="lazy" referrerpolicy="no-referrer-when-downgrade"\n'+
-           '        allow="clipboard-write"></iframe>\n'+
-           '<script>\n'+
-           '(function(){\n'+
-           '  var f=document.getElementById("atrium-listings");\n'+
-           '  // auto-fit the height so there is no nested scrollbar or trailing white space\n'+
-           '  window.addEventListener("message",function(e){\n'+
-           '    if(e.source!==f.contentWindow) return;\n'+
-           '    var d=e.data;\n'+
-           '    if(d&&d.type==="atr-height"&&typeof d.height==="number"&&d.height>200&&d.height<20000)\n'+
-           '      f.style.height=d.height+"px";\n'+
-           '  });\n'+
-           '  // let the widget inherit this page’s font, and know its public URL for Share links\n'+
-           '  function tell(){ try{ f.contentWindow.postMessage({type:"atr-font",\n'+
-           '    font:getComputedStyle(document.body).fontFamily},"*"); }catch(e){} }\n'+
-           '  f.addEventListener("load",tell); setTimeout(tell,1500);\n'+
-           '})();\n'+
-           '<\/script>';
-  }
-  var t=null;
-  function update(){
-    var url=buildUrl();
-    $('#urlline').textContent=url;
-    $('#embed').value=embedCode(url);
-    var op=$('#scope').selectedOptions[0], sc=currentScope();
-    $('#scopeHint').textContent = op&&op.dataset.count
-      ? op.dataset.count+' listings'+(op.dataset.cities?' · '+op.dataset.cities:'')
-      : (DIR.total?DIR.total+' listings':'');
-    $('#countNote').textContent = sc.name||'Entire portfolio';
-    clearTimeout(t); t=setTimeout(function(){ $('#pv').src=url; },260);   // debounce the preview
-  }
-
-  // Choosing a community pre-fills the heading and defaults the map off.
-  $('#scope').addEventListener('change',function(){
-    var sc=currentScope();
-    $('#heading').value = sc.name || '';
-    $('#sub').value='';
-    $('#showMap').checked = (sc.kind!=='property');
-    update();
-  });
-  $('#accent').addEventListener('input',function(){ $('#accentHex').value=this.value; update(); });
-  $('#accentHex').addEventListener('input',function(){
-    var v=this.value.trim(); if(/^#?[0-9a-fA-F]{6}$/.test(v)) $('#accent').value=v.startsWith('#')?v:'#'+v;
-    update();
-  });
-  ['#heading','#sub','#parentUrl'].forEach(function(s){ $(s).addEventListener('input',update); });
-  $('#showMap').addEventListener('change',update);
-
-  $('#copy').addEventListener('click',function(){
-    var ta=$('#embed'); ta.select(); ta.setSelectionRange(0,ta.value.length);
-    var ok=false; try{ ok=document.execCommand('copy'); }catch(e){}
-    var b=this;
-    if(!ok && navigator.clipboard) navigator.clipboard.writeText(ta.value).then(function(){},function(){});
-    b.textContent='Copied'; b.classList.add('ok');
-    setTimeout(function(){ b.textContent='Copy embed code'; b.classList.remove('ok'); },1600);
-  });
-  $('#openTab').addEventListener('click',function(){ window.open(buildUrl(),'_blank','noopener'); });
-})();
-</script>
-</body>
-</html>
+<div class="b">
+  <h1>The widget builder has moved</h1>
+  <p>Availability widgets are now built in Beacon, under Marketing &rsaquo; Widgets.</p>
+  <p><a href="https://www.beaconbyatrium.com/#/widgets">Open the widget builder</a></p>
+</div>

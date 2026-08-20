@@ -50,6 +50,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, sys
+          import subprocess
           d = json.load(open('listings.json'))
           w = json.load(open('widget-data.json'))
           dr = json.load(open('directory.json'))
@@ -61,9 +62,51 @@ jobs:
               errs.append(f"property tags collapsed: {tagged}/{len(d)} tagged")
           if len(dr['properties']) < 5:
               errs.append(f"directory has only {len(dr['properties'])} communities")
+
+          # An empty result is indistinguishable from a rate-limited read unless you assert
+          # on it, and these three failures are all SILENT: the widget renders, it is just
+          # wrong. Compare against the last committed run, not against a hardcoded number.
+          try:
+              prev = json.loads(subprocess.run(['git','show','HEAD:directory.json'],
+                                               capture_output=True, text=True, check=True).stdout)
+          except Exception:
+              prev = None
+
+          # 1. A published client embed resolving to zero is a blank widget on someone
+          #    else's website. Nothing else in the pipeline would notice.
+          for g in dr.get('groups', []):
+              was = next((x for x in (prev or {}).get('groups', []) if x['key'] == g['key']), None)
+              if not g.get('properties'):
+                  errs.append(f"client group {g['key']} has no properties")
+              # A genuinely fully-leased client portfolio is legal and must NOT wedge the
+              # whole refresh — only a DROP is a defect. Say it out loud either way.
+              if was and g.get('listings', 0) < was.get('listings', 0) * 0.5:
+                  errs.append(f"client group {g['key']} dropped {was['listings']} -> {g['listings']} listings")
+              elif g.get('listings', 0) == 0:
+                  print(f"NOTE: client group {g['key']} has 0 listings right now — its embed renders empty")
+
+          # 2. `ap` must be a real application URL. The fallback branch is a plain listing
+          #    page, which looks fine and quietly stops being an apply link.
+          bad_ap = sum(1 for x in w if 'rental_applications/new' not in (x.get('ap') or ''))
+          if bad_ap:
+              errs.append(f"{bad_ap}/{len(w)} rows have a degraded apply URL (AppFolio markup changed?)")
+          no_src = sum(1 for x in w if 'source=' not in (x.get('ap') or ''))
+          if no_src:
+              errs.append(f"{no_src}/{len(w)} apply URLs carry no source= — leads become unattributable")
+
+          # 3. Group membership collapsing takes every PG/MF scope down with it.
+          pg_rows = sum(1 for x in w if x.get('pg'))
+          if prev:
+              prev_pg = sum(c['count'] for c in prev.get('pgs', []))
+              if prev_pg and pg_rows < prev_pg * 0.8:
+                  errs.append(f"PG tags collapsed: {pg_rows} rows vs {prev_pg} last run")
+              if prev.get('mfTotal') and dr.get('mfTotal', 0) < prev['mfTotal'] * 0.8:
+                  errs.append(f"Multifamily collapsed: {dr.get('mfTotal')} vs {prev['mfTotal']} last run")
+
           if errs:
               print("REFRESH FAILED SANITY CHECK:"); [print(" -", e) for e in errs]; sys.exit(1)
-          print(f"OK: {len(d)} listings, {tagged} tagged, {len(dr['properties'])} communities")
+          print(f"OK: {len(d)} listings, {tagged} tagged, {len(dr['properties'])} communities, "
+                f"{pg_rows} PG-tagged, {len(dr.get('groups', []))} client groups")
           PY
       - name: Commit if changed
         run: |
