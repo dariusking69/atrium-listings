@@ -39,6 +39,7 @@
     "unit": "1127",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -93,6 +94,7 @@
     "unit": "6",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -132,6 +134,9 @@
     "unit": "214-2",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Beach Flats"
   },
   {
@@ -185,6 +190,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -253,6 +259,7 @@
     "unit": "",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -309,6 +316,7 @@
     "unit": "39",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -349,6 +357,7 @@
     "unit": "215",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -403,6 +412,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -446,6 +456,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -488,6 +499,7 @@
     "unit": "1314",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -530,6 +542,7 @@
     "unit": "0929",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -572,6 +585,7 @@
     "unit": "0917",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -614,6 +628,7 @@
     "unit": "0602",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -656,6 +671,7 @@
     "unit": "0212",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -698,6 +714,7 @@
     "unit": "0117",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -809,6 +826,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -872,6 +890,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -915,6 +934,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -969,6 +989,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -1012,6 +1033,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -1054,6 +1076,7 @@
     "unit": "1129",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -1107,6 +1130,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -1148,6 +1172,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -1189,6 +1214,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -1243,6 +1269,7 @@
     "unit": "R6",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1297,6 +1324,7 @@
     "unit": "R1",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1352,6 +1380,7 @@
     "unit": "Q6",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1407,6 +1436,7 @@
     "unit": "P2",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1461,6 +1491,7 @@
     "unit": "M1",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1515,6 +1546,7 @@
     "unit": "K7",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1569,6 +1601,7 @@
     "unit": "I4",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1624,6 +1657,7 @@
     "unit": "F8",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1679,6 +1713,7 @@
     "unit": "E2",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -1722,6 +1757,7 @@
     "unit": "637",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -1763,6 +1799,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -1804,6 +1841,7 @@
     "unit": "1221",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -1845,6 +1883,7 @@
     "unit": "1215",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -1886,6 +1925,7 @@
     "unit": "1121",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -1927,6 +1967,7 @@
     "unit": "1117",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -1968,6 +2009,7 @@
     "unit": "1023",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2009,6 +2051,7 @@
     "unit": "1021",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2050,6 +2093,7 @@
     "unit": "0821",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2091,6 +2135,7 @@
     "unit": "0815",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2132,6 +2177,7 @@
     "unit": "0717",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2173,6 +2219,7 @@
     "unit": "0711",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2214,6 +2261,7 @@
     "unit": "0621",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2255,6 +2303,7 @@
     "unit": "0321",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2296,6 +2345,7 @@
     "unit": "0319",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2337,6 +2387,7 @@
     "unit": "0313",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2378,6 +2429,7 @@
     "unit": "0119",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2419,6 +2471,7 @@
     "unit": "1427",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2460,6 +2513,7 @@
     "unit": "1329",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2501,6 +2555,7 @@
     "unit": "1320",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2542,6 +2597,7 @@
     "unit": "1309",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2583,6 +2639,7 @@
     "unit": "1213",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2624,6 +2681,7 @@
     "unit": "1125",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2665,6 +2723,7 @@
     "unit": "1109",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2706,6 +2765,7 @@
     "unit": "1003",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2747,6 +2807,7 @@
     "unit": "0913",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2788,6 +2849,7 @@
     "unit": "0911",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2829,6 +2891,7 @@
     "unit": "0617",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2870,6 +2933,7 @@
     "unit": "0513",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2911,6 +2975,7 @@
     "unit": "0422",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2952,6 +3017,7 @@
     "unit": "0410",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -2993,6 +3059,7 @@
     "unit": "0327",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Julian"
   },
   {
@@ -3032,6 +3099,9 @@
     "unit": "61-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -3092,6 +3162,7 @@
     "unit": "117",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -3133,6 +3204,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -3189,6 +3261,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -3229,6 +3302,7 @@
     "unit": "54",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Southampton Apartments"
   },
   {
@@ -3271,6 +3345,7 @@
     "unit": "601",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -3314,6 +3389,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -3357,6 +3433,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -3408,6 +3485,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -3451,6 +3529,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -3494,6 +3573,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -3547,6 +3627,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -3599,6 +3680,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -3642,6 +3724,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -3685,6 +3768,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -3725,6 +3809,7 @@
     "unit": "43",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Southampton Apartments"
   },
   {
@@ -3780,6 +3865,7 @@
     "unit": "F2",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -3835,6 +3921,7 @@
     "unit": "E7",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -3890,6 +3977,7 @@
     "unit": "C2",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -3945,6 +4033,7 @@
     "unit": "A6",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -4001,6 +4090,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -4044,6 +4134,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -4087,6 +4178,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -4143,6 +4235,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -4186,6 +4279,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -4238,6 +4332,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -4298,6 +4393,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -4355,6 +4451,7 @@
     "unit": "55",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -4408,6 +4505,7 @@
     "unit": "41",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -4464,6 +4562,7 @@
     "unit": "35",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -4507,6 +4606,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -4560,6 +4660,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -4600,6 +4701,7 @@
     "unit": "108",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -4658,6 +4760,7 @@
     "unit": "1",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -4714,6 +4817,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -4753,6 +4857,9 @@
     "unit": "21-5013",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -4806,6 +4913,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -4849,6 +4957,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -4892,6 +5001,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -4935,6 +5045,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -4978,6 +5089,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -5021,6 +5133,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -5060,6 +5173,9 @@
     "unit": "07-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -5103,6 +5219,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -5162,6 +5279,7 @@
     "unit": "H304",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -5219,6 +5337,7 @@
     "unit": "G104",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -5276,6 +5395,7 @@
     "unit": "D207",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -5333,6 +5453,7 @@
     "unit": "C205",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -5376,6 +5497,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -5430,6 +5552,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -5472,6 +5595,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -5526,6 +5650,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -5569,6 +5694,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -5623,6 +5749,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -5678,6 +5805,7 @@
     "unit": "D5",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -5732,6 +5860,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -5817,6 +5946,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -5859,6 +5989,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -5912,6 +6043,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -5968,6 +6100,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -6010,6 +6143,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -6063,6 +6197,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -6116,6 +6251,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -6169,6 +6305,7 @@
     "unit": "",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -6227,6 +6364,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -6280,6 +6418,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -6336,6 +6475,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -6387,6 +6527,7 @@
     "unit": "53",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -6429,6 +6570,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -6480,6 +6622,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -6531,6 +6674,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Valencia Isle"
   },
   {
@@ -6582,6 +6726,7 @@
     "unit": "12",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -6637,6 +6782,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -6692,6 +6838,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -6745,6 +6892,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -6788,6 +6936,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -6842,6 +6991,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -6885,6 +7035,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -6939,6 +7090,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -6978,6 +7130,9 @@
     "unit": "28-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -7021,6 +7176,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -7064,6 +7220,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -7107,6 +7264,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -7150,6 +7308,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -7189,6 +7348,9 @@
     "unit": "203",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -7232,6 +7394,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -7272,6 +7435,7 @@
     "unit": "306",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -7316,6 +7480,7 @@
     "unit": "409",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -7360,6 +7525,7 @@
     "unit": "217",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -7404,6 +7570,7 @@
     "unit": "213",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -7447,6 +7614,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -7510,6 +7678,7 @@
     "unit": "A206",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -7570,6 +7739,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -7623,6 +7793,7 @@
     "unit": "",
     "pg": "PG8",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -7666,6 +7837,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -7709,6 +7881,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -7763,6 +7936,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -7828,6 +8002,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Keys at Wildwood"
   },
   {
@@ -7870,6 +8045,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -7924,6 +8100,7 @@
     "unit": "A",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -7975,6 +8152,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -8026,6 +8204,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Valencia Isle"
   },
   {
@@ -8082,6 +8261,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -8125,6 +8305,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -8163,6 +8344,9 @@
     "unit": "59-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8202,6 +8386,9 @@
     "unit": "58-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8241,6 +8428,9 @@
     "unit": "52-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8280,6 +8470,9 @@
     "unit": "49-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8319,6 +8512,9 @@
     "unit": "46-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8358,6 +8554,9 @@
     "unit": "39-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8397,6 +8596,9 @@
     "unit": "33-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8436,6 +8638,9 @@
     "unit": "32-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8475,6 +8680,9 @@
     "unit": "27-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8514,6 +8722,9 @@
     "unit": "24-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8553,6 +8764,9 @@
     "unit": "19-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8591,6 +8805,9 @@
     "unit": "18-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8630,6 +8847,9 @@
     "unit": "12-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8693,6 +8913,9 @@
     "unit": "10-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8732,6 +8955,9 @@
     "unit": "09-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8771,6 +8997,9 @@
     "unit": "08-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8810,6 +9039,9 @@
     "unit": "03-5215",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Marina Flats"
   },
   {
@@ -8849,6 +9081,9 @@
     "unit": "39-5017",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -8888,6 +9123,9 @@
     "unit": "35-5017",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -8927,6 +9165,9 @@
     "unit": "32-5015",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -8966,6 +9207,9 @@
     "unit": "30-5015",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9005,6 +9249,9 @@
     "unit": "28-5015",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9044,6 +9291,9 @@
     "unit": "25-5015",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9083,6 +9333,9 @@
     "unit": "24-5013",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9122,6 +9375,9 @@
     "unit": "23-5013",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9161,6 +9417,9 @@
     "unit": "06-5009",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Westshore Flats I"
   },
   {
@@ -9200,6 +9459,9 @@
     "unit": "213",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9239,6 +9501,9 @@
     "unit": "209",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9278,6 +9543,9 @@
     "unit": "208",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9317,6 +9585,9 @@
     "unit": "207",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9356,6 +9627,9 @@
     "unit": "206",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9395,6 +9669,9 @@
     "unit": "205",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9434,6 +9711,9 @@
     "unit": "104",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9473,6 +9753,9 @@
     "unit": "101",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "The William at Westshore"
   },
   {
@@ -9512,6 +9795,9 @@
     "unit": "23",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9551,6 +9837,9 @@
     "unit": "18",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9590,6 +9879,9 @@
     "unit": "17",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9629,6 +9921,9 @@
     "unit": "16",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9668,6 +9963,9 @@
     "unit": "12",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9707,6 +10005,9 @@
     "unit": "10",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9746,6 +10047,9 @@
     "unit": "7",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9785,6 +10089,9 @@
     "unit": "5",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9824,6 +10131,9 @@
     "unit": "2",
     "pg": "",
     "mf": true,
+    "cg": [
+      "inicio"
+    ],
     "community": "Case Residences"
   },
   {
@@ -9866,6 +10176,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -9920,6 +10231,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -9986,6 +10298,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10028,6 +10341,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -10088,6 +10402,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10130,6 +10445,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -10172,6 +10488,7 @@
     "unit": "",
     "pg": "PG8",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10215,6 +10532,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -10316,6 +10634,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10408,6 +10727,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10473,6 +10793,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10541,6 +10862,7 @@
     "unit": "",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10596,6 +10918,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -10653,6 +10976,7 @@
     "unit": "G301",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -10696,6 +11020,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -10739,6 +11064,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -10793,6 +11119,7 @@
     "unit": "C4",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -10836,6 +11163,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -10890,6 +11218,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -10946,6 +11275,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -11000,6 +11330,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -11043,6 +11374,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -11105,6 +11437,7 @@
     "unit": "J149",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -11148,6 +11481,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -11191,6 +11525,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -11244,6 +11579,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -11298,6 +11634,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -11349,6 +11686,7 @@
     "unit": "12",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -11414,6 +11752,7 @@
     "unit": "",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -11467,6 +11806,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -11521,6 +11861,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -11564,6 +11905,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -11607,6 +11949,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -11649,6 +11992,7 @@
     "unit": "535",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -11703,6 +12047,7 @@
     "unit": "N3",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -11817,6 +12162,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -11860,6 +12206,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -11915,6 +12262,7 @@
     "unit": "O5",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -11970,6 +12318,7 @@
     "unit": "B7",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -12032,6 +12381,7 @@
     "unit": "107",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -12084,6 +12434,7 @@
     "unit": "4",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -12127,6 +12478,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -12217,6 +12569,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -12269,6 +12622,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -12312,6 +12666,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -12330,9 +12685,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/79b25332-ce2d-4565-8bb2-f97292b4a550",
     "lat": 28.6937414,
     "lng": -81.3214131,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-5868",
     "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
     "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,345 - $1,438 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 8/26/26",
     "terms": [
@@ -12363,11 +12715,15 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=79b25332-ce2d-4565-8bb2-f97292b4a550&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-5868",
     "available": "8/26/26",
     "zip": "32707",
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -12418,6 +12774,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -12475,6 +12832,7 @@
     "unit": "N102",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -12532,6 +12890,7 @@
     "unit": "H301",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -12585,6 +12944,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -12623,6 +12983,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -12675,6 +13036,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -12729,6 +13091,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -12783,6 +13146,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -12826,6 +13190,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -12868,6 +13233,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -12922,6 +13288,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -12975,6 +13342,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -13019,6 +13387,7 @@
     "unit": "408",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -13073,6 +13442,7 @@
     "unit": "S1",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -13115,6 +13485,7 @@
     "unit": "326",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -13169,6 +13540,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -13212,6 +13584,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -13289,6 +13662,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -13337,6 +13711,7 @@
     "unit": "104",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -13391,6 +13766,7 @@
     "unit": "P8",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -13446,6 +13822,7 @@
     "unit": "B5",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Timber Pointe Apartments"
   },
   {
@@ -13489,6 +13866,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -13552,6 +13930,7 @@
     "unit": "D122",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -13604,6 +13983,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -13654,6 +14034,7 @@
     "unit": "36",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -13696,6 +14077,7 @@
     "unit": "627",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -13738,6 +14120,7 @@
     "unit": "527",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -13793,6 +14176,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -13836,6 +14220,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -13879,6 +14264,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -13930,6 +14316,7 @@
     "unit": "108",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -13984,6 +14371,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -14037,6 +14425,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -14091,6 +14480,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -14134,6 +14524,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14177,6 +14568,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14220,6 +14612,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14263,6 +14656,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14306,6 +14700,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14349,6 +14744,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -14392,6 +14788,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -14434,6 +14831,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Barber Park Apartments"
   },
   {
@@ -14477,6 +14875,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -14520,6 +14919,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -14563,6 +14963,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -14605,6 +15006,7 @@
     "unit": "614",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -14647,6 +15049,7 @@
     "unit": "611",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -14706,6 +15109,7 @@
     "unit": "J301",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -14760,6 +15164,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -14814,6 +15219,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -14857,6 +15263,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -14899,6 +15306,7 @@
     "unit": "524",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -14942,6 +15350,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -14985,6 +15394,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -15028,6 +15438,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -15094,6 +15505,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -15147,6 +15559,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -15193,6 +15606,7 @@
     "unit": "310",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15239,6 +15653,7 @@
     "unit": "309",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15285,6 +15700,7 @@
     "unit": "308",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15331,6 +15747,7 @@
     "unit": "307",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15377,6 +15794,7 @@
     "unit": "306",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15423,6 +15841,7 @@
     "unit": "305",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15469,6 +15888,7 @@
     "unit": "304",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15515,6 +15935,7 @@
     "unit": "303",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15561,6 +15982,7 @@
     "unit": "302",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15607,6 +16029,7 @@
     "unit": "301",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15653,6 +16076,7 @@
     "unit": "210",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15699,6 +16123,7 @@
     "unit": "209",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15745,6 +16170,7 @@
     "unit": "208",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15791,6 +16217,7 @@
     "unit": "207",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15837,6 +16264,7 @@
     "unit": "206",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15883,6 +16311,7 @@
     "unit": "204",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15929,6 +16358,7 @@
     "unit": "203",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -15975,6 +16405,7 @@
     "unit": "202",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16021,6 +16452,7 @@
     "unit": "201",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16072,6 +16504,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -16114,6 +16547,7 @@
     "unit": "419",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -16156,6 +16590,7 @@
     "unit": "416",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -16198,6 +16633,7 @@
     "unit": "427",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -16239,6 +16675,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mission Club Apartments"
   },
   {
@@ -16282,6 +16719,7 @@
     "unit": "411",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -16336,6 +16774,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -16383,6 +16822,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -16426,6 +16866,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -16469,6 +16910,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -16512,6 +16954,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -16554,6 +16997,7 @@
     "unit": "635",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -16600,6 +17044,7 @@
     "unit": "110",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16646,6 +17091,7 @@
     "unit": "109",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16692,6 +17138,7 @@
     "unit": "108",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16738,6 +17185,7 @@
     "unit": "107",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16784,6 +17232,7 @@
     "unit": "106",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16830,6 +17279,7 @@
     "unit": "105",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16876,6 +17326,7 @@
     "unit": "104",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16922,6 +17373,7 @@
     "unit": "104",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -16968,6 +17420,7 @@
     "unit": "102",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -17014,6 +17467,7 @@
     "unit": "101",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cardinal Village"
   },
   {
@@ -17068,6 +17522,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -17110,6 +17565,7 @@
     "unit": "619",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -17187,6 +17643,7 @@
     "unit": "",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -17246,6 +17703,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Jeffersonian"
   },
   {
@@ -17288,6 +17746,7 @@
     "unit": "511",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -17331,6 +17790,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -17374,6 +17834,7 @@
     "unit": "304",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -17416,6 +17877,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -17459,6 +17921,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -17513,6 +17976,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -17570,6 +18034,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Jeffersonian"
   },
   {
@@ -17612,6 +18077,7 @@
     "unit": "537",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -17667,6 +18133,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -17721,6 +18188,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -17764,6 +18232,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -17831,6 +18300,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Jeffersonian"
   },
   {
@@ -17897,6 +18367,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Keys at Wildwood"
   },
   {
@@ -17963,6 +18434,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Keys at Wildwood"
   },
   {
@@ -18007,6 +18479,7 @@
     "unit": "202",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -18075,6 +18548,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Keys at Wildwood"
   },
   {
@@ -18143,6 +18617,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Keys at Wildwood"
   },
   {
@@ -18210,6 +18685,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Jeffersonian"
   },
   {
@@ -18266,6 +18742,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -18308,6 +18785,7 @@
     "unit": "503",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -18351,6 +18829,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -18394,6 +18873,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -18437,6 +18917,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -18479,6 +18960,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -18521,6 +19003,7 @@
     "unit": "242",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -18563,6 +19046,7 @@
     "unit": "209",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -18625,6 +19109,7 @@
     "unit": "D",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -18686,6 +19171,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -18730,6 +19216,7 @@
     "unit": "301",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -18781,6 +19268,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -18824,6 +19312,7 @@
     "unit": "308",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -18878,6 +19367,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -18932,6 +19422,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -18974,6 +19465,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -19037,6 +19529,7 @@
     "unit": "I256",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -19102,6 +19595,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -19145,6 +19639,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -19187,6 +19682,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -19241,6 +19737,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -19284,6 +19781,7 @@
     "unit": "246",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -19327,6 +19825,7 @@
     "unit": "203",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -19369,6 +19868,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -19413,6 +19913,7 @@
     "unit": "313",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -19456,6 +19957,7 @@
     "unit": "210",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -19499,6 +20001,7 @@
     "unit": "218",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hub"
   },
   {
@@ -19550,6 +20053,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -19610,6 +20114,7 @@
     "unit": "",
     "pg": "PG8",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -19668,6 +20173,7 @@
     "unit": "",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -19711,6 +20217,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -19765,6 +20272,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -19809,6 +20317,7 @@
     "unit": "314",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -19862,6 +20371,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Avenues at Winter Springs"
   },
   {
@@ -19905,6 +20415,7 @@
     "unit": "311",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -19948,6 +20459,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -19991,6 +20503,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -20045,6 +20558,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -20101,6 +20615,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -20144,6 +20659,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -20196,6 +20712,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Avenues of Baldwin Park"
   },
   {
@@ -20239,6 +20756,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Cranes Landing Apartments"
   },
   {
@@ -20295,6 +20813,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Reserve at Lake Irene"
   },
   {
@@ -20344,6 +20863,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Sutton Fields"
   },
   {
@@ -20387,6 +20907,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -20442,6 +20963,7 @@
     "unit": "3",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -20485,6 +21007,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -20528,6 +21051,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -20591,6 +21115,7 @@
     "unit": "F115",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -20634,6 +21159,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -20677,6 +21203,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -20740,6 +21267,7 @@
     "unit": "F111",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Oasis at San Marco"
   },
   {
@@ -20776,6 +21304,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -20819,6 +21348,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -20862,6 +21392,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -20905,6 +21436,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Coliseum Lofts"
   },
   {
@@ -20960,6 +21492,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -21003,6 +21536,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -21046,6 +21580,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -21089,6 +21624,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -21132,6 +21668,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -21175,6 +21712,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -21237,6 +21775,7 @@
     "unit": "L202",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -21280,6 +21819,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -21323,6 +21863,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -21366,6 +21907,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -21438,6 +21980,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -21495,6 +22038,7 @@
     "unit": "",
     "pg": "PG8",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -21538,6 +22082,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -21607,6 +22152,7 @@
     "unit": "106",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -21666,6 +22212,7 @@
     "unit": "H104",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Renaissance at Strawberry Creek Apartments"
   },
   {
@@ -21708,6 +22255,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -21751,6 +22299,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -21795,6 +22344,7 @@
     "unit": "417",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Raven Place"
   },
   {
@@ -21839,6 +22389,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Six Hundred West Main"
   },
   {
@@ -21882,6 +22433,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -21925,6 +22477,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -21968,6 +22521,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -22011,6 +22565,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Gerwyn Manor"
   },
   {
@@ -22049,6 +22604,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -22092,6 +22648,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -22136,6 +22693,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Six Hundred West Main"
   },
   {
@@ -22180,6 +22738,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Six Hundred West Main"
   },
   {
@@ -22235,6 +22794,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -22278,6 +22838,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -22333,6 +22894,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -22384,6 +22946,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Valencia Isle"
   },
   {
@@ -22427,6 +22990,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -22482,6 +23046,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -22525,6 +23090,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -22568,6 +23134,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -22611,6 +23178,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -22654,6 +23222,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -22697,6 +23266,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Nest"
   },
   {
@@ -22741,6 +23311,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Six Hundred West Main"
   },
   {
@@ -22784,6 +23355,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -22862,6 +23434,7 @@
     "unit": "308",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -22913,6 +23486,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Valencia Isle"
   },
   {
@@ -22968,6 +23542,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -23011,6 +23586,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -23070,6 +23646,7 @@
     "unit": "",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23113,6 +23690,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -23156,6 +23734,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -23199,6 +23778,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Aston Square Apartments"
   },
   {
@@ -23248,6 +23828,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Valencia Isle"
   },
   {
@@ -23303,6 +23884,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -23358,6 +23940,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Ocoee Village"
   },
   {
@@ -23405,6 +23988,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Sutton Fields"
   },
   {
@@ -23448,6 +24032,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Chase"
   },
   {
@@ -23510,6 +24095,7 @@
     "unit": "301",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23583,6 +24169,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23642,6 +24229,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23719,6 +24307,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23770,6 +24359,7 @@
     "unit": "D",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23824,6 +24414,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23879,6 +24470,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23932,6 +24524,7 @@
     "unit": "202",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -23975,6 +24568,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -24018,6 +24612,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -24092,6 +24687,7 @@
     "unit": "N7",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24140,6 +24736,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24183,6 +24780,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -24226,6 +24824,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Champions Village"
   },
   {
@@ -24286,6 +24885,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24365,6 +24965,7 @@
     "unit": "",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24421,6 +25022,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24461,6 +25063,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24510,6 +25113,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24558,6 +25162,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24606,6 +25211,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24666,6 +25272,7 @@
     "unit": "",
     "pg": "PG9",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24740,6 +25347,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks at Camelot"
   },
   {
@@ -24788,6 +25396,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24842,6 +25451,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24883,6 +25493,7 @@
     "unit": "210",
     "pg": "PG5",
     "mf": true,
+    "cg": [],
     "community": "Janie B Apartments"
   },
   {
@@ -24938,6 +25549,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -24995,6 +25607,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25043,6 +25656,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25094,6 +25708,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25148,6 +25763,7 @@
     "unit": "",
     "pg": "",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25204,6 +25820,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25253,6 +25870,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25316,6 +25934,7 @@
     "unit": "5",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25385,6 +26004,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25453,6 +26073,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25518,6 +26139,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25598,6 +26220,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mirabella Apartments"
   },
   {
@@ -25672,6 +26295,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks at Camelot"
   },
   {
@@ -25715,6 +26339,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -25781,8 +26406,9 @@
     "zip": "32607",
     "unit": "",
     "pg": "",
-    "mf": false,
-    "community": "Camelot Properties"
+    "mf": true,
+    "cg": [],
+    "community": "Camelot Apartments"
   },
   {
     "id": 1789,
@@ -25852,8 +26478,9 @@
     "zip": "32607",
     "unit": "",
     "pg": "",
-    "mf": false,
-    "community": "Camelot Properties"
+    "mf": true,
+    "cg": [],
+    "community": "Camelot Apartments"
   },
   {
     "id": 1787,
@@ -25924,6 +26551,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mirabella Apartments"
   },
   {
@@ -26003,8 +26631,9 @@
     "zip": "32607",
     "unit": "",
     "pg": "",
-    "mf": false,
-    "community": "Camelot Properties"
+    "mf": true,
+    "cg": [],
+    "community": "Camelot Apartments"
   },
   {
     "id": 1784,
@@ -26078,8 +26707,9 @@
     "zip": "32607",
     "unit": "",
     "pg": "",
-    "mf": false,
-    "community": "Camelot Properties"
+    "mf": true,
+    "cg": [],
+    "community": "Camelot Apartments"
   },
   {
     "id": 1783,
@@ -26151,6 +26781,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mirabella Apartments"
   },
   {
@@ -26210,6 +26841,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mirabella Apartments"
   },
   {
@@ -26280,6 +26912,7 @@
     "unit": "",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Mirabella Apartments"
   },
   {
@@ -26335,6 +26968,7 @@
     "unit": "A",
     "pg": "PG8",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26389,6 +27023,7 @@
     "unit": "",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26476,6 +27111,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26531,6 +27167,7 @@
     "unit": "",
     "pg": "PG5",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26586,6 +27223,7 @@
     "unit": "102",
     "pg": "PG5",
     "mf": true,
+    "cg": [],
     "community": "Janie B Apartments"
   },
   {
@@ -26640,6 +27278,7 @@
     "unit": "302",
     "pg": "PG5",
     "mf": true,
+    "cg": [],
     "community": "Janie B Apartments"
   },
   {
@@ -26697,6 +27336,7 @@
     "unit": "",
     "pg": "PG4",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26762,6 +27402,7 @@
     "unit": "401",
     "pg": "PG5",
     "mf": true,
+    "cg": [],
     "community": "Janie B Apartments"
   },
   {
@@ -26816,6 +27457,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26872,6 +27514,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26926,6 +27569,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -26989,6 +27633,7 @@
     "unit": "160",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Hammocks off Newberry"
   },
   {
@@ -27062,6 +27707,7 @@
     "unit": "20",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Hammocks off Newberry"
   },
   {
@@ -27138,6 +27784,7 @@
     "unit": "41",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "Hammocks off Newberry"
   },
   {
@@ -27199,6 +27846,7 @@
     "unit": "407",
     "pg": "PG5",
     "mf": true,
+    "cg": [],
     "community": "Janie B Apartments"
   },
   {
@@ -27257,6 +27905,7 @@
     "unit": "92",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks off 6th"
   },
   {
@@ -27329,6 +27978,7 @@
     "unit": "109",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks by Butler"
   },
   {
@@ -27394,6 +28044,7 @@
     "unit": "23",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks off 6th"
   },
   {
@@ -27465,6 +28116,7 @@
     "unit": "63",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks on 34th"
   },
   {
@@ -27531,6 +28183,7 @@
     "unit": "51",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks off 6th"
   },
   {
@@ -27594,6 +28247,7 @@
     "unit": "3",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks off 6th"
   },
   {
@@ -27671,6 +28325,7 @@
     "unit": "18",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks on 20th"
   },
   {
@@ -27747,6 +28402,7 @@
     "unit": "151",
     "pg": "",
     "mf": true,
+    "cg": [],
     "community": "The Hammocks on 20th"
   },
   {
@@ -27811,6 +28467,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -27866,6 +28523,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -27920,6 +28578,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -27967,6 +28626,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28019,6 +28679,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28069,6 +28730,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28126,6 +28788,7 @@
     "unit": "",
     "pg": "PG1",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28182,6 +28845,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28242,6 +28906,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28308,6 +28973,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28364,6 +29030,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28414,6 +29081,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28469,6 +29137,7 @@
     "unit": "",
     "pg": "PG3",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28517,6 +29186,7 @@
     "unit": "",
     "pg": "PG7",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28576,6 +29246,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   },
   {
@@ -28638,6 +29309,7 @@
     "unit": "",
     "pg": "PG2",
     "mf": false,
+    "cg": [],
     "community": "Atrium Management Company"
   }
 ]

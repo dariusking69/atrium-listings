@@ -532,7 +532,7 @@
       ]
     },
     {
-      "name": "Camelot Properties",
+      "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 450-0906",
@@ -728,7 +728,7 @@
       "name": "Camelot Properties",
       "count": 6,
       "communities": [
-        "Camelot Properties",
+        "Camelot Apartments",
         "The Hammocks at Camelot"
       ],
       "cities": [
@@ -1140,6 +1140,13 @@
       ]
     },
     {
+      "name": "Camelot Apartments",
+      "count": 4,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "The Hammocks off 6th",
       "count": 4,
       "cities": [
@@ -1203,6 +1210,23 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 574
+  "mfTotal": 457,
+  "total": 574,
+  "groups": [
+    {
+      "key": "inicio",
+      "name": "Inicio Living",
+      "id": "288",
+      "properties": [
+        "Beach Flats",
+        "Case Residences",
+        "Ivy Flats",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "units": 197,
+      "listings": 49
+    }
+  ]
 }
