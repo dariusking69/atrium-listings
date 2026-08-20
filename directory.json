@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 279,
+      "count": 277,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 553-3444",
       "cities": [
@@ -141,6 +141,15 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -156,15 +165,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -352,21 +352,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-1250",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -451,6 +451,15 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -466,15 +475,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 279,
+      "count": 277,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,11 +739,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 115
+      "count": 114
     },
     {
       "name": "Richmond",
-      "count": 73
+      "count": 74
     },
     {
       "name": "Tampa",
@@ -775,7 +775,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Casselberry",
@@ -1000,17 +1000,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 16,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 15,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1022,7 +1022,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
@@ -1077,6 +1077,13 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 7,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
@@ -1088,13 +1095,6 @@
       "count": 6,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 6,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 457,
-  "total": 574,
+  "mfTotal": 456,
+  "total": 573,
   "groups": [
     {
       "key": "inicio",
