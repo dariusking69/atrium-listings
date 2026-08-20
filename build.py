@@ -342,9 +342,43 @@ def build(listings):
             e = mfprops.setdefault(n, {"name": n, "count": 0, "cities": set()})
             e["count"] += 1
             e["cities"].add(l.get("city", ""))
+    # ---- what the widget can ACTUALLY filter on -------------------------------
+    # widget-data.json sets each row's `p` to `community or property`, but the
+    # `properties` map above is keyed on `property` alone. Where a property holds
+    # differently-named communities (Inicio Tampa -> Westshore Marina Flats, ...)
+    # the parent name matches NO listing, so offering it in a picker produces an
+    # empty widget. `communities` is therefore the authoritative selectable list,
+    # and `portfolios` is the parent grouping used to pick a whole portfolio at once.
+    comms, portfolios = {}, {}
+    for l in listings:
+        name = (l.get("community") or "").strip() or (l.get("property") or "").strip()
+        if not name:
+            continue
+        e = comms.setdefault(name, {"name": name, "count": 0, "logo": l.get("logo", ""),
+                                    "phone": l.get("phone", ""), "cities": set()})
+        e["count"] += 1
+        e["cities"].add(l.get("city", ""))
+        parent = (l.get("property") or "").strip()
+        if parent:
+            f = portfolios.setdefault(parent, {"name": parent, "count": 0, "communities": set(),
+                                               "cities": set()})
+            f["count"] += 1
+            f["communities"].add(name)
+            f["cities"].add(l.get("city", ""))
+    # A portfolio is only interesting when it groups communities the picker would
+    # otherwise have to be found one by one — i.e. more than one child, or a child
+    # whose name differs from the parent's.
+    portfolios = {k: v for k, v in portfolios.items()
+                  if len(v["communities"]) > 1 or v["communities"] != {k}}
+
     directory = {
         "properties": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
                               for v in props.values()), key=lambda x: -x["count"]),
+        "communities": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
+                               for v in comms.values()), key=lambda x: -x["count"]),
+        "portfolios": sorted(({**v, "communities": sorted(v["communities"]),
+                               "cities": sorted(x for x in v["cities"] if x)}
+                              for v in portfolios.values()), key=lambda x: -x["count"]),
         "cities": sorted(({"name": k, "count": v} for k, v in cities.items()), key=lambda x: -x["count"]),
         "pgs": sorted(({"name": k, "count": v} for k, v in pgs.items()), key=lambda x: x["name"]),
         "mfProperties": sorted(({**v, "cities": sorted(x for x in v["cities"] if x)}
