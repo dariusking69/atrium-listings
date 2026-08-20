@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 553-3444",
       "cities": [
@@ -298,21 +298,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -958,17 +958,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 25,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 24,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 449,
-  "total": 566,
+  "mfTotal": 448,
+  "total": 565,
   "groups": [
     {
       "key": "inicio",
