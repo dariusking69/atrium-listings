@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 275,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 553-3444",
+      "phone": "(689) 300-4121",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -43,9 +43,9 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
+      "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
       ]
@@ -281,7 +281,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -380,7 +380,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 275,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 50,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -747,19 +747,19 @@
     },
     {
       "name": "Tampa",
-      "count": 61
+      "count": 62
     },
     {
       "name": "Kissimmee",
       "count": 56
     },
     {
-      "name": "Gainesville",
+      "name": "Winter Springs",
       "count": 36
     },
     {
-      "name": "Winter Springs",
-      "count": 33
+      "name": "Gainesville",
+      "count": 36
     },
     {
       "name": "Deltona",
@@ -945,7 +945,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1022,7 +1022,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 10,
+      "count": 11,
       "cities": [
         "Tampa"
       ]
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 448,
-  "total": 565,
+  "mfTotal": 452,
+  "total": 569,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 49
+      "listings": 50
     }
   ]
 }
