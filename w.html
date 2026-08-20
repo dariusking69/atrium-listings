@@ -10,6 +10,10 @@
     ?city=Gainesville         one city
     ?pg=PG1                   everything in an AppFolio property group
     ?mf=1                     the whole Multifamily portfolio
+    ?props=A|B|C              an ASSEMBLED set: several named communities in one
+                              widget (pipe-separated). Wins over the others when
+                              present. Fail-closed like them: ?props= with no
+                              value shows nothing, never the whole portfolio.
   Customisation:
     &accent=003b4a            hex, with or without '#'
     &name=The+Julian          heading text ('' hides the heading)
@@ -163,8 +167,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   // ?property= (CMS stripped it, bad copy/paste) must yield nothing — never the whole portfolio.
   var SCOPE={ property:(P.get('property')||'').trim(), city:(P.get('city')||'').trim(),
               pg:(P.get('pg')||'').trim().toUpperCase(), mf:(P.get('mf')||'').trim(),
+              // props=A|B|C — an assembled set of communities (one widget, several
+              // properties). Pipe-separated because no property name contains one.
+              props:(P.get('props')||'').split('|').map(function(x){return x.trim().toLowerCase();})
+                     .filter(Boolean),
               hasProperty:P.has('property'), hasCity:P.has('city'),
-              hasPg:P.has('pg'), hasMf:P.has('mf') };
+              hasPg:P.has('pg'), hasMf:P.has('mf'), hasProps:P.has('props') };
   var accent=hex(P.get('accent'));
   if(accent){
     var root=$('#atr-root');
@@ -201,7 +209,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   fetch(DATA_URL).then(function(r){return r.json();}).then(function(rows){
     // ---- scope FAIL-CLOSED: a supplied scope that matches nothing yields no listings ----
     var scoped=rows;
-    if(SCOPE.hasProperty) scoped=SCOPE.property
+    if(SCOPE.hasProps) scoped=SCOPE.props.length
+      ? rows.filter(function(l){return SCOPE.props.indexOf((l.p||'').toLowerCase())>-1;}) : [];
+    else if(SCOPE.hasProperty) scoped=SCOPE.property
       ? rows.filter(function(l){return (l.p||'').toLowerCase()===SCOPE.property.toLowerCase();}) : [];
     else if(SCOPE.hasCity) scoped=SCOPE.city
       ? rows.filter(function(l){return (l.c||'').toLowerCase()===SCOPE.city.toLowerCase();}) : [];
@@ -252,7 +262,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ---------- shareable URL ----------
   var FILTERS={q:'#atr-q',min:'#atr-min',max:'#atr-max',beds:'#atr-beds',baths:'#atr-baths',sort:'#atr-sort'};
-  var KEEP=['property','city','pg','mf','accent','name','sub','map','parent','font'];   // config params survive Share
+  var KEEP=['property','city','pg','mf','props','accent','name','sub','map','parent','font'];   // config params survive Share
   function readParams(){
     Object.keys(FILTERS).forEach(function(k){ if(P.has(k)){ var el=$(FILTERS[k]); if(el) el.value=P.get(k); } });
     if(P.has('rlat')&&P.has('rlng')){
