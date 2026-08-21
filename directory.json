@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 277,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -43,16 +43,16 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
+      "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
       ]
     },
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -177,21 +177,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -298,6 +298,15 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -307,12 +316,12 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
+      "name": "Westshore Marina Flats",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -331,15 +340,6 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Westshore Marina Flats",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -478,15 +478,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Keys at Wildwood",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -511,6 +502,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 277,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 50,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Tampa",
-      "count": 61
+      "count": 62
     },
     {
       "name": "Kissimmee",
@@ -931,7 +931,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "cities": [
         "Orlando"
       ]
@@ -958,6 +958,13 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 25,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 25,
       "cities": [
@@ -965,10 +972,10 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 24,
+      "name": "Westshore Marina Flats",
+      "count": 21,
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -983,13 +990,6 @@
       "count": 21,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Westshore Marina Flats",
-      "count": 20,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1098,13 +1098,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Keys at Wildwood",
       "count": 5,
       "cities": [
@@ -1123,6 +1116,13 @@
       "count": 5,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 49
+      "listings": 50
     }
   ]
 }
