@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 275,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(689) 300-5868",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -61,7 +61,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -271,21 +271,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 37,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 36,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 275,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 56
+      "count": 55
     },
     {
       "name": "Winter Springs",
@@ -774,11 +774,11 @@
       "count": 18
     },
     {
-      "name": "Winter Park",
-      "count": 15
+      "name": "Casselberry",
+      "count": 16
     },
     {
-      "name": "Casselberry",
+      "name": "Winter Park",
       "count": 15
     },
     {
@@ -937,17 +937,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 37,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 36,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 36,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
