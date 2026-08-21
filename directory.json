@@ -4,7 +4,7 @@
       "name": "Atrium Management Company",
       "count": 274,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-4121",
+      "phone": "(689) 215-1250",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -114,21 +114,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -225,7 +225,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 117,
+      "count": 116,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 553-3444",
       "cities": [
@@ -361,6 +361,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-1250",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -370,30 +379,12 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -412,6 +403,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -759,7 +759,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Deltona",
@@ -786,11 +786,11 @@
       "count": 15
     },
     {
-      "name": "Ocoee",
-      "count": 10
+      "name": "Lakeland",
+      "count": 9
     },
     {
-      "name": "Lakeland",
+      "name": "Ocoee",
       "count": 9
     },
     {
@@ -909,7 +909,7 @@
     },
     {
       "name": "PG4",
-      "count": 17
+      "count": 16
     },
     {
       "name": "PG5",
@@ -1007,6 +1007,13 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 14,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 13,
       "cities": [
@@ -1014,24 +1021,10 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 13,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 11,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 10,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -1046,6 +1039,13 @@
       "count": 9,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 9,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -1211,7 +1211,7 @@
     }
   ],
   "mfTotal": 451,
-  "total": 568,
+  "total": 567,
   "groups": [
     {
       "key": "inicio",
