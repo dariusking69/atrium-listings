@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 275,
+      "count": 276,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -281,7 +281,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 275,
+      "count": 276,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Gainesville",
@@ -945,7 +945,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 36,
       "cities": [
         "Winter Springs"
       ]
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 452,
-  "total": 569,
+  "mfTotal": 453,
+  "total": 570,
   "groups": [
     {
       "key": "inicio",
