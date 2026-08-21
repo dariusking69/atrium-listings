@@ -10016,48 +10016,6 @@
     "community": "Case Residences"
   },
   {
-    "id": 6117,
-    "uuid": "55a6026e-d715-411e-9852-229a20b16d30",
-    "address": "227 S Armenia Ave Unit 17, Tampa, FL 33609",
-    "street": "227 S Armenia Ave Unit 17",
-    "city": "Tampa",
-    "rent": "$1,849 - $1,915",
-    "rent_val": 1849,
-    "specs": "2 bd, 1 ba, 751 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 751,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/55a6026e-d715-411e-9852-229a20b16d30",
-    "lat": 27.9421021,
-    "lng": -82.4852802,
-    "title": "Case Residences | 2-Bedroom Flat in Palma Ceia, Tampa",
-    "description": "Spread out in Case Residences' two-bedroom, one-bath floor plan, offering 751 square feet of vinyl wood flooring, stainless steel appliances, and in-unit laundry. It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare. Beyond your front door, the gated community delivers a private pool, fire-pit lounge, outdoor grill kitchen, and bocce ball court, all within walking distance of Bayshore Boulevard and SoHo's restaurants and nightlife. Schedule a private tour today to see this two-bedroom home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,849 - $1,915 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,849 - $1,915",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f099205a-9fa0-454a-98e3-eef2e540b093/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=55a6026e-d715-411e-9852-229a20b16d30&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 591-4130",
-    "available": "NOW",
-    "zip": "33609",
-    "unit": "17",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "Case Residences"
-  },
-  {
     "id": 6116,
     "uuid": "c2642698-3800-47d5-b5aa-5c25473caaa3",
     "address": "227 S Armenia Ave Unit 16, Tampa, FL 33609",
@@ -13478,8 +13436,8 @@
   {
     "id": 5898,
     "uuid": "3a07fb57-5125-40f6-9b01-ea596c5abb0a",
-    "address": "2050 Old Clinton Rd Unit S1, Macon, GA 31211",
-    "street": "2050 Old Clinton Rd Unit S1",
+    "address": "2050 Old Clinton Rd Unit O8, Macon, GA 31211",
+    "street": "2050 Old Clinton Rd Unit O8",
     "city": "Macon",
     "rent": "$900",
     "rent_val": 900,
@@ -13524,7 +13482,7 @@
     "phone": "(478) 330-3584",
     "available": "NOW",
     "zip": "31211",
-    "unit": "S1",
+    "unit": "O8",
     "pg": "",
     "mf": true,
     "cg": [],

@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 50,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -424,19 +424,19 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 9,
+      "name": "The William at Westshore",
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
+      "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Case Residences",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
+      "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
       ]
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 50,
+      "count": 49,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Tampa",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Kissimmee",
@@ -1056,14 +1056,14 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 9,
+      "name": "The William at Westshore",
+      "count": 8,
       "cities": [
         "Tampa"
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Case Residences",
       "count": 8,
       "cities": [
         "Tampa"
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 451,
-  "total": 568,
+  "mfTotal": 450,
+  "total": 567,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 50
+      "listings": 49
     }
   ]
 }
