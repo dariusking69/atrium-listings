@@ -10260,49 +10260,6 @@
     "community": "Case Residences"
   },
   {
-    "id": 6104,
-    "uuid": "98f0a06d-d2fe-4266-866a-1b7b48985dd2",
-    "address": "5236 Lake Margaret Drive Unit # 236 - 0603, Orlando, FL 32812",
-    "street": "5236 Lake Margaret Drive Unit # 236 - 0603",
-    "city": "Orlando",
-    "rent": "$1,310",
-    "rent_val": 1310,
-    "specs": "1 bd, 1 ba, 780 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 780,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/98f0a06d-d2fe-4266-866a-1b7b48985dd2",
-    "lat": 28.5047079,
-    "lng": -81.3177041,
-    "title": "780 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,310 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 11/8/26",
-    "terms": [
-      "Rent: $1,310",
-      "Application Fee: $99",
-      "Available 11/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=98f0a06d-d2fe-4266-866a-1b7b48985dd2&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-1250",
-    "available": "11/8/26",
-    "zip": "32812",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Barber Park Apartments"
-  },
-  {
     "id": 6103,
     "uuid": "4b76dca0-43b3-42ba-9809-94e272882501",
     "address": "15 Cherry Laurel Ct Unit # 15-201, Winter Springs, FL 32708",

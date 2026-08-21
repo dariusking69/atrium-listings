@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 275,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -361,21 +361,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-1250",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 275,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -1007,17 +1007,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 14,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 13,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 13,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 570,
+  "mfTotal": 452,
+  "total": 569,
   "groups": [
     {
       "key": "inicio",
