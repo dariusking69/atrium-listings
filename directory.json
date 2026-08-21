@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 276,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-5868",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -225,9 +225,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 116,
+      "count": 117,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 553-3444",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -442,21 +442,21 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 276,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 112
     },
     {
       "name": "Richmond",
@@ -897,7 +897,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG2",
@@ -1070,17 +1070,17 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 6,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 449,
-  "total": 565,
+  "mfTotal": 450,
+  "total": 567,
   "groups": [
     {
       "key": "inicio",
