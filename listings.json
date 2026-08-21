@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e87019a1-5a46-4ae7-940a-b075301e99e5",
     "lat": 28.6937451,
     "lng": -81.3213736,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-5868",
     "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
     "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,600 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 11/3/26",
     "terms": [
@@ -48,6 +45,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e87019a1-5a46-4ae7-940a-b075301e99e5&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-5868",
     "available": "11/3/26",
     "zip": "32707",
     "unit": "",
@@ -3518,48 +3518,6 @@
     "mf": false,
     "cg": [],
     "community": "Atrium Management Company"
-  },
-  {
-    "id": 6354,
-    "uuid": "fb3d2746-3471-4f4c-a03e-496cad5ec4da",
-    "address": "6648 Mission Club Blvd # 08-305, Orlando, FL 32821",
-    "street": "6648 Mission Club Blvd # 08-305",
-    "city": "Orlando",
-    "rent": "$1,847",
-    "rent_val": 1847,
-    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 962,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/fb3d2746-3471-4f4c-a03e-496cad5ec4da",
-    "lat": 28.3868055,
-    "lng": -81.4715016,
-    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
-    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,847 \n\n\n\n\n Application Fee: $79",
-    "terms": [
-      "Rent: $1,847",
-      "Application Fee: $79"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=fb3d2746-3471-4f4c-a03e-496cad5ec4da&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Mission Club Apartments"
   },
   {
     "id": 6350,
@@ -9802,48 +9760,6 @@
     "available": "NOW",
     "zip": "33616",
     "unit": "206",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "The William at Westshore"
-  },
-  {
-    "id": 6125,
-    "uuid": "d763bf75-56bc-499d-ad02-f15da72a42d8",
-    "address": "6822 S Shamrock Rd Unit 205, Tampa, FL 33616",
-    "street": "6822 S Shamrock Rd Unit 205",
-    "city": "Tampa",
-    "rent": "$1,199",
-    "rent_val": 1199,
-    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 561,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d763bf75-56bc-499d-ad02-f15da72a42d8",
-    "lat": 27.8664817,
-    "lng": -82.52327,
-    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,199",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d763bf75-56bc-499d-ad02-f15da72a42d8&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 513-0814",
-    "available": "NOW",
-    "zip": "33616",
-    "unit": "205",
     "pg": "",
     "mf": true,
     "cg": [

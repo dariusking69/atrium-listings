@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 275,
+      "count": 274,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 50,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -415,15 +415,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -442,12 +433,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
+      "name": "The William at Westshore",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -457,6 +448,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 275,
+      "count": 274,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 50,
+      "count": 49,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Tampa",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Kissimmee",
@@ -1049,13 +1049,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 9,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "cities": [
@@ -1070,10 +1063,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
+      "name": "The William at Westshore",
+      "count": 8,
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -1081,6 +1074,13 @@
       "count": 7,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 451,
-  "total": 567,
+  "mfTotal": 449,
+  "total": 565,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 50
+      "listings": 49
     }
   ]
 }
