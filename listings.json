@@ -1,5 +1,48 @@
 [
   {
+    "id": 6472,
+    "uuid": "7ac51bae-034d-463a-a6b0-e3266afcc958",
+    "address": "480 N Terry Ave Unit 1308, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 1308",
+    "city": "Orlando",
+    "rent": "$1,880",
+    "rent_val": 1880,
+    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 726,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7ac51bae-034d-463a-a6b0-e3266afcc958",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
+    "title": "1 Bed 1 Bath Apartment in Creative Village \u2013 The Matisse",
+    "description": "1 Bed, 1 Bath, 726 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A one-bedroom with room to separate work from rest, plus a private patio or balcony.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,880 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 8/31/26",
+    "terms": [
+      "Rent: $1,880",
+      "Application Fee: $95",
+      "Available 8/31/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7ac51bae-034d-463a-a6b0-e3266afcc958&source=Website",
+    "available": "8/31/26",
+    "zip": "32801",
+    "unit": "1308",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Julian"
+  },
+  {
     "id": 6470,
     "uuid": "e6828297-428a-4c0f-9090-e5b3b3c29b83",
     "address": "5009 S West Shore Blvd Unit 43-5215, Tampa, FL 33611",
@@ -6951,8 +6994,8 @@
     "address": "3808 W El Prado Blvd Unit 12, Tampa, FL 33629",
     "street": "3808 W El Prado Blvd Unit 12",
     "city": "Tampa",
-    "rent": "$1,400",
-    "rent_val": 1400,
+    "rent": "$1,399",
+    "rent_val": 1399,
     "specs": "1 bd, 1 ba, 625 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
