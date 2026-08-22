@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6fdfe9e7-d90a-4d07-8cc0-6eec203bee0c",
     "lat": 28.5057959,
     "lng": -81.3163371,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-1250",
     "title": "Fairview",
     "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,350 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/20/26",
     "terms": [
@@ -45,6 +42,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6fdfe9e7-d90a-4d07-8cc0-6eec203bee0c&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 215-1250",
     "available": "10/20/26",
     "zip": "32812",
     "unit": "",
