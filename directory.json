@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 277,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -70,7 +70,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -225,7 +225,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 116,
+      "count": 117,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -308,7 +308,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 277,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -743,7 +743,7 @@
     },
     {
       "name": "Richmond",
-      "count": 73
+      "count": 72
     },
     {
       "name": "Tampa",
@@ -798,12 +798,12 @@
       "count": 8
     },
     {
-      "name": "Davenport",
+      "name": "Winter Garden",
       "count": 6
     },
     {
-      "name": "Winter Garden",
-      "count": 5
+      "name": "Davenport",
+      "count": 6
     },
     {
       "name": "Oxford",
@@ -897,7 +897,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 17
+      "count": 18
     },
     {
       "name": "PG2",
@@ -966,7 +966,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "cities": [
         "Richmond"
       ]
@@ -1210,7 +1210,7 @@
       ]
     }
   ],
-  "mfTotal": 448,
+  "mfTotal": 447,
   "total": 564,
   "groups": [
     {
