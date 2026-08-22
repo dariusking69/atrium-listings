@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 48,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -114,15 +114,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -138,6 +129,15 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -397,15 +397,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -424,12 +415,12 @@
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Renaissance at Strawberry Creek Apartments",
       "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
       "cities": [
-        "Tampa"
+        "Jacksonville"
       ]
     },
     {
@@ -448,6 +439,15 @@
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 49,
+      "count": 48,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -716,7 +716,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 9,
+      "count": 8,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -747,7 +747,7 @@
     },
     {
       "name": "Tampa",
-      "count": 61
+      "count": 60
     },
     {
       "name": "Kissimmee",
@@ -783,7 +783,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 15
+      "count": 14
     },
     {
       "name": "Lakeland",
@@ -1035,13 +1035,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 9,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 9,
       "cities": [
@@ -1056,10 +1049,10 @@
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Renaissance at Strawberry Creek Apartments",
       "count": 8,
       "cities": [
-        "Tampa"
+        "Jacksonville"
       ]
     },
     {
@@ -1074,6 +1067,13 @@
       "count": 7,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 7,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 450,
-  "total": 566,
+  "mfTotal": 448,
+  "total": 564,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 49
+      "listings": 48
     }
   ]
 }
