@@ -61,7 +61,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 36,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -271,21 +271,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 36,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 34,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 55
+      "count": 53
     },
     {
       "name": "Winter Springs",
@@ -937,17 +937,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 36,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 35,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 34,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 445,
-  "total": 560,
+  "mfTotal": 443,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
