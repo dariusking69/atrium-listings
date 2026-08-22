@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 274,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 48,
+      "count": 47,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -225,7 +225,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 117,
+      "count": 115,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -316,15 +316,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -340,6 +331,15 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 276,
+      "count": 274,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -682,7 +682,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 48,
+      "count": 47,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Tampa",
-      "count": 60
+      "count": 59
     },
     {
       "name": "Kissimmee",
@@ -798,16 +798,16 @@
       "count": 8
     },
     {
-      "name": "Winter Garden",
-      "count": 6
-    },
-    {
       "name": "Davenport",
       "count": 6
     },
     {
       "name": "Oxford",
       "count": 5
+    },
+    {
+      "name": "Winter Garden",
+      "count": 4
     },
     {
       "name": "Apopka",
@@ -897,7 +897,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 18
+      "count": 16
     },
     {
       "name": "PG2",
@@ -972,13 +972,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 21,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "cities": [
@@ -990,6 +983,13 @@
       "count": 21,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 20,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 446,
-  "total": 563,
+  "mfTotal": 445,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1226,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 48
+      "listings": 47
     }
   ]
 }
