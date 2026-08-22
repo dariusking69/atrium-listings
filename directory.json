@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 277,
+      "count": 276,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -271,21 +271,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 36,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 35,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 277,
+      "count": 276,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Gainesville",
@@ -937,17 +937,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 36,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 36,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 35,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 447,
-  "total": 564,
+  "mfTotal": 446,
+  "total": 563,
   "groups": [
     {
       "key": "inicio",
