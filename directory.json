@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 273,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -353,7 +353,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 273,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -775,7 +775,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Winter Park",
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Casselberry"
       ]
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 558,
+  "mfTotal": 442,
+  "total": 557,
   "groups": [
     {
       "key": "inicio",
