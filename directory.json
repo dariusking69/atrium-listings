@@ -4,7 +4,7 @@
       "name": "Atrium Management Company",
       "count": 272,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(689) 300-6288",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -299,7 +299,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -388,6 +388,15 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -403,15 +412,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -774,12 +774,12 @@
       "count": 17
     },
     {
-      "name": "Casselberry",
+      "name": "Winter Park",
       "count": 15
     },
     {
-      "name": "Winter Park",
-      "count": 14
+      "name": "Casselberry",
+      "count": 15
     },
     {
       "name": "Jacksonville",
@@ -959,7 +959,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 25,
+      "count": 24,
       "cities": [
         "Orlando"
       ]
@@ -1028,6 +1028,13 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "cities": [
@@ -1039,13 +1046,6 @@
       "count": 9,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 8,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
