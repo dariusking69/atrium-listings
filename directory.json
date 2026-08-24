@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 269,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -61,7 +61,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -281,7 +281,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -371,7 +371,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -478,15 +478,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(352) 268-6987",
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -520,6 +511,15 @@
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Keys at Wildwood",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(352) 268-6987",
+      "cities": [
+        "Oxford"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 269,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 109
+      "count": 108
     },
     {
       "name": "Richmond",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 57
+      "count": 56
     },
     {
       "name": "Winter Springs",
@@ -802,15 +802,15 @@
       "count": 6
     },
     {
-      "name": "Oxford",
-      "count": 5
-    },
-    {
       "name": "St. Cloud",
       "count": 5
     },
     {
       "name": "Apopka",
+      "count": 4
+    },
+    {
+      "name": "Oxford",
       "count": 4
     },
     {
@@ -945,7 +945,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Kissimmee"
       ]
@@ -1015,7 +1015,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Orlando"
       ]
@@ -1098,13 +1098,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 5,
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 5,
       "cities": [
@@ -1130,6 +1123,13 @@
       "count": 4,
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Keys at Wildwood",
+      "count": 4,
+      "cities": [
+        "Oxford"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 445,
-  "total": 560,
+  "mfTotal": 442,
+  "total": 557,
   "groups": [
     {
       "key": "inicio",
