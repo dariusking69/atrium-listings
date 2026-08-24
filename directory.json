@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 268,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -23,7 +23,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -43,7 +42,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 47,
+      "count": 46,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -225,7 +224,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 115,
+      "count": 114,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -244,7 +243,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -298,21 +296,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -424,19 +422,19 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 8,
+      "name": "The William at Westshore",
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
+      "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Case Residences",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
+      "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
       ]
@@ -625,7 +623,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 268,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -662,7 +660,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -682,7 +679,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 47,
+      "count": 46,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -739,7 +736,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 106
+      "count": 105
     },
     {
       "name": "Richmond",
@@ -747,7 +744,7 @@
     },
     {
       "name": "Tampa",
-      "count": 59
+      "count": 58
     },
     {
       "name": "Kissimmee",
@@ -882,10 +879,6 @@
       "count": 1
     },
     {
-      "name": "Maitland",
-      "count": 1
-    },
-    {
       "name": "Wimauma",
       "count": 1
     },
@@ -901,7 +894,7 @@
     },
     {
       "name": "PG2",
-      "count": 21
+      "count": 20
     },
     {
       "name": "PG3",
@@ -958,17 +951,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 24,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 24,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1056,14 +1049,14 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 8,
+      "name": "The William at Westshore",
+      "count": 7,
       "cities": [
         "Tampa"
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "Case Residences",
       "count": 7,
       "cities": [
         "Tampa"
@@ -1210,8 +1203,8 @@
       ]
     }
   ],
-  "mfTotal": 441,
-  "total": 556,
+  "mfTotal": 439,
+  "total": 553,
   "groups": [
     {
       "key": "inicio",
@@ -1226,7 +1219,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 47
+      "listings": 46
     }
   ]
 }
