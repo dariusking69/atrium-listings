@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 271,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-5868",
+      "phone": "(689) 215-0818",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -52,7 +52,7 @@
     },
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -263,7 +263,7 @@
     },
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -272,7 +272,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -298,21 +298,21 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 271,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Gainesville",
@@ -931,14 +931,14 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 38,
+      "count": 37,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -958,17 +958,17 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 24,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 24,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 23,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 442,
-  "total": 557,
+  "mfTotal": 443,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
