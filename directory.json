@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -433,15 +433,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -457,6 +448,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -1063,13 +1063,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 7,
       "cities": [
@@ -1081,6 +1074,13 @@
       "count": 7,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 442,
-  "total": 557,
+  "mfTotal": 441,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
