@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 271,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
+      "phone": "(689) 300-5868",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -352,6 +352,15 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -367,15 +376,6 @@
       "phone": "(689) 215-1250",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 271,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -770,15 +770,15 @@
       "count": 21
     },
     {
+      "name": "Casselberry",
+      "count": 17
+    },
+    {
       "name": "Sandston",
       "count": 17
     },
     {
       "name": "Winter Park",
-      "count": 15
-    },
-    {
-      "name": "Casselberry",
       "count": 15
     },
     {
@@ -1000,6 +1000,13 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 17,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 17,
       "cities": [
@@ -1011,13 +1018,6 @@
       "count": 15,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 15,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 558,
+  "mfTotal": 445,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
