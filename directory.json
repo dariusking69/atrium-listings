@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 270,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -96,21 +96,21 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -343,6 +343,15 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -367,15 +376,6 @@
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -451,21 +451,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 270,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -706,7 +706,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 13,
+      "count": 18,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 52
+      "count": 57
     },
     {
       "name": "Winter Springs",
@@ -993,6 +993,13 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 18,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 17,
       "cities": [
@@ -1011,13 +1018,6 @@
       "count": 15,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 13,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1077,17 +1077,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 6,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 440,
-  "total": 555,
+  "mfTotal": 444,
+  "total": 559,
   "groups": [
     {
       "key": "inicio",

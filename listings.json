@@ -1,5 +1,51 @@
 [
   {
+    "id": 6477,
+    "uuid": "36be7e74-912a-4ccd-993a-9bff7012aa5b",
+    "address": "1540 Neo Landings Loop, Unit 402, Kissimmee, FL 34744",
+    "street": "1540 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,020",
+    "rent_val": 2020,
+    "specs": "2 bd, 2 ba, 1,309 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1309,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/36be7e74-912a-4ccd-993a-9bff7012aa5b",
+    "lat": 28.3064464,
+    "lng": -81.3869467,
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
+    "title": "Aston Square- Spacious 2 Bedroom apartment with a Den",
+    "description": "This contemporary apartment boasts elegant vinyl plank flooring, sleek stainless steel appliances, and sophisticated quartz countertops.\r\n\r\nIndulge in resort-style amenities, including a sparkling pool, a 24/7 state-of-the-art fitness center, and an exclusive top-floor media lounge with a rooftop deck.\r\n\r\nDesigned for both comfort and functionality, the custom walk-in closets offer generous storage, while the screened-in patio provides a serene outdoor retreat.\r\n\r\nEnhance your productivity in the modern co-working space and business lounge, featuring private work pods. Additional conveniences such as electric vehicle charging stations, secure package lockers, and oversized storage units ensure a seamless living experience.\r\n\r\nDiscover the pinnacle of luxury living in this exceptional apartment.\r\n\r\nWe look forward to welcoming you\u2014contact us today to join our tour waitlist!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
+    "terms": [
+      "Rent: $2,020",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 11/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/1d89fc1d-097b-41ee-8107-e74ffc610f16/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/bc4d3599-c825-4d29-b916-1c75696f8fbe/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/ad282c78-a46c-48aa-86d8-c94e1919f8e7/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=36be7e74-912a-4ccd-993a-9bff7012aa5b&source=Website",
+    "available": "11/10/26",
+    "zip": "34744",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Aston Square Apartments"
+  },
+  {
     "id": 6476,
     "uuid": "84cb9546-530e-4478-8dfb-4bd9149dddb1",
     "address": "3440 N. Goldenrod Road Unit # 411, Winter Park, FL 32792",
@@ -1808,48 +1854,6 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9211c641-ef67-4f53-9078-13b1cdc4cd4c&source=Website",
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Mission Club Apartments"
-  },
-  {
-    "id": 6425,
-    "uuid": "4fcbff97-e460-432f-9ab5-9dff5ead735a",
-    "address": "6715 Mission Club Blvd # 02-105, Orlando, FL 32821",
-    "street": "6715 Mission Club Blvd # 02-105",
-    "city": "Orlando",
-    "rent": "$1,968",
-    "rent_val": 1968,
-    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 962,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4fcbff97-e460-432f-9ab5-9dff5ead735a",
-    "lat": 28.386396,
-    "lng": -81.4726922,
-    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
-    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,968 \n\n\n\n\n Application Fee: $79",
-    "terms": [
-      "Rent: $1,968",
-      "Application Fee: $79"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4fcbff97-e460-432f-9ab5-9dff5ead735a&source=Website",
     "property": "Atrium Management Company",
     "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
     "phone": "(689) 215-0812",
@@ -8264,8 +8268,8 @@
     "address": "12837 Madison Pointe Circle #206, Orlando, FL 32821",
     "street": "12837 Madison Pointe Circle #206",
     "city": "Orlando",
-    "rent": "$1,395",
-    "rent_val": 1395,
+    "rent": "$1,300",
+    "rent_val": 1300,
     "specs": "1 bd, 1 ba, 696 Sq. Ft.",
     "beds": 1.0,
     "baths": 1.0,
@@ -8326,9 +8330,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0b399d13-6409-4b56-bb0e-819a23b2628c",
     "lat": 28.556611,
     "lng": -81.264417,
-    "property": "Valencia Isle",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-    "phone": "(689) 219-7477",
     "title": "The Reagan - 4 Bedroom Townhome Available!",
     "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of townhome living at Valencia Isle. This Beautifully Constructed Townhome Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 and 408. This Community is conveniently located just North of Valencia College East Campus. \r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,838 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 8/31/26",
     "terms": [
@@ -8354,6 +8355,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0b399d13-6409-4b56-bb0e-819a23b2628c&source=Website",
+    "property": "Valencia Isle",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+    "phone": "(689) 219-7477",
     "available": "8/31/26",
     "zip": "32825",
     "unit": "",
@@ -20161,6 +20165,50 @@
     "community": "Sutton Fields"
   },
   {
+    "id": 4007,
+    "uuid": "aa69958b-f7dc-4387-a0a2-dfb592113130",
+    "address": "1540 Neo Landings Loop, Unit 407, Kissimmee, FL 34744",
+    "street": "1540 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,020",
+    "rent_val": 2020,
+    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1132,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa69958b-f7dc-4387-a0a2-dfb592113130",
+    "lat": 28.3064464,
+    "lng": -81.3869467,
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
+    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
+    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
+    "terms": [
+      "Rent: $2,020",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 11/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa69958b-f7dc-4387-a0a2-dfb592113130&source=Website",
+    "available": "11/10/26",
+    "zip": "34744",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Aston Square Apartments"
+  },
+  {
     "id": 3996,
     "uuid": "c6511d33-3212-4c09-8a45-9351fcd4ddf0",
     "address": "3251 Overstreet East #225, Kissimmee, FL 34747",
@@ -20690,6 +20738,50 @@
     "mf": true,
     "cg": [],
     "community": "Coliseum Lofts"
+  },
+  {
+    "id": 3776,
+    "uuid": "33036c74-87c2-4615-b8ff-86442671b978",
+    "address": "1540 Neo Landings Loop, Unit 112, Kissimmee, FL 34744",
+    "street": "1540 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$1,765",
+    "rent_val": 1765,
+    "specs": "1 bd, 1 ba, 780 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 780,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/7e2581f6-6e5f-4a59-93f0-a6135819979b/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/33036c74-87c2-4615-b8ff-86442671b978",
+    "lat": 28.3064464,
+    "lng": -81.3869467,
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
+    "title": "Aston Square- One Bedroom with Extended Patio",
+    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nDiscover the pinnacle of comfort and style with our One-Bedroom Apartment with Extended Patio at Aston Square Luxury Apartments. Designed for modern living, this elegant residence offers a seamless blend of sophistication and convenience.\r\n\r\nEnjoy resort-style amenities, including a sparkling pool, top-of-the-line stainless steel appliances, and spacious walk-in custom closets. Keyless entry, electric vehicle charging stations, and package lockers add to the ease of everyday life.\r\n\r\nUnwind on the expansive sun deck or relax in the spa-inspired soaking tubs. Stay productive in the dedicated co-working space or the top-floor media lounge with a rooftop deck, offering stunning views.\r\n\r\nThe apartment features premium finishes such as vinyl plank flooring, quartz countertops, and interactive thermostats, ensuring both style and functionality. A 24/7 fitness center, business lounge with private work pods, and oversized storage units further enhance your living experience.\r\n\r\nLive the lifestyle you deserve in our exclusive luxury apartment community. Contact us today to schedule a tour and make this exceptional residence your new home.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,765 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
+    "terms": [
+      "Rent: $1,765",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 11/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/7e2581f6-6e5f-4a59-93f0-a6135819979b/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=33036c74-87c2-4615-b8ff-86442671b978&source=Website",
+    "available": "11/10/26",
+    "zip": "34744",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3755,
@@ -21389,6 +21481,50 @@
     "mf": false,
     "cg": [],
     "community": "Atrium Management Company"
+  },
+  {
+    "id": 3566,
+    "uuid": "cdcdff97-d3bb-46e3-a6d5-57381e073dc4",
+    "address": "1520 Neo Landings Loop, Unit 305, Kissimmee, FL 34744",
+    "street": "1520 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$2,020",
+    "rent_val": 2020,
+    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 1132,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cdcdff97-d3bb-46e3-a6d5-57381e073dc4",
+    "lat": 28.3056952,
+    "lng": -81.3869162,
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
+    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
+    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 9/10/26",
+    "terms": [
+      "Rent: $2,020",
+      "Application Fee: $99",
+      "Security Deposit: $500",
+      "Available 9/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cdcdff97-d3bb-46e3-a6d5-57381e073dc4&source=Website",
+    "available": "9/10/26",
+    "zip": "34744",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Aston Square Apartments"
   },
   {
     "id": 3561,
@@ -22937,6 +23073,49 @@
     "community": "Champions Village"
   },
   {
+    "id": 3154,
+    "uuid": "9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f",
+    "address": "1580 Neo Landings Loop, Unit 318, Kissimmee, FL 34744",
+    "street": "1580 Neo Landings Loop",
+    "city": "Kissimmee",
+    "rent": "$1,795",
+    "rent_val": 1795,
+    "specs": "1 bd, 1 ba, 774 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 774,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f",
+    "lat": 28.3055848,
+    "lng": -81.3865496,
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
+    "title": "Aston Square- Cozy one Bedroom Luxury Apartment",
+    "description": "Discover Luxurious Living in the Heart of Historic Downtown Kissimmee, FL\r\n\r\nWelcome to Aston Square Luxury Apartments, the newest upscale community designed to elevate your lifestyle. Our cozy one-bedroom luxury apartment offers a perfect blend of modern elegance and comfort, ensuring an unparalleled living experience.\r\n\r\nThis thoughtfully designed apartment features a resort-style pool, stylish vinyl plank flooring, stainless steel appliances, spacious walk-in custom closets, keyless entry, and an expansive sun deck for outdoor relaxation.\r\n\r\nResidents can enjoy top-floor amenities, including a media lounge with a rooftop deck, a dedicated co-working space, package lockers, and electric vehicle charging stations. The 24/7 state-of-the-art fitness center allows you to stay active, while the private business lounge with work pods provides a productive environment.\r\n\r\nInside, the modern kitchen boasts quartz countertops and kitchen islands, while the spa-inspired bathroom includes soaking tubs. Smart thermostats ensure personalized climate control, and screened-in patios add an extra layer of comfort. Oversized storage units are also available to accommodate your belongings.\r\n\r\nIdeally located near Walt Disney World, The Loop Town Center, and major highways, Aston Square by Kimaya offers seamless access to premier entertainment, shopping, and dining destinations.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500",
+    "terms": [
+      "Rent: $1,795",
+      "Application Fee: $99",
+      "Security Deposit: $500"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f&source=Website",
+    "available": "NOW",
+    "zip": "34744",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Aston Square Apartments"
+  },
+  {
     "id": 3138,
     "uuid": "d462c59c-caed-4ea6-93fc-be6d19730a24",
     "address": "1580 Neo Landings Loop, Unit 214, Kissimmee, FL 34744",
@@ -23194,9 +23373,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c477b1e3-82de-4a44-a980-5e4984c22d03",
     "lat": 28.31461,
     "lng": -81.24008,
-    "property": "Sutton Fields",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-    "phone": "(689) 210-4518",
     "title": "Sutton Fields - NEWLY CONSTRUCTED TOWNHOMES FOR RENT!!",
     "description": "*Qualifying special is reflected in rate shown*\r\n\r\nExperience the best of townhome living at Sutton Fields. This Brand-New Community offers a convenient location that puts you just minutes away from shopping, dining, and entertainment options. With easy access to major highways such as the SR-417 full intersection. Providing a direct route to I4 and downtown Orlando.\r\n\r\nThese townhomes have it all! There are 9 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nOur playground is the perfect spot for children to burn off some energy and make new friends. And for our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,750 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $500 \n\n\n Available 11/13/26",
     "terms": [
@@ -23218,6 +23394,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c477b1e3-82de-4a44-a980-5e4984c22d03&source=Website",
+    "property": "Sutton Fields",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+    "phone": "(689) 210-4518",
     "available": "11/13/26",
     "zip": "34771",
     "unit": "",
@@ -25013,9 +25192,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/12dfa3c3-61e1-4d8b-8544-c20fecfa33a5",
     "lat": 28.6101328,
     "lng": -80.8142696,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(407) 243-8937",
     "title": "2 Bedrooms 1 Bath Titusville Duplex",
     "description": "This duplex has 2 bedrooms and 1 bathroom. Spacious Living Dining Combo Area. Nice size bedrooms. Laundry hook-up. Available for April 2023 Move In. Conveniently located to shopping, restaurants and more. Zoned for Mims Elementary School, and Astronaut High School. Pets are negotiable, 25lbs or less. \r\n\r\nINTERNET SERVICE, PEST CONTROL, LAWN MAINTENANCE, HVAC Filter & RENTER'S INSURANCE Included!!\r\n\r\nApplication fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult. Pets are negotiable per owner approval. This property is professionally managed by Atrium Management. Please call or text 321-549.0284 to schedule your private showing! AVAILABLE NOW!!!\r\n\r\n**RESIDENT BENEFIT PACKAGE INCLUDED** All Atrium Property Management residents are enrolled in the Resident Benefits Package which includes HVAC air filter delivery (for applicable properties), pest control services, renter's insurance, credit building to help boost your credit score with timely rent payments, $1M Identity Protection, utility concierge service making utility connection a breeze during your move-in, our best-in-class resident rewards program, and much more!\r\n\r\nPLEASE NOTE:\r\nA \"Pet Screening Affidavit\" must be completed for ALL applicants.\r\nPet screenings, affidavits, and/or applications are located online at https://app.petscreening.com \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,375 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,200 \n\n\n Available Now",
     "terms": [
@@ -25039,6 +25215,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=12dfa3c3-61e1-4d8b-8544-c20fecfa33a5&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(407) 243-8937",
     "available": "NOW",
     "zip": "32796",
     "unit": "",
