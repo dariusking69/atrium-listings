@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 273,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(689) 215-1250",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -204,21 +204,21 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
       "phone": "(703) 420-3619",
       "cities": [
         "Triangle"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     }
   ],
@@ -352,21 +352,21 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-1250",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -541,6 +541,15 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -565,15 +574,6 @@
       "phone": "(703) 420-3619",
       "cities": [
         "Triangle"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 273,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -739,7 +739,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -814,11 +814,11 @@
       "count": 4
     },
     {
-      "name": "Sanford",
-      "count": 3
+      "name": "St. Cloud",
+      "count": 4
     },
     {
-      "name": "St. Cloud",
+      "name": "Sanford",
       "count": 3
     },
     {
@@ -1000,17 +1000,17 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 15,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 15,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 14,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1147,6 +1147,13 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 3,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "cities": [
@@ -1165,13 +1172,6 @@
       "count": 2,
       "cities": [
         "Triangle"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 2,
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 441,
-  "total": 556,
+  "mfTotal": 443,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
