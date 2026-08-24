@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -97,7 +97,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -344,7 +344,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -388,15 +388,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -412,6 +403,15 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -625,7 +625,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 272,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -771,7 +771,7 @@
     },
     {
       "name": "Sandston",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Casselberry",
@@ -779,7 +779,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 15
+      "count": 14
     },
     {
       "name": "Jacksonville",
@@ -994,7 +994,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Sandston"
       ]
@@ -1028,13 +1028,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 9,
       "cities": [
@@ -1046,6 +1039,13 @@
       "count": 9,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 8,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1210,8 +1210,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 558,
+  "mfTotal": 441,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
