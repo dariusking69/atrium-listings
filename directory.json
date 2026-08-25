@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 267,
+      "count": 269,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
+      "phone": "(689) 215-1250",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -140,21 +140,21 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -260,21 +260,21 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 36,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 35,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -422,15 +422,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -455,6 +446,15 @@
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -623,7 +623,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 267,
+      "count": 269,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -740,7 +740,7 @@
     },
     {
       "name": "Richmond",
-      "count": 72
+      "count": 71
     },
     {
       "name": "Kissimmee",
@@ -752,11 +752,11 @@
     },
     {
       "name": "Winter Springs",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Gainesville",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Deltona",
@@ -890,7 +890,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG2",
@@ -902,7 +902,7 @@
     },
     {
       "name": "PG4",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG5",
@@ -923,17 +923,17 @@
   ],
   "mfProperties": [
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 36,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 36,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 35,
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 14,
+      "count": 15,
       "cities": [
         "Orlando"
       ]
@@ -1049,13 +1049,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
@@ -1074,6 +1067,13 @@
       "count": 6,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1203,8 +1203,8 @@
       ]
     }
   ],
-  "mfTotal": 437,
-  "total": 550,
+  "mfTotal": 438,
+  "total": 551,
   "groups": [
     {
       "key": "inicio",
