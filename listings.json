@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b9de5fbd-db72-4b56-96b7-4de5cdb159aa",
     "lat": 37.5662879,
     "lng": -77.4734839,
-    "property": "The Nest",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-    "phone": "(804) 409-4983",
     "title": "The Sanctuary",
     "description": "Rental Terms \n \n Rent: $2,148 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 12/31/26",
     "terms": [
@@ -35,6 +32,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b9de5fbd-db72-4b56-96b7-4de5cdb159aa&source=Website",
+    "property": "The Nest",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+    "phone": "(804) 409-4983",
     "available": "12/31/26",
     "zip": "23230",
     "unit": "",
