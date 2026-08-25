@@ -78,7 +78,7 @@
     },
     {
       "name": "The Nest",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -306,7 +306,7 @@
     },
     {
       "name": "The Nest",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -740,7 +740,7 @@
     },
     {
       "name": "Richmond",
-      "count": 72
+      "count": 73
     },
     {
       "name": "Tampa",
@@ -959,7 +959,7 @@
     },
     {
       "name": "The Nest",
-      "count": 22,
+      "count": 23,
       "cities": [
         "Richmond"
       ]
@@ -1203,8 +1203,8 @@
       ]
     }
   ],
-  "mfTotal": 435,
-  "total": 553,
+  "mfTotal": 436,
+  "total": 554,
   "groups": [
     {
       "key": "inicio",

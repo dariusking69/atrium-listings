@@ -1,5 +1,49 @@
 [
   {
+    "id": 6487,
+    "uuid": "b9de5fbd-db72-4b56-96b7-4de5cdb159aa",
+    "address": "3113 W. Marshall Street #415, Richmond, VA 23230",
+    "street": "3113 W. Marshall Street #415",
+    "city": "Richmond",
+    "rent": "$2,148",
+    "rent_val": 2148,
+    "specs": "2 bd, 2 ba, 970 Sq. Ft.",
+    "beds": 2.0,
+    "baths": 2.0,
+    "sqft": 970,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9f47b31d-a07c-4b5f-901d-eb457d202b4f/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b9de5fbd-db72-4b56-96b7-4de5cdb159aa",
+    "lat": 37.5662879,
+    "lng": -77.4734839,
+    "property": "The Nest",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+    "phone": "(804) 409-4983",
+    "title": "The Sanctuary",
+    "description": "Rental Terms \n \n Rent: $2,148 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 12/31/26",
+    "terms": [
+      "Rent: $2,148",
+      "Application Fee: $50",
+      "Security Deposit: $500",
+      "Available 12/31/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/9f47b31d-a07c-4b5f-901d-eb457d202b4f/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b9de5fbd-db72-4b56-96b7-4de5cdb159aa&source=Website",
+    "available": "12/31/26",
+    "zip": "23230",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Nest"
+  },
+  {
     "id": 6485,
     "uuid": "c67a8b34-63a6-4dfc-9f20-16408133f532",
     "address": "3113 W. Marshall Street #406, Richmond, VA 23230",
@@ -19779,9 +19823,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/468aa753-8966-492a-a707-0aa6fa4c0ebc",
     "lat": 28.7001093,
     "lng": -81.3224689,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(689) 300-4121",
     "title": "Experience resort-style living at The Avenues at Winter Springs!",
     "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,163 - $1,212 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,316 \n\n\n Available 9/2/26",
     "terms": [
@@ -19810,6 +19851,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=468aa753-8966-492a-a707-0aa6fa4c0ebc&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(689) 300-4121",
     "available": "9/2/26",
     "zip": "32708",
     "unit": "",
