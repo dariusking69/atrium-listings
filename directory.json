@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 274,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -42,7 +42,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 44,
+      "count": 43,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -270,7 +270,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -440,15 +440,6 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -464,6 +455,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -623,7 +623,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 273,
+      "count": 274,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -679,7 +679,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 44,
+      "count": 43,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -744,7 +744,7 @@
     },
     {
       "name": "Tampa",
-      "count": 56
+      "count": 55
     },
     {
       "name": "Kissimmee",
@@ -756,7 +756,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Deltona",
@@ -931,7 +931,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1063,13 +1063,6 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 6,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 6,
       "cities": [
@@ -1081,6 +1074,13 @@
       "count": 5,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 5,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1219,7 +1219,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 44
+      "listings": 43
     }
   ]
 }
