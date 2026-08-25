@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 273,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -60,7 +60,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 32,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -224,7 +224,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 113,
+      "count": 115,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -278,21 +278,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 32,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -341,21 +341,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-1250",
       "cities": [
@@ -623,7 +623,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 273,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -736,19 +736,19 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 104
+      "count": 106
     },
     {
       "name": "Richmond",
       "count": 71
     },
     {
-      "name": "Kissimmee",
+      "name": "Tampa",
       "count": 56
     },
     {
-      "name": "Tampa",
-      "count": 56
+      "name": "Kissimmee",
+      "count": 52
     },
     {
       "name": "Winter Springs",
@@ -768,7 +768,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Sandston",
@@ -811,6 +811,10 @@
       "count": 4
     },
     {
+      "name": "Belleview",
+      "count": 4
+    },
+    {
       "name": "Winter Garden",
       "count": 3
     },
@@ -820,10 +824,6 @@
     },
     {
       "name": "Sanford",
-      "count": 3
-    },
-    {
-      "name": "Belleview",
       "count": 3
     },
     {
@@ -890,7 +890,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG2",
@@ -902,7 +902,7 @@
     },
     {
       "name": "PG4",
-      "count": 17
+      "count": 18
     },
     {
       "name": "PG5",
@@ -937,17 +937,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 32,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 28,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -986,17 +986,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 18,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 17,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -1203,7 +1203,7 @@
       ]
     }
   ],
-  "mfTotal": 438,
+  "mfTotal": 436,
   "total": 551,
   "groups": [
     {
