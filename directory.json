@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 267,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -224,7 +224,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 114,
+      "count": 113,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -623,7 +623,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 267,
       "communities": [
         "Atrium Management Company",
         "Avenues of Baldwin Park",
@@ -736,7 +736,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 105
+      "count": 104
     },
     {
       "name": "Richmond",
@@ -910,7 +910,7 @@
     },
     {
       "name": "PG7",
-      "count": 5
+      "count": 4
     },
     {
       "name": "PG8",
@@ -1204,7 +1204,7 @@
     }
   ],
   "mfTotal": 437,
-  "total": 551,
+  "total": 550,
   "groups": [
     {
       "key": "inicio",
