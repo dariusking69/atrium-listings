@@ -42,7 +42,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 46,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -422,24 +422,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
-      "name": "Case Residences",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -455,6 +437,24 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -679,7 +679,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 46,
+      "count": 44,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -743,11 +743,11 @@
       "count": 72
     },
     {
-      "name": "Tampa",
-      "count": 58
+      "name": "Kissimmee",
+      "count": 56
     },
     {
-      "name": "Kissimmee",
+      "name": "Tampa",
       "count": 56
     },
     {
@@ -1049,20 +1049,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 7,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
-      "name": "Case Residences",
-      "count": 7,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
@@ -1074,6 +1060,20 @@
       "count": 6,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 6,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 6,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1203,8 +1203,8 @@
       ]
     }
   ],
-  "mfTotal": 439,
-  "total": 553,
+  "mfTotal": 437,
+  "total": 551,
   "groups": [
     {
       "key": "inicio",
@@ -1219,7 +1219,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 46
+      "listings": 44
     }
   ]
 }
