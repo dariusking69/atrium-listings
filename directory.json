@@ -78,7 +78,7 @@
     },
     {
       "name": "The Nest",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -224,7 +224,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 116,
+      "count": 117,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -305,21 +305,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -740,7 +740,7 @@
     },
     {
       "name": "Richmond",
-      "count": 71
+      "count": 72
     },
     {
       "name": "Tampa",
@@ -910,7 +910,7 @@
     },
     {
       "name": "PG7",
-      "count": 4
+      "count": 5
     },
     {
       "name": "PG8",
@@ -958,17 +958,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "The Nest",
       "count": 22,
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
-      "name": "The Nest",
+      "name": "Avenues of Baldwin Park",
       "count": 21,
       "cities": [
-        "Richmond"
+        "Orlando"
       ]
     },
     {
@@ -1204,7 +1204,7 @@
     }
   ],
   "mfTotal": 435,
-  "total": 551,
+  "total": 552,
   "groups": [
     {
       "key": "inicio",
