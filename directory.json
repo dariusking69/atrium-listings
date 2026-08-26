@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 171,
+      "count": 172,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -223,7 +223,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 119,
+      "count": 120,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -622,7 +622,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 171,
+      "count": 172,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -728,7 +728,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 109
     },
     {
       "name": "Richmond",
@@ -890,7 +890,7 @@
     },
     {
       "name": "PG3",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG4",
@@ -1196,7 +1196,7 @@
     }
   ],
   "mfTotal": 441,
-  "total": 560,
+  "total": 561,
   "groups": [
     {
       "key": "inicio",
