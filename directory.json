@@ -112,6 +112,15 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -127,15 +136,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -385,6 +385,15 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 9,
       "logo": "",
@@ -409,15 +418,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 8,
+      "count": 10,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -767,12 +767,12 @@
       "count": 17
     },
     {
-      "name": "Winter Park",
+      "name": "Jacksonville",
       "count": 15
     },
     {
-      "name": "Jacksonville",
-      "count": 13
+      "name": "Winter Park",
+      "count": 15
     },
     {
       "name": "Lakeland",
@@ -1013,6 +1013,13 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 10,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 9,
       "cities": [
@@ -1031,13 +1038,6 @@
       "count": 9,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -1195,8 +1195,8 @@
       ]
     }
   ],
-  "mfTotal": 436,
-  "total": 554,
+  "mfTotal": 438,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
