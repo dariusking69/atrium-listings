@@ -2,15 +2,14 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 170,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
         "Auburndale",
         "Belleview",
-        "Casselberry",
         "Charlottesville",
         "Clearwater",
         "Daytona Beach",
@@ -271,8 +270,8 @@
     {
       "name": "The Avenues at Winter Springs",
       "count": 35,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-4121",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Winter Springs"
       ]
@@ -316,8 +315,8 @@
     {
       "name": "Avenues of Baldwin Park",
       "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0818",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Orlando"
       ]
@@ -343,8 +342,8 @@
     {
       "name": "Reserve at Lake Irene",
       "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-5868",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Casselberry"
       ]
@@ -370,8 +369,8 @@
     {
       "name": "Barber Park Apartments",
       "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-1250",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Orlando"
       ]
@@ -388,8 +387,8 @@
     {
       "name": "Cranes Landing Apartments",
       "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 300-6288",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Winter Park"
       ]
@@ -496,8 +495,8 @@
     {
       "name": "Mission Club Apartments",
       "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(689) 215-0812",
+      "logo": "",
+      "phone": "",
       "cities": [
         "Orlando"
       ]
@@ -623,19 +622,13 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 274,
+      "count": 170,
       "communities": [
         "Atrium Management Company",
-        "Avenues of Baldwin Park",
-        "Barber Park Apartments",
         "Cardinal Village",
-        "Cranes Landing Apartments",
         "Hammocks off Newberry",
         "Janie B Apartments",
         "Keys at Wildwood",
-        "Mission Club Apartments",
-        "Reserve at Lake Irene",
-        "The Avenues at Winter Springs",
         "The Hammocks by Butler",
         "The Hammocks off 6th",
         "The Hammocks on 20th",
@@ -647,7 +640,6 @@
         "Apopka",
         "Auburndale",
         "Belleview",
-        "Casselberry",
         "Charlottesville",
         "Clearwater",
         "Daytona Beach",

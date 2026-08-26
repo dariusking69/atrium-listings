@@ -42,7 +42,7 @@
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/c9deaf89-f029-4303-8274-9fc801b7a2d8/large.jpg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c9deaf89-f029-4303-8274-9fc801b7a2d8/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/c9deaf89-f029-4303-8274-9fc801b7a2d8/large.jpg" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>*Renovated* 2 Bed 2 Bathroom Apartment in Prime Winter Park Location</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/c9deaf89-f029-4303-8274-9fc801b7a2d8/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/c9deaf89-f029-4303-8274-9fc801b7a2d8/large.jpg"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>
