@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 170,
+      "count": 171,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -41,7 +41,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 43,
+      "count": 42,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -139,6 +139,15 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -172,15 +181,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -223,7 +223,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 118,
+      "count": 119,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -314,7 +314,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 21,
+      "count": 22,
       "logo": "",
       "phone": "",
       "cities": [
@@ -421,21 +421,21 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -457,21 +457,21 @@
       ]
     },
     {
+      "name": "The William at Westshore",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -622,7 +622,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 170,
+      "count": 171,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -671,7 +671,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 43,
+      "count": 42,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -728,7 +728,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 107
+      "count": 108
     },
     {
       "name": "Richmond",
@@ -736,7 +736,7 @@
     },
     {
       "name": "Tampa",
-      "count": 55
+      "count": 54
     },
     {
       "name": "Kissimmee",
@@ -763,12 +763,12 @@
       "count": 19
     },
     {
-      "name": "Sandston",
-      "count": 17
+      "name": "Jacksonville",
+      "count": 18
     },
     {
-      "name": "Jacksonville",
-      "count": 15
+      "name": "Sandston",
+      "count": 17
     },
     {
       "name": "Winter Park",
@@ -776,7 +776,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Ocoee",
@@ -910,7 +910,7 @@
     },
     {
       "name": "PG9",
-      "count": 11
+      "count": 12
     }
   ],
   "mfProperties": [
@@ -958,7 +958,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 21,
+      "count": 22,
       "cities": [
         "Orlando"
       ]
@@ -1041,17 +1041,17 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 6,
       "cities": [
         "Davenport"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 6,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1069,17 +1069,17 @@
       ]
     },
     {
-      "name": "Case Residences",
+      "name": "The William at Westshore",
       "count": 5,
       "cities": [
         "Tampa"
       ]
     },
     {
-      "name": "Oasis at San Marco",
+      "name": "Case Residences",
       "count": 5,
       "cities": [
-        "Jacksonville"
+        "Tampa"
       ]
     },
     {
@@ -1195,8 +1195,8 @@
       ]
     }
   ],
-  "mfTotal": 438,
-  "total": 556,
+  "mfTotal": 441,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
@@ -1211,7 +1211,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 43
+      "listings": 42
     }
   ]
 }
