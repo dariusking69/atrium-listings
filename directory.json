@@ -50,7 +50,7 @@
     },
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -58,8 +58,17 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 35,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Champions Village",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -85,12 +94,30 @@
       ]
     },
     {
+      "name": "Baldwin Park",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -112,12 +139,30 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-1250",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -139,21 +184,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
-      "count": 7,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -193,12 +238,12 @@
       ]
     },
     {
-      "name": "Sutton Fields",
+      "name": "Mission Club",
       "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
-        "St. Cloud"
+        "Orlando"
       ]
     },
     {
@@ -208,6 +253,15 @@
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -260,7 +314,7 @@
     },
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -270,8 +324,8 @@
     {
       "name": "The Avenues at Winter Springs",
       "count": 35,
-      "logo": "",
-      "phone": "",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
       ]
@@ -287,7 +341,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -304,21 +358,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 23,
-      "logo": "",
-      "phone": "",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-0818",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -331,21 +385,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "logo": "",
-      "phone": "",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -368,9 +422,9 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 16,
-      "logo": "",
-      "phone": "",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-1250",
       "cities": [
         "Orlando"
       ]
@@ -395,9 +449,9 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 9,
-      "logo": "",
-      "phone": "",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
       ]
@@ -421,21 +475,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
-      "count": 7,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -495,8 +549,8 @@
     {
       "name": "Mission Club Apartments",
       "count": 4,
-      "logo": "",
-      "phone": "",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
       ]
@@ -520,15 +574,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -544,6 +589,15 @@
       "phone": "(352) 450-0906",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -684,6 +738,26 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 35,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 22,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 21,
       "communities": [
@@ -691,6 +765,16 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 20,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -704,6 +788,16 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 15,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "communities": [
@@ -711,6 +805,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 10,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -723,16 +827,26 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 4,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 109
+      "count": 108
     },
     {
       "name": "Richmond",
-      "count": 74
+      "count": 75
     },
     {
       "name": "Tampa",
@@ -740,7 +854,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 52
+      "count": 51
     },
     {
       "name": "Gainesville",
@@ -760,11 +874,11 @@
     },
     {
       "name": "Casselberry",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Jacksonville",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Sandston",
@@ -772,7 +886,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Lakeland",
@@ -791,15 +905,15 @@
       "count": 5
     },
     {
-      "name": "St. Cloud",
-      "count": 5
-    },
-    {
       "name": "Apopka",
       "count": 4
     },
     {
       "name": "Oxford",
+      "count": 4
+    },
+    {
+      "name": "St. Cloud",
       "count": 4
     },
     {
@@ -916,7 +1030,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 37,
       "cities": [
         "Orlando"
       ]
@@ -937,7 +1051,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 28,
+      "count": 27,
       "cities": [
         "Kissimmee"
       ]
@@ -950,17 +1064,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 23,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 22,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -971,17 +1085,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 20,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1000,7 +1114,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Orlando"
       ]
@@ -1021,7 +1135,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 9,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
@@ -1041,17 +1155,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
+      "name": "Coliseum Lofts",
       "count": 8,
       "cities": [
-        "Jacksonville"
+        "Richmond"
       ]
     },
     {
-      "name": "Coliseum Lofts",
+      "name": "Oasis at San Marco",
       "count": 7,
       "cities": [
-        "Richmond"
+        "Jacksonville"
       ]
     },
     {
@@ -1118,13 +1232,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 4,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
@@ -1136,6 +1243,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -1195,8 +1309,8 @@
       ]
     }
   ],
-  "mfTotal": 441,
-  "total": 562,
+  "mfTotal": 440,
+  "total": 561,
   "groups": [
     {
       "key": "inicio",

@@ -42,7 +42,7 @@
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg" loading="lazy" alt=""></button></div>
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>La Ventana – Spacious 3 Bedroom, 2 Bathroom | 1,251 sq.ft.</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>

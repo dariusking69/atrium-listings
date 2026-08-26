@@ -42,7 +42,7 @@
 <div class="wrap">
   <div class="gallery">
     <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png" loading="lazy" alt=""></button></div>
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png" loading="lazy" alt=""></button></div>
   </div>
   <div class="info">
     <h1>780 sq ft Woodhaven</h1>
@@ -56,7 +56,7 @@
   </div>
 </div>
 <script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png"];
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"];
 function pick(i){document.getElementById('main').src=PHOTOS[i];
   document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
 </script></body></html>
