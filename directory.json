@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 172,
+      "count": 173,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -50,7 +50,7 @@
     },
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -148,17 +148,8 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
@@ -181,6 +172,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -223,7 +223,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 120,
+      "count": 121,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -260,7 +260,7 @@
     },
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -304,21 +304,21 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
+      "logo": "",
+      "phone": "",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 22,
-      "logo": "",
-      "phone": "",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -430,17 +430,8 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
@@ -454,6 +445,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -622,7 +622,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 172,
+      "count": 173,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -732,7 +732,7 @@
     },
     {
       "name": "Richmond",
-      "count": 73
+      "count": 74
     },
     {
       "name": "Tampa",
@@ -776,7 +776,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Ocoee",
@@ -788,7 +788,7 @@
     },
     {
       "name": "Davenport",
-      "count": 6
+      "count": 5
     },
     {
       "name": "St. Cloud",
@@ -910,13 +910,13 @@
     },
     {
       "name": "PG9",
-      "count": 12
+      "count": 13
     }
   ],
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -950,17 +950,17 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 23,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 22,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1048,15 +1048,8 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
-      "count": 6,
+      "count": 7,
       "cities": [
         "Richmond"
       ]
@@ -1066,6 +1059,13 @@
       "count": 5,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -1196,7 +1196,7 @@
     }
   ],
   "mfTotal": 441,
-  "total": 561,
+  "total": 562,
   "groups": [
     {
       "key": "inicio",
