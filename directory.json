@@ -238,21 +238,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -547,15 +547,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -589,6 +580,15 @@
       "phone": "(352) 450-0906",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -830,7 +830,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -842,7 +842,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 107
     },
     {
       "name": "Richmond",
@@ -1211,13 +1211,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 4,
       "cities": [
@@ -1243,6 +1236,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1309,8 +1309,8 @@
       ]
     }
   ],
-  "mfTotal": 440,
-  "total": 561,
+  "mfTotal": 439,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
