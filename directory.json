@@ -95,7 +95,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -131,7 +131,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -368,7 +368,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-0818",
       "cities": [
@@ -413,7 +413,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -749,7 +749,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 22,
+      "count": 21,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -842,7 +842,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 107
+      "count": 106
     },
     {
       "name": "Richmond",
@@ -877,11 +877,11 @@
       "count": 20
     },
     {
-      "name": "Jacksonville",
-      "count": 17
+      "name": "Sandston",
+      "count": 18
     },
     {
-      "name": "Sandston",
+      "name": "Jacksonville",
       "count": 17
     },
     {
@@ -996,7 +996,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG2",
@@ -1004,7 +1004,7 @@
     },
     {
       "name": "PG3",
-      "count": 17
+      "count": 16
     },
     {
       "name": "PG4",
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 22,
+      "count": 21,
       "cities": [
         "Orlando"
       ]
@@ -1107,7 +1107,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Sandston"
       ]
