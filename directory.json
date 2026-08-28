@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 171,
+      "count": 175,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -22,6 +22,7 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
+        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -50,7 +51,7 @@
     },
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -277,7 +278,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 119,
+      "count": 123,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -296,6 +297,7 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
+        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -314,7 +316,7 @@
     },
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -676,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 171,
+      "count": 175,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -706,6 +708,7 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
+        "Maitland",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -842,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 102
+      "count": 101
     },
     {
       "name": "Richmond",
@@ -909,6 +912,10 @@
       "count": 4
     },
     {
+      "name": "Sanford",
+      "count": 4
+    },
+    {
       "name": "Oxford",
       "count": 4
     },
@@ -925,7 +932,11 @@
       "count": 3
     },
     {
-      "name": "Sanford",
+      "name": "DeLand",
+      "count": 3
+    },
+    {
+      "name": "Lake Mary",
       "count": 3
     },
     {
@@ -938,14 +949,6 @@
     },
     {
       "name": "Titusville",
-      "count": 2
-    },
-    {
-      "name": "DeLand",
-      "count": 2
-    },
-    {
-      "name": "Lake Mary",
       "count": 2
     },
     {
@@ -985,6 +988,10 @@
       "count": 1
     },
     {
+      "name": "Maitland",
+      "count": 1
+    },
+    {
       "name": "Wimauma",
       "count": 1
     },
@@ -1000,7 +1007,7 @@
     },
     {
       "name": "PG2",
-      "count": 20
+      "count": 24
     },
     {
       "name": "PG3",
@@ -1030,7 +1037,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1309,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 436,
-  "total": 555,
+  "mfTotal": 435,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
