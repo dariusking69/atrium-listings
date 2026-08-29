@@ -51,7 +51,7 @@
     },
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -131,21 +131,21 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -230,15 +230,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -254,6 +245,15 @@
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -414,21 +414,21 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -522,15 +522,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -582,6 +573,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -792,7 +792,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -833,7 +833,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 101
+      "count": 99
     },
     {
       "name": "Richmond",
@@ -857,7 +857,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Winter Springs",
@@ -1037,7 +1037,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 36,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1113,17 +1113,17 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 18,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 18,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 17,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1197,13 +1197,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "cities": [
@@ -1243,6 +1236,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 450,
-  "total": 570,
+  "mfTotal": 447,
+  "total": 567,
   "groups": [
     {
       "key": "inicio",

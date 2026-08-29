@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7f26ac3b-41fb-48de-848b-5086229228f3",
     "lat": 28.549462,
     "lng": -81.3873209,
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
     "title": "Spacious Studio Apartment in Downtown Orlando \u2013 The Kahlo",
     "description": "Studio, 1 Bath, 553 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The largest studio floor plan at The Julian, with room to lay out a full living and sleeping area.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,545 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/19/26",
     "terms": [
@@ -34,6 +31,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7f26ac3b-41fb-48de-848b-5086229228f3&source=Website",
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
     "available": "9/19/26",
     "zip": "32801",
     "unit": "0425",
@@ -4959,49 +4959,6 @@
     "community": "The Julian"
   },
   {
-    "id": 6373,
-    "uuid": "731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6",
-    "address": "480 N Terry Ave Unit 0911, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 0911",
-    "city": "Orlando",
-    "rent": "$1,425",
-    "rent_val": 1425,
-    "specs": "Studio, 1 ba, 414 Sq. Ft.",
-    "beds": 0,
-    "baths": 1.0,
-    "sqft": 414,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "Studio Apartment in Downtown Orlando \u2013 The DaVinci",
-    "description": "Studio, 1 Bath, 414 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A smart, efficient studio with a full kitchen and private outdoor space, steps from Lake Eola.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,425 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 9/11/26",
-    "terms": [
-      "Rent: $1,425",
-      "Application Fee: $95",
-      "Available 9/11/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=731b8ea0-a0fc-45a4-8f7d-a6eae0aa0be6&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "9/11/26",
-    "zip": "32801",
-    "unit": "0911",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "The Julian"
-  },
-  {
     "id": 6369,
     "uuid": "80583555-8528-4d6e-8e8e-d540883dd1d0",
     "address": "480 N Terry Ave Unit 0617, Orlando, FL 32801",
@@ -7685,49 +7642,6 @@
     "mf": true,
     "cg": [],
     "community": "Reserve at Lake Irene"
-  },
-  {
-    "id": 6270,
-    "uuid": "1a09363a-1a57-447e-acbd-edbd8d0f6d61",
-    "address": "6715 Mission Club Blvd # 02-104, Orlando, FL 32821",
-    "street": "6715 Mission Club Blvd # 02-104",
-    "city": "Orlando",
-    "rent": "$1,832 - $1,885",
-    "rent_val": 1832,
-    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1126,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1a09363a-1a57-447e-acbd-edbd8d0f6d61",
-    "lat": 28.386396,
-    "lng": -81.4726922,
-    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft",
-    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,832 - $1,885 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,832 - $1,885",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1a09363a-1a57-447e-acbd-edbd8d0f6d61&source=Website",
-    "property": "Mission Club",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Mission Club Apartments"
   },
   {
     "id": 6269,
@@ -23936,49 +23850,6 @@
     "mf": true,
     "cg": [],
     "community": "Champions Village"
-  },
-  {
-    "id": 3154,
-    "uuid": "9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f",
-    "address": "1580 Neo Landings Loop, Unit 318, Kissimmee, FL 34744",
-    "street": "1580 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$1,795",
-    "rent_val": 1795,
-    "specs": "1 bd, 1 ba, 774 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 774,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f",
-    "lat": 28.3055848,
-    "lng": -81.3865496,
-    "title": "Aston Square- Cozy one Bedroom Luxury Apartment",
-    "description": "Discover Luxurious Living in the Heart of Historic Downtown Kissimmee, FL\r\n\r\nWelcome to Aston Square Luxury Apartments, the newest upscale community designed to elevate your lifestyle. Our cozy one-bedroom luxury apartment offers a perfect blend of modern elegance and comfort, ensuring an unparalleled living experience.\r\n\r\nThis thoughtfully designed apartment features a resort-style pool, stylish vinyl plank flooring, stainless steel appliances, spacious walk-in custom closets, keyless entry, and an expansive sun deck for outdoor relaxation.\r\n\r\nResidents can enjoy top-floor amenities, including a media lounge with a rooftop deck, a dedicated co-working space, package lockers, and electric vehicle charging stations. The 24/7 state-of-the-art fitness center allows you to stay active, while the private business lounge with work pods provides a productive environment.\r\n\r\nInside, the modern kitchen boasts quartz countertops and kitchen islands, while the spa-inspired bathroom includes soaking tubs. Smart thermostats ensure personalized climate control, and screened-in patios add an extra layer of comfort. Oversized storage units are also available to accommodate your belongings.\r\n\r\nIdeally located near Walt Disney World, The Loop Town Center, and major highways, Aston Square by Kimaya offers seamless access to premier entertainment, shopping, and dining destinations.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $1,795",
-      "Application Fee: $99",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/36f39bd8-aac1-44ff-8cd9-ab9e33bd054e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9c6cecdf-5a62-46d7-8b7f-fa1186cbd26f&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "NOW",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Aston Square Apartments"
   },
   {
     "id": 3138,
