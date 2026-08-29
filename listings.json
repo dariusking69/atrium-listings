@@ -1,5 +1,49 @@
 [
   {
+    "id": 6519,
+    "uuid": "aa5e8bd8-f289-4f12-8e00-fe05def30480",
+    "address": "3440 N. Goldenrod Road Unit # 627, Winter Park, FL 32792",
+    "street": "3440 N. Goldenrod Road Unit # 627",
+    "city": "Winter Park",
+    "rent": "$1,359",
+    "rent_val": 1359,
+    "specs": "1 bd, 1 ba, 710 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 710,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/29c859d3-f494-4f1a-8f76-0eca60340d03/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/aa5e8bd8-f289-4f12-8e00-fe05def30480",
+    "lat": 28.5892965,
+    "lng": -81.2887011,
+    "property": "Cranes Landing",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+    "phone": "(689) 300-6288",
+    "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
+    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,359 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,243 \n\n\n Available 11/13/26",
+    "terms": [
+      "Rent: $1,359",
+      "Application Fee: $79",
+      "Security Deposit: $1,243",
+      "Available 11/13/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/29c859d3-f494-4f1a-8f76-0eca60340d03/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=aa5e8bd8-f289-4f12-8e00-fe05def30480&source=Website",
+    "available": "11/13/26",
+    "zip": "32792",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Cranes Landing Apartments"
+  },
+  {
     "id": 6518,
     "uuid": "9bdae106-de40-40ca-be77-1fa4aea25f54",
     "address": "708 Suncrest Loop # 108, Casselberry, FL 32707",
@@ -15,9 +59,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9bdae106-de40-40ca-be77-1fa4aea25f54",
     "lat": 28.6937355,
     "lng": -81.3214925,
-    "property": "Lake Irene",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-    "phone": "(689) 300-5868",
     "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
     "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,704 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 12/22/26",
     "terms": [
@@ -47,6 +88,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9bdae106-de40-40ca-be77-1fa4aea25f54&source=Website",
+    "property": "Lake Irene",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+    "phone": "(689) 300-5868",
     "available": "12/22/26",
     "zip": "32707",
     "unit": "",
@@ -71,9 +115,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/129ff2e5-cc51-4c91-86b3-b8f63cae4c7b",
     "lat": 28.6949948,
     "lng": -81.3228257,
-    "property": "Lake Irene",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-    "phone": "(689) 300-5868",
     "title": "1 Bedroom, 1 Bathroom Apartment in Casselberry/Winter Springs",
     "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,513 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 11/22/26",
     "terms": [
@@ -104,6 +145,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=129ff2e5-cc51-4c91-86b3-b8f63cae4c7b&source=Website",
+    "property": "Lake Irene",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+    "phone": "(689) 300-5868",
     "available": "11/22/26",
     "zip": "32707",
     "unit": "",
@@ -128,9 +172,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/592d36aa-446b-4c59-be2f-43b57db5cdcd",
     "lat": 28.6945887,
     "lng": -81.3205022,
-    "property": "Lake Irene",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-    "phone": "(689) 300-5868",
     "title": "2 Bedroom, 2 Bathroom Apartment in Casselberry/Winter Springs",
     "description": "The Reserve at Lake Irene is Casselberry's premier destination where modern luxury meets comfort and charm. Choose from our spacious one- and two-bedroom apartment homes and step into a community designed to elevate your everyday, featuring a vibrant, state-of-the-art fitness center, two sparkling resort-style swimming pools, and a welcoming, pet-friendly atmosphere.\r\n\r\nStop dreaming about the perfect Florida lifestyle and start living it. Situated in a prime location, you'll discover stylish interiors, lush outdoor spaces, and a dedicated team committed to making your experience unforgettable. This is more than an apartment\u2014it\u2019s a lifestyle infused with energy. Contact us today to schedule your personalized tour and find your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,580 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/16/26",
     "terms": [
@@ -161,6 +202,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=592d36aa-446b-4c59-be2f-43b57db5cdcd&source=Website",
+    "property": "Lake Irene",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+    "phone": "(689) 300-5868",
     "available": "9/16/26",
     "zip": "32707",
     "unit": "",
@@ -185,9 +229,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4d955dce-2386-425f-985f-1b53ed350622",
     "lat": 28.3872324,
     "lng": -81.4721068,
-    "property": "Mission Club",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-    "phone": "(689) 215-0812",
     "title": "La Ventana \u2013 Spacious 3 Bedroom, 2 Bathroom | 1,251 sq.ft.",
     "description": "Experience modern living and thoughtful design in The La Ventana \u2014 a spacious 3-bedroom, 2-bathroom home with 1,251 sq.ft. of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain.\r\n\r\nThe open-concept living and dining area flows seamlessly into a fully equipped kitchen, creating a bright and inviting space for gatherings or quiet evenings at home. The primary suite offers a private bathroom, while two additional bedrooms share a second full bath \u2014 ideal for guests, home offices, or hobby spaces. Plus, the in-unit washer and dryer makes everyday living effortless.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,251 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,310 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available 9/8/26",
     "terms": [
@@ -204,6 +245,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4d955dce-2386-425f-985f-1b53ed350622&source=Website",
+    "property": "Mission Club",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+    "phone": "(689) 215-0812",
     "available": "9/8/26",
     "zip": "32821",
     "unit": "",
@@ -228,9 +272,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1f4f3084-347b-4832-908f-b50d4ccba324",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -263,6 +304,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1f4f3084-347b-4832-908f-b50d4ccba324&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "O102",
@@ -287,9 +331,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a25babbb-1752-4443-85e1-e737f4b9da4a",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -320,6 +361,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a25babbb-1752-4443-85e1-e737f4b9da4a&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "N201",
@@ -344,9 +388,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b78bb972-3f5f-42c3-994d-43b7cd2311df",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "Spacious & Beautiful 3 Bed 2 Bath Apartment \u2013 Lease Now & Get Up to One Month Free!",
     "description": "Now is the perfect time to make your move and take advantage of this limited-time special!\r\n\r\nLease today and enjoy up to one month free on select apartment homes.\r\n\r\nWith comfortable living spaces and a community designed to feel like home, this opportunity won\u2019t last long, reach out today before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 3 Bedroom / 2 Bath apartment. This thoughtfully designed 1,325 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,499 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 9/11/26",
     "terms": [
@@ -383,6 +424,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b78bb972-3f5f-42c3-994d-43b7cd2311df&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/11/26",
     "zip": "32211",
     "unit": "L102",
@@ -407,9 +451,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6cb707e0-a47a-4826-86c2-f2af964a7ae6",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/2bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 2 Bath apartment. This thoughtfully designed 1,125 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,349 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -442,6 +483,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6cb707e0-a47a-4826-86c2-f2af964a7ae6&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "J302",
@@ -466,9 +510,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a632e273-cc4c-4bc7-8af0-642d8f8b32c2",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 10/10/26",
     "terms": [
@@ -501,6 +542,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a632e273-cc4c-4bc7-8af0-642d8f8b32c2&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "10/10/26",
     "zip": "32211",
     "unit": "E104",
@@ -525,9 +569,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/deb8e845-cd7d-4524-b738-4b404732a670",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -560,6 +601,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=deb8e845-cd7d-4524-b738-4b404732a670&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "E101",
@@ -584,9 +628,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f094647f-d101-462d-acf1-d20ee663a2c7",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/22/26",
     "terms": [
@@ -617,6 +658,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f094647f-d101-462d-acf1-d20ee663a2c7&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/22/26",
     "zip": "32211",
     "unit": "D312",
@@ -641,9 +685,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1f03fc98-5f61-4b06-bfb5-539a0b023f6e",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -674,6 +715,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1f03fc98-5f61-4b06-bfb5-539a0b023f6e&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "C302",
@@ -698,9 +742,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/15dd5b09-fc1c-4531-9999-00f1181bca15",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/2bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 2 Bath apartment. This thoughtfully designed 1,125 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,449 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 10/10/26",
     "terms": [
@@ -733,6 +774,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=15dd5b09-fc1c-4531-9999-00f1181bca15&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "10/10/26",
     "zip": "32211",
     "unit": "C203",
@@ -757,9 +801,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4d2cfbeb-a461-449e-b17d-1168724bae2b",
     "lat": 30.3082327,
     "lng": -81.6148986,
-    "property": "Oasis at San Marco",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-    "phone": "(904) 527-2336",
     "title": "Lease Your New Home Today!",
     "description": "Your perfect home is waiting, and now is the best time to make your move.\r\n\r\nFor a limited time, select apartments qualify for reduced monthly rent!\r\n\r\nInquire for details.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. Schedule your tour today \u2014 your new home awaits!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
@@ -797,6 +838,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4d2cfbeb-a461-449e-b17d-1168724bae2b&source=Website",
+    "property": "Oasis at San Marco",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+    "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
     "unit": "I156",
@@ -10741,48 +10785,6 @@
     "community": "The William at Westshore"
   },
   {
-    "id": 6123,
-    "uuid": "a09af91e-a02e-4d2b-b534-084ce604ca20",
-    "address": "6822 S Shamrock Rd Unit 104, Tampa, FL 33616",
-    "street": "6822 S Shamrock Rd Unit 104",
-    "city": "Tampa",
-    "rent": "$1,329",
-    "rent_val": 1329,
-    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 561,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a09af91e-a02e-4d2b-b534-084ce604ca20",
-    "lat": 27.8664935,
-    "lng": -82.5232335,
-    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,329 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,329",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a09af91e-a02e-4d2b-b534-084ce604ca20&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 513-0814",
-    "available": "NOW",
-    "zip": "33616",
-    "unit": "104",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "The William at Westshore"
-  },
-  {
     "id": 6119,
     "uuid": "e4dbb607-38fa-4f41-9120-da891019a594",
     "address": "227 S Armenia Ave Unit 23, Tampa, FL 33609",
@@ -11713,9 +11715,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1343c759-07cd-4fd2-89aa-7ef624199eb0",
     "lat": 28.5892965,
     "lng": -81.2887011,
-    "property": "Cranes Landing",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-    "phone": "(689) 300-6288",
     "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
     "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,352 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,383 \n\n\n Available 9/16/26",
     "terms": [
@@ -11733,6 +11732,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1343c759-07cd-4fd2-89aa-7ef624199eb0&source=Website",
+    "property": "Cranes Landing",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+    "phone": "(689) 300-6288",
     "available": "9/16/26",
     "zip": "32792",
     "unit": "",
@@ -13288,9 +13290,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b4bf325d-6fec-4514-b1b2-8893743c5551",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 9/10/26",
     "terms": [
@@ -13323,6 +13322,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b4bf325d-6fec-4514-b1b2-8893743c5551&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "9/10/26",
     "zip": "32211",
     "unit": "F206",
@@ -13398,9 +13400,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "Spacious & Beautiful 3 Bed 2 Bath Apartment \u2013 Lease Now & Get Up to One Month Free!",
     "description": "Now is the perfect time to make your move and take advantage of this limited-time special!\r\n\r\nLease today and enjoy up to one month free on select apartment homes.\r\n\r\nWith comfortable living spaces and a community designed to feel like home, this opportunity won\u2019t last long, reach out today before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 3 Bedroom / 2 Bath apartment. This thoughtfully designed 1,325 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,399 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
@@ -13437,6 +13436,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "M204",
@@ -15143,9 +15145,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/128f3510-d0b7-4a98-aa18-d2cbf6ba8bcc",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available Now",
     "terms": [
@@ -15176,6 +15175,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=128f3510-d0b7-4a98-aa18-d2cbf6ba8bcc&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "D105",
@@ -16910,9 +16912,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/31533270-760f-434f-ad48-3e779a2c2577",
     "lat": 28.3871676,
     "lng": -81.4730243,
-    "property": "Mission Club",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-    "phone": "(689) 215-0812",
     "title": "La Ventana \u2013 Spacious 3 Bedroom, 2 Bathroom | 1,251 sq.ft.",
     "description": "Experience modern living and thoughtful design in The La Ventana \u2014 a spacious 3-bedroom, 2-bathroom home with 1,251 sq.ft. of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain.\r\n\r\nThe open-concept living and dining area flows seamlessly into a fully equipped kitchen, creating a bright and inviting space for gatherings or quiet evenings at home. The primary suite offers a private bathroom, while two additional bedrooms share a second full bath \u2014 ideal for guests, home offices, or hobby spaces. Plus, the in-unit washer and dryer makes everyday living effortless.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the pool, unwind in the hot tub, swing in the hammock hangout, or pamper your pets at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,251 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,146 - $2,208 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
     "terms": [
@@ -16929,6 +16928,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=31533270-760f-434f-ad48-3e779a2c2577&source=Website",
+    "property": "Mission Club",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+    "phone": "(689) 215-0812",
     "available": "NOW",
     "zip": "32821",
     "unit": "",
@@ -20002,9 +20004,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a838fa75-e76e-4f86-8d2b-8205b8b0d9b9",
     "lat": 28.5742477,
     "lng": -81.3055286,
-    "property": "Baldwin Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-    "phone": "(689) 215-9531",
     "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
     "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,324 - $1,418 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563",
     "terms": [
@@ -20021,6 +20020,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a838fa75-e76e-4f86-8d2b-8205b8b0d9b9&source=Website",
+    "property": "Baldwin Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+    "phone": "(689) 215-9531",
     "available": "NOW",
     "zip": "32807",
     "unit": "",
@@ -20545,9 +20547,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1262020b-1c2a-40ef-a310-7e0046b48ce6",
     "lat": 30.3082327,
     "lng": -81.6148986,
-    "property": "Oasis at San Marco",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-    "phone": "(904) 527-2336",
     "title": "Lease Your New Home Today!",
     "description": "For a limited time, we\u2019ve reduced pricing on all available units - bringing rates down by over $100 per month!\r\n\r\nIt\u2019s a great opportunity to find a space you\u2019ll truly love to call home, right in the heart of Jacksonville.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. Schedule your tour today \u2014 your new home awaits!\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,625 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 11/19/26",
     "terms": [
@@ -20585,6 +20584,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1262020b-1c2a-40ef-a310-7e0046b48ce6&source=Website",
+    "property": "Oasis at San Marco",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+    "phone": "(904) 527-2336",
     "available": "11/19/26",
     "zip": "32207",
     "unit": "I153",
@@ -20609,9 +20611,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/09217a98-708a-4392-9bed-e172c1a27606",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,199 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available Now",
     "terms": [
@@ -20644,6 +20643,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=09217a98-708a-4392-9bed-e172c1a27606&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "E302",
@@ -20999,9 +21001,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8c74a7b8-8982-4fa1-850f-9a350d149cdb",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 1 Bath apartment. This thoughtfully designed 1,108 sq. ft. floor plan features bright, modern interiors and a private balcony or patio.\r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available Now",
     "terms": [
@@ -21034,6 +21033,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8c74a7b8-8982-4fa1-850f-9a350d149cdb&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "E106",
@@ -21544,9 +21546,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b095ebe5-c9cc-45a1-86ba-c9f4b12ac66e",
     "lat": 30.3082327,
     "lng": -81.6148986,
-    "property": "Oasis at San Marco",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-    "phone": "(904) 527-2336",
     "title": "Lease Your New Home Today!",
     "description": "Your perfect home is waiting, and now is the best time to make your move.\r\n\r\nFor a limited time, select apartments qualify for reduced monthly rent!\r\n\r\nInquire for details.\r\n\r\nWelcome Home to Comfort and Convenience in Jacksonville, FL!\r\n\r\nDiscover the perfect blend of relaxation and accessibility at our charming, pet-friendly community in Jacksonville. Whether you're lounging in your spacious apartment with central AC or enjoying the outdoors, you\u2019ll love calling this quiet haven your home.\r\n\r\nOur community features an on-site dog park for your furry friends, a fun-filled playground for little ones, and on-site laundry facilities for your convenience. Nestled in a great location, you're just minutes from downtown Jacksonville and beautiful beaches, giving you the best of both city life and coastal living.\r\n\r\nCome experience a quiet, welcoming atmosphere with all the comforts you need. Schedule your tour today \u2014 your new home awaits!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
@@ -21584,6 +21583,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b095ebe5-c9cc-45a1-86ba-c9f4b12ac66e&source=Website",
+    "property": "Oasis at San Marco",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+    "phone": "(904) 527-2336",
     "available": "NOW",
     "zip": "32207",
     "unit": "B232",
@@ -21696,9 +21698,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8bf90dba-e175-470b-b314-c5b64d4d0ed8",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available Now",
     "terms": [
@@ -21729,6 +21728,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8bf90dba-e175-470b-b314-c5b64d4d0ed8&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "B203",
@@ -21797,9 +21799,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4b557b43-bd9d-4e3c-8d14-47badfa2ddc0",
     "lat": 30.3301052,
     "lng": -81.5804761,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 2bed/2bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 2 Bedroom / 2 Bath apartment. This thoughtfully designed 1,125 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,449 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available 10/10/26",
     "terms": [
@@ -21832,6 +21831,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4b557b43-bd9d-4e3c-8d14-47badfa2ddc0&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "10/10/26",
     "zip": "32211",
     "unit": "A305",
@@ -21856,9 +21858,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b",
     "lat": 30.3295094,
     "lng": -81.5798272,
-    "property": "Renaissance at Strawberry Creek",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-    "phone": "(904) 664-2823",
     "title": "One Month Free? You Choose! Limited Time Only! Renovated 1bed/1bath",
     "description": "Move in and save big!\r\n\r\nEnjoy a $0 application fee, $0 admin fee, and a $250 security deposit (subject to application screening).\r\n\r\nThen, choose the special that works best for you:\r\n\r\nOne Month Free\r\nor\r\nLower Your Monthly Rent\r\n\r\nWhy settle for one offer when you get to choose? Call today to secure your preferred special before it\u2019s gone!\r\n\r\nExperience the perfect blend of space and style in our renovated 1 Bedroom / 1 Bath apartment. This thoughtfully designed 725 sq. ft. floor plan features bright, modern interiors and a private balcony or patio. \r\n\r\nConveniently located in Jacksonville\u2019s Alderman Park, you\u2019ll be just minutes from major highways for easy access to shopping, dining, and entertainment.\r\n\r\nCommunity Amenities:\r\n\r\n- Sparkling swimming pool and welcoming clubhouse\r\n- Pet-friendly community with a dog park and beautifully landscaped grounds\r\n- Fully equipped fitness center\r\n- 24-hour laundry facility and responsive on-site management\r\n\r\nSchedule your tour today and see why you\u2019ll love calling our community home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n\n Security Deposit: $250 \n\n\n Available Now",
     "terms": [
@@ -21889,6 +21888,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b&source=Website",
+    "property": "Renaissance at Strawberry Creek",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+    "phone": "(904) 664-2823",
     "available": "NOW",
     "zip": "32211",
     "unit": "C106",
@@ -22572,9 +22574,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/51431319-0148-4f5e-991b-29eabfb568a7",
     "lat": 28.3056952,
     "lng": -81.3869162,
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
     "title": "Aston Square- Cozy 2 Bedroom 2 Bathroom Luxury Apartment Home",
     "description": "Luxury 2-Bedroom, 2-Bathroom Apartment Home in Kissimmee, FL\r\n\r\nDiscover modern comfort and sophisticated living in our spacious 2-bedroom, 2-bathroom apartment home in the heart of Kissimmee, FL. Designed with elegance and functionality in mind, this stunning residence offers a thoughtfully designed split floorplan for ultimate privacy and convenience.\r\n\r\nThe guest bedroom features a walk-in closet and an en-suite bathroom with an oversized soaking tub, while the primary bedroom boasts a spacious walk-in custom closet and a luxurious trackless shower. Throughout the apartment, you'll find premium vinyl plank flooring, top-of-the-line stainless steel appliances, and keyless entry for a seamless living experience.\r\n\r\nResort-style amenities elevate your lifestyle, including a co-working space, package lockers, electric vehicle charging stations, and a spacious sun deck perfect for relaxation. Stay comfortable year-round with interactive thermostats, unwind in the soaking tubs, or step onto your screened-in patio to enjoy the fresh air.\r\n\r\nFor those who prioritize wellness and productivity, our 24/7 fitness center and business lounge with private work pods provide the perfect balance of activity and focus. Additional conveniences such as oversized storage units ensure that you have ample space for all your belongings.\r\n\r\nExperience luxury living at its finest in this exceptional 2-bedroom, 2-bathroom apartment home. Contact us today to schedule a tour and make it yours!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
     "terms": [
@@ -22592,6 +22591,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=51431319-0148-4f5e-991b-29eabfb568a7&source=Website",
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
     "available": "10/10/26",
     "zip": "34744",
     "unit": "",
@@ -23822,9 +23824,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/872efb57-99c4-44ad-99fb-7efb88f358e8",
     "lat": 28.254884,
     "lng": -81.623487,
-    "property": "Champions Chase",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-    "phone": "(863) 204-1180",
     "title": "The Lincoln - 4 Bedroom Townhome with 2 Car Garage Available!",
     "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,448 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 9/4/26",
     "terms": [
@@ -23842,6 +23841,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=872efb57-99c4-44ad-99fb-7efb88f358e8&source=Website",
+    "property": "Champions Chase",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+    "phone": "(863) 204-1180",
     "available": "9/4/26",
     "zip": "33896",
     "unit": "",

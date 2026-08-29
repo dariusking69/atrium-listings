@@ -42,7 +42,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 42,
+      "count": 41,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -159,7 +159,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -441,21 +441,21 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -504,15 +504,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -555,6 +546,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 42,
+      "count": 41,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -812,7 +812,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 11,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -853,7 +853,7 @@
     },
     {
       "name": "Tampa",
-      "count": 54
+      "count": 53
     },
     {
       "name": "Kissimmee",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Lakeland",
@@ -1134,17 +1134,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 11,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 11,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1183,13 +1183,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 5,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 5,
       "cities": [
@@ -1222,6 +1215,13 @@
       "count": 4,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 4,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1332,7 +1332,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 42
+      "listings": 41
     }
   ]
 }
