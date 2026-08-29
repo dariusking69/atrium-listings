@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 172,
+      "count": 170,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -51,7 +51,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -316,7 +316,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -513,15 +513,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -603,6 +594,15 @@
       ]
     },
     {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(813) 355-9968",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -678,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 172,
+      "count": 170,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 101
     },
     {
       "name": "Richmond",
@@ -853,7 +853,7 @@
     },
     {
       "name": "Tampa",
-      "count": 53
+      "count": 51
     },
     {
       "name": "Kissimmee",
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 13
     },
     {
       "name": "PG7",
@@ -1037,7 +1037,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1190,13 +1190,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 5,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "cities": [
@@ -1260,6 +1253,13 @@
       ]
     },
     {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "cities": [
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 451,
-  "total": 571,
+  "mfTotal": 450,
+  "total": 570,
   "groups": [
     {
       "key": "inicio",
