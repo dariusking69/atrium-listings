@@ -96,7 +96,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -125,7 +125,7 @@
       "name": "Baldwin Park",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-0818",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -152,7 +152,7 @@
       "name": "Barber Park",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -370,7 +370,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -408,7 +408,7 @@
       "name": "Avenues of Baldwin Park",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-0818",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -435,7 +435,7 @@
       "name": "Barber Park Apartments",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-1250",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -588,7 +588,7 @@
       "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
-      "phone": "(352) 450-0906",
+      "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
       ]
@@ -762,7 +762,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 24,
+      "count": 23,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -877,7 +877,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Macon",
@@ -1079,7 +1079,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 24,
+      "count": 23,
       "cities": [
         "Casselberry"
       ]
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 452,
-  "total": 572,
+  "mfTotal": 451,
+  "total": 571,
   "groups": [
     {
       "key": "inicio",
