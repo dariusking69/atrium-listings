@@ -68,15 +68,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -92,6 +83,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -342,15 +342,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -366,6 +357,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -849,7 +849,7 @@
     },
     {
       "name": "Richmond",
-      "count": 77
+      "count": 76
     },
     {
       "name": "Tampa",
@@ -1057,13 +1057,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 26,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 26,
       "cities": [
@@ -1075,6 +1068,13 @@
       "count": 25,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 25,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 447,
-  "total": 567,
+  "mfTotal": 446,
+  "total": 566,
   "groups": [
     {
       "key": "inicio",
