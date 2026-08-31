@@ -77,21 +77,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -257,21 +257,21 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
-      "phone": "(703) 420-3619",
-      "cities": [
-        "Triangle"
       ]
     }
   ],
@@ -351,21 +351,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -585,6 +585,15 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
@@ -645,15 +654,6 @@
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
-      "phone": "(703) 420-3619",
-      "cities": [
-        "Triangle"
       ]
     },
     {
@@ -752,7 +752,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 25,
+      "count": 24,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -869,7 +869,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Deltona",
@@ -932,6 +932,10 @@
       "count": 3
     },
     {
+      "name": "Triangle",
+      "count": 3
+    },
+    {
       "name": "DeLand",
       "count": 3
     },
@@ -949,10 +953,6 @@
     },
     {
       "name": "Haines City",
-      "count": 1
-    },
-    {
-      "name": "Triangle",
       "count": 1
     },
     {
@@ -1064,17 +1064,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 25,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 24,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1246,6 +1246,13 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 3,
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 3,
       "cities": [
@@ -1295,13 +1302,6 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "cities": [
-        "Triangle"
-      ]
-    },
-    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 563,
+  "mfTotal": 444,
+  "total": 564,
   "groups": [
     {
       "key": "inicio",
