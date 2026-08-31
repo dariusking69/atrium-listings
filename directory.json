@@ -42,7 +42,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 41,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -60,7 +60,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -86,21 +86,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 14,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -186,7 +186,7 @@
     },
     {
       "name": "Coliseum Lofts",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
@@ -218,6 +218,15 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -263,15 +272,6 @@
       "phone": "(703) 420-3619",
       "cities": [
         "Triangle"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     }
   ],
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -360,21 +360,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -387,21 +387,21 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 14,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -451,7 +451,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -478,7 +478,7 @@
     },
     {
       "name": "Coliseum Lofts",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
@@ -513,6 +513,15 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -528,15 +537,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -594,12 +594,12 @@
       ]
     },
     {
-      "name": "Sutton Fields",
+      "name": "The William at Westshore",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
       "cities": [
-        "St. Cloud"
+        "Tampa"
       ]
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 41,
+      "count": 37,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -742,22 +742,12 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 24,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -768,6 +758,16 @@
       ],
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 23,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 14,
+      "count": 16,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -845,35 +845,35 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 98
+      "count": 100
     },
     {
       "name": "Richmond",
-      "count": 76
-    },
-    {
-      "name": "Tampa",
-      "count": 51
+      "count": 75
     },
     {
       "name": "Kissimmee",
       "count": 49
     },
     {
-      "name": "Winter Springs",
-      "count": 35
+      "name": "Tampa",
+      "count": 47
     },
     {
       "name": "Gainesville",
       "count": 35
     },
     {
-      "name": "Jacksonville",
-      "count": 30
+      "name": "Winter Springs",
+      "count": 33
     },
     {
       "name": "Deltona",
       "count": 30
+    },
+    {
+      "name": "Jacksonville",
+      "count": 29
     },
     {
       "name": "Casselberry",
@@ -908,6 +908,10 @@
       "count": 6
     },
     {
+      "name": "St. Cloud",
+      "count": 6
+    },
+    {
       "name": "Apopka",
       "count": 4
     },
@@ -917,10 +921,6 @@
     },
     {
       "name": "Oxford",
-      "count": 4
-    },
-    {
-      "name": "St. Cloud",
       "count": 4
     },
     {
@@ -1044,7 +1044,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1071,17 +1071,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 24,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 23,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 23,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1092,17 +1092,17 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 20,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 20,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 18,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1128,7 +1128,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 14,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -1142,7 +1142,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Tampa"
       ]
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Coliseum Lofts",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Richmond"
       ]
@@ -1190,6 +1190,13 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "cities": [
@@ -1201,13 +1208,6 @@
       "count": 4,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 4,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1253,10 +1253,10 @@
       ]
     },
     {
-      "name": "Sutton Fields",
+      "name": "The William at Westshore",
       "count": 3,
       "cities": [
-        "St. Cloud"
+        "Tampa"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 444,
-  "total": 564,
+  "mfTotal": 440,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
@@ -1332,7 +1332,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 41
+      "listings": 37
     }
   ]
 }
