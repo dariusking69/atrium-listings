@@ -68,21 +68,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -95,21 +95,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -221,6 +221,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
@@ -254,15 +263,6 @@
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -342,21 +342,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -369,21 +369,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -504,6 +504,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -573,15 +582,6 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 23,
+      "count": 22,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -833,7 +833,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 5,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 102
     },
     {
       "name": "Richmond",
@@ -853,7 +853,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 49
+      "count": 48
     },
     {
       "name": "Tampa",
@@ -873,7 +873,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Casselberry",
@@ -1057,17 +1057,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 26,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 25,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 25,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1078,17 +1078,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 23,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 22,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1183,6 +1183,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 5,
       "cities": [
@@ -1236,13 +1243,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
       ]
     },
     {
