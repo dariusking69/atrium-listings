@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 180,
+      "count": 182,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(863) 591-3978",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -30,6 +30,7 @@
         "Palm Bay",
         "Richmond",
         "Riverview",
+        "Saint Cloud",
         "Sanford",
         "St. Cloud",
         "Tampa",
@@ -51,7 +52,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -60,7 +61,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -78,7 +79,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -140,21 +141,21 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -278,9 +279,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 130,
+      "count": 132,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(863) 591-3978",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -304,6 +305,7 @@
         "Palm Bay",
         "Richmond",
         "Riverview",
+        "Saint Cloud",
         "Sanford",
         "St. Cloud",
         "Tampa",
@@ -316,7 +318,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -325,7 +327,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -352,7 +354,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -423,21 +425,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -678,7 +680,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 180,
+      "count": 182,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -716,6 +718,7 @@
         "Palm Bay",
         "Richmond",
         "Riverview",
+        "Saint Cloud",
         "Sanford",
         "St. Cloud",
         "Tampa",
@@ -742,7 +745,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -791,16 +794,6 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 17,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 17,
       "communities": [
@@ -808,6 +801,16 @@
       ],
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 16,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -852,20 +855,20 @@
       "count": 75
     },
     {
-      "name": "Kissimmee",
-      "count": 48
-    },
-    {
       "name": "Tampa",
       "count": 47
     },
     {
-      "name": "Gainesville",
-      "count": 35
+      "name": "Kissimmee",
+      "count": 47
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 35
+    },
+    {
+      "name": "Gainesville",
+      "count": 35
     },
     {
       "name": "Deltona",
@@ -893,7 +896,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Ocoee",
@@ -950,6 +953,10 @@
     {
       "name": "Titusville",
       "count": 2
+    },
+    {
+      "name": "Saint Cloud",
+      "count": 1
     },
     {
       "name": "Haines City",
@@ -1023,7 +1030,7 @@
     },
     {
       "name": "PG7",
-      "count": 6
+      "count": 7
     },
     {
       "name": "PG8",
@@ -1031,20 +1038,20 @@
     },
     {
       "name": "PG9",
-      "count": 13
+      "count": 14
     }
   ],
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "cities": [
         "Winter Springs"
       ]
@@ -1065,7 +1072,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 25,
+      "count": 24,
       "cities": [
         "Kissimmee"
       ]
@@ -1120,17 +1127,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 17,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 17,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 16,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1317,7 +1324,7 @@
     }
   ],
   "mfTotal": 446,
-  "total": 576,
+  "total": 578,
   "groups": [
     {
       "key": "inicio",
