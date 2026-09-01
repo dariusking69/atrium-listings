@@ -51,7 +51,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -132,7 +132,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -239,6 +239,15 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -254,15 +263,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -405,21 +405,21 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -531,6 +531,15 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -564,15 +573,6 @@
       "phone": "(352) 268-6987",
       "cities": [
         "Oxford"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -782,7 +782,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 103
+      "count": 105
     },
     {
       "name": "Richmond",
@@ -901,7 +901,7 @@
     },
     {
       "name": "Charlottesville",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Davenport",
@@ -1037,7 +1037,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1106,17 +1106,17 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 18,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 18,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1204,6 +1204,13 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 5,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "cities": [
@@ -1229,13 +1236,6 @@
       "count": 4,
       "cities": [
         "Oxford"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 573,
+  "mfTotal": 446,
+  "total": 576,
   "groups": [
     {
       "key": "inicio",
