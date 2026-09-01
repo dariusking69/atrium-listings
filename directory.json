@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 170,
+      "count": 180,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(863) 591-3978",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -278,9 +278,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 120,
+      "count": 130,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(863) 591-3978",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -678,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 170,
+      "count": 180,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -876,6 +876,10 @@
       "count": 28
     },
     {
+      "name": "Winter Park",
+      "count": 27
+    },
+    {
       "name": "Casselberry",
       "count": 23
     },
@@ -886,10 +890,6 @@
     {
       "name": "Sandston",
       "count": 18
-    },
-    {
-      "name": "Winter Park",
-      "count": 17
     },
     {
       "name": "Lakeland",
@@ -1003,7 +1003,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 16
+      "count": 26
     },
     {
       "name": "PG2",
@@ -1317,7 +1317,7 @@
     }
   ],
   "mfTotal": 440,
-  "total": 560,
+  "total": 570,
   "groups": [
     {
       "key": "inicio",
