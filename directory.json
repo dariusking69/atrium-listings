@@ -60,7 +60,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -74,15 +74,6 @@
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -101,6 +92,15 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -140,6 +140,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Barber Park",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -164,15 +173,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -212,15 +212,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -236,6 +227,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -351,15 +351,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -375,6 +366,15 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -411,6 +411,15 @@
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -459,15 +468,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -504,15 +504,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -528,6 +519,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -742,7 +742,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -752,7 +752,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 23,
+      "count": 22,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 104
+      "count": 103
     },
     {
       "name": "Richmond",
@@ -860,12 +860,12 @@
       "count": 47
     },
     {
-      "name": "Winter Springs",
+      "name": "Gainesville",
       "count": 35
     },
     {
-      "name": "Gainesville",
-      "count": 35
+      "name": "Winter Springs",
+      "count": 34
     },
     {
       "name": "Deltona",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Macon",
@@ -892,24 +892,24 @@
       "count": 19
     },
     {
-      "name": "Lakeland",
-      "count": 12
+      "name": "Ocoee",
+      "count": 18
     },
     {
-      "name": "Ocoee",
-      "count": 9
+      "name": "Lakeland",
+      "count": 12
     },
     {
       "name": "Charlottesville",
       "count": 9
     },
     {
-      "name": "Davenport",
+      "name": "St. Cloud",
       "count": 6
     },
     {
-      "name": "St. Cloud",
-      "count": 6
+      "name": "Davenport",
+      "count": 5
     },
     {
       "name": "Apopka",
@@ -936,6 +936,10 @@
       "count": 3
     },
     {
+      "name": "Titusville",
+      "count": 3
+    },
+    {
       "name": "DeLand",
       "count": 3
     },
@@ -945,10 +949,6 @@
     },
     {
       "name": "Longwood",
-      "count": 2
-    },
-    {
-      "name": "Titusville",
       "count": 2
     },
     {
@@ -1011,7 +1011,7 @@
     },
     {
       "name": "PG3",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG4",
@@ -1027,7 +1027,7 @@
     },
     {
       "name": "PG8",
-      "count": 4
+      "count": 5
     },
     {
       "name": "PG9",
@@ -1044,7 +1044,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1064,13 +1064,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 23,
       "cities": [
@@ -1082,6 +1075,13 @@
       "count": 23,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 22,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1110,6 +1110,13 @@
       "count": 19,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 18,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -1148,13 +1155,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 9,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "cities": [
@@ -1183,13 +1183,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 5,
       "cities": [
@@ -1201,6 +1194,13 @@
       "count": 5,
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 446,
-  "total": 577,
+  "mfTotal": 452,
+  "total": 583,
   "groups": [
     {
       "key": "inicio",
