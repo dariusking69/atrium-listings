@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4056b2a2-4fff-4782-8613-936c99a3722e",
     "lat": 28.3064464,
     "lng": -81.3869467,
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
     "title": "Aston Square- Cozy one Bedroom Luxury Apartment",
     "description": "Discover Luxurious Living in the Heart of Historic Downtown Kissimmee, FL\r\n\r\nWelcome to Aston Square Luxury Apartments, the newest upscale community designed to elevate your lifestyle. Our cozy one-bedroom luxury apartment offers a perfect blend of modern elegance and comfort, ensuring an unparalleled living experience.\r\n\r\nThis thoughtfully designed apartment features a resort-style pool, stylish vinyl plank flooring, stainless steel appliances, spacious walk-in custom closets, keyless entry, and an expansive sun deck for outdoor relaxation.\r\n\r\nResidents can enjoy top-floor amenities, including a media lounge with a rooftop deck, a dedicated co-working space, package lockers, and electric vehicle charging stations. The 24/7 state-of-the-art fitness center allows you to stay active, while the private business lounge with work pods provides a productive environment.\r\n\r\nInside, the modern kitchen boasts quartz countertops and kitchen islands, while the spa-inspired bathroom includes soaking tubs. Smart thermostats ensure personalized climate control, and screened-in patios add an extra layer of comfort. Oversized storage units are also available to accommodate your belongings.\r\n\r\nIdeally located near Walt Disney World, The Loop Town Center, and major highways, Aston Square by Kimaya offers seamless access to premier entertainment, shopping, and dining destinations.\r\n\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
     "terms": [
@@ -35,6 +32,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4056b2a2-4fff-4782-8613-936c99a3722e&source=Website",
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
     "available": "11/10/26",
     "zip": "34744",
     "unit": "",
@@ -59,9 +59,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4ac8a5ab-0091-4f38-8d4d-5d7f7d6e1591",
     "lat": 28.3064464,
     "lng": -81.3869467,
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
     "title": "Aston Square- Cozy 2 Bedroom 2 Bathroom Luxury Apartment Home",
     "description": "Luxury 2-Bedroom, 2-Bathroom Apartment Home in Kissimmee, FL\r\n\r\nDiscover modern comfort and sophisticated living in our spacious 2-bedroom, 2-bathroom apartment home in the heart of Kissimmee, FL. Designed with elegance and functionality in mind, this stunning residence offers a thoughtfully designed split floorplan for ultimate privacy and convenience.\r\n\r\nThe guest bedroom features a walk-in closet and an en-suite bathroom with an oversized soaking tub, while the primary bedroom boasts a spacious walk-in custom closet and a luxurious trackless shower. Throughout the apartment, you'll find premium vinyl plank flooring, top-of-the-line stainless steel appliances, and keyless entry for a seamless living experience.\r\n\r\nResort-style amenities elevate your lifestyle, including a co-working space, package lockers, electric vehicle charging stations, and a spacious sun deck perfect for relaxation. Stay comfortable year-round with interactive thermostats, unwind in the soaking tubs, or step onto your screened-in patio to enjoy the fresh air.\r\n\r\nFor those who prioritize wellness and productivity, our 24/7 fitness center and business lounge with private work pods provide the perfect balance of activity and focus. Additional conveniences such as oversized storage units ensure that you have ample space for all your belongings.\r\n\r\nExperience luxury living at its finest in this exceptional 2-bedroom, 2-bathroom apartment home. Contact us today to schedule a tour and make it yours!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 11/10/26",
     "terms": [
@@ -79,6 +76,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4ac8a5ab-0091-4f38-8d4d-5d7f7d6e1591&source=Website",
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
     "available": "11/10/26",
     "zip": "34744",
     "unit": "",
@@ -12256,8 +12256,8 @@
     "address": "4001 Rosepointe Ct, Tampa, FL 33614",
     "street": "4001 Rosepointe Ct",
     "city": "Tampa",
-    "rent": "$2,500",
-    "rent_val": 2500,
+    "rent": "$2,300",
+    "rent_val": 2300,
     "specs": "2 bd, 2.5 ba, 1,662 Sq. Ft.",
     "beds": 2.0,
     "baths": 2.5,
@@ -18527,49 +18527,6 @@
     "mf": true,
     "cg": [],
     "community": "The Hub"
-  },
-  {
-    "id": 5393,
-    "uuid": "5e35ec80-a717-4d11-8dff-0a70313dff3a",
-    "address": "5856 Auvers Blvd #303, Orlando, FL 32807",
-    "street": "5856 Auvers Blvd #303",
-    "city": "Orlando",
-    "rent": "$1,355",
-    "rent_val": 1355,
-    "specs": "2 bd, 2 ba, 1,023 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1023,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5e35ec80-a717-4d11-8dff-0a70313dff3a",
-    "lat": 28.5723583,
-    "lng": -81.3048628,
-    "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
-    "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,355 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563",
-    "terms": [
-      "Rent: $1,355",
-      "Application Fee: $95",
-      "Security Deposit: $1,563"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/a889ecae-3070-4536-8d6b-9607008474d2/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5e35ec80-a717-4d11-8dff-0a70313dff3a&source=Website",
-    "property": "Baldwin Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-    "phone": "(689) 215-9531",
-    "available": "NOW",
-    "zip": "32807",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Avenues of Baldwin Park"
   },
   {
     "id": 5378,

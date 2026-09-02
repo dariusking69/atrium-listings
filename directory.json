@@ -150,7 +150,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -433,7 +433,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -802,7 +802,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 105
+      "count": 104
     },
     {
       "name": "Richmond",
@@ -1128,7 +1128,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Orlando"
       ]
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 447,
-  "total": 578,
+  "mfTotal": 446,
+  "total": 577,
   "groups": [
     {
       "key": "inicio",
