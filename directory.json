@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 181,
+      "count": 179,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -60,7 +60,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -74,6 +74,15 @@
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -95,21 +104,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -131,24 +140,6 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -158,8 +149,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Baldwin Park",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -185,6 +185,15 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -200,15 +209,6 @@
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -278,7 +278,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 131,
+      "count": 129,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -351,6 +351,15 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -369,21 +378,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -405,24 +414,6 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Barber Park Apartments",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -441,8 +432,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -477,6 +477,15 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -492,15 +501,6 @@
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -678,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 181,
+      "count": 179,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -742,7 +742,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -752,7 +752,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 22,
+      "count": 23,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -802,7 +802,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 15,
+      "count": 16,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -845,11 +845,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 103
+      "count": 104
     },
     {
       "name": "Richmond",
-      "count": 75
+      "count": 74
     },
     {
       "name": "Kissimmee",
@@ -865,7 +865,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -873,7 +873,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Winter Park",
@@ -881,19 +881,19 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 23
+    },
+    {
+      "name": "Sandston",
+      "count": 20
     },
     {
       "name": "Macon",
       "count": 20
     },
     {
-      "name": "Sandston",
-      "count": 19
-    },
-    {
       "name": "Ocoee",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Lakeland",
@@ -940,15 +940,15 @@
       "count": 3
     },
     {
-      "name": "DeLand",
-      "count": 3
-    },
-    {
       "name": "Lake Mary",
       "count": 3
     },
     {
       "name": "Longwood",
+      "count": 2
+    },
+    {
+      "name": "DeLand",
       "count": 2
     },
     {
@@ -1003,7 +1003,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 26
+      "count": 25
     },
     {
       "name": "PG2",
@@ -1044,7 +1044,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1064,6 +1064,13 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 23,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 23,
       "cities": [
@@ -1078,17 +1085,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 22,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 22,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -1106,20 +1113,6 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 18,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Barber Park Apartments",
       "count": 18,
       "cities": [
@@ -1134,8 +1127,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 17,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -1162,6 +1162,13 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
@@ -1173,13 +1180,6 @@
       "count": 6,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 6,
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 452,
-  "total": 583,
+  "mfTotal": 453,
+  "total": 582,
   "groups": [
     {
       "key": "inicio",
