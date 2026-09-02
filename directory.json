@@ -60,7 +60,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -104,15 +104,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -140,12 +131,12 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "Renaissance at Strawberry Creek",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
       "cities": [
-        "Orlando"
+        "Jacksonville"
       ]
     },
     {
@@ -155,6 +146,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -378,15 +378,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -414,12 +405,12 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
       "cities": [
-        "Orlando"
+        "Jacksonville"
       ]
     },
     {
@@ -438,6 +429,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -742,7 +742,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -758,16 +758,6 @@
       ],
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 22,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -791,8 +781,18 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 19,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Barber Park",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -845,7 +845,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 104
+      "count": 103
     },
     {
       "name": "Richmond",
@@ -865,19 +865,19 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Jacksonville",
-      "count": 29
-    },
-    {
       "name": "Winter Park",
       "count": 27
+    },
+    {
+      "name": "Jacksonville",
+      "count": 26
     },
     {
       "name": "Casselberry",
@@ -1044,7 +1044,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -1085,13 +1085,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 22,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
@@ -1113,10 +1106,10 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 18,
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 19,
       "cities": [
-        "Orlando"
+        "Jacksonville"
       ]
     },
     {
@@ -1131,6 +1124,13 @@
       "count": 17,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 17,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 582,
+  "mfTotal": 448,
+  "total": 577,
   "groups": [
     {
       "key": "inicio",
