@@ -41,21 +41,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 37,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 36,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -414,15 +414,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -438,6 +429,15 @@
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 37,
+      "count": 36,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -857,7 +857,7 @@
     },
     {
       "name": "Tampa",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Gainesville",
@@ -1113,13 +1113,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 18,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 17,
       "cities": [
@@ -1131,6 +1124,13 @@
       "count": 17,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 17,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 446,
-  "total": 575,
+  "mfTotal": 445,
+  "total": 574,
   "groups": [
     {
       "key": "inicio",
@@ -1332,7 +1332,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 37
+      "listings": 36
     }
   ]
 }

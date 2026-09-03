@@ -10629,48 +10629,6 @@
     "community": "Westshore Marina Flats"
   },
   {
-    "id": 6145,
-    "uuid": "26eb9080-8542-4bc6-8fa4-2b889ee52b9c",
-    "address": "5009 S West Shore Blvd Unit 12-5215, Tampa, FL 33611",
-    "street": "5009 S West Shore Blvd Unit 12-5215",
-    "city": "Tampa",
-    "rent": "$1,449",
-    "rent_val": 1449,
-    "specs": "1 bd, 1 ba, 589 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 589,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fed02f24-74d9-4f0e-bc6a-143e2c326889/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/26eb9080-8542-4bc6-8fa4-2b889ee52b9c",
-    "lat": 27.8909617,
-    "lng": -82.5270743,
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(813) 531-9129",
-    "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,449 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,449",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/fed02f24-74d9-4f0e-bc6a-143e2c326889/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=26eb9080-8542-4bc6-8fa4-2b889ee52b9c&source=Website",
-    "available": "NOW",
-    "zip": "33611",
-    "unit": "12-5215",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "Westshore Marina Flats"
-  },
-  {
     "id": 6144,
     "uuid": "86bb9ca5-fee9-4e8c-aba4-987a44dd0a75",
     "address": "5009 S West Shore Blvd Unit 10-5215, Tampa, FL 33611",
