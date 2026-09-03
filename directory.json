@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 179,
+      "count": 178,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -132,7 +132,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -278,7 +278,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 129,
+      "count": 128,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -406,7 +406,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -678,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 179,
+      "count": 178,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -782,7 +782,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -861,7 +861,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Winter Springs",
@@ -872,12 +872,12 @@
       "count": 30
     },
     {
-      "name": "Jacksonville",
+      "name": "Winter Park",
       "count": 26
     },
     {
-      "name": "Winter Park",
-      "count": 26
+      "name": "Jacksonville",
+      "count": 25
     },
     {
       "name": "Casselberry",
@@ -1015,7 +1015,7 @@
     },
     {
       "name": "PG4",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG5",
@@ -1107,7 +1107,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Jacksonville"
       ]
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 445,
-  "total": 574,
+  "mfTotal": 444,
+  "total": 572,
   "groups": [
     {
       "key": "inicio",
