@@ -168,7 +168,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -203,21 +203,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -451,7 +451,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -496,7 +496,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -812,22 +812,12 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 6,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -840,12 +830,22 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 5,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 103
+      "count": 102
     },
     {
       "name": "Richmond",
@@ -872,11 +872,11 @@
       "count": 30
     },
     {
-      "name": "Winter Park",
-      "count": 27
+      "name": "Jacksonville",
+      "count": 26
     },
     {
-      "name": "Jacksonville",
+      "name": "Winter Park",
       "count": 26
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
@@ -1177,7 +1177,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 6,
+      "count": 5,
       "cities": [
         "Orlando"
       ]
@@ -1316,8 +1316,8 @@
       ]
     }
   ],
-  "mfTotal": 448,
-  "total": 577,
+  "mfTotal": 446,
+  "total": 575,
   "groups": [
     {
       "key": "inicio",
