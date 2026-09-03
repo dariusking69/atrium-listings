@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 188,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 258-1332",
       "cities": [
@@ -34,6 +34,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
         "Winter Park",
@@ -42,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -68,8 +69,17 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -132,7 +142,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -140,17 +150,8 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -159,7 +160,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -278,7 +279,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 137,
+      "count": 138,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 258-1332",
       "cities": [
@@ -308,6 +309,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
         "Winter Park",
@@ -342,8 +344,17 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -406,7 +417,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -415,7 +426,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -423,17 +434,8 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -442,7 +444,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -678,7 +680,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 188,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -720,6 +722,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
         "Winter Park",
@@ -728,7 +731,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 37,
+      "count": 36,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -748,6 +751,16 @@
       ],
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 28,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -781,18 +794,8 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 17,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -802,7 +805,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -845,15 +848,15 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 103
+      "count": 113
     },
     {
       "name": "Richmond",
-      "count": 76
+      "count": 75
     },
     {
       "name": "Tampa",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Kissimmee",
@@ -877,7 +880,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Casselberry",
@@ -893,7 +896,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Lakeland",
@@ -1000,6 +1003,10 @@
       "count": 1
     },
     {
+      "name": "Wesley Chapel",
+      "count": 1
+    },
+    {
       "name": "Melbourne",
       "count": 1
     }
@@ -1023,7 +1030,7 @@
     },
     {
       "name": "PG5",
-      "count": 13
+      "count": 14
     },
     {
       "name": "PG7",
@@ -1061,8 +1068,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 28,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Richmond"
       ]
@@ -1111,35 +1125,28 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Tampa"
       ]
     },
     {
       "name": "Ocoee Village",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Ocoee"
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Jacksonville"
       ]
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Orlando"
       ]
@@ -1320,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 446,
-  "total": 583,
+  "mfTotal": 452,
+  "total": 590,
   "groups": [
     {
       "key": "inicio",
@@ -1336,7 +1343,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 37
+      "listings": 36
     }
   ]
 }
