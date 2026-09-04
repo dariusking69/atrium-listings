@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 188,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -70,7 +70,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -279,7 +279,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 140,
+      "count": 139,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -345,7 +345,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -680,7 +680,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 188,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 28,
+      "count": 27,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -848,7 +848,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 107
     },
     {
       "name": "Richmond",
@@ -919,10 +919,6 @@
       "count": 4
     },
     {
-      "name": "Apopka",
-      "count": 4
-    },
-    {
       "name": "Sanford",
       "count": 4
     },
@@ -936,6 +932,10 @@
     },
     {
       "name": "Triangle",
+      "count": 3
+    },
+    {
+      "name": "Apopka",
       "count": 3
     },
     {
@@ -1018,7 +1018,7 @@
     },
     {
       "name": "PG2",
-      "count": 23
+      "count": 22
     },
     {
       "name": "PG3",
@@ -1069,7 +1069,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 28,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 436,
-  "total": 576,
+  "mfTotal": 435,
+  "total": 574,
   "groups": [
     {
       "key": "inicio",
