@@ -4,7 +4,7 @@
       "name": "Atrium Management Company",
       "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 428-8643",
+      "phone": "(407) 205-8418",
       "cities": [
         "Apopka",
         "Auburndale",
@@ -42,21 +42,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 36,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 35,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -249,19 +249,19 @@
       ]
     },
     {
-      "name": "Mission Club",
+      "name": "Valencia Isle",
       "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
       ]
@@ -279,9 +279,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 140,
+      "count": 141,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 428-8643",
+      "phone": "(407) 205-8418",
       "cities": [
         "Apopka",
         "Auburndale",
@@ -542,30 +542,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(434) 443-6987",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -587,6 +569,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -596,12 +587,12 @@
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "The Jeffersonian",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(434) 443-6987",
       "cities": [
-        "Tampa"
+        "Charlottesville"
       ]
     },
     {
@@ -629,6 +620,15 @@
       "phone": "(352) 372-3826",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -731,7 +731,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 36,
+      "count": 35,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -836,7 +836,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "name": "Tampa",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Kissimmee",
@@ -904,7 +904,7 @@
     },
     {
       "name": "Charlottesville",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Davenport",
@@ -1014,7 +1014,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 32
+      "count": 33
     },
     {
       "name": "PG2",
@@ -1222,24 +1222,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 4,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1257,6 +1243,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 3,
       "cities": [
@@ -1264,10 +1257,10 @@
       ]
     },
     {
-      "name": "The William at Westshore",
+      "name": "The Jeffersonian",
       "count": 3,
       "cities": [
-        "Tampa"
+        "Charlottesville"
       ]
     },
     {
@@ -1289,6 +1282,13 @@
       "count": 3,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 2,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 443,
-  "total": 583,
+  "mfTotal": 440,
+  "total": 581,
   "groups": [
     {
       "key": "inicio",
@@ -1343,7 +1343,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 36
+      "listings": 35
     }
   ]
 }
