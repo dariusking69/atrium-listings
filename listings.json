@@ -20305,9 +20305,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4dc7f651-4264-481f-82fb-8a1508f2025d",
     "lat": 28.7015737,
     "lng": -81.3218121,
-    "property": "Ave. at Winter Springs",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-    "phone": "(689) 300-4121",
     "title": "2 Bedroom 2 Bathroom Townhome",
     "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,536 - $1,650 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
     "terms": [
@@ -20335,6 +20332,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4dc7f651-4264-481f-82fb-8a1508f2025d&source=Website",
+    "property": "Ave. at Winter Springs",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+    "phone": "(689) 300-4121",
     "available": "NOW",
     "zip": "32708",
     "unit": "",
@@ -20459,9 +20459,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/29d47b92-eab3-40f4-a7d7-00ec51695774",
     "lat": 28.50578,
     "lng": -81.3157,
-    "property": "Barber Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-    "phone": "(689) 215-6283",
     "title": "Laketree",
     "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,083 - $1,154 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/10/26",
     "terms": [
@@ -20475,6 +20472,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=29d47b92-eab3-40f4-a7d7-00ec51695774&source=Website",
+    "property": "Barber Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+    "phone": "(689) 215-6283",
     "available": "10/10/26",
     "zip": "32812",
     "unit": "",
