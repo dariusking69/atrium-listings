@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2ec63550-f4cb-4084-b923-80f22dd9f97b",
     "lat": 27.9392689,
     "lng": -82.4536768,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(813) 428-8643",
     "title": "\u2728 Bright & Modern Harbour Island Condo",
     "description": "Welcome to 700 S Harbour Island Blvd #238, a beautifully refreshed 2-bedroom, 2-bathroom condo offering a bright, modern feel in one of Tampa\u2019s most desirable locations.\r\n\r\nEnjoy abundant natural light, stylish white cabinetry, and durable vinyl flooring throughout. The open living space creates a welcoming setting for relaxing or entertaining, while the spacious layout offers comfort and functionality.\r\n\r\nIdeally located on Harbour Island, just minutes from Downtown Tampa, Water Street, dining, entertainment, and waterfront attractions.\r\n\r\nFresh, bright, and move-in ready\u2014come enjoy the best of Tampa living!\r\n\r\nProfessional Managed By: Atrium Management\r\nCall: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com \r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,250 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $3,250 \n\n\n Available Now",
     "terms": [
@@ -54,6 +51,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2ec63550-f4cb-4084-b923-80f22dd9f97b&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(813) 428-8643",
     "available": "NOW",
     "zip": "33602",
     "unit": "",
