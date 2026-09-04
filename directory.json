@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -123,15 +123,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -159,8 +150,17 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Baldwin Park",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -279,7 +279,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 139,
+      "count": 140,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -398,15 +398,6 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -443,8 +434,17 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -680,7 +680,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 190,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -774,16 +774,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 20,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 19,
       "communities": [
@@ -804,8 +794,18 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 16,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Baldwin Park",
-      "count": 13,
+      "count": 12,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -848,7 +848,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 109
     },
     {
       "name": "Richmond",
@@ -891,11 +891,11 @@
       "count": 20
     },
     {
-      "name": "Macon",
-      "count": 20
+      "name": "Ocoee",
+      "count": 16
     },
     {
-      "name": "Ocoee",
+      "name": "Macon",
       "count": 16
     },
     {
@@ -913,6 +913,10 @@
     {
       "name": "St. Cloud",
       "count": 5
+    },
+    {
+      "name": "Winter Garden",
+      "count": 4
     },
     {
       "name": "Apopka",
@@ -933,10 +937,6 @@
     {
       "name": "Belleview",
       "count": 4
-    },
-    {
-      "name": "Winter Garden",
-      "count": 3
     },
     {
       "name": "Triangle",
@@ -1022,7 +1022,7 @@
     },
     {
       "name": "PG3",
-      "count": 14
+      "count": 15
     },
     {
       "name": "PG4",
@@ -1110,13 +1110,6 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 20,
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 19,
       "cities": [
@@ -1145,8 +1138,15 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 16,
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
-      "count": 13,
+      "count": 12,
       "cities": [
         "Orlando"
       ]
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 448,
-  "total": 587,
+  "mfTotal": 443,
+  "total": 583,
   "groups": [
     {
       "key": "inicio",
