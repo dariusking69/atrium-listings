@@ -1,5 +1,48 @@
 [
   {
+    "id": 6574,
+    "uuid": "54d1d6fa-d125-4179-a1a6-813a74a2b33c",
+    "address": "5212 Lake Margaret Drive Unit # 212 - 1209, Orlando, FL 32812",
+    "street": "5212 Lake Margaret Drive Unit # 212 - 1209",
+    "city": "Orlando",
+    "rent": "$1,410",
+    "rent_val": 1410,
+    "specs": "1 bd, 1 ba, 780 Sq. Ft.",
+    "beds": 1.0,
+    "baths": 1.0,
+    "sqft": 780,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/54d1d6fa-d125-4179-a1a6-813a74a2b33c",
+    "lat": 28.5041853,
+    "lng": -81.3179504,
+    "property": "Barber Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+    "phone": "(689) 215-6283",
+    "title": "780 sq ft Woodhaven",
+    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/1/26",
+    "terms": [
+      "Rent: $1,410",
+      "Application Fee: $99",
+      "Available 10/1/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
+      "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=54d1d6fa-d125-4179-a1a6-813a74a2b33c&source=Website",
+    "available": "10/1/26",
+    "zip": "32812",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Barber Park Apartments"
+  },
+  {
     "id": 6570,
     "uuid": "f7cd08b4-da19-45cf-91dc-6c3e623f94cd",
     "address": "02 Sycamore Ct Unit # 02-106, Winter Springs, FL 32708",
@@ -14599,49 +14642,6 @@
     "mf": false,
     "cg": [],
     "community": "Atrium Management Company"
-  },
-  {
-    "id": 5821,
-    "uuid": "3822ea39-0e68-42e3-939b-b16e6bd23dd5",
-    "address": "5450 Lake Margaret Drive Unit # 450 - 1411, Orlando, FL 32812",
-    "street": "5450 Lake Margaret Drive Unit # 450 - 1411",
-    "city": "Orlando",
-    "rent": "$1,410",
-    "rent_val": 1410,
-    "specs": "1 bd, 1 ba, 767 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 767,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4e795feb-5594-4b17-8570-e91c34a71d83/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3822ea39-0e68-42e3-939b-b16e6bd23dd5",
-    "lat": 28.50566,
-    "lng": -81.31484,
-    "title": "767 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/8/26",
-    "terms": [
-      "Rent: $1,410",
-      "Application Fee: $99",
-      "Available 9/8/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/4e795feb-5594-4b17-8570-e91c34a71d83/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3822ea39-0e68-42e3-939b-b16e6bd23dd5&source=Website",
-    "property": "Barber Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-    "phone": "(689) 215-6283",
-    "available": "9/8/26",
-    "zip": "32812",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Barber Park Apartments"
   },
   {
     "id": 5812,
