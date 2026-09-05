@@ -43,7 +43,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 35,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -61,7 +61,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -96,21 +96,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -159,21 +159,21 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -258,21 +258,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Southampton Apartments",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
       "phone": "(703) 420-3619",
       "cities": [
         "Triangle"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     }
   ],
@@ -327,7 +327,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -371,21 +371,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -408,7 +408,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -443,15 +443,6 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -467,6 +458,15 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -569,15 +569,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Southampton Apartments",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -620,6 +611,15 @@
       "phone": "(352) 372-3826",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -731,7 +731,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 35,
+      "count": 34,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -745,7 +745,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -804,16 +804,6 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 12,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "communities": [
@@ -821,6 +811,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 9,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -836,7 +836,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 2,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -848,7 +848,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 106
+      "count": 102
     },
     {
       "name": "Richmond",
@@ -856,11 +856,11 @@
     },
     {
       "name": "Tampa",
-      "count": 49
+      "count": 48
     },
     {
       "name": "Kissimmee",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Gainesville",
@@ -868,7 +868,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1089,17 +1089,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 22,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 21,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 21,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1118,7 +1118,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Tampa"
       ]
@@ -1145,13 +1145,6 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 12,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "cities": [
@@ -1163,6 +1156,13 @@
       "count": 10,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 9,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1243,13 +1243,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Southampton Apartments",
       "count": 3,
       "cities": [
@@ -1282,6 +1275,13 @@
       "count": 3,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 433,
-  "total": 572,
+  "mfTotal": 428,
+  "total": 567,
   "groups": [
     {
       "key": "inicio",
@@ -1343,7 +1343,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 35
+      "listings": 34
     }
   ]
 }
