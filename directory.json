@@ -61,7 +61,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -105,21 +105,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -354,7 +354,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -380,21 +380,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -745,7 +745,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -852,7 +852,7 @@
     },
     {
       "name": "Richmond",
-      "count": 75
+      "count": 74
     },
     {
       "name": "Tampa",
@@ -860,7 +860,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Gainesville",
@@ -868,7 +868,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1076,7 +1076,7 @@
     },
     {
       "name": "The Hub",
-      "count": 25,
+      "count": 24,
       "cities": [
         "Richmond"
       ]
@@ -1096,17 +1096,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 21,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 20,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 428,
-  "total": 567,
+  "mfTotal": 425,
+  "total": 564,
   "groups": [
     {
       "key": "inicio",
