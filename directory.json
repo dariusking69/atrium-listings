@@ -96,21 +96,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -371,21 +371,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -765,7 +765,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 22,
+      "count": 21,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -880,7 +880,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Jacksonville",
@@ -1089,17 +1089,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 22,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 22,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 434,
-  "total": 573,
+  "mfTotal": 433,
+  "total": 572,
   "groups": [
     {
       "key": "inicio",
