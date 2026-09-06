@@ -124,7 +124,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -399,7 +399,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -775,7 +775,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -860,7 +860,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 45
+      "count": 44
     },
     {
       "name": "Gainesville",
@@ -1111,7 +1111,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Kissimmee"
       ]
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 422,
-  "total": 561,
+  "mfTotal": 421,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",

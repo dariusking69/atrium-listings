@@ -7002,50 +7002,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 6335,
-    "uuid": "11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e",
-    "address": "1540 Neo Landings Loop, Unit 208, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,020",
-    "rent_val": 2020,
-    "specs": "2 bd, 2 ba, 1,132 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1132,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
-    "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available 10/18/26",
-    "terms": [
-      "Rent: $2,020",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available 10/18/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ae69246-847a-4c7b-8c0c-5acbcbd235e8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=11b7a46d-5dd7-4fa8-acad-a4fd997bcf4e&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "10/18/26",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Aston Square Apartments"
-  },
-  {
     "id": 6332,
     "uuid": "73c3df48-a776-4f8a-b1d0-1ecd9b828248",
     "address": "4122 Southway Ln Apt 43, Triangle, VA 22172-1830",
