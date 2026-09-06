@@ -168,21 +168,21 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -461,21 +461,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -815,7 +815,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 9,
+      "count": 8,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -848,7 +848,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 102
+      "count": 101
     },
     {
       "name": "Richmond",
@@ -1159,17 +1159,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 9,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 9,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 8,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 424,
-  "total": 563,
+  "mfTotal": 423,
+  "total": 562,
   "groups": [
     {
       "key": "inicio",
