@@ -15,9 +15,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/54d1d6fa-d125-4179-a1a6-813a74a2b33c",
     "lat": 28.5041853,
     "lng": -81.3179504,
-    "property": "Barber Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-    "phone": "(689) 215-6283",
     "title": "780 sq ft Woodhaven",
     "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,410 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 10/1/26",
     "terms": [
@@ -34,6 +31,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=54d1d6fa-d125-4179-a1a6-813a74a2b33c&source=Website",
+    "property": "Barber Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+    "phone": "(689) 215-6283",
     "available": "10/1/26",
     "zip": "32812",
     "unit": "",
