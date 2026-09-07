@@ -61,7 +61,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 29,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -195,21 +195,21 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -326,21 +326,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -489,7 +489,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 5,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -745,7 +745,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 29,
+      "count": 28,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -867,12 +867,12 @@
       "count": 34
     },
     {
-      "name": "Winter Springs",
+      "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Deltona",
-      "count": 30
+      "name": "Winter Springs",
+      "count": 29
     },
     {
       "name": "Winter Park",
@@ -908,7 +908,7 @@
     },
     {
       "name": "Davenport",
-      "count": 5
+      "count": 6
     },
     {
       "name": "St. Cloud",
@@ -1054,17 +1054,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 5,
+      "count": 6,
       "cities": [
         "Davenport"
       ]
