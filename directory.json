@@ -42,21 +42,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 34,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 33,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -96,21 +96,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -371,21 +371,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -506,15 +506,6 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
@@ -548,6 +539,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -731,7 +731,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 34,
+      "count": 33,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -765,7 +765,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "name": "Tampa",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Kissimmee",
@@ -879,11 +879,11 @@
       "count": 27
     },
     {
-      "name": "Casselberry",
-      "count": 21
+      "name": "Sandston",
+      "count": 20
     },
     {
-      "name": "Sandston",
+      "name": "Casselberry",
       "count": 20
     },
     {
@@ -1089,17 +1089,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 21,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1194,13 +1194,6 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 5,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 5,
       "cities": [
@@ -1226,6 +1219,13 @@
       "count": 4,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 4,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 419,
-  "total": 558,
+  "mfTotal": 417,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
@@ -1343,7 +1343,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 34
+      "listings": 33
     }
   ]
 }
