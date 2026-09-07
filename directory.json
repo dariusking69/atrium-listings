@@ -132,15 +132,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -156,6 +147,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -416,15 +416,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -440,6 +431,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -784,16 +784,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 16,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "communities": [
@@ -801,6 +791,16 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 15,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -883,11 +883,11 @@
       "count": 21
     },
     {
-      "name": "Jacksonville",
-      "count": 21
+      "name": "Sandston",
+      "count": 20
     },
     {
-      "name": "Sandston",
+      "name": "Jacksonville",
       "count": 20
     },
     {
@@ -1124,13 +1124,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 16,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 16,
       "cities": [
@@ -1142,6 +1135,13 @@
       "count": 15,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 15,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1327,8 +1327,8 @@
       ]
     }
   ],
-  "mfTotal": 420,
-  "total": 559,
+  "mfTotal": 419,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
