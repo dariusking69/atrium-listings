@@ -2,13 +2,14 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 191,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(321) 368-1138",
       "cities": [
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Celebration",
         "Charlottesville",
         "Clearwater",
         "Daytona Beach",
@@ -62,7 +63,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 28,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -97,21 +98,21 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -280,13 +281,14 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 140,
+      "count": 142,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(321) 368-1138",
       "cities": [
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Celebration",
         "Clearwater",
         "Daytona Beach",
         "DeLand",
@@ -328,21 +330,21 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 30,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -373,21 +375,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -682,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 191,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -699,6 +701,7 @@
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Celebration",
         "Charlottesville",
         "Clearwater",
         "Daytona Beach",
@@ -748,7 +751,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 28,
+      "count": 30,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -768,7 +771,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 20,
+      "count": 21,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -851,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 101
     },
     {
       "name": "Richmond",
@@ -870,23 +873,23 @@
       "count": 34
     },
     {
-      "name": "Deltona",
-      "count": 30
+      "name": "Winter Springs",
+      "count": 31
     },
     {
-      "name": "Winter Springs",
-      "count": 29
+      "name": "Deltona",
+      "count": 30
     },
     {
       "name": "Winter Park",
       "count": 27
     },
     {
-      "name": "Sandston",
-      "count": 20
+      "name": "Casselberry",
+      "count": 21
     },
     {
-      "name": "Casselberry",
+      "name": "Sandston",
       "count": 20
     },
     {
@@ -966,6 +969,10 @@
       "count": 2
     },
     {
+      "name": "Celebration",
+      "count": 1
+    },
+    {
       "name": "Saint Cloud",
       "count": 1
     },
@@ -1017,7 +1024,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 33
+      "count": 34
     },
     {
       "name": "PG2",
@@ -1057,17 +1064,17 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 30,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 28,
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -1092,17 +1099,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1330,8 +1337,8 @@
       ]
     }
   ],
-  "mfTotal": 416,
-  "total": 556,
+  "mfTotal": 419,
+  "total": 561,
   "groups": [
     {
       "key": "inicio",
