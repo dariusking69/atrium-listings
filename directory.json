@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 188,
+      "count": 189,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -31,6 +31,7 @@
         "Riverview",
         "Saint Cloud",
         "Sanford",
+        "St. Cloud",
         "Tampa",
         "Titusville",
         "Umatilla",
@@ -279,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 139,
+      "count": 140,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -306,6 +307,7 @@
         "Riverview",
         "Saint Cloud",
         "Sanford",
+        "St. Cloud",
         "Tampa",
         "Titusville",
         "Umatilla",
@@ -680,7 +682,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 188,
+      "count": 189,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -719,6 +721,7 @@
         "Riverview",
         "Saint Cloud",
         "Sanford",
+        "St. Cloud",
         "Tampa",
         "Titusville",
         "Umatilla",
@@ -912,7 +915,7 @@
     },
     {
       "name": "St. Cloud",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -1022,7 +1025,7 @@
     },
     {
       "name": "PG3",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG4",
@@ -1328,7 +1331,7 @@
     }
   ],
   "mfTotal": 416,
-  "total": 555,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
