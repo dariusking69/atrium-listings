@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 191,
+      "count": 186,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(321) 368-1138",
       "cities": [
@@ -45,7 +45,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -134,6 +134,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -153,7 +162,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -267,21 +276,12 @@
       "cities": [
         "Triangle"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 142,
+      "count": 138,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(321) 368-1138",
       "cities": [
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -411,6 +411,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -439,7 +448,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -555,15 +564,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(352) 268-6987",
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -591,6 +591,15 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(352) 268-6987",
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Janie B Apartments",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -615,15 +624,6 @@
       "phone": "(352) 372-3826",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -684,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 191,
+      "count": 186,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -790,6 +790,16 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 16,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 16,
       "communities": [
@@ -801,7 +811,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 15,
+      "count": 14,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -839,22 +849,12 @@
       "cities": [
         "Gainesville"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 2,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 101
+      "count": 113
     },
     {
       "name": "Richmond",
@@ -882,7 +882,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Casselberry",
@@ -894,7 +894,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Macon",
@@ -929,10 +929,6 @@
       "count": 4
     },
     {
-      "name": "Oxford",
-      "count": 4
-    },
-    {
       "name": "DeLand",
       "count": 4
     },
@@ -942,6 +938,10 @@
     },
     {
       "name": "Apopka",
+      "count": 3
+    },
+    {
+      "name": "Oxford",
       "count": 3
     },
     {
@@ -1024,11 +1024,11 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 34
+      "count": 33
     },
     {
       "name": "PG2",
-      "count": 22
+      "count": 19
     },
     {
       "name": "PG3",
@@ -1058,7 +1058,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1127,6 +1127,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 16,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 16,
       "cities": [
@@ -1149,7 +1156,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Jacksonville"
       ]
@@ -1239,13 +1246,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 4,
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "cities": [
@@ -1267,6 +1267,13 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 3,
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Janie B Apartments",
       "count": 3,
       "cities": [
@@ -1285,13 +1292,6 @@
       "count": 3,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1337,8 +1337,8 @@
       ]
     }
   ],
-  "mfTotal": 419,
-  "total": 561,
+  "mfTotal": 432,
+  "total": 570,
   "groups": [
     {
       "key": "inicio",
