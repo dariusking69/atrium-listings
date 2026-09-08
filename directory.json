@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 186,
+      "count": 188,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(321) 368-1138",
+      "phone": "(407) 585-2721",
       "cities": [
         "Apopka",
         "Auburndale",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -134,15 +134,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -152,8 +143,17 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -162,7 +162,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 14,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -206,21 +206,21 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -281,9 +281,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 138,
+      "count": 140,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(321) 368-1138",
+      "phone": "(407) 585-2721",
       "cities": [
         "Apopka",
         "Auburndale",
@@ -349,7 +349,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -411,15 +411,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -438,8 +429,17 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -448,7 +448,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 14,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -502,7 +502,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -684,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 186,
+      "count": 188,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -761,7 +761,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 26,
+      "count": 25,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -790,16 +790,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 16,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "communities": [
@@ -810,8 +800,18 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
+      "name": "Mission Club",
       "count": 14,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 11,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -854,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 113
+      "count": 110
     },
     {
       "name": "Richmond",
@@ -862,7 +862,7 @@
     },
     {
       "name": "Tampa",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Kissimmee",
@@ -878,7 +878,7 @@
     },
     {
       "name": "Deltona",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Winter Park",
@@ -894,7 +894,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 19
+      "count": 16
     },
     {
       "name": "Macon",
@@ -902,7 +902,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 15
+      "count": 14
     },
     {
       "name": "Lakeland",
@@ -913,12 +913,12 @@
       "count": 8
     },
     {
-      "name": "Davenport",
+      "name": "St. Cloud",
       "count": 6
     },
     {
-      "name": "St. Cloud",
-      "count": 6
+      "name": "Davenport",
+      "count": 5
     },
     {
       "name": "Winter Garden",
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "PG2",
-      "count": 19
+      "count": 20
     },
     {
       "name": "PG3",
@@ -1079,7 +1079,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Orlando"
       ]
@@ -1127,13 +1127,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 16,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 16,
       "cities": [
@@ -1148,15 +1141,22 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 14,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Ocoee"
       ]
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 14,
+      "count": 11,
       "cities": [
         "Jacksonville"
       ]
@@ -1198,7 +1198,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 6,
+      "count": 5,
       "cities": [
         "Davenport"
       ]
@@ -1337,8 +1337,8 @@
       ]
     }
   ],
-  "mfTotal": 432,
-  "total": 570,
+  "mfTotal": 424,
+  "total": 564,
   "groups": [
     {
       "key": "inicio",
