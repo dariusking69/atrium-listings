@@ -2,13 +2,15 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 188,
+      "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
+        "Altamonte Springs",
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Casselberry",
         "Celebration",
         "Charlottesville",
         "Clearwater",
@@ -281,13 +283,15 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 140,
+      "count": 142,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
+        "Altamonte Springs",
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Casselberry",
         "Celebration",
         "Clearwater",
         "Daytona Beach",
@@ -684,7 +688,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 188,
+      "count": 190,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -698,9 +702,11 @@
         "The Jeffersonian"
       ],
       "cities": [
+        "Altamonte Springs",
         "Apopka",
         "Auburndale",
         "Belleview",
+        "Casselberry",
         "Celebration",
         "Charlottesville",
         "Clearwater",
@@ -854,7 +860,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -882,11 +888,11 @@
     },
     {
       "name": "Winter Park",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Sandston",
@@ -981,6 +987,10 @@
       "count": 1
     },
     {
+      "name": "Altamonte Springs",
+      "count": 1
+    },
+    {
       "name": "Auburndale",
       "count": 1
     },
@@ -1028,7 +1038,7 @@
     },
     {
       "name": "PG2",
-      "count": 20
+      "count": 22
     },
     {
       "name": "PG3",
@@ -1338,7 +1348,7 @@
     }
   ],
   "mfTotal": 424,
-  "total": 564,
+  "total": 566,
   "groups": [
     {
       "key": "inicio",
