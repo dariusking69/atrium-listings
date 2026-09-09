@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 187,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -17,7 +17,6 @@
         "Daytona Beach",
         "DeLand",
         "Deltona",
-        "Edgewater",
         "Gainesville",
         "Haines City",
         "Kissimmee",
@@ -47,7 +46,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -283,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 141,
+      "count": 139,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -297,7 +296,6 @@
         "Daytona Beach",
         "DeLand",
         "Deltona",
-        "Edgewater",
         "Gainesville",
         "Haines City",
         "Kissimmee",
@@ -326,7 +324,7 @@
     },
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -688,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 187,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -713,7 +711,6 @@
         "Daytona Beach",
         "DeLand",
         "Deltona",
-        "Edgewater",
         "Gainesville",
         "Haines City",
         "Kissimmee",
@@ -860,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -868,7 +865,7 @@
     },
     {
       "name": "Tampa",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Kissimmee",
@@ -999,10 +996,6 @@
       "count": 1
     },
     {
-      "name": "Edgewater",
-      "count": 1
-    },
-    {
       "name": "Riverview",
       "count": 1
     },
@@ -1038,7 +1031,7 @@
     },
     {
       "name": "PG2",
-      "count": 22
+      "count": 21
     },
     {
       "name": "PG3",
@@ -1050,7 +1043,7 @@
     },
     {
       "name": "PG5",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG7",
@@ -1068,7 +1061,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 35,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1347,8 +1340,8 @@
       ]
     }
   ],
-  "mfTotal": 424,
-  "total": 565,
+  "mfTotal": 425,
+  "total": 564,
   "groups": [
     {
       "key": "inicio",
