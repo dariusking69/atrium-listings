@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 189,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -118,7 +118,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -136,7 +136,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -282,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 139,
+      "count": 141,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -396,7 +396,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -423,7 +423,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -686,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 189,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -794,7 +794,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -869,11 +869,11 @@
     },
     {
       "name": "Kissimmee",
-      "count": 43
+      "count": 42
     },
     {
       "name": "Gainesville",
-      "count": 34
+      "count": 36
     },
     {
       "name": "Winter Springs",
@@ -901,7 +901,7 @@
     },
     {
       "name": "Macon",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Ocoee",
@@ -1035,11 +1035,11 @@
     },
     {
       "name": "PG3",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG4",
-      "count": 14
+      "count": 16
     },
     {
       "name": "PG5",
@@ -1047,7 +1047,7 @@
     },
     {
       "name": "PG7",
-      "count": 7
+      "count": 6
     },
     {
       "name": "PG8",
@@ -1117,7 +1117,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 20,
+      "count": 19,
       "cities": [
         "Kissimmee"
       ]
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Macon"
       ]
@@ -1340,7 +1340,7 @@
       ]
     }
   ],
-  "mfTotal": 425,
+  "mfTotal": 423,
   "total": 564,
   "groups": [
     {
