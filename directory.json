@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 186,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -54,7 +54,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -116,21 +116,21 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 13,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -281,7 +281,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 140,
+      "count": 139,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -393,21 +393,21 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 13,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -609,15 +609,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -663,6 +654,15 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -684,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 187,
+      "count": 186,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -737,7 +737,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 34,
+      "count": 33,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -781,7 +781,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -801,7 +801,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 13,
+      "count": 11,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -854,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 106
     },
     {
       "name": "Richmond",
@@ -862,7 +862,7 @@
     },
     {
       "name": "Tampa",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Kissimmee",
@@ -894,7 +894,7 @@
     },
     {
       "name": "Macon",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Jacksonville",
@@ -921,11 +921,11 @@
       "count": 5
     },
     {
-      "name": "Sanford",
-      "count": 5
+      "name": "DeLand",
+      "count": 4
     },
     {
-      "name": "DeLand",
+      "name": "Sanford",
       "count": 4
     },
     {
@@ -1024,7 +1024,7 @@
     },
     {
       "name": "PG2",
-      "count": 22
+      "count": 21
     },
     {
       "name": "PG3",
@@ -1109,17 +1109,17 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 19,
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 19,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 18,
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -1145,7 +1145,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 13,
+      "count": 11,
       "cities": [
         "Orlando"
       ]
@@ -1277,13 +1277,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 2,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 2,
       "cities": [
@@ -1319,6 +1312,13 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 421,
-  "total": 561,
+  "mfTotal": 417,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
@@ -1349,7 +1349,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 34
+      "listings": 33
     }
   ]
 }
