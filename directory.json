@@ -64,7 +64,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 29,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -332,21 +332,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -754,7 +754,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 29,
+      "count": 28,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -881,7 +881,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Winter Park",
@@ -1067,17 +1067,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1340,8 +1340,8 @@
       ]
     }
   ],
-  "mfTotal": 419,
-  "total": 560,
+  "mfTotal": 418,
+  "total": 559,
   "groups": [
     {
       "key": "inicio",
