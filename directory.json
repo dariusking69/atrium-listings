@@ -100,7 +100,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -144,21 +144,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -431,21 +431,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -774,7 +774,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -804,7 +804,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 14,
+      "count": 13,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -857,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 110
+      "count": 109
     },
     {
       "name": "Richmond",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -1103,7 +1103,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Casselberry"
       ]
@@ -1144,17 +1144,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 14,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 13,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1340,8 +1340,8 @@
       ]
     }
   ],
-  "mfTotal": 421,
-  "total": 562,
+  "mfTotal": 419,
+  "total": 560,
   "groups": [
     {
       "key": "inicio",
