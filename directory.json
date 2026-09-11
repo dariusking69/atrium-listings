@@ -54,7 +54,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -555,21 +555,21 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 33,
+      "count": 32,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -862,7 +862,7 @@
     },
     {
       "name": "Tampa",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Kissimmee",
@@ -1235,17 +1235,17 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 4,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Case Residences",
+      "count": 3,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 412,
-  "total": 550,
+  "mfTotal": 411,
+  "total": 549,
   "groups": [
     {
       "key": "inicio",
@@ -1349,7 +1349,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 33
+      "listings": 32
     }
   ]
 }
