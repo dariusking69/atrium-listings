@@ -126,7 +126,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -403,7 +403,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -781,7 +781,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -894,7 +894,7 @@
     },
     {
       "name": "Macon",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Jacksonville",
@@ -1117,7 +1117,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Macon"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 413,
-  "total": 551,
+  "mfTotal": 412,
+  "total": 550,
   "groups": [
     {
       "key": "inicio",
