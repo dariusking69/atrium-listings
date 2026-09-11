@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -45,7 +45,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -99,7 +99,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -117,7 +117,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -152,15 +152,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -188,6 +179,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -197,21 +197,21 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -281,7 +281,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 138,
+      "count": 137,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -376,7 +376,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -394,7 +394,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -438,15 +438,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -483,6 +474,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -492,21 +492,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -684,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 184,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -771,7 +771,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -800,16 +800,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 10,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "communities": [
@@ -830,8 +820,18 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 8,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Baldwin Park",
-      "count": 7,
+      "count": 6,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -854,11 +854,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 101
+      "count": 99
     },
     {
       "name": "Richmond",
-      "count": 74
+      "count": 73
     },
     {
       "name": "Tampa",
@@ -866,7 +866,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Gainesville",
@@ -886,7 +886,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -1054,7 +1054,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1096,7 +1096,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Casselberry"
       ]
@@ -1110,7 +1110,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Kissimmee"
       ]
@@ -1144,13 +1144,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "cities": [
@@ -1179,6 +1172,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 7,
       "cities": [
@@ -1186,17 +1186,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 7,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 6,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 410,
-  "total": 548,
+  "mfTotal": 406,
+  "total": 543,
   "groups": [
     {
       "key": "inicio",
