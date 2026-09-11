@@ -144,7 +144,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -215,21 +215,21 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -430,7 +430,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -511,7 +511,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -902,7 +902,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Lakeland",
@@ -913,12 +913,12 @@
       "count": 8
     },
     {
-      "name": "Davenport",
+      "name": "St. Cloud",
       "count": 6
     },
     {
-      "name": "St. Cloud",
-      "count": 6
+      "name": "Davenport",
+      "count": 5
     },
     {
       "name": "DeLand",
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Ocoee"
       ]
@@ -1201,7 +1201,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 6,
+      "count": 5,
       "cities": [
         "Davenport"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 408,
-  "total": 545,
+  "mfTotal": 406,
+  "total": 543,
   "groups": [
     {
       "key": "inicio",
