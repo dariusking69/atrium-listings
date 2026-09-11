@@ -63,7 +63,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 27,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -179,21 +179,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -215,21 +215,21 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -330,21 +330,21 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 29,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 27,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -474,21 +474,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -511,7 +511,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 5,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -751,7 +751,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 27,
+      "count": 29,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 7,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -854,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 99
+      "count": 98
     },
     {
       "name": "Richmond",
@@ -878,7 +878,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 28
+      "count": 30
     },
     {
       "name": "Winter Park",
@@ -913,12 +913,12 @@
       "count": 8
     },
     {
-      "name": "St. Cloud",
+      "name": "Davenport",
       "count": 6
     },
     {
-      "name": "Davenport",
-      "count": 5
+      "name": "St. Cloud",
+      "count": 6
     },
     {
       "name": "DeLand",
@@ -1060,17 +1060,17 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 29,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 27,
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -1172,17 +1172,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 7,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1201,7 +1201,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 5,
+      "count": 6,
       "cities": [
         "Davenport"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 406,
-  "total": 543,
+  "mfTotal": 408,
+  "total": 545,
   "groups": [
     {
       "key": "inicio",
