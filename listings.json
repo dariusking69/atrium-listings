@@ -8637,49 +8637,6 @@
     "community": "The Nest"
   },
   {
-    "id": 6273,
-    "uuid": "2464f782-ce31-41ec-be68-b587beb1f6f8",
-    "address": "5236 Lake Margaret Drive Unit # 236 - 0610, Orlando, FL 32812",
-    "street": "5236 Lake Margaret Drive Unit # 236 - 0610",
-    "city": "Orlando",
-    "rent": "$1,310",
-    "rent_val": 1310,
-    "specs": "1 bd, 1 ba, 780 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 780,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/2464f782-ce31-41ec-be68-b587beb1f6f8",
-    "lat": 28.5047079,
-    "lng": -81.3177041,
-    "title": "780 sq ft Woodhaven",
-    "description": "Find your perfect place on the water at Barber Park Apartments. Our available studio, one-, and two-bedroom homes feature open layouts, updated interiors, and lakefront charm.\r\n\r\nCheck current availability below, view photos and pricing, and submit your application securely online. Our friendly team is ready to help you find the right fit \u2014 and the right view.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,310 \n\n\n\n\n Application Fee: $99 \n\n\n\n Available 9/13/26",
-    "terms": [
-      "Rent: $1,310",
-      "Application Fee: $99",
-      "Available 9/13/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/081b25b1-26fc-449f-ae1b-1a5cad6ef0c3/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=2464f782-ce31-41ec-be68-b587beb1f6f8&source=Website",
-    "property": "Barber Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-    "phone": "(689) 215-6283",
-    "available": "9/13/26",
-    "zip": "32812",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Barber Park Apartments"
-  },
-  {
     "id": 6271,
     "uuid": "3313bf84-5e71-4f51-bcd7-b0a770e6c18e",
     "address": "736 Suncrest Loop # 200, Casselberry, FL 32707",
