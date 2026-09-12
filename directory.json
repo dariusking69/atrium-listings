@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 183,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -281,7 +281,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 137,
+      "count": 136,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -684,7 +684,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 183,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -873,11 +873,11 @@
       "count": 36
     },
     {
-      "name": "Deltona",
-      "count": 31
+      "name": "Winter Springs",
+      "count": 30
     },
     {
-      "name": "Winter Springs",
+      "name": "Deltona",
       "count": 30
     },
     {
@@ -1024,7 +1024,7 @@
     },
     {
       "name": "PG2",
-      "count": 20
+      "count": 19
     },
     {
       "name": "PG3",
@@ -1334,7 +1334,7 @@
     }
   ],
   "mfTotal": 405,
-  "total": 542,
+  "total": 541,
   "groups": [
     {
       "key": "inicio",
