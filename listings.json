@@ -543,49 +543,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 6586,
-    "uuid": "47e4c782-5376-4659-9c2c-9883943cf86e",
-    "address": "480 N Terry Ave Unit 1406, Orlando, FL 32801",
-    "street": "480 N Terry Ave Unit 1406",
-    "city": "Orlando",
-    "rent": "$1,810",
-    "rent_val": 1810,
-    "specs": "1 bd, 1 ba, 726 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 726,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/47e4c782-5376-4659-9c2c-9883943cf86e",
-    "lat": 28.549462,
-    "lng": -81.3873209,
-    "title": "1 Bed 1 Bath Apartment in Creative Village \u2013 The Matisse",
-    "description": "1 Bed, 1 Bath, 726 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A one-bedroom with room to separate work from rest, plus a private patio or balcony.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,810 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,810",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/9e41ca52-ed54-4a70-8d16-5478744a0f1e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=47e4c782-5376-4659-9c2c-9883943cf86e&source=Website",
-    "property": "The Julian",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-    "phone": "(689) 220-0831",
-    "available": "NOW",
-    "zip": "32801",
-    "unit": "1406",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "The Julian"
-  },
-  {
     "id": 6585,
     "uuid": "1369c5a7-b99c-4dc5-b74e-96e10827137b",
     "address": "6649 Mission Club Blvd # 07-210, Orlando, FL 32821",

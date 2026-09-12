@@ -45,7 +45,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -854,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 96
+      "count": 95
     },
     {
       "name": "Richmond",
@@ -1054,7 +1054,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 34,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 404,
-  "total": 540,
+  "mfTotal": 403,
+  "total": 539,
   "groups": [
     {
       "key": "inicio",
