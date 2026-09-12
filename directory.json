@@ -90,7 +90,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -367,7 +367,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -761,7 +761,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 22,
+      "count": 21,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -854,7 +854,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 97
+      "count": 96
     },
     {
       "name": "Richmond",
@@ -1089,7 +1089,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 22,
+      "count": 21,
       "cities": [
         "Orlando"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 405,
-  "total": 541,
+  "mfTotal": 404,
+  "total": 540,
   "groups": [
     {
       "key": "inicio",
