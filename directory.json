@@ -98,21 +98,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -375,21 +375,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -771,7 +771,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 20,
+      "count": 19,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -886,7 +886,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Sandston",
@@ -1095,17 +1095,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 402,
-  "total": 538,
+  "mfTotal": 401,
+  "total": 537,
   "groups": [
     {
       "key": "inicio",
