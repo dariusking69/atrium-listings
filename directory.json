@@ -54,7 +54,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -421,7 +421,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -737,7 +737,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 32,
+      "count": 31,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -862,7 +862,7 @@
     },
     {
       "name": "Tampa",
-      "count": 45
+      "count": 44
     },
     {
       "name": "Kissimmee",
@@ -1131,7 +1131,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Tampa"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 401,
-  "total": 537,
+  "mfTotal": 400,
+  "total": 536,
   "groups": [
     {
       "key": "inicio",
@@ -1349,7 +1349,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 32
+      "listings": 31
     }
   ]
 }
