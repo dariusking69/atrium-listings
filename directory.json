@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 186,
+      "count": 187,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -55,21 +55,21 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 31,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ave. at Winter Springs",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -100,21 +100,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -283,7 +283,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 139,
+      "count": 140,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -335,7 +335,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 29,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -379,21 +379,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -688,7 +688,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 186,
+      "count": 187,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -742,6 +742,16 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 31,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 30,
       "communities": [
@@ -756,16 +766,6 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 29,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 22,
       "communities": [
@@ -777,7 +777,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -876,15 +876,15 @@
     },
     {
       "name": "Gainesville",
-      "count": 36
+      "count": 37
+    },
+    {
+      "name": "Winter Springs",
+      "count": 32
     },
     {
       "name": "Deltona",
       "count": 31
-    },
-    {
-      "name": "Winter Springs",
-      "count": 30
     },
     {
       "name": "Winter Park",
@@ -892,7 +892,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Sandston",
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "PG4",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG5",
@@ -1075,7 +1075,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 29,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1109,17 +1109,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1347,8 +1347,8 @@
       ]
     }
   ],
-  "mfTotal": 393,
-  "total": 532,
+  "mfTotal": 394,
+  "total": 534,
   "groups": [
     {
       "key": "inicio",
