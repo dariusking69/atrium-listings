@@ -47,7 +47,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -56,7 +56,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -92,7 +92,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -118,6 +118,15 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -128,20 +137,11 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 17,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -151,15 +151,6 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -178,6 +169,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 3,
+      "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -272,7 +272,7 @@
     },
     {
       "name": "Southampton Apartments",
-      "count": 2,
+      "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
       "phone": "(703) 420-3619",
       "cities": [
@@ -326,7 +326,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -371,7 +371,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -397,6 +397,15 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -407,20 +416,11 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 17,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -442,24 +442,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -475,6 +457,24 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -559,15 +559,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -622,12 +613,12 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
+      "name": "Champions Chase",
       "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
-      "phone": "(703) 420-3619",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
       "cities": [
-        "Triangle"
+        "Davenport"
       ]
     },
     {
@@ -664,6 +655,15 @@
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
       ]
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 31,
+      "count": 30,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -767,7 +767,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 21,
+      "count": 22,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -786,18 +786,8 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 17,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Aston Square",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -806,13 +796,13 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 10,
+      "name": "Timber Pointe",
+      "count": 15,
       "communities": [
-        "Renaissance at Strawberry Creek Apartments"
+        "Timber Pointe Apartments"
       ],
       "cities": [
-        "Jacksonville"
+        "Macon"
       ]
     },
     {
@@ -823,6 +813,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 9,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -860,7 +860,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 92
+      "count": 94
     },
     {
       "name": "Richmond",
@@ -868,22 +868,22 @@
     },
     {
       "name": "Tampa",
-      "count": 45
+      "count": 44
     },
     {
       "name": "Kissimmee",
-      "count": 40
+      "count": 41
     },
     {
       "name": "Gainesville",
       "count": 36
     },
     {
-      "name": "Winter Springs",
-      "count": 30
+      "name": "Deltona",
+      "count": 31
     },
     {
-      "name": "Deltona",
+      "name": "Winter Springs",
       "count": 30
     },
     {
@@ -895,16 +895,16 @@
       "count": 20
     },
     {
-      "name": "Jacksonville",
-      "count": 19
-    },
-    {
       "name": "Sandston",
       "count": 19
     },
     {
+      "name": "Jacksonville",
+      "count": 18
+    },
+    {
       "name": "Macon",
-      "count": 17
+      "count": 15
     },
     {
       "name": "Ocoee",
@@ -927,14 +927,6 @@
       "count": 4
     },
     {
-      "name": "Sanford",
-      "count": 4
-    },
-    {
-      "name": "Davenport",
-      "count": 3
-    },
-    {
       "name": "Winter Garden",
       "count": 3
     },
@@ -955,6 +947,10 @@
       "count": 3
     },
     {
+      "name": "Sanford",
+      "count": 3
+    },
+    {
       "name": "Saint Cloud",
       "count": 2
     },
@@ -971,7 +967,7 @@
       "count": 2
     },
     {
-      "name": "Triangle",
+      "name": "Davenport",
       "count": 2
     },
     {
@@ -992,6 +988,10 @@
     },
     {
       "name": "Haines City",
+      "count": 1
+    },
+    {
+      "name": "Triangle",
       "count": 1
     },
     {
@@ -1068,7 +1068,7 @@
   "mfProperties": [
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1103,7 +1103,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 21,
+      "count": 22,
       "cities": [
         "Orlando"
       ]
@@ -1123,6 +1123,13 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 18,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 18,
       "cities": [
@@ -1131,16 +1138,9 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 17,
+      "count": 15,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 17,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1158,20 +1158,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 10,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 9,
       "cities": [
@@ -1183,6 +1169,20 @@
       "count": 9,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 9,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1249,13 +1249,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 3,
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1298,10 +1291,10 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
+      "name": "Champions Chase",
       "count": 2,
       "cities": [
-        "Triangle"
+        "Davenport"
       ]
     },
     {
@@ -1333,6 +1326,13 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1347,8 +1347,8 @@
       ]
     }
   ],
-  "mfTotal": 396,
-  "total": 535,
+  "mfTotal": 393,
+  "total": 532,
   "groups": [
     {
       "key": "inicio",
@@ -1363,7 +1363,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 31
+      "listings": 30
     }
   ]
 }
