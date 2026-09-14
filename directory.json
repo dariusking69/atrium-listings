@@ -152,21 +152,21 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -188,15 +188,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -206,10 +197,10 @@
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Mission Club",
       "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
       ]
@@ -221,6 +212,15 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -438,15 +438,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -462,6 +453,15 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -483,15 +483,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -501,8 +492,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Mission Club Apartments",
       "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -800,16 +800,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 10,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "communities": [
@@ -820,20 +810,20 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 7,
+      "name": "Cranes Landing",
+      "count": 9,
       "communities": [
-        "Mission Club Apartments"
+        "Cranes Landing Apartments"
       ],
       "cities": [
-        "Orlando"
+        "Winter Park"
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Mission Club",
       "count": 6,
       "communities": [
-        "Avenues of Baldwin Park"
+        "Mission Club Apartments"
       ],
       "cities": [
         "Orlando"
@@ -849,12 +839,22 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 5,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 94
+      "count": 92
     },
     {
       "name": "Richmond",
@@ -882,7 +882,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Casselberry",
@@ -1144,13 +1144,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 10,
       "cities": [
@@ -1162,6 +1155,13 @@
       "count": 10,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1179,13 +1179,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
@@ -1193,8 +1186,15 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Mission Club Apartments",
       "count": 6,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 5,
       "cities": [
         "Orlando"
       ]
@@ -1333,8 +1333,8 @@
       ]
     }
   ],
-  "mfTotal": 400,
-  "total": 536,
+  "mfTotal": 397,
+  "total": 533,
   "groups": [
     {
       "key": "inicio",
