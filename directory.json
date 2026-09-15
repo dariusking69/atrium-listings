@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 192,
+      "count": 191,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -263,7 +263,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 2,
+      "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -283,7 +283,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 145,
+      "count": 144,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -559,6 +559,15 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -610,15 +619,6 @@
       "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -688,7 +688,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 192,
+      "count": 191,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -912,7 +912,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Charlottesville",
@@ -928,6 +928,10 @@
     },
     {
       "name": "Winter Garden",
+      "count": 3
+    },
+    {
+      "name": "Davenport",
       "count": 3
     },
     {
@@ -964,10 +968,6 @@
     },
     {
       "name": "Longwood",
-      "count": 2
-    },
-    {
-      "name": "Davenport",
       "count": 2
     },
     {
@@ -1062,7 +1062,7 @@
     },
     {
       "name": "PG9",
-      "count": 13
+      "count": 12
     }
   ],
   "mfProperties": [
@@ -1249,6 +1249,13 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 3,
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1288,13 +1295,6 @@
       "count": 2,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 2,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -1347,7 +1347,7 @@
       ]
     }
   ],
-  "mfTotal": 394,
+  "mfTotal": 395,
   "total": 539,
   "groups": [
     {
