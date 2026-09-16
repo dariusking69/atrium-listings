@@ -34,9 +34,16 @@
     &accent=003b4a            hex, with or without '#'
     &name=The+Julian          heading text ('' hides the heading)
     &map=0                    hide the map (auto-off for a single community)
-    &font=site|opensans|plex  site (default) matches the host page's font; the other
+    &font=site|opensans|plex  site (default) matches the host page's fonts; the other
                               two pin a fixed brand font
+    &gfont=Montserrat         pin any Google Font by family name
+    &fonturl=https://…/f.woff2  pin an uploaded font file (Beacon hosts uploads with CORS).
+                              Precedence: fonturl, gfont, font. An explicit pick always
+                              beats the host-font sync.
     &sub=480+N+Terry+Ave      sub-heading under the name
+  Host fonts: the embed's <script src="embed.js"> reads the fonts the host page uses for
+  body text and headings, plus their @font-face sources, and posts them in (atr-style).
+  Older embed codes post only the body font NAME (atr-font), still honoured.
   Renter filters (also written by the Share button):
     &q= &beds= &baths= &min= &max= &sort= &rlat=&rlng=&rmi= &poly=
 
@@ -99,7 +106,7 @@
 #atr-root a{text-decoration:none;color:inherit}
 #atr-root button{font-family:var(--font,inherit)}
 .atr-head{padding:10px 4px 14px;border-bottom:2px solid var(--accent)}
-.atr-head-name{font-size:26px;font-weight:700;letter-spacing:-.01em;color:var(--accent)}
+.atr-head-name{font-size:26px;font-weight:700;letter-spacing:-.01em;color:var(--accent);font-family:var(--font-head,inherit)}
 .atr-head-sub{font-size:14px;color:var(--muted);margin-top:3px}
 .atr-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 4px;border-bottom:1px solid var(--line);margin-bottom:14px}
 .atr-in{font:inherit;font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:6px;padding:9px 12px;outline:none;height:38px}
@@ -135,7 +142,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 .atr-price{left:0;background:var(--accent);color:#fff}
 .atr-avail{right:0;background:rgba(255,255,255,.92);color:var(--ink);font-weight:500}
 .atr-body{display:block;padding:13px 14px 4px}
-.atr-t1{font-size:15.5px;font-weight:700;line-height:1.25;color:var(--accent)}
+.atr-t1{font-size:15.5px;font-weight:700;line-height:1.25;color:var(--accent);font-family:var(--font-head,inherit)}
 .atr-t2{font-size:13px;color:var(--muted);margin-top:2px;line-height:1.35}
 .atr-specs{display:flex;gap:12px;align-items:center;font-size:13px;color:#333;padding:9px 14px 12px;flex-wrap:wrap}
 .atr-specs span{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
@@ -248,10 +255,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   var wantMap = P.get('map')==null ? null : P.get('map')!=='0';
 
   // ---------- typography ----------
-  // font=site (default): adopt the host page's font. Inside an iframe CSS `inherit`
-  // reaches only the iframe's own blank document — i.e. Times — so we set a proper
-  // sans fallback and let the host's postMessage upgrade it to their real font.
-  // font=opensans|plex: a fixed brand font; an explicit pick always beats the sync.
+  // font=site (default): adopt the host page's fonts. Inside an iframe CSS `inherit`
+  // reaches only the iframe's own blank document — i.e. Times — and the host's web fonts
+  // (a Typekit kit, an @font-face) exist only in the HOST document. So we set a proper
+  // sans fallback, and embed.js on the host posts the font names AND their sources in.
+  // An explicit pick always beats the sync: fonturl= (an uploaded file), then gfont=
+  // (any Google Font), then font=opensans|plex.
   var FONTS={
     opensans:{stack:'"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif',
               css:'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap'},
@@ -259,18 +268,103 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
               css:'https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap'}
   };
   var SYSTEM_STACK='system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
-  var fontChoice=(P.get('font')||'site').toLowerCase();
-  var FIXED_FONT=FONTS[fontChoice]||null;
+  var FIXED_FONT=(function(){
+    var url=String(P.get('fonturl')||'').trim();
+    // https only (plus a local dev server, which can only ever be the viewer's own machine)
+    if(/^(https:\/\/|http:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/)[^\s"'()\\<>]{1,600}$/i.test(url))
+      return {stack:'"atr-custom",'+SYSTEM_STACK, face:url};
+    var g=String(P.get('gfont')||'').trim().replace(/\s+/g,' ');
+    if(/^[A-Za-z0-9 ]{1,60}$/.test(g))
+      // css (v1) rather than css2: it returns whichever of these weights exist, where css2
+      // fails the whole request if a single-weight family lacks one of them.
+      return {stack:'"'+g+'",'+SYSTEM_STACK,
+              css:'https://fonts.googleapis.com/css?family='+encodeURIComponent(g).replace(/%20/g,'+')+':400,500,600,700&display=swap'};
+    return FONTS[(P.get('font')||'site').toLowerCase()]||null;
+  })();
   (function(){
     var r=document.getElementById('atr-root');
     if(FIXED_FONT){
-      var l=document.createElement('link'); l.rel='stylesheet'; l.href=FIXED_FONT.css;
-      document.head.appendChild(l);
+      if(FIXED_FONT.css){
+        var l=document.createElement('link'); l.rel='stylesheet'; l.href=FIXED_FONT.css;
+        document.head.appendChild(l);
+      }
+      if(FIXED_FONT.face){
+        // One uploaded file = one weight. Declared as 400 so headings get a synthesised bold
+        // from it rather than falling back to a system font.
+        try{ var ff=new FontFace('atr-custom','url("'+FIXED_FONT.face+'")',{weight:'400',style:'normal',display:'swap'});
+             document.fonts.add(ff); ff.load().catch(function(){}); }catch(e){}
+      }
       r.style.setProperty('--font',FIXED_FONT.stack);
     } else if(IN_IFRAME){
       r.style.setProperty('--font',SYSTEM_STACK);   // never fall through to Times
     }
   })();
+
+  // Host fonts, as posted by embed.js. Everything in the message is untrusted input from
+  // whatever page embeds us: family names and descriptors are pattern-checked, font URLs
+  // must be https: or data:font, and the font bytes themselves go through the browser's
+  // font sanitiser via the FontFace API. Nothing here can inject CSS.
+  var LOCAL_OR_HTTPS=/^(https:\/\/|http:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/)/i;
+  var FONT_CSS_HOSTS=/^(use\.typekit\.net|p\.typekit\.net|fonts\.googleapis\.com|fonts\.bunny\.net|fast\.fonts\.net|cloud\.typography\.com)$/i;
+  var HOST_FACES={}, HOST_LINKS={}, HOST_STYLE_V2=false;
+  function cleanStack(s){
+    s=String(s||'').trim();
+    return (s&&s.length<300&&/^[\w\s,."'\-]+$/.test(s)) ? s : '';
+  }
+  function cleanSrc(src){
+    var out=[], re=/url\(\s*"([^"]*)"\s*\)(?:\s*format\(\s*["']?([\w\-]+)["']?\s*\))?/g, m;
+    src=String(src||'');
+    if(src.length>200000) return '';
+    while((m=re.exec(src))&&out.length<4){
+      var u=m[1];
+      var ok=(LOCAL_OR_HTTPS.test(u)&&u.length<2000&&!/[\s"'\\()<>]/.test(u)) ||
+             /^data:(font|application)\/[\w.+\-]+(;[\w=\-]+)*;base64,[A-Za-z0-9+\/=]+$/.test(u);
+      if(ok) out.push('url("'+u+'")'+(m[2]?' format("'+m[2]+'")':''));
+    }
+    return out.join(', ');
+  }
+  function addHostFace(fc){
+    if(!fc||typeof fc!=='object') return;
+    var fam=String(fc.family||'').trim();
+    if(!/^[\w .\-]{1,80}$/.test(fam)) return;
+    var w=String(fc.weight||'400').trim(); if(!/^(normal|bold|\d{1,3}( \d{1,3})?)$/.test(w)) w='400';
+    var st=String(fc.stretch||'').trim(); if(!/^[\w %.\-]{0,40}$/.test(st)) st='';
+    var rg=String(fc.range||'').trim(); if(!/^[uU0-9a-fA-F+?,\s\-]{0,2000}$/.test(rg)) rg='';
+    var src=cleanSrc(fc.src);
+    var bytes=(fc.bytes instanceof ArrayBuffer && fc.bytes.byteLength>0 && fc.bytes.byteLength<=1048576) ? fc.bytes : null;
+    if(!bytes&&!src) return;
+    var key=[fam,w,st,rg,bytes?'bytes:'+src:src].join('|');
+    if(HOST_FACES[key]) return;
+    HOST_FACES[key]=1;
+    var desc={weight:w,style:'normal',display:'swap'};
+    if(st) desc.stretch=st;
+    if(rg) desc.unicodeRange=rg;
+    try{
+      var face=new FontFace(fam, bytes||src, desc);
+      document.fonts.add(face);
+      face.load().catch(function(){
+        // A cross-origin font whose CORS allows the host site but not us: ask the host
+        // page to fetch it (it can) and send the bytes back.
+        if(!bytes&&IN_IFRAME) try{ parent.postMessage({type:'atr-font-miss',face:{family:fam,weight:w,stretch:st,range:rg,src:src}},'*'); }catch(e){}
+      });
+    }catch(e){}
+  }
+  function applyHostStyle(d){
+    if(FIXED_FONT) return;                                  // an explicit pick outranks the host
+    var r=$('#atr-root'); if(!r) return;
+    (Array.isArray(d.links)?d.links:[]).slice(0,6).forEach(function(href){
+      try{
+        var u=new URL(String(href));
+        if(u.protocol!=='https:'||!FONT_CSS_HOSTS.test(u.hostname)||HOST_LINKS[u.href]) return;
+        HOST_LINKS[u.href]=1;
+        var l=document.createElement('link'); l.rel='stylesheet'; l.href=u.href; document.head.appendChild(l);
+      }catch(e){}
+    });
+    (Array.isArray(d.faces)?d.faces:[]).slice(0,40).forEach(addHostFace);
+    var body=cleanStack(d.font), head=cleanStack(d.head);
+    if(body) r.style.setProperty('--font', body+','+SYSTEM_STACK);
+    if(head) r.style.setProperty('--font-head', head+','+SYSTEM_STACK);
+  }
 
   // directory.json is fetched ONLY to name a ?group= heading the embed didn't name itself.
   // Its failure is cosmetic and must never block the listings, hence the swallowed catch.
@@ -358,7 +452,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   var FILTERS={q:'#atr-q',min:'#atr-min',max:'#atr-max',beds:'#atr-beds',baths:'#atr-baths',sort:'#atr-sort'};
   // Miss one of these and Share silently hands out a link with no scope or no attribution.
   var KEEP=['group','property','city','pg','mf','props','accent','name','sub','map','parent','font',
-            'src','details','tel'];
+            'gfont','fonturl','src','details','tel'];
   function readParams(){
     Object.keys(FILTERS).forEach(function(k){ if(P.has(k)){ var el=$(FILTERS[k]); if(el) el.value=P.get(k); } });
     if(P.has('rlat')&&P.has('rlng')){
@@ -727,13 +821,21 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   window.addEventListener('load',postHeight);
   try{ new ResizeObserver(postHeight).observe(document.documentElement); }catch(e){}
   window.addEventListener('message',function(e){
+    if(IN_IFRAME && e.source!==window.parent) return;     // only the page that embeds us
     var d=e.data;
-    if(d&&d.type==='atr-font'&&typeof d.font==='string'){
-      if(FIXED_FONT) return;              // an explicit ?font= pick outranks the host's font
+    if(d&&d.type==='atr-style'&&d.v===2){
+      HOST_STYLE_V2=true;
+      applyHostStyle(d);
+    } else if(d&&d.type==='atr-font'&&typeof d.font==='string'){
+      // Pre-embed.js embed codes: only the body font's NAME. Honoured for old embeds, but
+      // never allowed to overwrite the richer atr-style sync if both scripts are on a page.
+      if(FIXED_FONT||HOST_STYLE_V2) return;
       var f=d.font.trim();
       if(f&&f.length<200&&/^[\w\s,."'()\-]+$/.test(f)){ var r=$('#atr-root'); if(r)r.style.setProperty('--font',f); }
     }
   });
+  // Announce ourselves: embed.js answers with the host's fonts, however late we loaded.
+  if(IN_IFRAME) try{ parent.postMessage({type:'atr-hello'},'*'); }catch(e){}
 })();
 </script>
 <!-- WIDGET END -->
