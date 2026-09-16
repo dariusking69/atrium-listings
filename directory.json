@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 194,
+      "count": 197,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 428-8643",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -91,6 +91,15 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -101,20 +110,11 @@
     },
     {
       "name": "Barber Park",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -154,6 +154,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -169,15 +178,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -199,6 +199,15 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -209,20 +218,11 @@
     },
     {
       "name": "Sutton Fields",
-      "count": 7,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -283,9 +283,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 150,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 428-8643",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -370,6 +370,15 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -380,20 +389,11 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -442,6 +442,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -469,15 +478,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -496,6 +496,15 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -506,20 +515,11 @@
     },
     {
       "name": "Sutton Fields",
-      "count": 7,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -688,7 +688,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 194,
+      "count": 197,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -766,6 +766,16 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 21,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 21,
       "communities": [
@@ -777,22 +787,12 @@
     },
     {
       "name": "Barber Park",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Barber Park Apartments"
       ],
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 20,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -803,6 +803,16 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -827,22 +837,12 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 8,
+      "count": 7,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 6,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -860,7 +860,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 103
     },
     {
       "name": "Richmond",
@@ -872,7 +872,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 44
+      "count": 43
     },
     {
       "name": "Winter Springs",
@@ -888,7 +888,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Winter Park",
@@ -899,11 +899,11 @@
       "count": 20
     },
     {
-      "name": "Jacksonville",
-      "count": 15
+      "name": "Macon",
+      "count": 14
     },
     {
-      "name": "Macon",
+      "name": "Jacksonville",
       "count": 14
     },
     {
@@ -919,12 +919,12 @@
       "count": 7
     },
     {
-      "name": "St. Cloud",
-      "count": 7
+      "name": "Winter Garden",
+      "count": 6
     },
     {
-      "name": "Winter Garden",
-      "count": 4
+      "name": "St. Cloud",
+      "count": 6
     },
     {
       "name": "Titusville",
@@ -932,6 +932,10 @@
     },
     {
       "name": "DeLand",
+      "count": 4
+    },
+    {
+      "name": "Sanford",
       "count": 4
     },
     {
@@ -948,10 +952,6 @@
     },
     {
       "name": "Umatilla",
-      "count": 3
-    },
-    {
-      "name": "Sanford",
       "count": 3
     },
     {
@@ -1038,7 +1038,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 35
+      "count": 38
     },
     {
       "name": "PG2",
@@ -1106,6 +1106,13 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 21,
       "cities": [
@@ -1114,16 +1121,9 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 21,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
       "count": 20,
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -1135,7 +1135,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Kissimmee"
       ]
@@ -1162,6 +1162,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 9,
       "cities": [
@@ -1183,13 +1190,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 8,
       "cities": [
@@ -1204,6 +1204,13 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 7,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
@@ -1212,16 +1219,9 @@
     },
     {
       "name": "Sutton Fields",
-      "count": 7,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
       "count": 6,
       "cities": [
-        "Orlando"
+        "St. Cloud"
       ]
     },
     {
@@ -1351,8 +1351,8 @@
       ]
     }
   ],
-  "mfTotal": 405,
-  "total": 552,
+  "mfTotal": 406,
+  "total": 556,
   "groups": [
     {
       "key": "inicio",
