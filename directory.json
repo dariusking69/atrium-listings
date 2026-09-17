@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 198,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(813) 428-8643",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -283,9 +283,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 150,
+      "count": 151,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(813) 428-8643",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -688,7 +688,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 198,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -955,6 +955,10 @@
       "count": 3
     },
     {
+      "name": "Saint Petersburg",
+      "count": 2
+    },
+    {
       "name": "Poinciana",
       "count": 2
     },
@@ -981,10 +985,6 @@
     {
       "name": "Lake Mary",
       "count": 2
-    },
-    {
-      "name": "Saint Petersburg",
-      "count": 1
     },
     {
       "name": "Celebration",
@@ -1054,7 +1054,7 @@
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG7",
@@ -1352,7 +1352,7 @@
     }
   ],
   "mfTotal": 407,
-  "total": 557,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
