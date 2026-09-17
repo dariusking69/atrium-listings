@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 198,
+      "count": 197,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -28,7 +28,6 @@
         "Ocala",
         "Orlando",
         "Oxford",
-        "Palm Bay",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -56,7 +55,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -91,6 +90,15 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -106,15 +114,6 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -154,6 +153,15 @@
       ]
     },
     {
+      "name": "Baldwin Park",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mission Club",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -163,17 +171,8 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -263,7 +262,7 @@
     },
     {
       "name": "Champions Chase",
-      "count": 3,
+      "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
@@ -283,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 151,
+      "count": 150,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -307,7 +306,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Palm Bay",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -335,7 +333,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -370,6 +368,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -385,15 +392,6 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -442,6 +440,15 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -451,30 +458,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -568,15 +566,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -628,6 +617,15 @@
       "phone": "(352) 268-6987",
       "cities": [
         "Oxford"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -688,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 198,
+      "count": 197,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -724,7 +722,6 @@
         "Ocala",
         "Orlando",
         "Oxford",
-        "Palm Bay",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -766,6 +763,16 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 21,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 21,
       "communities": [
@@ -786,16 +793,6 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 20,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 14,
       "communities": [
@@ -803,6 +800,16 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 11,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -816,18 +823,8 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 9,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 8,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -860,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 103
+      "count": 105
     },
     {
       "name": "Richmond",
@@ -892,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Sandston",
@@ -939,10 +936,6 @@
       "count": 4
     },
     {
-      "name": "Davenport",
-      "count": 3
-    },
-    {
       "name": "Apopka",
       "count": 3
     },
@@ -983,6 +976,10 @@
       "count": 2
     },
     {
+      "name": "Davenport",
+      "count": 2
+    },
+    {
       "name": "Lake Mary",
       "count": 2
     },
@@ -1012,10 +1009,6 @@
     },
     {
       "name": "Clearwater",
-      "count": 1
-    },
-    {
-      "name": "Palm Bay",
       "count": 1
     },
     {
@@ -1062,7 +1055,7 @@
     },
     {
       "name": "PG8",
-      "count": 6
+      "count": 5
     },
     {
       "name": "PG9",
@@ -1079,7 +1072,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Orlando"
       ]
@@ -1106,6 +1099,13 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 21,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 21,
       "cities": [
@@ -1117,13 +1117,6 @@
       "count": 21,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 20,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1162,6 +1155,13 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 11,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 10,
       "cities": [
@@ -1169,24 +1169,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 9,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 9,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 8,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1260,13 +1253,6 @@
       ]
     },
     {
-      "name": "Champions Chase",
-      "count": 3,
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1306,6 +1292,13 @@
       "count": 2,
       "cities": [
         "Oxford"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 2,
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -1352,7 +1345,7 @@
     }
   ],
   "mfTotal": 407,
-  "total": 558,
+  "total": 557,
   "groups": [
     {
       "key": "inicio",
