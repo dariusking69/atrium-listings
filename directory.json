@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 196,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -90,6 +90,15 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Barber Park",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -105,15 +114,6 @@
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
+      "name": "Baldwin Park",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
-        "Macon"
+        "Orlando"
       ]
     },
     {
@@ -153,17 +153,17 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "name": "Timber Pointe",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
       "cities": [
-        "Orlando"
+        "Macon"
       ]
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -282,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 150,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -368,6 +368,15 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Barber Park Apartments",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -383,15 +392,6 @@
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -413,21 +413,21 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -440,17 +440,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "name": "Timber Pointe Apartments",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
       "cities": [
-        "Orlando"
+        "Macon"
       ]
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -686,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 196,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -763,6 +763,16 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 22,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Barber Park",
       "count": 21,
       "communities": [
@@ -783,28 +793,8 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 21,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 14,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Baldwin Park",
-      "count": 11,
+      "count": 13,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -813,8 +803,18 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 12,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Mission Club",
-      "count": 10,
+      "count": 11,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -857,11 +857,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 105
+      "count": 108
     },
     {
       "name": "Richmond",
-      "count": 71
+      "count": 70
     },
     {
       "name": "Tampa",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Winter Springs",
@@ -896,16 +896,16 @@
       "count": 20
     },
     {
-      "name": "Macon",
-      "count": 14
-    },
-    {
       "name": "Jacksonville",
       "count": 14
     },
     {
       "name": "Ocoee",
       "count": 13
+    },
+    {
+      "name": "Macon",
+      "count": 12
     },
     {
       "name": "Lakeland",
@@ -1099,6 +1099,13 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 22,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Barber Park Apartments",
       "count": 21,
       "cities": [
@@ -1110,13 +1117,6 @@
       "count": 21,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 21,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1134,17 +1134,17 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 14,
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 13,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1155,15 +1155,15 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 11,
+      "name": "Timber Pointe Apartments",
+      "count": 12,
       "cities": [
-        "Orlando"
+        "Macon"
       ]
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 11,
       "cities": [
         "Orlando"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 407,
-  "total": 557,
+  "mfTotal": 409,
+  "total": 558,
   "groups": [
     {
       "key": "inicio",
