@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 196,
+      "count": 194,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -64,7 +64,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -136,7 +136,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -162,21 +162,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -282,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 149,
+      "count": 147,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -333,7 +333,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -413,21 +413,21 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -449,17 +449,8 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -467,12 +458,12 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
-        "Tampa"
+        "Orlando"
       ]
     },
     {
@@ -500,6 +491,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -686,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 196,
+      "count": 194,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -750,7 +750,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 28,
+      "count": 27,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -813,23 +813,23 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 11,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -857,18 +857,18 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 106
     },
     {
       "name": "Richmond",
       "count": 69
     },
     {
-      "name": "Tampa",
-      "count": 44
+      "name": "Kissimmee",
+      "count": 43
     },
     {
-      "name": "Kissimmee",
+      "name": "Tampa",
       "count": 43
     },
     {
@@ -877,30 +877,30 @@
     },
     {
       "name": "Gainesville",
-      "count": 37
+      "count": 35
     },
     {
       "name": "Deltona",
       "count": 31
     },
     {
-      "name": "Casselberry",
+      "name": "Winter Park",
       "count": 24
     },
     {
-      "name": "Winter Park",
-      "count": 23
+      "name": "Casselberry",
+      "count": 24
     },
     {
       "name": "Sandston",
       "count": 20
     },
     {
-      "name": "Jacksonville",
-      "count": 14
+      "name": "Ocoee",
+      "count": 15
     },
     {
-      "name": "Ocoee",
+      "name": "Jacksonville",
       "count": 14
     },
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "PG4",
-      "count": 17
+      "count": 15
     },
     {
       "name": "PG5",
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "The Julian",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Orlando"
       ]
@@ -1134,17 +1134,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 15,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 14,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -1162,24 +1162,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 11,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 9,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 8,
+      "name": "Mission Club Apartments",
+      "count": 10,
       "cities": [
-        "Tampa"
+        "Orlando"
       ]
     },
     {
@@ -1201,6 +1194,13 @@
       "count": 7,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 7,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 404,
-  "total": 553,
+  "mfTotal": 403,
+  "total": 550,
   "groups": [
     {
       "key": "inicio",
@@ -1360,7 +1360,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 28
+      "listings": 27
     }
   ]
 }
