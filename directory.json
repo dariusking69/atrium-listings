@@ -72,19 +72,19 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "The Hub",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Hub",
+      "name": "The Nest",
       "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
       ]
@@ -109,7 +109,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -135,21 +135,21 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -350,19 +350,19 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "The Hub",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Hub",
+      "name": "The Nest",
       "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
       ]
@@ -387,7 +387,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -422,21 +422,21 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -784,7 +784,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -861,7 +861,7 @@
     },
     {
       "name": "Richmond",
-      "count": 70
+      "count": 69
     },
     {
       "name": "Tampa",
@@ -885,7 +885,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Winter Park",
@@ -901,7 +901,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Macon",
@@ -1085,14 +1085,14 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 24,
+      "name": "The Hub",
+      "count": 23,
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Hub",
+      "name": "The Nest",
       "count": 23,
       "cities": [
         "Richmond"
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Casselberry"
       ]
@@ -1141,17 +1141,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 13,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 13,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 407,
-  "total": 555,
+  "mfTotal": 406,
+  "total": 554,
   "groups": [
     {
       "key": "inicio",
