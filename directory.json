@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 195,
+      "count": 196,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 38,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -81,21 +81,21 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -282,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 148,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 38,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -359,21 +359,21 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -459,7 +459,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -686,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 195,
+      "count": 196,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -740,7 +740,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 38,
+      "count": 36,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -824,7 +824,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 8,
+      "count": 9,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -873,7 +873,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 39
+      "count": 37
     },
     {
       "name": "Gainesville",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Sandston",
@@ -1065,7 +1065,7 @@
   "mfProperties": [
     {
       "name": "The Avenues at Winter Springs",
-      "count": 38,
+      "count": 36,
       "cities": [
         "Winter Springs"
       ]
@@ -1092,17 +1092,17 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 22,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 22,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 8,
+      "count": 9,
       "cities": [
         "Winter Park"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 406,
-  "total": 554,
+  "mfTotal": 404,
+  "total": 553,
   "groups": [
     {
       "key": "inicio",
