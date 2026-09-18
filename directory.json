@@ -127,7 +127,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -405,7 +405,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -864,12 +864,12 @@
       "count": 70
     },
     {
-      "name": "Kissimmee",
+      "name": "Tampa",
       "count": 44
     },
     {
-      "name": "Tampa",
-      "count": 44
+      "name": "Kissimmee",
+      "count": 43
     },
     {
       "name": "Winter Springs",
@@ -1128,7 +1128,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Kissimmee"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 408,
-  "total": 556,
+  "mfTotal": 407,
+  "total": 555,
   "groups": [
     {
       "key": "inicio",
