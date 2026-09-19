@@ -13912,49 +13912,6 @@
     "community": "The Hub"
   },
   {
-    "id": 5841,
-    "uuid": "28b14d56-cfd0-4dfd-83b1-09e319463736",
-    "address": "6636 Mission Club Blvd # 09-305, Orlando, FL 32821",
-    "street": "6636 Mission Club Blvd # 09-305",
-    "city": "Orlando",
-    "rent": "$1,428 - $1,469",
-    "rent_val": 1428,
-    "specs": "2 bd, 2 ba, 962 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 962,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/28b14d56-cfd0-4dfd-83b1-09e319463736",
-    "lat": 28.3873148,
-    "lng": -81.4710675,
-    "title": "The Monterrey\u2013 2 Bedroom, 2 Bathroom | 962 sq.ft.",
-    "description": "Discover modern comfort and thoughtful design in The Monterrey \u2014 a spacious 2-bedroom, 2-bathroom home with 962 sq.ft. of living space. Perfect for roommates, small families, or anyone who enjoys having room to relax and thrive.\r\n\r\nThe open-concept living and dining area flows effortlessly into a fully equipped kitchen, making it easy to entertain or enjoy quiet nights at home. Each bedroom features its own private bathroom, giving everyone the space and privacy they need. Plus, with a washer and dryer in-unit, everyday living is simple and convenient.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a refreshing dip in the pool, unwind in the hot tub, sway in the hammock hangout, or pamper your furry friends at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 962 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,428 - $1,469 \n\n\n\n\n Application Fee: $79 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,428 - $1,469",
-      "Application Fee: $79",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=28b14d56-cfd0-4dfd-83b1-09e319463736&source=Website",
-    "property": "Mission Club",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-    "phone": "(689) 215-0812",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Mission Club Apartments"
-  },
-  {
     "id": 5837,
     "uuid": "6515eb44-9555-4143-806d-5c9f8a4cd13f",
     "address": "5200 Lewis Road #21, Sandston, VA 23150",
