@@ -163,7 +163,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -450,7 +450,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -814,7 +814,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 11,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -885,7 +885,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Casselberry",
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 11,
       "cities": [
         "Winter Park"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 403,
-  "total": 549,
+  "mfTotal": 404,
+  "total": 550,
   "groups": [
     {
       "key": "inicio",
