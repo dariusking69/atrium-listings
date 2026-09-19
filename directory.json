@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -136,7 +136,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -413,21 +413,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -740,7 +740,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 35,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -873,7 +873,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Gainesville",
@@ -896,11 +896,11 @@
       "count": 20
     },
     {
-      "name": "Ocoee",
-      "count": 15
+      "name": "Jacksonville",
+      "count": 14
     },
     {
-      "name": "Jacksonville",
+      "name": "Ocoee",
       "count": 14
     },
     {
@@ -1065,7 +1065,7 @@
   "mfProperties": [
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1134,17 +1134,17 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 15,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 14,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 14,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 403,
-  "total": 549,
+  "mfTotal": 401,
+  "total": 547,
   "groups": [
     {
       "key": "inicio",
