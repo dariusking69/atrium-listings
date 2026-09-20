@@ -172,7 +172,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 9,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -459,7 +459,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 9,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -824,7 +824,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 9,
+      "count": 8,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -857,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 105
+      "count": 104
     },
     {
       "name": "Richmond",
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 9,
+      "count": 8,
       "cities": [
         "Orlando"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 401,
-  "total": 547,
+  "mfTotal": 400,
+  "total": 546,
   "groups": [
     {
       "key": "inicio",

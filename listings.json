@@ -17867,48 +17867,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 5028,
-    "uuid": "34623e70-f741-495a-b0ae-610772ca003f",
-    "address": "6702 Mission Club Blvd # 04-204, Orlando, FL 32821",
-    "street": "6702 Mission Club Blvd # 04-204",
-    "city": "Orlando",
-    "rent": "$3,682",
-    "rent_val": 3682,
-    "specs": "3 bd, 2 ba, 1,126 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1126,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/34623e70-f741-495a-b0ae-610772ca003f",
-    "lat": 28.3867355,
-    "lng": -81.4723106,
-    "property": "Mission Club",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-    "phone": "(689) 215-0812",
-    "title": "The Catalina \u2013 3 Bedroom, 2 Bathroom | 1,126 sq.ft.",
-    "description": "Welcome home to The Catalina \u2014 where spacious design meets modern comfort! With 1,126 sq. ft. of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style.\r\n\r\nGather in the open-concept living and dining area, complete with a fully equipped kitchen that\u2019s ideal for both entertaining and quiet nights in. The primary suite offers a peaceful retreat with its own private bathroom and ample closet space, while two additional bedrooms and a second full bath add the flexibility you need \u2014 whether for guests, a home office, or creative space. Plus, having a washer and dryer right in your home makes everyday living a breeze.\r\n\r\nStep outside and enjoy Mission Club\u2019s resort-style amenities \u2014 take a dip in the sparkling pool, unwind in the hot tub, swing in the hammock hangout, or treat your furry friend to some pampering at the dog wash center.\r\n\r\nHome Highlights:\r\n\u2728 1,126 sq.ft. | 3 Bedrooms | 2 Bathrooms\r\n\n\n\n\n\n \n \n Rental Terms \n \n Rent: $3,682 \n\n\n\n\n Application Fee: $79",
-    "terms": [
-      "Rent: $3,682",
-      "Application Fee: $79"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/26766dba-ea55-4fbe-b1a5-397acd1af191/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=34623e70-f741-495a-b0ae-610772ca003f&source=Website",
-    "available": "NOW",
-    "zip": "32821",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Mission Club Apartments"
-  },
-  {
     "id": 4987,
     "uuid": "18a41785-b694-4e8f-a257-a6e9ae85af0e",
     "address": "1710 E Broad St Apt 301, Richmond, VA 23223-7286",
