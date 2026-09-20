@@ -20173,50 +20173,6 @@
     "community": "Coliseum Lofts"
   },
   {
-    "id": 3792,
-    "uuid": "9bef899e-1a71-42f2-af39-3a6d909c333c",
-    "address": "1540 Neo Landings Loop, Unit 114, Kissimmee, FL 34744",
-    "street": "1540 Neo Landings Loop",
-    "city": "Kissimmee",
-    "rent": "$2,747",
-    "rent_val": 2747,
-    "specs": "3 bd, 2 ba, 1,416 Sq. Ft.",
-    "beds": 3.0,
-    "baths": 2.0,
-    "sqft": 1416,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/1abc3a24-aa7a-4bc8-85c6-b71e1f73e4fd/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9bef899e-1a71-42f2-af39-3a6d909c333c",
-    "lat": 28.3064464,
-    "lng": -81.3869467,
-    "title": "Aston Square- 3 Bedroom Corner Apartment Home",
-    "description": "Luxury 3-Bedroom Corner Apartment in Vibrant Kissimmee, FL\r\n\r\nDiscover elevated living in our spacious 3-bedroom corner apartment home, designed for comfort, style, and convenience in the heart of Kissimmee, FL. This modern corner unit offers an array of premium features, including an extended lanai, a thoughtfully designed kitchen with ample cabinetry, and a welcoming den upon entry.\r\n\r\nEnjoy the ease of keyless entry, electric vehicle charging stations, and secure package lockers for a seamless living experience. Entertain guests in the top-floor media lounge with a rooftop deck or unwind on the expansive sun deck.\r\n\r\nFor those who value productivity, the community offers a co-working space and a business lounge with private work pods, ensuring a perfect balance of work and leisure. Inside, relax in the soaking tubs, enjoy the convenience of interactive thermostats, and take in the fresh air from your screened-in patio.\r\n\r\nMaintain an active lifestyle with a 24/7 fitness center, and take advantage of oversized storage units for all your belongings. The modern kitchen features quartz countertops, a spacious island, and high-end finishes, offering the perfect blend of luxury and functionality.\r\n\r\nExperience upscale living at its finest in this stunning apartment community. Contact us today to schedule a tour and secure your new home!\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,747 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available Now",
-    "terms": [
-      "Rent: $2,747",
-      "Application Fee: $99",
-      "Security Deposit: $500",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/1abc3a24-aa7a-4bc8-85c6-b71e1f73e4fd/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9bef899e-1a71-42f2-af39-3a6d909c333c&source=Website",
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
-    "available": "NOW",
-    "zip": "34744",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Aston Square Apartments"
-  },
-  {
     "id": 3776,
     "uuid": "33036c74-87c2-4615-b8ff-86442671b978",
     "address": "1540 Neo Landings Loop, Unit 112, Kissimmee, FL 34744",

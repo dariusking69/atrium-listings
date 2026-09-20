@@ -81,15 +81,6 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -105,6 +96,15 @@
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -359,15 +359,6 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -383,6 +374,15 @@
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -763,16 +763,6 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 22,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 21,
       "communities": [
@@ -780,6 +770,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 21,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -864,12 +864,12 @@
       "count": 69
     },
     {
-      "name": "Kissimmee",
+      "name": "Tampa",
       "count": 43
     },
     {
-      "name": "Tampa",
-      "count": 43
+      "name": "Kissimmee",
+      "count": 42
     },
     {
       "name": "Winter Springs",
@@ -1092,13 +1092,6 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 22,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "cities": [
@@ -1110,6 +1103,13 @@
       "count": 21,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 21,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 400,
-  "total": 546,
+  "mfTotal": 399,
+  "total": 545,
   "groups": [
     {
       "key": "inicio",
