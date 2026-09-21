@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 193,
+      "count": 191,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -90,21 +90,21 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -163,7 +163,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -172,7 +172,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -282,7 +282,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 146,
+      "count": 144,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(813) 428-8643",
       "cities": [
@@ -368,21 +368,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -450,7 +450,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -459,7 +459,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -686,7 +686,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 193,
+      "count": 191,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -763,16 +763,6 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 21,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 21,
       "communities": [
@@ -780,6 +770,16 @@
       ],
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 20,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -814,7 +814,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -824,7 +824,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 9,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -877,7 +877,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 34
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -885,7 +885,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Casselberry",
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "PG4",
-      "count": 14
+      "count": 12
     },
     {
       "name": "PG5",
@@ -1099,17 +1099,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 21,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 21,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 20,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1163,14 +1163,14 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 9,
       "cities": [
         "Orlando"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 401,
-  "total": 547,
+  "mfTotal": 400,
+  "total": 544,
   "groups": [
     {
       "key": "inicio",

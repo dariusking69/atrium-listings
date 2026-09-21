@@ -1,62 +1,0 @@
-<!DOCTYPE html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>1220 NW 12th Street Unit 8 — Atrium</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
-<style>
-  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
-    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
-  *{box-sizing:border-box}html,body{margin:0}
-  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
-  a{color:inherit;text-decoration:none}
-  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
-    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
-  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
-  .brand{display:flex;align-items:center}
-  .brand img{height:30px;width:auto;display:block}
-
-  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
-  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
-  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
-  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
-  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
-  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
-  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
-  .thumb.on{border-color:var(--red)}
-  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
-  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
-  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
-  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
-  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
-    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
-  .apply:hover{background:var(--red-dk)}
-  .note{font-size:12px;color:#9aa0a6;text-align:center}
-  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
-  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
-  .terms{list-style:none;padding:0;margin:0}
-  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
-  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
-</style></head><body>
-<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
-<div class="back"><a href="../widget.html">← All listings</a></div>
-<div class="wrap">
-  <div class="gallery">
-    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/9f56748f-f74b-45c3-aab0-0881fe9c1589/large.jpeg" alt="">
-    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/9f56748f-f74b-45c3-aab0-0881fe9c1589/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0886c42b-b39a-421a-8ac0-c68f650af42f/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/628cf827-1a22-4571-831f-e7a802c10c7d/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/1b6e6b35-a5e6-468e-9114-04b00ec8f870/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/3f342498-96a7-4269-8f6b-8b7d98ad2679/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/f07875f3-4156-4062-9a66-3ee020f3b17d/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/93a13352-27b5-4554-8ae0-188a5e4734f7/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/7911e662-6eda-4fec-8345-623381b824fd/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/9eb77e41-07a1-4b15-850d-0ea23f73dc2a/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/923e10af-d530-49c7-8d51-cbb90d041f73/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a5bfae76-b144-401d-9b6e-2bbf616f2ab3/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/7d767cd2-a2fa-490e-84fa-04559d326ac7/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/f1c56bfc-b83e-47a5-bae2-0506179fcd91/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/461d7d7c-48dd-43fa-82c9-4dc8ffe4e45c/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
-  </div>
-  <div class="info">
-    <h1>**$850/MONTH – PARTIALLY RENOVATED 1 BEDROOM AT CENTERPOINT!**</h1>
-    <div class="sub">1220 NW 12th Street Unit 8, Gainesville</div>
-    <div class="pricerow"><span class="p">$850/mo</span><span class="s">1 bd, 1 ba, 530 Sq. Ft.</span></div>
-    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7a023f91-85d5-4ea6-a402-d52b5bb6b847&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
-    <div class="note">Secure application — opens Atrium’s online form.</div>
-    <div class="block"><h3>About this home</h3><div class="desc">Welcome home to this partially renovated 1-bedroom, 1-bathroom apartment at Centerpoint! This 530 sq. ft. apartment offers comfortable living in a convenient Gainesville location.<br><br>**Apartment Features:**<br><br>• Partially renovated interior<br>• 1 bedroom / 1 bathroom<br>• 530 sq. ft.<br>• Comfortable living space<br>• Pet-friendly community<br>• On-site laundry facilities<br><br>**Prime Location**<br><br>Conveniently located just minutes from UF, Shands, and Butler Plaza, with easy access to shopping, dining, entertainment, and more.<br><br>**FEES &amp; UTILITIES**<br><br>Administration Fee: $295 one-time fee<br>Electric: Paid directly to GRU – (352) 334-3434<br>Water/Sewer/Trash: $55/month<br>Renters Insurance: $15.50/month<br>Pet Fee: $250 one-time fee + $25/month<br><br>Contact us today for more information or to schedule a tour!<br><br>Maximus Montepeque<br>Leasing Coordinator | Atrium Management<br>352-234-3496<br><br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $850 <br><br><br><br><br> Application Fee: $95 <br><br><br><br> Available Now</div></div>
-    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $850</li><li>Application Fee: $95</li><li>Available Now</li></ul></div>
-    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
-  </div>
-</div>
-<script>
-const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/9f56748f-f74b-45c3-aab0-0881fe9c1589/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/0886c42b-b39a-421a-8ac0-c68f650af42f/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/628cf827-1a22-4571-831f-e7a802c10c7d/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/1b6e6b35-a5e6-468e-9114-04b00ec8f870/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/3f342498-96a7-4269-8f6b-8b7d98ad2679/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/f07875f3-4156-4062-9a66-3ee020f3b17d/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/93a13352-27b5-4554-8ae0-188a5e4734f7/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/7911e662-6eda-4fec-8345-623381b824fd/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/9eb77e41-07a1-4b15-850d-0ea23f73dc2a/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/923e10af-d530-49c7-8d51-cbb90d041f73/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/a5bfae76-b144-401d-9b6e-2bbf616f2ab3/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/7d767cd2-a2fa-490e-84fa-04559d326ac7/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/f1c56bfc-b83e-47a5-bae2-0506179fcd91/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/461d7d7c-48dd-43fa-82c9-4dc8ffe4e45c/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
-function pick(i){document.getElementById('main').src=PHOTOS[i];
-  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
-</script></body></html>
