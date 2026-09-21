@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 256,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 428-8643",
+      "phone": "(386) 204-3046",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -64,7 +64,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -162,21 +162,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -323,8 +323,17 @@
       ]
     },
     {
+      "name": "Proxi  Lake Mary",
+      "count": 68,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(386) 204-3046",
+      "cities": [
+        "Lake Mary"
+      ]
+    },
+    {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -422,21 +431,21 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -449,21 +458,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -548,15 +557,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -570,6 +570,15 @@
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(813) 355-9968",
       "cities": [
         "Tampa"
       ]
@@ -686,13 +695,14 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 256,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
         "Hammocks off Newberry",
         "Janie B Apartments",
         "Keys at Wildwood",
+        "Proxi  Lake Mary",
         "The Hammocks by Butler",
         "The Hammocks off 6th",
         "The Hammocks on 20th",
@@ -740,7 +750,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -750,7 +760,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -803,16 +813,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 12,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "communities": [
@@ -820,6 +820,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -857,23 +867,27 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 108
+      "count": 106
     },
     {
       "name": "Richmond",
       "count": 71
     },
     {
-      "name": "Tampa",
-      "count": 42
+      "name": "Lake Mary",
+      "count": 70
     },
     {
       "name": "Kissimmee",
       "count": 41
     },
     {
+      "name": "Tampa",
+      "count": 40
+    },
+    {
       "name": "Winter Springs",
-      "count": 36
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -976,10 +990,6 @@
       "count": 2
     },
     {
-      "name": "Lake Mary",
-      "count": 2
-    },
-    {
       "name": "Celebration",
       "count": 1
     },
@@ -1047,7 +1057,7 @@
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 14
     },
     {
       "name": "PG7",
@@ -1064,8 +1074,15 @@
   ],
   "mfProperties": [
     {
+      "name": "Proxi  Lake Mary",
+      "count": 68,
+      "cities": [
+        "Lake Mary"
+      ]
+    },
+    {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1141,17 +1158,17 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 14,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 13,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1162,17 +1179,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 12,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1239,13 +1256,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 4,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "cities": [
@@ -1254,6 +1264,13 @@
     },
     {
       "name": "Case Residences",
+      "count": 3,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
       "count": 3,
       "cities": [
         "Tampa"
@@ -1344,8 +1361,8 @@
       ]
     }
   ],
-  "mfTotal": 407,
-  "total": 549,
+  "mfTotal": 469,
+  "total": 611,
   "groups": [
     {
       "key": "inicio",
@@ -1360,7 +1377,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 27
+      "listings": 26
     }
   ]
 }
