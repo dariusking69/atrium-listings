@@ -72,19 +72,19 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
+      "name": "The Nest",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "The Hub",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
       ]
@@ -350,19 +350,19 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
+      "name": "The Nest",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "The Hub",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
       ]
@@ -861,7 +861,7 @@
     },
     {
       "name": "Richmond",
-      "count": 69
+      "count": 71
     },
     {
       "name": "Tampa",
@@ -1085,15 +1085,15 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 23,
+      "name": "The Nest",
+      "count": 24,
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
+      "name": "The Hub",
+      "count": 23,
       "cities": [
         "Richmond"
       ]
@@ -1344,8 +1344,8 @@
       ]
     }
   ],
-  "mfTotal": 399,
-  "total": 545,
+  "mfTotal": 401,
+  "total": 547,
   "groups": [
     {
       "key": "inicio",
