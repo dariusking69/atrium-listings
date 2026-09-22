@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>615 Lakeview St — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/b20ac320-99a7-49fe-be07-7c9095f29ea4/large.png" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b20ac320-99a7-49fe-be07-7c9095f29ea4/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/6166f3c3-da20-4a52-b7e0-97b3ffd7cd7f/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/ea38cb77-f7d2-4b1b-bd2c-9f2b1c87f7c7/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/0a804406-a5b7-49b2-a3c5-25560cb3ab8f/large.jpg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/97b42be3-0ba8-4287-a33d-b64a85d365ae/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/f7a6c310-0f9d-4930-abd0-cfcdc1de8fcd/large.png" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>$500 Off First Month&#x27;s rent!!!! Chic Mid-Century Charm at College Park Villas – Modern Living in Orlando’s Enclave</h1>
+    <div class="sub">615 Lakeview St, Orlando</div>
+    <div class="pricerow"><span class="p">$1,650/mo</span><span class="s">2 bd, 1 ba, 829 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4afe8acd-b16c-481d-a58e-9728fa0461fe&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Welcome to College Park Villas – where the charm of mid-century modern design meets contemporary living in the heart of one of Orlando&#x27;s most desirable neighborhoods. Now professionally managed by Atrium Management, this exclusive 2-bedroom, 1-bath apartment is a rare find in the vibrant community of College Park, Florida.<br><br>Freshly painted with brand new flooring throughout, this move-in ready home has been thoughtfully updated while preserving its mid-century character.<br><br>Stay connected with Gigabit High-Speed Internet delivered directly to the property for only $60 per month. Perfect for remote work, streaming, gaming, and all your online needs—no hassle, no installation fees, and reliable service right at your doorstep!<br><br>Apartment Features:<br><br>Mid-Century Modern Aesthetics: Experience the timeless appeal of clean lines and organic forms, a hallmark of mid-century modern design.<br>Fresh &amp; Move-In Ready: Brand new flooring and fresh paint throughout give this home a crisp, updated feel from the moment you walk in.<br>Modern Amenities: Enjoy the convenience of new stainless steel appliances, ensuring both style and functionality in your daily life.<br>Comfort and Style: Generous living spaces with large windows invite natural light, complementing the sleek finishes throughout the main living area.<br><br>Community Highlights:<br><br>Prime Location: Nestled just outside downtown Orlando, College Park is a gem with palm tree-lined streets, a sense of community, and an array of local businesses.<br>Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants.<br>Cultural Hub: Engage with the neighborhood through monthly wine walks and events that celebrate local businesses and foster connections among residents.<br><br>Local Charm:<br><br>College Park Living: Known for its friendly neighbors and safe environment, College Park offers a tranquil yet vibrant lifestyle.<br>Connect with Nature: Enjoy the serene lakes and well-kept yards that add to the area&#x27;s picturesque setting.<br>Shop and Dine: Discover charming shops and diverse dining options, all within walking distance, adding to the allure of this sought-after location.<br><br>This apartment at College Park Villas is not just a place to live; it&#x27;s a lifestyle choice for those who appreciate design, community, and convenience. Don&#x27;t miss the opportunity to make this coveted address your new home. Schedule a tour today and experience the perfect blend of past and present at College Park Villas.<br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $1,650 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $1,650 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $1,650</li><li>Application Fee: $95</li><li>Security Deposit: $1,650</li><li>Available Now</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/b20ac320-99a7-49fe-be07-7c9095f29ea4/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/6166f3c3-da20-4a52-b7e0-97b3ffd7cd7f/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/ea38cb77-f7d2-4b1b-bd2c-9f2b1c87f7c7/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/0a804406-a5b7-49b2-a3c5-25560cb3ab8f/large.jpg", "https://images.cdn.appfolio.com/atriummanagement/images/97b42be3-0ba8-4287-a33d-b64a85d365ae/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/f7a6c310-0f9d-4930-abd0-cfcdc1de8fcd/large.png", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

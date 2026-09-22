@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 258,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -72,21 +72,21 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -199,7 +199,7 @@
     },
     {
       "name": "Raven Place",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
@@ -273,7 +273,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 143,
+      "count": 144,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -350,21 +350,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -431,21 +431,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -485,21 +485,21 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -677,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 258,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -756,7 +756,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 23,
+      "count": 24,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -852,11 +852,11 @@
       "count": 102
     },
     {
-      "name": "Richmond",
-      "count": 71
+      "name": "Lake Mary",
+      "count": 70
     },
     {
-      "name": "Lake Mary",
+      "name": "Richmond",
       "count": 70
     },
     {
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Winter Park",
@@ -893,7 +893,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Ocoee",
@@ -920,11 +920,11 @@
       "count": 6
     },
     {
-      "name": "Titusville",
-      "count": 4
+      "name": "DeLand",
+      "count": 5
     },
     {
-      "name": "DeLand",
+      "name": "Titusville",
       "count": 4
     },
     {
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "PG7",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PG8",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1080,17 +1080,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 24,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 24,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1143,17 +1143,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 12,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 12,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 11,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1185,17 +1185,17 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 8,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 7,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 7,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 465,
-  "total": 608,
+  "mfTotal": 463,
+  "total": 607,
   "groups": [
     {
       "key": "inicio",
