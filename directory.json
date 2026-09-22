@@ -64,7 +64,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
@@ -108,21 +108,21 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -395,21 +395,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -440,21 +440,21 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -760,7 +760,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 26,
+      "count": 25,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -783,16 +783,6 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 20,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 20,
       "communities": [
@@ -800,6 +790,16 @@
       ],
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 18,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -867,7 +867,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 106
+      "count": 104
     },
     {
       "name": "Richmond",
@@ -883,7 +883,7 @@
     },
     {
       "name": "Tampa",
-      "count": 40
+      "count": 39
     },
     {
       "name": "Winter Springs",
@@ -1130,17 +1130,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 20,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 20,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 18,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1165,17 +1165,17 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 13,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 12,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 12,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1361,8 +1361,8 @@
       ]
     }
   ],
-  "mfTotal": 469,
-  "total": 611,
+  "mfTotal": 466,
+  "total": 608,
   "groups": [
     {
       "key": "inicio",
@@ -1377,7 +1377,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 26
+      "listings": 25
     }
   ]
 }
