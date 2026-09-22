@@ -261,15 +261,6 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
-      "phone": "(703) 420-3619",
-      "cities": [
-        "Triangle"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -656,15 +647,6 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
-      "phone": "(703) 420-3619",
-      "cities": [
-        "Triangle"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -995,10 +977,6 @@
     },
     {
       "name": "Haines City",
-      "count": 1
-    },
-    {
-      "name": "Triangle",
       "count": 1
     },
     {
@@ -1333,13 +1311,6 @@
       ]
     },
     {
-      "name": "Southampton Apartments",
-      "count": 1,
-      "cities": [
-        "Triangle"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 1,
       "cities": [
@@ -1361,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 466,
-  "total": 608,
+  "mfTotal": 465,
+  "total": 607,
   "groups": [
     {
       "key": "inicio",
