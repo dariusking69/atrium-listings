@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1019 W Berry Ave — Atrium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{--red:#f13d3d;--red-dk:#e82121;--ink:#121212;--ink-2:#424245;--line:#e6e6e6;
+    --bg:#f5f5f7;--card:#fff;--radius:14px;--sans:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header.site{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{max-width:1280px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;gap:18px}
+  .brand{display:flex;align-items:center}
+  .brand img{height:30px;width:auto;display:block}
+
+  .back{max-width:1100px;margin:0 auto;padding:18px 24px 0}
+  .back a{font-size:14px;color:var(--ink-2);font-weight:600}.back a:hover{color:var(--red)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 60px;display:grid;grid-template-columns:1.5fr 1fr;gap:32px}
+  .gallery .main{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:var(--radius);background:#eceff3;display:block}
+  .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .thumb{padding:0;border:2px solid transparent;border-radius:9px;overflow:hidden;cursor:pointer;background:none;aspect-ratio:1}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.on{border-color:var(--red)}
+  .info h1{font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--ink-2);font-size:15px;margin-bottom:16px}
+  .pricerow{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+  .pricerow .p{font-size:28px;font-weight:800}.pricerow .s{font-weight:700;color:var(--red);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+  .apply{display:block;text-align:center;background:var(--red);color:#fff;font-weight:800;font-size:16px;
+    padding:16px;border-radius:12px;margin:18px 0 8px;transition:background .15s}
+  .apply:hover{background:var(--red-dk)}
+  .note{font-size:12px;color:#9aa0a6;text-align:center}
+  .block{margin-top:26px}.block h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px}
+  .desc{font-size:15px;line-height:1.65;color:#2a2a2e}
+  .terms{list-style:none;padding:0;margin:0}
+  .terms li{padding:10px 0;border-bottom:1px solid var(--line);font-size:15px}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr;gap:22px}}
+</style></head><body>
+<header class="site"><div class="bar"><a class="brand" href="../widget.html"><img src="../static/atrium-mark.png" alt="Atrium"></a></div></header>
+<div class="back"><a href="../widget.html">← All listings</a></div>
+<div class="wrap">
+  <div class="gallery">
+    <img id="main" class="main" src="https://images.cdn.appfolio.com/atriummanagement/images/810ad510-567c-44df-9892-121379a9b7db/large.jpeg" alt="">
+    <div class="thumbs"><button class="thumb on" onclick="pick(0)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/810ad510-567c-44df-9892-121379a9b7db/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(1)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/36d60dd9-327d-4bf6-8456-e027814fb0ce/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(2)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4019a344-937e-43fa-a51c-679964377c9b/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(3)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/6f2c236b-9c90-4127-95d6-59c0079d604e/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(4)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d8937f4e-4adb-42b3-95ad-9e31f6866d12/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(5)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/4f7b0836-e41d-4757-9573-4594e1d3ddf6/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(6)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/65fdfc58-6a96-4446-aeb9-03e4eee7c861/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(7)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/5342a72e-3b10-4817-9f88-f15240efbc4a/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(8)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/b6ff4baa-5852-4ce7-bf54-d2bcebab128f/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(9)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/905218e7-255b-4e6b-ad09-73a3a33bb28e/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(10)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/290a3436-2b2e-4bfc-a8be-103a0cdeca73/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(11)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/a90b22d4-5f5a-4111-8914-e875b61174ba/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(12)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/93618486-1420-4121-9f58-0843543d662f/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(13)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/afb258b9-e238-4298-9e4f-dde381364d25/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(14)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/050006ad-62ef-4166-a40d-bca2cca13090/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(15)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d7fdd8c7-1515-4498-bdc2-245bb27eb99c/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(16)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/d6ed4a92-5694-42b7-a792-24eee2e6fee6/large.jpeg" loading="lazy" alt=""></button><button class="thumb" onclick="pick(17)"><img src="https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png" loading="lazy" alt=""></button></div>
+  </div>
+  <div class="info">
+    <h1>Charming 3-Bedroom Home in a Convenient Tampa Location!</h1>
+    <div class="sub">1019 W Berry Ave, Tampa</div>
+    <div class="pricerow"><span class="p">$2,250/mo</span><span class="s">3 bd, 1 ba, 1,071 Sq. Ft.</span></div>
+    <a class="apply" href="https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0fa26a06-1048-425f-8be0-1aba411cbab4&amp;source=Website" target="_blank" rel="noopener">Apply Now →</a>
+    <div class="note">Secure application — opens Atrium’s online form.</div>
+    <div class="block"><h3>About this home</h3><div class="desc">Welcome home to this inviting 3-bedroom, 1-bathroom home offering approximately 1,071 square feet of comfortable living space. Enjoy an open floor plan, hardwood flooring, a bright living area, and a kitchen featuring granite countertops, double sinks, built-in cabinetry, and a dining area. Washer and dryer hookups and a convenient doggy door add to the home&#x27;s appeal.<br><br>Outside, relax on the back porch or enjoy the fenced backyard, perfect for entertaining, play, or simply enjoying the outdoors. An air-conditioned storage shed provides versatile extra space for storage, hobbies, or a BBQ/entertaining area.<br><br>Conveniently located near I-275 and I-4, with easy access to Downtown Tampa and ZooTampa—both approximately 10 minutes away. Come make this charming Tampa home your own!<br><br>Rental Requirements:<br><br>Combined gross household income of at least 3 times the monthly rent<br>Minimum 600 credit score<br>No prior evictions or outstanding collections with apartment communities, property management companies, or utility providers <br><br>Professional Managed By: Atrium Management<br>Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com <br><br><br><br><br> <br> <br> Rental Terms <br> <br> Rent: $2,250 <br><br><br><br><br> Application Fee: $95 <br><br> Security Deposit: $2,250 <br><br><br> Available Now</div></div>
+    <div class="block"><h3>Rental Terms</h3><ul class="terms"><li>Rent: $2,250</li><li>Application Fee: $95</li><li>Security Deposit: $2,250</li><li>Available Now</li></ul></div>
+    <div class="block"><h3>Pet Policy</h3><ul class="terms"><li>Cats allowed</li><li>Dogs allowed</li></ul></div>
+  </div>
+</div>
+<script>
+const PHOTOS=["https://images.cdn.appfolio.com/atriummanagement/images/810ad510-567c-44df-9892-121379a9b7db/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/36d60dd9-327d-4bf6-8456-e027814fb0ce/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/4019a344-937e-43fa-a51c-679964377c9b/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/6f2c236b-9c90-4127-95d6-59c0079d604e/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/d8937f4e-4adb-42b3-95ad-9e31f6866d12/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/4f7b0836-e41d-4757-9573-4594e1d3ddf6/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/65fdfc58-6a96-4446-aeb9-03e4eee7c861/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/5342a72e-3b10-4817-9f88-f15240efbc4a/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/b6ff4baa-5852-4ce7-bf54-d2bcebab128f/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/905218e7-255b-4e6b-ad09-73a3a33bb28e/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/290a3436-2b2e-4bfc-a8be-103a0cdeca73/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/a90b22d4-5f5a-4111-8914-e875b61174ba/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/93618486-1420-4121-9f58-0843543d662f/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/afb258b9-e238-4298-9e4f-dde381364d25/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/050006ad-62ef-4166-a40d-bca2cca13090/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/d7fdd8c7-1515-4498-bdc2-245bb27eb99c/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/d6ed4a92-5694-42b7-a792-24eee2e6fee6/large.jpeg", "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"];
+function pick(i){document.getElementById('main').src=PHOTOS[i];
+  document.querySelectorAll('.thumb').forEach((t,n)=>t.classList.toggle('on',n===i));}
+</script></body></html>

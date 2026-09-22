@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -64,20 +64,11 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -90,6 +81,15 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -99,21 +99,21 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -171,15 +171,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -195,6 +186,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -350,21 +350,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -377,21 +377,21 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -405,7 +405,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -431,15 +431,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -449,21 +440,21 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -482,6 +473,15 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -742,7 +742,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 26,
+      "count": 25,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -756,7 +756,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 24,
+      "count": 23,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -766,7 +766,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 21,
+      "count": 19,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -786,7 +786,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 16,
+      "count": 17,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -802,16 +802,6 @@
       ],
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 9,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -835,6 +825,16 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 7,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 6,
       "communities": [
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 102
+      "count": 101
     },
     {
       "name": "Lake Mary",
@@ -857,31 +857,31 @@
     },
     {
       "name": "Richmond",
-      "count": 70
+      "count": 69
     },
     {
       "name": "Tampa",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Kissimmee",
-      "count": 41
+      "count": 39
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 34
+    },
+    {
+      "name": "Gainesville",
+      "count": 31
     },
     {
       "name": "Deltona",
       "count": 31
     },
     {
-      "name": "Gainesville",
-      "count": 30
-    },
-    {
       "name": "Casselberry",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Winter Park",
@@ -1031,7 +1031,7 @@
     },
     {
       "name": "PG4",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PG5",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1080,17 +1080,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 24,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 24,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 23,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1101,17 +1101,17 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 21,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 21,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 19,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 16,
+      "count": 17,
       "cities": [
         "Orlando"
       ]
@@ -1143,13 +1143,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 12,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 11,
       "cities": [
@@ -1157,17 +1150,17 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 11,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1182,6 +1175,13 @@
       "count": 8,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 463,
-  "total": 607,
+  "mfTotal": 459,
+  "total": 603,
   "groups": [
     {
       "key": "inicio",
@@ -1348,7 +1348,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 26
+      "listings": 25
     }
   ]
 }
