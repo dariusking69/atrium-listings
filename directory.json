@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 259,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -54,12 +54,12 @@
       ]
     },
     {
-      "name": "The Julian",
+      "name": "The Nest",
       "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
@@ -72,21 +72,12 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Lake Irene",
+      "name": "The Julian",
       "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -99,17 +90,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
+      "name": "Lake Irene",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
       "name": "Aston Square",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -117,21 +108,30 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
       "cities": [
-        "Jacksonville"
+        "Sandston"
       ]
     },
     {
       "name": "Baldwin Park",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -273,7 +273,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 143,
+      "count": 145,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -341,17 +341,8 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 24,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -359,12 +350,12 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Julian",
       "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -377,17 +368,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
+      "name": "Reserve at Lake Irene",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
       "name": "Aston Square Apartments",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -395,21 +386,30 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
       "cities": [
-        "Jacksonville"
+        "Sandston"
       ]
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -677,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 259,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -756,7 +756,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 23,
+      "count": 22,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -766,7 +766,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 19,
+      "count": 20,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -775,23 +775,23 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 18,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Baldwin Park",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 17,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -849,23 +849,23 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 99
+      "count": 98
+    },
+    {
+      "name": "Richmond",
+      "count": 70
     },
     {
       "name": "Lake Mary",
       "count": 70
     },
     {
-      "name": "Richmond",
-      "count": 69
-    },
-    {
       "name": "Tampa",
-      "count": 40
+      "count": 41
     },
     {
       "name": "Kissimmee",
-      "count": 39
+      "count": 40
     },
     {
       "name": "Winter Springs",
@@ -881,11 +881,11 @@
     },
     {
       "name": "Jacksonville",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Casselberry",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Winter Park",
@@ -893,19 +893,19 @@
     },
     {
       "name": "Sandston",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Ocoee",
-      "count": 14
+      "count": 13
+    },
+    {
+      "name": "Lakeland",
+      "count": 9
     },
     {
       "name": "Macon",
       "count": 9
-    },
-    {
-      "name": "Lakeland",
-      "count": 8
     },
     {
       "name": "Charlottesville",
@@ -1047,7 +1047,7 @@
     },
     {
       "name": "PG9",
-      "count": 11
+      "count": 12
     }
   ],
   "mfProperties": [
@@ -1073,24 +1073,17 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 25,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 24,
+      "count": 25,
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Julian",
       "count": 23,
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -1101,31 +1094,38 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
+      "name": "Reserve at Lake Irene",
+      "count": 22,
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
       "name": "Aston Square Apartments",
-      "count": 19,
+      "count": 20,
       "cities": [
         "Kissimmee"
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 18,
+      "name": "Gerwyn Manor",
+      "count": 20,
       "cities": [
-        "Jacksonville"
+        "Sandston"
       ]
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 17,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1144,7 +1144,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Ocoee"
       ]
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 466,
-  "total": 609,
+  "mfTotal": 463,
+  "total": 608,
   "groups": [
     {
       "key": "inicio",
