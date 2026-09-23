@@ -46,20 +46,11 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -69,6 +60,15 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -341,21 +341,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -459,7 +459,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -806,7 +806,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 99
     },
     {
       "name": "Richmond",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Sandston",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1073,17 +1073,17 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 25,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 25,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 24,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1165,7 +1165,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 9,
       "cities": [
         "Winter Park"
       ]
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 464,
-  "total": 609,
+  "mfTotal": 463,
+  "total": 608,
   "groups": [
     {
       "key": "inicio",
