@@ -55,7 +55,7 @@
     },
     {
       "name": "The Julian",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -114,6 +114,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -177,15 +186,6 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "name": "The Julian",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -392,6 +392,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -464,15 +473,6 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -775,6 +775,16 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 18,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 17,
       "communities": [
@@ -815,16 +825,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 8,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 7,
       "communities": [
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 100
+      "count": 99
     },
     {
       "name": "Lake Mary",
@@ -880,6 +880,10 @@
       "count": 31
     },
     {
+      "name": "Jacksonville",
+      "count": 29
+    },
+    {
       "name": "Casselberry",
       "count": 27
     },
@@ -890,10 +894,6 @@
     {
       "name": "Sandston",
       "count": 21
-    },
-    {
-      "name": "Jacksonville",
-      "count": 19
     },
     {
       "name": "Ocoee",
@@ -1074,7 +1074,7 @@
     },
     {
       "name": "The Julian",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Orlando"
       ]
@@ -1112,6 +1112,13 @@
       "count": 19,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 18,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1168,13 +1175,6 @@
       "count": 9,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 8,
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 457,
-  "total": 600,
+  "mfTotal": 466,
+  "total": 609,
   "groups": [
     {
       "key": "inicio",
