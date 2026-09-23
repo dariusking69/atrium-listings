@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 258,
+      "count": 257,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -117,19 +117,19 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "Baldwin Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Barber Park",
       "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -273,7 +273,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 144,
+      "count": 143,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -395,19 +395,19 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "Avenues of Baldwin Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Barber Park Apartments",
       "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -677,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 258,
+      "count": 257,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -775,20 +775,20 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 18,
+      "name": "Baldwin Park",
+      "count": 17,
       "communities": [
-        "Barber Park Apartments"
+        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Barber Park",
       "count": 17,
       "communities": [
-        "Avenues of Baldwin Park"
+        "Barber Park Apartments"
       ],
       "cities": [
         "Orlando"
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 101
+      "count": 100
     },
     {
       "name": "Lake Mary",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Gainesville",
@@ -912,12 +912,12 @@
       "count": 7
     },
     {
-      "name": "Winter Garden",
+      "name": "St. Cloud",
       "count": 6
     },
     {
-      "name": "St. Cloud",
-      "count": 6
+      "name": "Winter Garden",
+      "count": 5
     },
     {
       "name": "DeLand",
@@ -1019,7 +1019,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 38
+      "count": 37
     },
     {
       "name": "PG2",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1115,14 +1115,14 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 18,
+      "name": "Avenues of Baldwin Park",
+      "count": 17,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Barber Park Apartments",
       "count": 17,
       "cities": [
         "Orlando"
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 459,
-  "total": 603,
+  "mfTotal": 457,
+  "total": 600,
   "groups": [
     {
       "key": "inicio",
