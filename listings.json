@@ -1,5 +1,91 @@
 [
   {
+    "id": 6733,
+    "uuid": "12543cda-b042-4160-b28b-39815ad8ea15",
+    "address": "480 N Terry Ave Unit 0809, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0809",
+    "city": "Orlando",
+    "rent": "$1,540",
+    "rent_val": 1540,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/12543cda-b042-4160-b28b-39815ad8ea15",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
+    "title": "Studio Apartment in Downtown Orlando \u2013 The DaVinci",
+    "description": "Studio, 1 Bath, 414 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A smart, efficient studio with a full kitchen and private outdoor space, steps from Lake Eola.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,540 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/6/26",
+    "terms": [
+      "Rent: $1,540",
+      "Application Fee: $95",
+      "Available 10/6/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=12543cda-b042-4160-b28b-39815ad8ea15&source=Website",
+    "available": "10/6/26",
+    "zip": "32801",
+    "unit": "0809",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Julian"
+  },
+  {
+    "id": 6732,
+    "uuid": "712b0e41-66e8-430f-99b3-cfbcf005415d",
+    "address": "480 N Terry Ave Unit 0209, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0209",
+    "city": "Orlando",
+    "rent": "$1,510",
+    "rent_val": 1510,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/712b0e41-66e8-430f-99b3-cfbcf005415d",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
+    "title": "Studio Apartment in Downtown Orlando \u2013 The DaVinci",
+    "description": "Studio, 1 Bath, 414 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A smart, efficient studio with a full kitchen and private outdoor space, steps from Lake Eola.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,510 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 12/5/26",
+    "terms": [
+      "Rent: $1,510",
+      "Application Fee: $95",
+      "Available 12/5/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=712b0e41-66e8-430f-99b3-cfbcf005415d&source=Website",
+    "available": "12/5/26",
+    "zip": "32801",
+    "unit": "0209",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Julian"
+  },
+  {
     "id": 6730,
     "uuid": "6cd51dfe-da10-42ee-9d2d-905c7600c9e5",
     "address": "3113 W. Marshall Street #609, Richmond, VA 23230",
@@ -15,9 +101,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6cd51dfe-da10-42ee-9d2d-905c7600c9e5",
     "lat": 37.5662879,
     "lng": -77.4734839,
-    "property": "The Nest",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-    "phone": "(804) 409-4983",
     "title": "The Aerie",
     "description": "Rental Terms \n \n Rent: $1,611 \n\n\n\n Admin Fee: $235 \n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/19/26",
     "terms": [
@@ -36,6 +119,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6cd51dfe-da10-42ee-9d2d-905c7600c9e5&source=Website",
+    "property": "The Nest",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+    "phone": "(804) 409-4983",
     "available": "10/19/26",
     "zip": "23230",
     "unit": "",
@@ -60,9 +146,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/322a1a44-c892-4f95-b3b7-be276094f0b4",
     "lat": 27.9950498,
     "lng": -82.4598242,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(407) 585-2721",
     "title": "Avenue Lofts",
     "description": "Avenue Lofts was thoughtfully designed for those who desire the best urban living experience in Tampa. Located in highly-desired Seminole Heights, just minutes from downtown Tampa, the Avenue Lofts offers the ultimate urban lifestyle.\r\n\r\nWe're pet-friendly with contemporary, loft-style floor plans that promise to meet all of your living needs. Whatsmore, our expansive rooftop with captivating city views and in-building retail and dining will be sure to please even the toughest critic.\r\n\r\nA 52-unit apartment community with a carefully-crafted urban twist. Our units offer soaring 16-foot ceilings, 12-foot loft windows, and custom-designed living features to ensure both comfort and style.\r\n\r\nAvenue Lofts is centrally located and walkable to specialty retail and the best restaurants, bars, and brew houses Tampa has to offer, including Ichicoro, Rooster and the Till, The Refinery, Brew Bus Terminal & Brewery, The C House, The Independent Bar & Cafe, and Cappy's Pizza.\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,125 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
     "terms": [
@@ -86,6 +169,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=322a1a44-c892-4f95-b3b7-be276094f0b4&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33603",
     "unit": "",
@@ -110,9 +196,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4d64fd79-2469-4235-8560-ef1969398be5",
     "lat": 28.0569247,
     "lng": -81.9076848,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-    "phone": "(407) 585-2721",
     "title": "3 Bedroom, 1 Bath House in Lakeland",
     "description": "Discover this charming 3-bedroom, 1-bathroom home in Lakeland, FL, offering a practical layout and comfortable living space. This home features a spacious interior with a functional floor plan that provides plenty of room for everyday living, entertaining, and relaxation. One of the convenient features of the home is the indoor laundry room, which includes washer and dryer hookups, making it easy to set up your own laundry area without having to leave the comfort of your home. Step outside and enjoy the large front porch, providing a welcoming outdoor space that is perfect for enjoying your morning coffee, relaxing after a long day, or spending time outdoors. The property also includes a detached storage shed, offering additional space for tools, outdoor equipment, seasonal decorations, and other household items. Located in Lakeland, FL, this property offers convenient access to surrounding shopping, dining, entertainment, and major roadways, making it easy to get around the area.\r\n\r\nAdditional Monthly Rent Charges:\r\n*$60 Group Rate Internet\r\n*$15.50 Renters Insurance Fee\r\n\r\n***RESIDENT INTERNET PACKAGE *** All Atrium Property Management residents are automatically enrolled in the High-Speed Internet Package, a required utility. This service, priced at $60 per month, is active on your move-in date. The package provides 1 Gigabit speeds, includes all equipment, has no data caps, and comes with no installation fees. Additional details will be provided at the time of application\r\n\r\nPet Policy:\r\nBreed restrictions apply\r\n$250 Non-Refundable Pet Fee (per pet)\r\n$25 Per month pet rent\r\n\r\n$95 Application Fee\r\n$295 Admin Fee\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,300 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,300 \n\n\n Available Now",
     "terms": [
@@ -148,6 +231,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4d64fd79-2469-4235-8560-ef1969398be5&source=Website",
+    "property": "Atrium Management Company",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+    "phone": "(407) 585-2721",
     "available": "NOW",
     "zip": "33801",
     "unit": "",
@@ -12537,48 +12623,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 6303,
-    "uuid": "3e34ab25-caad-484d-83f0-90ebc8fbaa2c",
-    "address": "5009 S West Shore Blvd Unit 21-5013, Tampa, FL 33611",
-    "street": "5009 S West Shore Blvd Unit 21-5013",
-    "city": "Tampa",
-    "rent": "$1,599",
-    "rent_val": 1599,
-    "specs": "2 bd, 1 ba, 889 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 1.0,
-    "sqft": 889,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6c5bbd0b-2ad6-42d7-b584-8e10de889459/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3e34ab25-caad-484d-83f0-90ebc8fbaa2c",
-    "lat": 27.8909617,
-    "lng": -82.5270743,
-    "title": "Westshore Flats | 2-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Enjoy extra space with classic or upgraded finishes in this two-bedroom home at Westshore Flats. Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer \u2014 comfortable enough for professionals working from home or empty nesters hosting guests. The community offers a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all within walking distance of Westshore Marina District's waterfront dining and boutiques. Apply online today to secure your two-bedroom home.\n\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,599 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,599",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/6c5bbd0b-2ad6-42d7-b584-8e10de889459/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3e34ab25-caad-484d-83f0-90ebc8fbaa2c&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(813) 285-4812",
-    "available": "NOW",
-    "zip": "33611",
-    "unit": "21-5013",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "Westshore Flats I"
-  },
-  {
     "id": 6300,
     "uuid": "fe443023-f339-45ef-9aa1-ef2c4b26075b",
     "address": "3280 Overstreet East #109, Kissimmee, FL 34747",
@@ -15626,9 +15670,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5be3d007-fc1c-411e-9739-8f3e0e4d40a6",
     "lat": 28.7028919,
     "lng": -81.3214476,
-    "property": "Ave. at Winter Springs",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-    "phone": "(689) 300-4121",
     "title": "Experience resort-style living at The Avenues at Winter Springs!",
     "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,423 - $1,535 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,552 \n\n\n Available 10/4/26",
     "terms": [
@@ -15657,6 +15698,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5be3d007-fc1c-411e-9739-8f3e0e4d40a6&source=Website",
+    "property": "Ave. at Winter Springs",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+    "phone": "(689) 300-4121",
     "available": "10/4/26",
     "zip": "32708",
     "unit": "",
@@ -21485,9 +21529,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bd52e4e3-9141-4e50-aa0e-edef20f35243",
     "lat": 28.5746627,
     "lng": -81.3055489,
-    "property": "Baldwin Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-    "phone": "(689) 215-9531",
     "title": "Spacious 2-Bedroom Apartment in Baldwin Park \u2013 Pet Friendly!",
     "description": "Welcome home to The Avenue at Baldwin Park, where comfort and convenience meet style! This beautiful 2-bedroom, 2-bathroom apartment features a split floor plan for added privacy, perfect for roommates or families. Enjoy the ease of having your washer and dryer in-unit, plus modern finishes throughout.\r\n\r\nStep outside and take advantage of the incredible community amenities \u2014 relax by the resort-style pool, shoot hoops on the basketball court, let the kids play at the playground, or spend quality time with your furry friends at the dog park.\r\n\r\nLocated in the desirable Baldwin Park area of Orlando, you\u2019ll be just minutes from shopping, dining, and entertainment, with easy access to major highways.\r\n\r\nHighlights:\r\n\r\n2 Bedrooms / 2 Bathrooms\r\nSplit Floor Plan\r\nHigh speed Internet\r\nWasher & Dryer in Unit\r\nPet Friendly\r\nPool, Basketball Court, Playground & Dog Park\r\n\r\nDon\u2019t miss your chance to call this stunning apartment home \u2014 schedule your tour today (407) 917-7786!\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\nValet Trash\r\nClubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\ncommunity pool\r\nCommunity Dog Park\r\n1st Floor\r\nWasherDryer\r\nBlack Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,744 - $3,183 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 12/11/26",
     "terms": [
@@ -21514,6 +21555,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bd52e4e3-9141-4e50-aa0e-edef20f35243&source=Website",
+    "property": "Baldwin Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+    "phone": "(689) 215-9531",
     "available": "12/11/26",
     "zip": "32807",
     "unit": "",
@@ -24467,9 +24511,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cdcdff97-d3bb-46e3-a6d5-57381e073dc4",
     "lat": 28.3056952,
     "lng": -81.3869162,
-    "property": "Aston Square",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-    "phone": "(689) 215-8516",
     "title": "Aston Square- 1,132sqft 2 Bedroom 2 Bathroom",
     "description": "Experience Luxury Living in Kissimmee, FL\r\n\r\nStep into elegance with our spacious 1,132 sq. ft. 2-Bedroom, 2-Bathroom Apartment at Aston Square Luxury Apartments. Designed to complement your lifestyle, this stunning residence offers a perfect blend of modern sophistication and everyday comfort.\r\n\r\nFeaturing sleek vinyl plank flooring, top-of-the-line stainless steel appliances, spacious walk-in custom closets, keyless entry, and quartz countertops, this apartment is as stylish as it is functional. Fresh white walls provide a perfect canvas to match your d\u00e9cor and bring your vision to life.\r\n\r\nResort-style amenities await, including a sparkling pool, sun deck, top-floor media lounge with a rooftop deck, co-working space, package lockers, electric vehicle charging stations, and a 24/7 fitness center. Enjoy ultimate relaxation with soaking tubs, interactive thermostats for personalized comfort, and a screened-in patio to take in the fresh air.\r\n\r\nFor added convenience, a business lounge, private work pods, and oversized storage units ensure you have everything you need for a seamless and luxurious lifestyle.\r\n\r\nDon\u2019t miss your chance to call this exceptional apartment home. Contact us today to schedule a tour!rtop\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,020 \n\n\n\n\n Application Fee: $99 \n\n Security Deposit: $500 \n\n\n Available Now",
     "terms": [
@@ -24487,6 +24528,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cdcdff97-d3bb-46e3-a6d5-57381e073dc4&source=Website",
+    "property": "Aston Square",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+    "phone": "(689) 215-8516",
     "available": "NOW",
     "zip": "34744",
     "unit": "",

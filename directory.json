@@ -54,6 +54,15 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -64,20 +73,11 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 25,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -341,21 +341,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 25,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -485,15 +485,6 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -509,6 +500,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -742,7 +742,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 25,
+      "count": 24,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 98
+      "count": 100
     },
     {
       "name": "Richmond",
@@ -861,7 +861,7 @@
     },
     {
       "name": "Tampa",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Kissimmee",
@@ -1073,17 +1073,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 25,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 25,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 23,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1185,13 +1185,6 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 7,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 7,
       "cities": [
@@ -1203,6 +1196,13 @@
       "count": 7,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 6,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 463,
-  "total": 608,
+  "mfTotal": 464,
+  "total": 609,
   "groups": [
     {
       "key": "inicio",
@@ -1348,7 +1348,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 25
+      "listings": 24
     }
   ]
 }
