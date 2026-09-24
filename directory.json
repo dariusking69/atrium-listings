@@ -117,21 +117,21 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -395,21 +395,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -775,16 +775,6 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 18,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 17,
       "communities": [
@@ -792,6 +782,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 17,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 99
+      "count": 98
     },
     {
       "name": "Richmond",
@@ -1115,17 +1115,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 18,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 17,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 17,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 463,
-  "total": 608,
+  "mfTotal": 462,
+  "total": 607,
   "groups": [
     {
       "key": "inicio",
