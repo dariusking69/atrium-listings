@@ -3,12 +3,11 @@
     {
       "name": "Atrium Management Company",
       "count": 260,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
-        "Auburndale",
         "Belleview",
         "Casselberry",
         "Celebration",
@@ -54,21 +53,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -144,21 +143,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -207,21 +206,21 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -274,12 +273,11 @@
     {
       "name": "Atrium Management Company",
       "count": 146,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
-        "Auburndale",
         "Belleview",
         "Casselberry",
         "Celebration",
@@ -316,7 +314,7 @@
     {
       "name": "Proxi  Lake Mary",
       "count": 68,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(386) 204-3046",
       "cities": [
         "Lake Mary"
@@ -334,19 +332,10 @@
     {
       "name": "Cardinal Village",
       "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -356,6 +345,15 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -422,21 +420,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -494,15 +492,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
@@ -518,6 +507,15 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -577,7 +575,7 @@
     {
       "name": "Janie B Apartments",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(813) 355-9968",
       "cities": [
         "Tampa"
@@ -586,7 +584,7 @@
     {
       "name": "Hammocks off Newberry",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 332-3199",
       "cities": [
         "Gainesville"
@@ -595,7 +593,7 @@
     {
       "name": "The Hammocks off 6th",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 372-3826",
       "cities": [
         "Gainesville"
@@ -604,7 +602,7 @@
     {
       "name": "The Jeffersonian",
       "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
@@ -613,7 +611,7 @@
     {
       "name": "Keys at Wildwood",
       "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 268-6987",
       "cities": [
         "Oxford"
@@ -631,7 +629,7 @@
     {
       "name": "The Hammocks on 20th",
       "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
@@ -658,7 +656,7 @@
     {
       "name": "The Hammocks by Butler",
       "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 258-1332",
       "cities": [
         "Gainesville"
@@ -667,7 +665,7 @@
     {
       "name": "The Hammocks on 34th",
       "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 258-1332",
       "cities": [
         "Gainesville"
@@ -694,7 +692,6 @@
       "cities": [
         "Altamonte Springs",
         "Apopka",
-        "Auburndale",
         "Belleview",
         "Casselberry",
         "Celebration",
@@ -742,7 +739,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 25,
+      "count": 24,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -852,20 +849,20 @@
       "count": 96
     },
     {
-      "name": "Richmond",
-      "count": 70
-    },
-    {
       "name": "Lake Mary",
       "count": 70
     },
     {
+      "name": "Richmond",
+      "count": 69
+    },
+    {
       "name": "Kissimmee",
-      "count": 42
+      "count": 40
     },
     {
       "name": "Tampa",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Winter Springs",
@@ -881,7 +878,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Jacksonville",
@@ -980,10 +977,6 @@
       "count": 1
     },
     {
-      "name": "Auburndale",
-      "count": 1
-    },
-    {
       "name": "Ocala",
       "count": 1
     },
@@ -1047,7 +1040,7 @@
     },
     {
       "name": "PG9",
-      "count": 12
+      "count": 11
     }
   ],
   "mfProperties": [
@@ -1073,17 +1066,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 25,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 24,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 24,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1136,17 +1129,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 14,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 13,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 12,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1192,13 +1185,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 7,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 7,
       "cities": [
@@ -1210,6 +1196,13 @@
       "count": 6,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 6,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1332,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 461,
-  "total": 607,
+  "mfTotal": 457,
+  "total": 603,
   "groups": [
     {
       "key": "inicio",
