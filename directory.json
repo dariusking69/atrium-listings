@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 260,
+      "count": 263,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(813) 553-3444",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -152,21 +152,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -185,15 +185,6 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -230,6 +221,15 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -272,9 +272,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 146,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(813) 553-3444",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -429,21 +429,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -471,15 +471,6 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -516,6 +507,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -675,7 +675,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 260,
+      "count": 263,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -729,7 +729,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -822,16 +822,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 7,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "communities": [
@@ -841,12 +831,22 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 5,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 96
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -857,20 +857,20 @@
       "count": 69
     },
     {
-      "name": "Kissimmee",
-      "count": 40
+      "name": "Tampa",
+      "count": 41
     },
     {
-      "name": "Tampa",
+      "name": "Kissimmee",
       "count": 39
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Gainesville",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -1024,11 +1024,11 @@
     },
     {
       "name": "PG4",
-      "count": 11
+      "count": 12
     },
     {
       "name": "PG5",
-      "count": 14
+      "count": 16
     },
     {
       "name": "PG7",
@@ -1053,7 +1053,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1136,17 +1136,17 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 12,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 11,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 11,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1168,13 +1168,6 @@
       "count": 8,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 7,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1203,6 +1196,13 @@
       "count": 6,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 457,
-  "total": 603,
+  "mfTotal": 453,
+  "total": 602,
   "groups": [
     {
       "key": "inicio",
