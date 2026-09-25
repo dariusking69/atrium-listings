@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 261,
+      "count": 260,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -54,15 +54,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -72,12 +63,12 @@
       ]
     },
     {
-      "name": "The Julian",
+      "name": "The Nest",
       "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
@@ -87,6 +78,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -126,15 +126,6 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -144,8 +135,17 @@
       ]
     },
     {
-      "name": "Champions Village",
+      "name": "Barber Park",
       "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -172,7 +172,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -198,6 +198,15 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -207,17 +216,8 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Sutton Fields",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
@@ -273,7 +273,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 146,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -341,15 +341,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 25,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -359,12 +350,12 @@
       ]
     },
     {
-      "name": "The Julian",
+      "name": "The Nest",
       "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
@@ -374,6 +365,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -404,15 +404,6 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -422,8 +413,17 @@
       ]
     },
     {
-      "name": "Champions Village",
+      "name": "Barber Park Apartments",
       "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -450,7 +450,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -485,6 +485,15 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -494,30 +503,21 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -677,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 261,
+      "count": 260,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -785,16 +785,6 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 17,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 16,
       "communities": [
@@ -805,8 +795,18 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 16,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 99
+      "count": 96
     },
     {
       "name": "Richmond",
@@ -861,7 +861,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 44
+      "count": 42
     },
     {
       "name": "Tampa",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Sandston",
@@ -913,7 +913,7 @@
     },
     {
       "name": "St. Cloud",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Winter Garden",
@@ -1019,7 +1019,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 39
+      "count": 38
     },
     {
       "name": "PG2",
@@ -1073,13 +1073,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 25,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 25,
       "cities": [
@@ -1087,10 +1080,10 @@
       ]
     },
     {
-      "name": "The Julian",
+      "name": "The Nest",
       "count": 24,
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
@@ -1098,6 +1091,13 @@
       "count": 24,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 23,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1122,13 +1122,6 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 17,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 16,
       "cities": [
@@ -1136,8 +1129,15 @@
       ]
     },
     {
-      "name": "Champions Village",
+      "name": "Barber Park Apartments",
       "count": 16,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 14,
       "cities": [
         "Kissimmee"
       ]
@@ -1158,7 +1158,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 9,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
@@ -1185,6 +1185,13 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 7,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 7,
       "cities": [
@@ -1192,24 +1199,17 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 7,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 6,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 6,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 6,
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       ]
     }
   ],
-  "mfTotal": 463,
-  "total": 610,
+  "mfTotal": 461,
+  "total": 607,
   "groups": [
     {
       "key": "inicio",
