@@ -53,30 +53,12 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "Inicio Tampa",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
       "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
+        "Tampa"
       ]
     },
     {
@@ -89,21 +71,39 @@
       ]
     },
     {
+      "name": "The Nest",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -339,8 +339,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -349,7 +358,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -358,20 +367,11 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 24,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -600,6 +600,15 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Jeffersonian",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -633,15 +642,6 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Beach Flats",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -738,28 +738,8 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 24,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 24,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
-      "count": 22,
+      "count": 23,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -769,6 +749,26 @@
       ],
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 23,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 23,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -803,7 +803,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -854,15 +854,15 @@
     },
     {
       "name": "Richmond",
-      "count": 69
+      "count": 68
     },
     {
       "name": "Tampa",
-      "count": 41
+      "count": 42
     },
     {
       "name": "Kissimmee",
-      "count": 39
+      "count": 38
     },
     {
       "name": "Winter Springs",
@@ -877,16 +877,16 @@
       "count": 31
     },
     {
-      "name": "Casselberry",
-      "count": 28
-    },
-    {
       "name": "Jacksonville",
       "count": 27
     },
     {
+      "name": "Casselberry",
+      "count": 27
+    },
+    {
       "name": "Winter Park",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Sandston",
@@ -1066,31 +1066,31 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 23,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
-      "count": 24,
+      "count": 23,
       "cities": [
         "Richmond"
       ]
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 24,
+      "count": 23,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "Aston Square Apartments",
-      "count": 24,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
-      "name": "The Julian",
       "count": 23,
       "cities": [
-        "Orlando"
+        "Kissimmee"
       ]
     },
     {
@@ -1151,7 +1151,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 9,
       "cities": [
         "Winter Park"
       ]
@@ -1269,6 +1269,13 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 2,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Jeffersonian",
       "count": 2,
       "cities": [
@@ -1297,13 +1304,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 1,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 1,
       "cities": [
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 453,
-  "total": 602,
+  "mfTotal": 450,
+  "total": 599,
   "groups": [
     {
       "key": "inicio",
@@ -1341,7 +1341,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 22
+      "listings": 23
     }
   ]
 }
