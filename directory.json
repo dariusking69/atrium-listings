@@ -53,6 +53,15 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -77,15 +86,6 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -339,6 +339,15 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -354,15 +363,6 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -738,6 +738,16 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 24,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 23,
       "communities": [
@@ -749,16 +759,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 23,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -862,7 +862,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Gainesville",
@@ -1066,6 +1066,13 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 24,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 23,
       "cities": [
@@ -1077,13 +1084,6 @@
       "count": 23,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 23,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 446,
-  "total": 595,
+  "mfTotal": 447,
+  "total": 596,
   "groups": [
     {
       "key": "inicio",
