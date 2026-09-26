@@ -45,7 +45,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -80,15 +80,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -104,6 +95,15 @@
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -224,15 +224,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -248,6 +239,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -357,15 +357,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -381,6 +372,15 @@
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -510,15 +510,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -534,6 +525,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -729,7 +729,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -752,16 +752,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 23,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 23,
       "communities": [
@@ -769,6 +759,16 @@
       ],
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 21,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -834,7 +834,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 5,
+      "count": 4,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -846,7 +846,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 94
+      "count": 93
     },
     {
       "name": "Lake Mary",
@@ -865,11 +865,11 @@
       "count": 38
     },
     {
-      "name": "Winter Springs",
-      "count": 33
+      "name": "Gainesville",
+      "count": 32
     },
     {
-      "name": "Gainesville",
+      "name": "Winter Springs",
       "count": 32
     },
     {
@@ -882,7 +882,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 27
+      "count": 25
     },
     {
       "name": "Winter Park",
@@ -1053,7 +1053,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1080,13 +1080,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 23,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 23,
       "cities": [
@@ -1098,6 +1091,13 @@
       "count": 23,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 21,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1199,13 +1199,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 5,
       "cities": [
@@ -1217,6 +1210,13 @@
       "count": 5,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 450,
-  "total": 599,
+  "mfTotal": 446,
+  "total": 595,
   "groups": [
     {
       "key": "inicio",
