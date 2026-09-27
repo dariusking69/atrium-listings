@@ -6639,61 +6639,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 6565,
-    "uuid": "d45784fb-9a07-418b-a8fb-e155bdc8a9a9",
-    "address": "09 Photina Ct Unit # 09-105, Winter Springs, FL 32708",
-    "street": "09 Photina Ct Unit # 09-105",
-    "city": "Winter Springs",
-    "rent": "$1,406 - $1,494",
-    "rent_val": 1406,
-    "specs": "2 bd, 2 ba, 1,020 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 1020,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c18ffc40-582d-4e8f-8189-9efce6d65d88/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d45784fb-9a07-418b-a8fb-e155bdc8a9a9",
-    "lat": 28.7017966,
-    "lng": -81.3216956,
-    "title": "Experience resort-style living at The Avenues at Winter Springs!",
-    "description": "Our pet-friendly community offers spacious 1, 2, and 3-bedroom apartment homes with modern finishes and everyday conveniences.\r\n\r\nEnjoy amenities like a resort-style pool with sundeck, 24-hour fitness and wellness center, tennis court, playground, and leash-free pet park. Stay connected with 400 Mbps internet, and take advantage of on-site management, garages, and short-term lease options.\r\n\r\nSelect homes feature upgraded white cabinetry, stainless steel appliances, granite countertops, hardwood-inspired flooring, private patios/balconies, and wood-burning fireplaces.\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,406 - $1,494 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,598 \n\n\n Available 10/16/26",
-    "terms": [
-      "Rent: $1,406 - $1,494",
-      "Application Fee: $79",
-      "Security Deposit: $1,598",
-      "Available 10/16/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/c18ffc40-582d-4e8f-8189-9efce6d65d88/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/fe829fdb-8047-4e2f-8b17-a17848b4cf66/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/3a3a329d-9565-44fb-b7f0-1970942ea835/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c9706879-ade4-4d5f-8171-4a44026f8b33/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/955028fd-16ce-4284-8e6c-0b8a96589ed7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/80f92716-971e-424f-ac8f-5920de812d60/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/13c32b55-c609-4d91-bb71-d33a691ddb9e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b2e9315f-64bf-424d-8f0d-3be264483b57/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/30fedad1-da77-4b8e-ba19-589a57b3f86a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/79d2c719-42b3-4fe0-bbcd-1a8e7e7d9f0a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/89d1e63c-14fe-45c5-961e-1064ab7c3e77/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/d57da6e3-f7f3-4368-8104-15e5017f4f6e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d45784fb-9a07-418b-a8fb-e155bdc8a9a9&source=Website",
-    "property": "Ave. at Winter Springs",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-    "phone": "(689) 300-4121",
-    "available": "10/16/26",
-    "zip": "32708",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "The Avenues at Winter Springs"
-  },
-  {
     "id": 6563,
     "uuid": "fedae60c-78ee-46d6-950a-041483bed4b2",
     "address": "2115 Bouquet Ct #201, Orlando, FL 32807",
@@ -13796,48 +13741,6 @@
       "inicio"
     ],
     "community": "Westshore Flats I"
-  },
-  {
-    "id": 6130,
-    "uuid": "bfce731f-8fa7-489b-8f7d-51e02c11bb93",
-    "address": "6822 S Shamrock Rd Unit 213, Tampa, FL 33616",
-    "street": "6822 S Shamrock Rd Unit 213",
-    "city": "Tampa",
-    "rent": "$1,299",
-    "rent_val": 1299,
-    "specs": "1 bd, 1 ba, 561 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 561,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bfce731f-8fa7-489b-8f7d-51e02c11bb93",
-    "lat": 27.8661274,
-    "lng": -82.5232419,
-    "title": "The William at Westshore | 1-Bedroom Flat, Port Tampa City, Tampa",
-    "description": "Discover restored charm at The William at Westshore, where each 561-square-foot one-bedroom home features a private entry and hardwood-style flooring. Upgraded homes add granite- or quartz-style countertops and stainless steel appliances, with select units offering a balcony or screened-in patio. Just outside, residents enjoy a resort-style pool, 24/7 fitness center, fire pit lounge, and outdoor grill kitchen in a quiet, secluded corner of Port Tampa City \u2014 20 minutes from downtown Tampa with HART bus access nearby. Pet-friendly and smoke-free. Schedule a private tour today to experience it for yourself. \n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,299 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/16/26",
-    "terms": [
-      "Rent: $1,299",
-      "Application Fee: $95",
-      "Available 10/16/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/d860561b-efbd-4aca-a84c-94f2feb40d8d/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bfce731f-8fa7-489b-8f7d-51e02c11bb93&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(727) 513-0814",
-    "available": "10/16/26",
-    "zip": "33616",
-    "unit": "213",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "The William at Westshore"
   },
   {
     "id": 6118,
@@ -22070,6 +21973,50 @@
     "community": "Atrium Management Company"
   },
   {
+    "id": 3863,
+    "uuid": "e59f3e6e-03ee-4657-87d1-17621d214979",
+    "address": "1031 Green Cypress Loop, Davenport, FL 33896",
+    "street": "1031 Green Cypress Loop",
+    "city": "Davenport",
+    "rent": "$2,395",
+    "rent_val": 2395,
+    "specs": "3 bd, 2.5 ba, 1,648 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.5,
+    "sqft": 1648,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8abb10cd-bdc5-4b87-8366-1d3138e5d36c/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e59f3e6e-03ee-4657-87d1-17621d214979",
+    "lat": 28.254033,
+    "lng": -81.622822,
+    "property": "Champions Chase",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+    "phone": "(863) 204-1180",
+    "title": "The Washington - 3 Bedroom with 2 Car Garage!",
+    "description": "**Qualifying special is reflected in rate shown**\r\n\r\nExperience the best of luxury living at Champions Chase, a professionally managed townhome community conveniently located near Champions Gate in Davenport, Florida. These spacious, pet-friendly homes offer the freedom and feel of a single-family residence without the burdens of homeownership. Enjoy a community-focused lifestyle with all the modern amenities you desire, perfectly situated for easy access to area attractions, shopping, and dining.\r\n\r\nThese townhomes have it all! There are 5 different models to choose from with expansive three to four-bedroom floorplans tailored to fit your lifestyle needs. Each home comes with a number of features including one to two-car garages that come with EV charging. Future-forward innovations like smart home technology. Stylish interior finishes like hardwood-style flooring, Samsung stainless-steel appliances, chef-inspired Kitchen, Custom Cabinetry, the airy feel of vaulted ceilings, and quaint views of the community through expansive windows. Also included are HIGH-SPEED Internet and Selected Premium Channels via Spectrum.\r\n\r\nFor our furry residents, we have dedicated dog parks where they can run and play to their heart's content. (Pet Fees Applied)\r\n\r\nThis community is professionally managed by Atrium Management. For more information contact our leasing team at (407) 243-8382.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,395 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $600 \n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $2,395",
+      "Application Fee: $95",
+      "Security Deposit: $600",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/8abb10cd-bdc5-4b87-8366-1d3138e5d36c/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e59f3e6e-03ee-4657-87d1-17621d214979&source=Website",
+    "available": "10/10/26",
+    "zip": "33896",
+    "unit": "",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "Champions Chase"
+  },
+  {
     "id": 3850,
     "uuid": "e3608979-bfd0-414c-a683-b9d17df795ed",
     "address": "3113 W. Marshall Street #207, Richmond, VA 23230",
@@ -24204,8 +24151,8 @@
     "address": "930 Valencia Isle Dr, Orlando, FL 32825",
     "street": "930 Valencia Isle Dr",
     "city": "Orlando",
-    "rent": "$2,795",
-    "rent_val": 2795,
+    "rent": "$2,580",
+    "rent_val": 2580,
     "specs": "3 bd, 2.5 ba, 1,572 Sq. Ft.",
     "beds": 3.0,
     "baths": 2.5,
