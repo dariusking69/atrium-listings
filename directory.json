@@ -62,15 +62,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -95,6 +86,15 @@
       "phone": "(804) 409-2858",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -162,7 +162,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -412,7 +412,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -439,7 +439,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -555,15 +555,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -604,6 +595,15 @@
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
       ]
@@ -749,7 +749,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 23,
+      "count": 22,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -793,7 +793,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -846,7 +846,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 93
+      "count": 92
     },
     {
       "name": "Lake Mary",
@@ -858,11 +858,11 @@
     },
     {
       "name": "Tampa",
-      "count": 42
+      "count": 41
     },
     {
       "name": "Kissimmee",
-      "count": 39
+      "count": 38
     },
     {
       "name": "Gainesville",
@@ -1123,7 +1123,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Orlando"
       ]
@@ -1144,7 +1144,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Kissimmee"
       ]
@@ -1234,13 +1234,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 3,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1270,6 +1263,13 @@
     },
     {
       "name": "Beach Flats",
+      "count": 2,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
       "count": 2,
       "cities": [
         "Tampa"
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 447,
-  "total": 596,
+  "mfTotal": 444,
+  "total": 593,
   "groups": [
     {
       "key": "inicio",
@@ -1341,7 +1341,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 23
+      "listings": 22
     }
   ]
 }
