@@ -45,7 +45,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -71,15 +71,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -98,12 +89,12 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "name": "The Julian",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -113,6 +104,15 @@
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -322,7 +322,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -357,15 +357,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -375,12 +366,12 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "name": "The Julian",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -390,6 +381,15 @@
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -466,7 +466,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -729,7 +729,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -762,16 +762,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 20,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 19,
       "communities": [
@@ -779,6 +769,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 19,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 8,
+      "count": 7,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -846,7 +846,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 92
+      "count": 91
     },
     {
       "name": "Lake Mary",
@@ -866,7 +866,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Gainesville",
@@ -886,7 +886,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Sandston",
@@ -902,7 +902,7 @@
     },
     {
       "name": "Macon",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Charlottesville",
@@ -1053,7 +1053,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1080,13 +1080,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 22,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Hub",
       "count": 22,
       "cities": [
@@ -1094,10 +1087,10 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 20,
+      "name": "The Julian",
+      "count": 21,
       "cities": [
-        "Casselberry"
+        "Orlando"
       ]
     },
     {
@@ -1105,6 +1098,13 @@
       "count": 19,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1165,7 +1165,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Macon"
       ]
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 441,
-  "total": 588,
+  "mfTotal": 437,
+  "total": 584,
   "groups": [
     {
       "key": "inicio",
