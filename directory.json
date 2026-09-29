@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 260,
+      "count": 264,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 553-3444",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -26,6 +26,7 @@
         "Melbourne",
         "Ocala",
         "Orlando",
+        "Oviedo",
         "Oxford",
         "Poinciana",
         "Richmond",
@@ -117,7 +118,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -206,15 +207,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -251,8 +243,17 @@
       ]
     },
     {
-      "name": "Mission Club",
+      "name": "Raven Place",
       "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -272,9 +273,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 553-3444",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -295,6 +296,7 @@
         "Melbourne",
         "Ocala",
         "Orlando",
+        "Oviedo",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -394,7 +396,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -492,15 +494,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -546,12 +539,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
+      "name": "Janie B Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(813) 355-9968",
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -561,6 +554,15 @@
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -588,6 +590,15 @@
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -624,15 +635,6 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -675,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 260,
+      "count": 264,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -710,6 +712,7 @@
         "Melbourne",
         "Ocala",
         "Orlando",
+        "Oviedo",
         "Oxford",
         "Poinciana",
         "Richmond",
@@ -773,7 +776,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -834,7 +837,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 2,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -846,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 89
+      "count": 88
     },
     {
       "name": "Lake Mary",
@@ -854,11 +857,11 @@
     },
     {
       "name": "Richmond",
-      "count": 64
+      "count": 62
     },
     {
       "name": "Tampa",
-      "count": 39
+      "count": 44
     },
     {
       "name": "Kissimmee",
@@ -882,11 +885,11 @@
     },
     {
       "name": "Winter Park",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Sandston",
@@ -929,10 +932,6 @@
       "count": 4
     },
     {
-      "name": "Belleview",
-      "count": 3
-    },
-    {
       "name": "Umatilla",
       "count": 3
     },
@@ -967,6 +966,14 @@
     {
       "name": "Davenport",
       "count": 2
+    },
+    {
+      "name": "Belleview",
+      "count": 2
+    },
+    {
+      "name": "Oviedo",
+      "count": 1
     },
     {
       "name": "Celebration",
@@ -1012,11 +1019,11 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 38
+      "count": 36
     },
     {
       "name": "PG2",
-      "count": 20
+      "count": 21
     },
     {
       "name": "PG3",
@@ -1024,15 +1031,15 @@
     },
     {
       "name": "PG4",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 19
     },
     {
       "name": "PG7",
-      "count": 11
+      "count": 12
     },
     {
       "name": "PG8",
@@ -1109,7 +1116,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Casselberry"
       ]
@@ -1185,13 +1192,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "cities": [
@@ -1227,10 +1227,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
+      "name": "Janie B Apartments",
+      "count": 4,
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -1238,6 +1238,13 @@
       "count": 3,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1259,6 +1266,13 @@
       "count": 2,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1287,13 +1301,6 @@
       "count": 2,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1326,7 +1333,7 @@
     }
   ],
   "mfTotal": 433,
-  "total": 580,
+  "total": 582,
   "groups": [
     {
       "key": "inicio",
