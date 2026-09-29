@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -72,21 +72,21 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4193",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "The Hub",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -153,21 +153,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -360,7 +360,7 @@
     },
     {
       "name": "The Hub",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -431,21 +431,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -857,7 +857,7 @@
     },
     {
       "name": "Richmond",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Tampa",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Winter Park",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1088,7 +1088,7 @@
     },
     {
       "name": "The Hub",
-      "count": 22,
+      "count": 21,
       "cities": [
         "Richmond"
       ]
@@ -1143,17 +1143,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 11,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 10,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 10,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
