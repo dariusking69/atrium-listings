@@ -90,7 +90,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -107,21 +107,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -242,19 +242,19 @@
       ]
     },
     {
-      "name": "Mission Club",
+      "name": "Valencia Isle",
       "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
       ]
@@ -367,7 +367,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -384,21 +384,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -528,15 +528,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -552,6 +543,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -773,7 +773,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -834,7 +834,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -846,7 +846,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 91
+      "count": 89
     },
     {
       "name": "Lake Mary",
@@ -886,7 +886,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Sandston",
@@ -1088,7 +1088,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Orlando"
       ]
@@ -1101,17 +1101,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1213,13 +1213,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "cities": [
@@ -1231,6 +1224,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1325,8 +1325,8 @@
       ]
     }
   ],
-  "mfTotal": 437,
-  "total": 584,
+  "mfTotal": 434,
+  "total": 581,
   "groups": [
     {
       "key": "inicio",
