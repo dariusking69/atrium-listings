@@ -46,7 +46,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -252,21 +252,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     }
   ],
@@ -324,7 +324,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -593,15 +593,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -644,6 +635,15 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -837,7 +837,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 2,
+      "count": 1,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -849,7 +849,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 88
+      "count": 87
     },
     {
       "name": "Lake Mary",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Gainesville",
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "cities": [
         "Winter Springs"
       ]
@@ -1269,13 +1269,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "cities": [
@@ -1308,6 +1301,13 @@
       "count": 2,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 1,
+      "cities": [
+        "Orlando"
       ]
     },
     {
