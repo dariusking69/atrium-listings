@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 269,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(470) 589-5867",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -24,10 +24,12 @@
         "Longwood",
         "Maitland",
         "Melbourne",
+        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
         "Oxford",
+        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -73,9 +75,9 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
+      "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
       ]
@@ -273,9 +275,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 149,
+      "count": 154,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(470) 589-5867",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -294,9 +296,11 @@
         "Longwood",
         "Maitland",
         "Melbourne",
+        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
+        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -467,6 +471,15 @@
       ]
     },
     {
+      "name": "Westshore Flats I",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Timber Pointe Apartments",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -482,15 +495,6 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -677,7 +681,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 269,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -710,10 +714,12 @@
         "Longwood",
         "Maitland",
         "Melbourne",
+        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
         "Oxford",
+        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -752,7 +758,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 21,
+      "count": 22,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -861,7 +867,7 @@
     },
     {
       "name": "Tampa",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Kissimmee",
@@ -932,8 +938,16 @@
       "count": 4
     },
     {
+      "name": "Nashville",
+      "count": 3
+    },
+    {
       "name": "Umatilla",
       "count": 3
+    },
+    {
+      "name": "Peachtree Corners",
+      "count": 2
     },
     {
       "name": "Saint Petersburg",
@@ -1171,6 +1185,13 @@
       ]
     },
     {
+      "name": "Westshore Flats I",
+      "count": 7,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Timber Pointe Apartments",
       "count": 7,
       "cities": [
@@ -1182,13 +1203,6 @@
       "count": 7,
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1332,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 433,
-  "total": 582,
+  "mfTotal": 434,
+  "total": 588,
   "groups": [
     {
       "key": "inicio",
@@ -1348,7 +1362,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 21
+      "listings": 22
     }
   ]
 }
