@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 267,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(470) 589-5867",
+      "phone": "(804) 426-8360",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -42,13 +42,12 @@
         "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
-        "Winter Park",
-        "Winter Springs"
+        "Winter Park"
       ]
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -83,6 +82,15 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -110,17 +118,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -156,7 +155,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -182,21 +181,21 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -275,9 +274,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 154,
+      "count": 152,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(470) 589-5867",
+      "phone": "(804) 426-8360",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -313,8 +312,7 @@
         "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
-        "Winter Park",
-        "Winter Springs"
+        "Winter Park"
       ]
     },
     {
@@ -328,7 +326,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -363,6 +361,15 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
@@ -390,17 +397,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -436,7 +434,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -472,20 +470,11 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 7,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -495,6 +484,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -588,15 +586,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -642,6 +631,15 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -681,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 267,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -732,13 +730,12 @@
         "Wesley Chapel",
         "Wimauma",
         "Winter Garden",
-        "Winter Park",
-        "Winter Springs"
+        "Winter Park"
       ]
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 35,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -782,7 +779,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -812,7 +809,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 12,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -822,7 +819,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 7,
+      "count": 6,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -855,7 +852,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 87
+      "count": 86
     },
     {
       "name": "Lake Mary",
@@ -886,20 +883,20 @@
       "count": 31
     },
     {
+      "name": "Winter Park",
+      "count": 26
+    },
+    {
       "name": "Jacksonville",
       "count": 26
     },
     {
-      "name": "Winter Park",
-      "count": 24
+      "name": "Sandston",
+      "count": 21
     },
     {
       "name": "Casselberry",
-      "count": 22
-    },
-    {
-      "name": "Sandston",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Ocoee",
@@ -910,16 +907,16 @@
       "count": 9
     },
     {
-      "name": "Macon",
-      "count": 7
-    },
-    {
       "name": "Charlottesville",
       "count": 7
     },
     {
       "name": "St. Cloud",
       "count": 7
+    },
+    {
+      "name": "Macon",
+      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -1037,7 +1034,7 @@
     },
     {
       "name": "PG2",
-      "count": 21
+      "count": 20
     },
     {
       "name": "PG3",
@@ -1053,7 +1050,7 @@
     },
     {
       "name": "PG7",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG8",
@@ -1074,7 +1071,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1101,6 +1098,13 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "The Hub",
       "count": 21,
       "cities": [
@@ -1122,15 +1126,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 19,
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1158,7 +1155,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 10,
+      "count": 12,
       "cities": [
         "Winter Park"
       ]
@@ -1186,16 +1183,9 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 7,
+      "count": 8,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 7,
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -1203,6 +1193,13 @@
       "count": 7,
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 6,
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -1276,13 +1273,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 2,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "cities": [
@@ -1318,6 +1308,13 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 1,
       "cities": [
@@ -1346,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 434,
-  "total": 588,
+  "mfTotal": 437,
+  "total": 589,
   "groups": [
     {
       "key": "inicio",
