@@ -46,8 +46,17 @@
       ]
     },
     {
+      "name": "The Hub",
+      "count": 80,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -91,24 +100,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -118,8 +109,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -137,7 +137,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 15,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -163,21 +163,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -260,15 +260,6 @@
       "cities": [
         "Davenport"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
     }
   ],
   "communities": [
@@ -316,6 +307,15 @@
       ]
     },
     {
+      "name": "The Hub",
+      "count": 80,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+      "phone": "(804) 409-2858",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Proxi  Lake Mary",
       "count": 68,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -326,7 +326,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -370,24 +370,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-      "phone": "(804) 409-2858",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -397,8 +379,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -416,7 +407,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -442,21 +433,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -640,15 +631,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -735,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -779,7 +761,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -799,7 +781,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 15,
+      "count": 13,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -837,30 +819,20 @@
       "cities": [
         "Gainesville"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 1,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
     }
   ],
   "cities": [
     {
+      "name": "Richmond",
+      "count": 120
+    },
+    {
       "name": "Orlando",
-      "count": 86
+      "count": 81
     },
     {
       "name": "Lake Mary",
       "count": 70
-    },
-    {
-      "name": "Richmond",
-      "count": 61
     },
     {
       "name": "Tampa",
@@ -872,7 +844,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 35
+      "count": 33
     },
     {
       "name": "Gainesville",
@@ -888,7 +860,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Sandston",
@@ -896,7 +868,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Ocoee",
@@ -1063,6 +1035,13 @@
   ],
   "mfProperties": [
     {
+      "name": "The Hub",
+      "count": 80,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Proxi  Lake Mary",
       "count": 68,
       "cities": [
@@ -1071,7 +1050,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1105,20 +1084,6 @@
       ]
     },
     {
-      "name": "The Hub",
-      "count": 21,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 19,
       "cities": [
@@ -1126,8 +1091,15 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 18,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
@@ -1141,7 +1113,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 15,
+      "count": 13,
       "cities": [
         "Orlando"
       ]
@@ -1161,17 +1133,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1315,13 +1287,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 1,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "cities": [
@@ -1343,8 +1308,8 @@
       ]
     }
   ],
-  "mfTotal": 437,
-  "total": 589,
+  "mfTotal": 487,
+  "total": 639,
   "groups": [
     {
       "key": "inicio",
