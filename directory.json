@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 267,
+      "count": 265,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(804) 426-8360",
       "cities": [
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -118,6 +118,15 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -133,15 +142,6 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -232,6 +232,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -326,7 +335,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -388,6 +397,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -403,15 +421,6 @@
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -514,6 +523,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -529,15 +547,6 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -613,6 +622,15 @@
       ]
     },
     {
+      "name": "Janie B Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(813) 355-9968",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Hammocks on 20th",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -661,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 267,
+      "count": 265,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -717,7 +735,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 34,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -760,6 +778,16 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 19,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 16,
       "communities": [
@@ -777,16 +805,6 @@
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 13,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -819,6 +837,16 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 4,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
@@ -828,7 +856,7 @@
     },
     {
       "name": "Orlando",
-      "count": 82
+      "count": 92
     },
     {
       "name": "Lake Mary",
@@ -836,7 +864,7 @@
     },
     {
       "name": "Tampa",
-      "count": 45
+      "count": 43
     },
     {
       "name": "Kissimmee",
@@ -844,7 +872,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -1018,7 +1046,7 @@
     },
     {
       "name": "PG5",
-      "count": 19
+      "count": 17
     },
     {
       "name": "PG7",
@@ -1050,7 +1078,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 34,
       "cities": [
         "Winter Springs"
       ]
@@ -1098,6 +1126,13 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 19,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "cities": [
@@ -1109,13 +1144,6 @@
       "count": 16,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 13,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1196,6 +1224,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Valencia Isle",
       "count": 4,
       "cities": [
@@ -1207,13 +1242,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 4,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1273,6 +1301,13 @@
       ]
     },
     {
+      "name": "Janie B Apartments",
+      "count": 2,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "The Hammocks on 20th",
       "count": 2,
       "cities": [
@@ -1308,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 487,
-  "total": 639,
+  "mfTotal": 496,
+  "total": 648,
   "groups": [
     {
       "key": "inicio",
