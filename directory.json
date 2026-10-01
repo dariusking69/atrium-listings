@@ -47,7 +47,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -100,19 +100,19 @@
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "The Julian",
       "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "The Julian",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "name": "Baldwin Park",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -308,7 +308,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -370,19 +370,19 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "The Julian",
       "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "The Julian",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "name": "Avenues of Baldwin Park",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -824,11 +824,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 120
+      "count": 119
     },
     {
       "name": "Orlando",
-      "count": 81
+      "count": 82
     },
     {
       "name": "Lake Mary",
@@ -1036,7 +1036,7 @@
   "mfProperties": [
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "cities": [
         "Richmond"
       ]
@@ -1084,15 +1084,15 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "The Julian",
       "count": 19,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "The Julian",
-      "count": 18,
+      "name": "Avenues of Baldwin Park",
+      "count": 19,
       "cities": [
         "Orlando"
       ]

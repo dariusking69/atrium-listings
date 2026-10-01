@@ -1,5 +1,48 @@
 [
   {
+    "id": 6807,
+    "uuid": "68b0205f-0a3a-407b-aadd-29ed631543f1",
+    "address": "480 N Terry Ave Unit 0712, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0712",
+    "city": "Orlando",
+    "rent": "$2,785",
+    "rent_val": 2785,
+    "specs": "3 bd, 2 ba, 1,344 Sq. Ft.",
+    "beds": 3.0,
+    "baths": 2.0,
+    "sqft": 1344,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b28830cc-4665-40e0-a0b8-013ca378afe7/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/68b0205f-0a3a-407b-aadd-29ed631543f1",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
+    "title": "Spacious Floor Plan in Downtown Orlando \u2013 The Warhol",
+    "description": "3 Bed, 2 Bath, 1,344 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. The largest floor plan at The Julian \u2014 three bedrooms, two bathrooms, and a living/dining space built for hosting.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,785 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 10/10/26",
+    "terms": [
+      "Rent: $2,785",
+      "Application Fee: $95",
+      "Available 10/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/b28830cc-4665-40e0-a0b8-013ca378afe7/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=68b0205f-0a3a-407b-aadd-29ed631543f1&source=Website",
+    "available": "10/10/26",
+    "zip": "32801",
+    "unit": "0712",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Julian"
+  },
+  {
     "id": 6806,
     "uuid": "19a76ec2-e535-4672-859c-9c0d64437912",
     "address": "500 Maury St Unit 634, Richmond, VA 23224",
@@ -15,9 +58,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/19a76ec2-e535-4672-859c-9c0d64437912",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -34,6 +74,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=19a76ec2-e535-4672-859c-9c0d64437912&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "634",
@@ -58,9 +101,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3f20f0d5-e551-464b-ab47-d8c4440539ca",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -77,6 +117,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3f20f0d5-e551-464b-ab47-d8c4440539ca&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "632",
@@ -101,9 +144,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/34b2585e-8488-495a-9c41-e7f1fcba1226",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -120,6 +160,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=34b2585e-8488-495a-9c41-e7f1fcba1226&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "626",
@@ -144,9 +187,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/24c7c7de-0922-48e7-8aba-1edf56e5d92f",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -163,6 +203,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=24c7c7de-0922-48e7-8aba-1edf56e5d92f&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "622",
@@ -187,9 +230,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b3b66c03-99b4-4ef4-a1be-f0b790cdb790",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -206,6 +246,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b3b66c03-99b4-4ef4-a1be-f0b790cdb790&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "620",
@@ -230,9 +273,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/20a9f009-8de8-4a45-9c69-23c9d249f245",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -249,6 +289,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=20a9f009-8de8-4a45-9c69-23c9d249f245&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "618",
@@ -273,9 +316,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/47ac6bfa-7c24-42c4-97c6-a63aab50c451",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -292,6 +332,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=47ac6bfa-7c24-42c4-97c6-a63aab50c451&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "610",
@@ -316,9 +359,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6bbdbcef-a17d-4b0e-990a-45df35d4e8ef",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -335,6 +375,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6bbdbcef-a17d-4b0e-990a-45df35d4e8ef&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "608",
@@ -359,9 +402,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ca9b3fa9-6b62-4ee5-8239-601fc59cb484",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -378,6 +418,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ca9b3fa9-6b62-4ee5-8239-601fc59cb484&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "606",
@@ -402,9 +445,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/6a2fbf9a-e908-4ca6-aab3-ad93c0db96ec",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -421,6 +461,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=6a2fbf9a-e908-4ca6-aab3-ad93c0db96ec&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "604",
@@ -445,9 +488,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/187695da-635a-4261-b349-7bb73b9ef5fa",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -464,6 +504,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=187695da-635a-4261-b349-7bb73b9ef5fa&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "534",
@@ -488,9 +531,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8a01483a-d14c-4c89-80f0-ed848d01ab1d",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -507,6 +547,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8a01483a-d14c-4c89-80f0-ed848d01ab1d&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "532",
@@ -531,9 +574,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e6d137bb-7993-4814-8f8a-4dc6fb79d7a9",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -550,6 +590,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e6d137bb-7993-4814-8f8a-4dc6fb79d7a9&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "526",
@@ -574,9 +617,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/65ea88dc-83a2-4c2b-a8cc-4ee4808237e3",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -593,6 +633,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=65ea88dc-83a2-4c2b-a8cc-4ee4808237e3&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "522",
@@ -617,9 +660,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7727fdb3-30ae-4b35-9350-b3b5c3245917",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -636,6 +676,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7727fdb3-30ae-4b35-9350-b3b5c3245917&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "520",
@@ -660,9 +703,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/445868bd-c75f-476d-a413-df056050818c",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -679,6 +719,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=445868bd-c75f-476d-a413-df056050818c&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "512",
@@ -703,9 +746,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/93190f9a-3ac1-4eb3-b7a0-4c11ac96f0b1",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -722,6 +762,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=93190f9a-3ac1-4eb3-b7a0-4c11ac96f0b1&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "510",
@@ -746,9 +789,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/41e206da-e33e-43c1-b3b4-965da3476d76",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -765,6 +805,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=41e206da-e33e-43c1-b3b4-965da3476d76&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "506",
@@ -789,9 +832,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/3f9c60de-3a39-4a28-af94-6666d3933107",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -808,6 +848,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=3f9c60de-3a39-4a28-af94-6666d3933107&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "504",
@@ -832,9 +875,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f6afa33e-2214-4ac5-8fc0-ae0e326c48b6",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,429 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -851,6 +891,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f6afa33e-2214-4ac5-8fc0-ae0e326c48b6&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "633",
@@ -875,9 +918,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/c218d636-9022-4fad-a235-b2bb9ffd2938",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -894,6 +934,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=c218d636-9022-4fad-a235-b2bb9ffd2938&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "631",
@@ -918,9 +961,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/01e60fe1-a521-47d4-8c4a-56d33c631a76",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -937,6 +977,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=01e60fe1-a521-47d4-8c4a-56d33c631a76&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "630",
@@ -961,9 +1004,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e4cb72cb-cd65-4733-ad1d-f618d39cfa9d",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -980,6 +1020,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e4cb72cb-cd65-4733-ad1d-f618d39cfa9d&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "629",
@@ -1004,9 +1047,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e28e9f66-71b7-4582-9965-3a9a9a26ad55",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1023,6 +1063,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e28e9f66-71b7-4582-9965-3a9a9a26ad55&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "628",
@@ -1047,9 +1090,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f162314f-9b9c-406b-8f7b-cc5b5c5099ee",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,464 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1066,6 +1106,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f162314f-9b9c-406b-8f7b-cc5b5c5099ee&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "609",
@@ -1090,9 +1133,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5c977f0d-3b57-469e-b88c-ffea1a55afbf",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,464 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1109,6 +1149,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5c977f0d-3b57-469e-b88c-ffea1a55afbf&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "607",
@@ -1133,9 +1176,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e5787f3c-7611-4a9c-ac38-8cc778ae3162",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,454 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1152,6 +1192,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e5787f3c-7611-4a9c-ac38-8cc778ae3162&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "605",
@@ -1176,9 +1219,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/1f4f061a-c477-4c08-8aff-ff63a93c83f4",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,634 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1195,6 +1235,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=1f4f061a-c477-4c08-8aff-ff63a93c83f4&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "602",
@@ -1219,9 +1262,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9bc4ee04-f75d-4e26-9d54-c4042c290486",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1238,6 +1278,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9bc4ee04-f75d-4e26-9d54-c4042c290486&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "536",
@@ -1262,9 +1305,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/45e8b6bb-503d-4a63-a390-2ddc57ee0b24",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,414 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1281,6 +1321,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=45e8b6bb-503d-4a63-a390-2ddc57ee0b24&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "533",
@@ -1305,9 +1348,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7a5446e5-ba56-435a-a62e-1fc1bf94a07f",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,424 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1324,6 +1364,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7a5446e5-ba56-435a-a62e-1fc1bf94a07f&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "531",
@@ -1348,9 +1391,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/4a59de06-7dcc-4eda-9874-d7900d6a915f",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1367,6 +1407,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=4a59de06-7dcc-4eda-9874-d7900d6a915f&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "530",
@@ -1391,9 +1434,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/712615b7-1248-4574-a8ac-d7eac1fe0360",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,424 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1410,6 +1450,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=712615b7-1248-4574-a8ac-d7eac1fe0360&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "529",
@@ -1434,9 +1477,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/8c89df9b-e69a-4521-979b-9bd382df5e2b",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1453,6 +1493,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=8c89df9b-e69a-4521-979b-9bd382df5e2b&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "528",
@@ -1477,9 +1520,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/5b1ec29e-8e4d-42c1-ab92-38e084cfa9d9",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1496,6 +1536,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=5b1ec29e-8e4d-42c1-ab92-38e084cfa9d9&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "508",
@@ -1520,9 +1563,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a660aa10-6855-45bd-b1bf-c96b2adad24a",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,449 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1539,6 +1579,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a660aa10-6855-45bd-b1bf-c96b2adad24a&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "507",
@@ -1563,9 +1606,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7e79fd85-012d-4d13-9a34-11c8626bf7ca",
     "lat": 28.5738907,
     "lng": -81.3070003,
-    "property": "Baldwin Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-    "phone": "(689) 215-9531",
     "title": "The Union \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,163 sq.ft.",
     "description": "Discover elevated living with The Union floor plan at The Avenue at Baldwin Park. Offering 1,163 sq.ft. of thoughtfully designed space, this home combines comfort, functionality, and modern style.\r\n\r\nThe open-concept layout features a generous living and dining area that seamlessly connects to a fully equipped kitchen, perfect for entertaining or relaxing at home. Each of the two bedrooms includes a private bathroom and ample closet space, providing the perfect blend of privacy and convenience.\r\n\r\nEnjoy the added luxury of having a washer and dryer in-unit, along with premium community amenities \u2014 including a resort-style pool, basketball court, dog park, and playground.\r\n\r\nHome Features:\r\n1,163 sq.ft. | 2 Bedrooms | 2 Bathrooms\r\n\r\nOpen-Concept Living & Dining Area\r\nWasher & Dryer in Unit\r\nSpacious Bedrooms with Private Baths\r\nPet Friendly\r\nCommunity Amenities:\r\nResort-Style Pool\r\nBasketball Court\r\nPlayground\r\nDog Park\r\n\r\nExperience comfort, space, and style all in one \u2014 The Union at The Avenue of Baldwin Park is ready to welcome you home.\r\nSchedule your tour today 407-671-0200\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nAvailable Now\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nValet Trash\r\nSoccer Field\r\nCommunity Clubhouse\r\nOutdoor deck\r\nHigh Speed Internet\r\n24 Hour Fitness Center\r\nPet Friendly\r\nCommunity Grill\r\nbasketball court\r\nplayground\r\nWasherDryer\r\nBark Park\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,760 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available 12/18/26",
     "terms": [
@@ -1592,6 +1632,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7e79fd85-012d-4d13-9a34-11c8626bf7ca&source=Website",
+    "property": "Baldwin Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+    "phone": "(689) 215-9531",
     "available": "12/18/26",
     "zip": "32807",
     "unit": "",
@@ -1616,9 +1659,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e75a44dd-9a1b-4942-a306-ae76ef8c4014",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1635,6 +1675,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e75a44dd-9a1b-4942-a306-ae76ef8c4014&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "636",
@@ -1659,9 +1702,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0aed225e-6ceb-4e08-be06-ece25c293d3f",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -1678,6 +1718,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0aed225e-6ceb-4e08-be06-ece25c293d3f&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "502",
@@ -2119,9 +2162,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/bebb012b-909b-41f2-8894-88ed1ac89881",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -2138,6 +2178,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=bebb012b-909b-41f2-8894-88ed1ac89881&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "518",
@@ -2510,9 +2553,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/22017874-fedd-4485-8859-3b287436827e",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -2529,6 +2569,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=22017874-fedd-4485-8859-3b287436827e&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "505",
@@ -7396,9 +7439,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/7de03721-a332-4ac0-aa2b-0cc81fc9bcf5",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,670 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -7415,6 +7455,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=7de03721-a332-4ac0-aa2b-0cc81fc9bcf5&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "516",
@@ -17276,49 +17319,6 @@
     "community": "Aston Square Apartments"
   },
   {
-    "id": 5742,
-    "uuid": "910d49db-e63d-44f9-8881-8c3a0be9eeb1",
-    "address": "500 Maury St Unit 614, Richmond, VA 23224",
-    "street": "500 Maury St Unit 614",
-    "city": "Richmond",
-    "rent": "$2,150",
-    "rent_val": 2150,
-    "specs": "2 bd, 2 ba, 945 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 945,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/910d49db-e63d-44f9-8881-8c3a0be9eeb1",
-    "lat": 37.5209552,
-    "lng": -77.4351531,
-    "title": "2 Bed 2 Bathroom Apartment - Convenient to All of Richmond",
-    "description": "Floor Plan Details: Fully Connected Smart Apartments! Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $2,150 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
-    "terms": [
-      "Rent: $2,150",
-      "Application Fee: $50",
-      "Security Deposit: $500"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/4ec6d286-110f-4c24-b858-e462f0515707/large.jpeg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=910d49db-e63d-44f9-8881-8c3a0be9eeb1&source=Website",
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
-    "available": "NOW",
-    "zip": "23224",
-    "unit": "614",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "The Hub"
-  },
-  {
     "id": 5741,
     "uuid": "c782f198-43ac-4aed-bd6c-fa41a121f2b0",
     "address": "500 Maury St Unit 611, Richmond, VA 23224",
@@ -18719,9 +18719,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b94bb5d4-7ebd-46a6-8b4e-6190f8f1f1db",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,845 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18738,6 +18735,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b94bb5d4-7ebd-46a6-8b4e-6190f8f1f1db&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "436",
@@ -18762,9 +18762,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0bebb227-b52e-4060-be8b-a684886b0f79",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,660 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18781,6 +18778,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0bebb227-b52e-4060-be8b-a684886b0f79&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "434",
@@ -18805,9 +18805,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/60d2a739-f752-49f2-9dfd-7ec9540c24ca",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,404 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18824,6 +18821,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=60d2a739-f752-49f2-9dfd-7ec9540c24ca&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "433",
@@ -18848,9 +18848,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/e684c8fd-a7e4-4a41-b6b8-324345521b56",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,660 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18867,6 +18864,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=e684c8fd-a7e4-4a41-b6b8-324345521b56&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "432",
@@ -18891,9 +18891,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/32b2805b-ac0c-40ac-b020-20935ef4225a",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,414 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18910,6 +18907,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=32b2805b-ac0c-40ac-b020-20935ef4225a&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "431",
@@ -18934,9 +18934,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f34d6ad5-092f-4f8b-ad96-606990e14acf",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,660 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18953,6 +18950,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f34d6ad5-092f-4f8b-ad96-606990e14acf&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "430",
@@ -18977,9 +18977,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0d301e6b-e1cd-4187-b6dc-67d5ab4a97ec",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,414 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -18996,6 +18993,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0d301e6b-e1cd-4187-b6dc-67d5ab4a97ec&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "429",
@@ -19020,9 +19020,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/98eb7f31-276e-4cd5-bd82-133c1d7ea265",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,660 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19039,6 +19036,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=98eb7f31-276e-4cd5-bd82-133c1d7ea265&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "428",
@@ -19063,9 +19063,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b042b8f4-f23c-4d1f-9715-ebdb7fff42dd",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,660 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19082,6 +19079,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b042b8f4-f23c-4d1f-9715-ebdb7fff42dd&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "422",
@@ -19106,9 +19106,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/0d175464-f909-43e9-a582-cabce4d2c2cf",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,450 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19125,6 +19122,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=0d175464-f909-43e9-a582-cabce4d2c2cf&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "420",
@@ -19149,9 +19149,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ff8a5137-d15f-40f3-9b1e-086715ee1739",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,494 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19168,6 +19165,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ff8a5137-d15f-40f3-9b1e-086715ee1739&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "418",
@@ -19192,9 +19192,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/996f856e-9870-43c4-8520-506387e73fed",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,795 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19211,6 +19208,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=996f856e-9870-43c4-8520-506387e73fed&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "412",
@@ -19235,9 +19235,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/50902135-7676-410a-ae3e-4e43e2d73eaf",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,439 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19254,6 +19251,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=50902135-7676-410a-ae3e-4e43e2d73eaf&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "407",
@@ -19278,9 +19278,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/595d10f9-9d9c-4970-b298-e40e2817e221",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,429 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19297,6 +19294,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=595d10f9-9d9c-4970-b298-e40e2817e221&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "405",
@@ -19321,9 +19321,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/984dd541-5abc-45b8-997b-be5addef6b1e",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,553 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -19340,6 +19337,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=984dd541-5abc-45b8-997b-be5addef6b1e&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "402",
@@ -20688,9 +20688,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/b16e1683-06ae-4beb-8660-0b304f0bd1e9",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "Studio Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,319 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -20707,6 +20704,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=b16e1683-06ae-4beb-8660-0b304f0bd1e9&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "501",
@@ -21344,9 +21344,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/9cbe7478-4432-4632-bca7-5c57b9b81575",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,685 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -21363,6 +21360,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=9cbe7478-4432-4632-bca7-5c57b9b81575&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "616",
@@ -21431,9 +21431,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f36bf907-7611-4d26-b67e-90aeaf12ffd4",
     "lat": 37.5209552,
     "lng": -77.4351531,
-    "property": "The Hub",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
-    "phone": "(804) 409-2858",
     "title": "1 Bed 1 Bathroom Apartment - Convenient to All of Richmond",
     "description": "Floor Plan Details: Air Conditioning/Heating, Smoke Free, Balcony, Patio, Hardwood Floors, High Ceilings, Views, Walk-In Closets, Window Coverings, Floor to Ceiling Windows\r\n\r\nKitchen Features: Pantry, Island Kitchen, Quartz Counter-tops, Stainless Steel Appliances\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,650 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500",
     "terms": [
@@ -21450,6 +21447,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f36bf907-7611-4d26-b67e-90aeaf12ffd4&source=Website",
+    "property": "The Hub",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
+    "phone": "(804) 409-2858",
     "available": "NOW",
     "zip": "23224",
     "unit": "220",
@@ -29949,7 +29949,7 @@
     "beds": 2.0,
     "baths": 1.0,
     "sqft": 825,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fb714ea9-2706-4291-8b8c-b7d7e12eb606/large.jpeg",
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/eba7ac77-154e-4b8a-9e6a-d7f33d734be6/large.png",
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/dbd2a175-b18d-4091-a2e7-6236f07b8dfb",
     "lat": 28.5592831,
     "lng": -80.8227169,
