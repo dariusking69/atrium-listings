@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 262,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(804) 426-8360",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -100,6 +100,15 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -113,15 +122,6 @@
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -155,7 +155,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -208,21 +208,21 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -235,21 +235,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
       ]
     },
     {
@@ -274,9 +274,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 152,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(804) 426-8360",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Apopka",
@@ -335,7 +335,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -379,6 +379,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -392,15 +401,6 @@
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -434,7 +434,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -496,21 +496,21 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -523,21 +523,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
       ]
     },
     {
@@ -679,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 262,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -735,7 +735,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 37,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -768,20 +768,20 @@
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 19,
+      "name": "Barber Park",
+      "count": 20,
       "communities": [
-        "Avenues of Baldwin Park"
+        "Barber Park Apartments"
       ],
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Barber Park",
+      "name": "Baldwin Park",
       "count": 19,
       "communities": [
-        "Barber Park Apartments"
+        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
@@ -809,7 +809,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 11,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -840,7 +840,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 5,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -856,27 +856,27 @@
     },
     {
       "name": "Orlando",
-      "count": 92
+      "count": 94
     },
     {
       "name": "Lake Mary",
-      "count": 70
+      "count": 69
     },
     {
       "name": "Tampa",
-      "count": 43
+      "count": 42
     },
     {
       "name": "Kissimmee",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 37
     },
     {
       "name": "Gainesville",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -884,7 +884,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Jacksonville",
@@ -907,15 +907,15 @@
       "count": 9
     },
     {
-      "name": "Charlottesville",
-      "count": 7
-    },
-    {
       "name": "St. Cloud",
       "count": 7
     },
     {
       "name": "Macon",
+      "count": 6
+    },
+    {
+      "name": "Charlottesville",
       "count": 6
     },
     {
@@ -967,10 +967,6 @@
       "count": 2
     },
     {
-      "name": "Apopka",
-      "count": 2
-    },
-    {
       "name": "Oxford",
       "count": 2
     },
@@ -996,6 +992,10 @@
     },
     {
       "name": "Ocala",
+      "count": 1
+    },
+    {
+      "name": "Apopka",
       "count": 1
     },
     {
@@ -1034,19 +1034,19 @@
     },
     {
       "name": "PG2",
-      "count": 20
+      "count": 19
     },
     {
       "name": "PG3",
-      "count": 8
+      "count": 6
     },
     {
       "name": "PG4",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG5",
-      "count": 17
+      "count": 16
     },
     {
       "name": "PG7",
@@ -1078,7 +1078,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 37,
       "cities": [
         "Winter Springs"
       ]
@@ -1112,6 +1112,13 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 20,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 19,
       "cities": [
@@ -1120,13 +1127,6 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 19,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
       "count": 19,
       "cities": [
         "Orlando"
@@ -1155,7 +1155,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "cities": [
         "Winter Park"
       ]
@@ -1203,17 +1203,17 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 5,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1224,17 +1224,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
+      "name": "Valencia Isle",
       "count": 4,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Valencia Isle",
+      "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
-        "Orlando"
+        "Charlottesville"
       ]
     },
     {
@@ -1343,7 +1343,7 @@
       ]
     }
   ],
-  "mfTotal": 496,
+  "mfTotal": 499,
   "total": 648,
   "groups": [
     {
