@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 262,
+      "count": 263,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -274,7 +274,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 149,
+      "count": 150,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -679,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 262,
+      "count": 263,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -876,7 +876,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "PG4",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PG5",
@@ -1344,7 +1344,7 @@
     }
   ],
   "mfTotal": 497,
-  "total": 646,
+  "total": 647,
   "groups": [
     {
       "key": "inicio",
