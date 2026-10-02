@@ -12,7 +12,6 @@
         "Casselberry",
         "Celebration",
         "Charlottesville",
-        "Clearwater",
         "Daytona Beach",
         "DeLand",
         "Deltona",
@@ -100,19 +99,19 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "name": "Baldwin Park",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "name": "The Julian",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
@@ -128,7 +127,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -137,7 +136,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -173,7 +172,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 9,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -283,7 +282,6 @@
         "Belleview",
         "Casselberry",
         "Celebration",
-        "Clearwater",
         "Daytona Beach",
         "DeLand",
         "Deltona",
@@ -379,19 +377,19 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "name": "Avenues of Baldwin Park",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "name": "The Julian",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
@@ -407,7 +405,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -416,7 +414,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -451,15 +449,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -475,6 +464,15 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -700,7 +698,6 @@
         "Casselberry",
         "Celebration",
         "Charlottesville",
-        "Clearwater",
         "Daytona Beach",
         "DeLand",
         "Deltona",
@@ -769,7 +766,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 19,
+      "count": 21,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -789,7 +786,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -799,7 +796,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -856,7 +853,7 @@
     },
     {
       "name": "Orlando",
-      "count": 92
+      "count": 95
     },
     {
       "name": "Lake Mary",
@@ -876,7 +873,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -888,7 +885,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 25
+      "count": 23
     },
     {
       "name": "Sandston",
@@ -896,7 +893,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Ocoee",
@@ -1003,10 +1000,6 @@
       "count": 1
     },
     {
-      "name": "Clearwater",
-      "count": 1
-    },
-    {
       "name": "Maitland",
       "count": 1
     },
@@ -1042,11 +1035,11 @@
     },
     {
       "name": "PG4",
-      "count": 11
+      "count": 12
     },
     {
       "name": "PG5",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG7",
@@ -1112,15 +1105,15 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 20,
+      "name": "Avenues of Baldwin Park",
+      "count": 21,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 19,
+      "name": "The Julian",
+      "count": 21,
       "cities": [
         "Orlando"
       ]
@@ -1134,14 +1127,14 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Jacksonville"
       ]
@@ -1168,13 +1161,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 9,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 9,
       "cities": [
@@ -1186,6 +1172,13 @@
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
