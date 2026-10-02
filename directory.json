@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 263,
+      "count": 261,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -73,12 +73,12 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
+      "name": "Gerwyn Manor",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
       "cities": [
-        "Richmond"
+        "Sandston"
       ]
     },
     {
@@ -91,26 +91,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
+      "name": "The Nest",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Sandston"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
       "name": "The Julian",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -122,6 +113,15 @@
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -208,6 +208,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -223,15 +232,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -253,28 +253,28 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Chase",
-      "count": 2,
+      "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 150,
+      "count": 148,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -335,7 +335,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -361,17 +361,8 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -379,17 +370,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "The Nest",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
       "name": "The Julian",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -401,6 +392,15 @@
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -496,6 +496,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -511,15 +520,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -559,12 +559,12 @@
       ]
     },
     {
-      "name": "Raven Place",
+      "name": "Champions Chase",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
       "cities": [
-        "Richmond"
+        "Davenport"
       ]
     },
     {
@@ -604,12 +604,12 @@
       ]
     },
     {
-      "name": "Champions Chase",
+      "name": "Raven Place",
       "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
       "cities": [
-        "Davenport"
+        "Richmond"
       ]
     },
     {
@@ -679,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 263,
+      "count": 261,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -735,7 +735,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 37,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -768,20 +768,20 @@
       ]
     },
     {
-      "name": "Barber Park",
-      "count": 20,
+      "name": "Baldwin Park",
+      "count": 19,
       "communities": [
-        "Barber Park Apartments"
+        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
-      "count": 19,
+      "name": "Barber Park",
+      "count": 17,
       "communities": [
-        "Avenues of Baldwin Park"
+        "Barber Park Apartments"
       ],
       "cities": [
         "Orlando"
@@ -840,7 +840,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 5,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -852,11 +852,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 119
+      "count": 117
     },
     {
       "name": "Orlando",
-      "count": 93
+      "count": 92
     },
     {
       "name": "Lake Mary",
@@ -872,7 +872,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Gainesville",
@@ -892,7 +892,7 @@
     },
     {
       "name": "Sandston",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Casselberry",
@@ -923,11 +923,11 @@
       "count": 5
     },
     {
-      "name": "DeLand",
-      "count": 5
+      "name": "Titusville",
+      "count": 4
     },
     {
-      "name": "Titusville",
+      "name": "DeLand",
       "count": 4
     },
     {
@@ -936,6 +936,10 @@
     },
     {
       "name": "Nashville",
+      "count": 3
+    },
+    {
+      "name": "Davenport",
       "count": 3
     },
     {
@@ -948,10 +952,6 @@
     },
     {
       "name": "Saint Petersburg",
-      "count": 2
-    },
-    {
-      "name": "Poinciana",
       "count": 2
     },
     {
@@ -971,15 +971,15 @@
       "count": 2
     },
     {
-      "name": "Davenport",
-      "count": 2
-    },
-    {
       "name": "Belleview",
       "count": 2
     },
     {
       "name": "Oviedo",
+      "count": 1
+    },
+    {
+      "name": "Poinciana",
       "count": 1
     },
     {
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "PG7",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG8",
@@ -1058,7 +1058,7 @@
     },
     {
       "name": "PG9",
-      "count": 11
+      "count": 10
     }
   ],
   "mfProperties": [
@@ -1078,7 +1078,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 37,
       "cities": [
         "Winter Springs"
       ]
@@ -1098,29 +1098,22 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 23,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
-      "count": 21,
+      "count": 22,
       "cities": [
         "Sandston"
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 20,
+      "name": "The Nest",
+      "count": 22,
       "cities": [
-        "Orlando"
+        "Richmond"
       ]
     },
     {
       "name": "The Julian",
-      "count": 19,
+      "count": 20,
       "cities": [
         "Orlando"
       ]
@@ -1128,6 +1121,13 @@
     {
       "name": "Avenues of Baldwin Park",
       "count": 19,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 17,
       "cities": [
         "Orlando"
       ]
@@ -1203,6 +1203,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 5,
       "cities": [
@@ -1214,13 +1221,6 @@
       "count": 5,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1252,10 +1252,10 @@
       ]
     },
     {
-      "name": "Raven Place",
+      "name": "Champions Chase",
       "count": 3,
       "cities": [
-        "Richmond"
+        "Davenport"
       ]
     },
     {
@@ -1287,10 +1287,10 @@
       ]
     },
     {
-      "name": "Champions Chase",
+      "name": "Raven Place",
       "count": 2,
       "cities": [
-        "Davenport"
+        "Richmond"
       ]
     },
     {
@@ -1344,7 +1344,7 @@
     }
   ],
   "mfTotal": 497,
-  "total": 647,
+  "total": 645,
   "groups": [
     {
       "key": "inicio",
