@@ -56,7 +56,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -208,15 +208,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -232,6 +223,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -335,7 +335,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -496,15 +496,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -520,6 +511,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -735,7 +735,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 36,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -840,7 +840,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 5,
+      "count": 4,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "name": "Orlando",
-      "count": 94
+      "count": 93
     },
     {
       "name": "Lake Mary",
@@ -872,7 +872,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Gainesville",
@@ -1078,7 +1078,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Winter Springs"
       ]
@@ -1203,13 +1203,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "cities": [
@@ -1221,6 +1214,13 @@
       "count": 5,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1343,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 499,
-  "total": 648,
+  "mfTotal": 497,
+  "total": 646,
   "groups": [
     {
       "key": "inicio",
