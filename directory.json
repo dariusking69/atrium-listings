@@ -109,7 +109,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -387,7 +387,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -853,7 +853,7 @@
     },
     {
       "name": "Orlando",
-      "count": 95
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -1113,7 +1113,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Orlando"
       ]
@@ -1336,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 497,
-  "total": 645,
+  "mfTotal": 496,
+  "total": 644,
   "groups": [
     {
       "key": "inicio",
