@@ -55,7 +55,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -333,7 +333,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -732,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 38,
+      "count": 37,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -864,12 +864,12 @@
       "count": 41
     },
     {
-      "name": "Winter Springs",
+      "name": "Kissimmee",
       "count": 38
     },
     {
-      "name": "Kissimmee",
-      "count": 38
+      "name": "Winter Springs",
+      "count": 37
     },
     {
       "name": "Gainesville",
@@ -1071,7 +1071,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 38,
+      "count": 37,
       "cities": [
         "Winter Springs"
       ]
@@ -1336,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 494,
-  "total": 641,
+  "mfTotal": 493,
+  "total": 640,
   "groups": [
     {
       "key": "inicio",
