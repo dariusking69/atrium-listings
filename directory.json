@@ -90,21 +90,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -449,15 +449,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -473,6 +464,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 22,
+      "count": 21,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -861,7 +861,7 @@
     },
     {
       "name": "Tampa",
-      "count": 42
+      "count": 41
     },
     {
       "name": "Winter Springs",
@@ -1161,13 +1161,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 9,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 8,
       "cities": [
@@ -1179,6 +1172,13 @@
       "count": 8,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 8,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1336,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 495,
-  "total": 642,
+  "mfTotal": 494,
+  "total": 641,
   "groups": [
     {
       "key": "inicio",
@@ -1352,7 +1352,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 22
+      "listings": 21
     }
   ]
 }
