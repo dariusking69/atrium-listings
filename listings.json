@@ -20707,50 +20707,6 @@
     "community": "The Hub"
   },
   {
-    "id": 5455,
-    "uuid": "050ca5d3-8648-4b93-b010-83f4981f7e2e",
-    "address": "3440 N. Goldenrod Road Unit # 522, Winter Park, FL 32792",
-    "street": "3440 N. Goldenrod Road Unit # 522",
-    "city": "Winter Park",
-    "rent": "$1,295",
-    "rent_val": 1295,
-    "specs": "1 bd, 1 ba, 710 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 710,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/29c859d3-f494-4f1a-8f76-0eca60340d03/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/050ca5d3-8648-4b93-b010-83f4981f7e2e",
-    "lat": 28.5892965,
-    "lng": -81.2887011,
-    "title": "1 Bed 1 Bathroom Apartment in Prime Winter Park Location",
-    "description": "Experience the perfect blend of comfort and convenience at Cranes Landing Apartments in Winter Park, Florida. Our beautifully designed one-, two-, and three-bedroom apartment homes feature open-concept layouts, modern finishes, and premium appliances to complement your lifestyle.\r\n\r\nEnjoy a community that\u2019s built around connection and comfort. Relax by the resort-style pool, challenge friends in the billiards room, or stay productive in our clubhouse and business center. Maintain your wellness goals in our fitness center, and bring your furry friends along \u2014 we\u2019re proudly pet-friendly.\r\n\r\nNestled in a prime Winter Park location, Cranes Landing offers easy access to Full Sail University, downtown Orlando, and the area\u2019s best shopping, dining, and entertainment. Whether you\u2019re seeking a peaceful retreat or a vibrant community, you\u2019ll find it here.\r\n\r\nSchedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.\r\n\r\nFor more information, please contact the leasing office:\r\nP: 407-671-5585\r\nE: CLA@atriummanagement.com\r\n\r\nManaged by Atrium Management Company\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,295 \n\n\n\n\n Application Fee: $79 \n\n Security Deposit: $1,243 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,295",
-      "Application Fee: $79",
-      "Security Deposit: $1,243",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/29c859d3-f494-4f1a-8f76-0eca60340d03/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=050ca5d3-8648-4b93-b010-83f4981f7e2e&source=Website",
-    "property": "Cranes Landing",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-    "phone": "(689) 300-6288",
-    "available": "NOW",
-    "zip": "32792",
-    "unit": "",
-    "pg": "",
-    "mf": true,
-    "cg": [],
-    "community": "Cranes Landing Apartments"
-  },
-  {
     "id": 5378,
     "uuid": "bf58d461-6cc6-4953-becf-f6f3edc78ed7",
     "address": "5200 Lewis Road #11, Sandston, VA 23150",

@@ -154,7 +154,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -432,7 +432,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -806,7 +806,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -881,7 +881,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 25
+      "count": 24
     },
     {
       "name": "Jacksonville",
@@ -1148,7 +1148,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Winter Park"
       ]
@@ -1336,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 493,
-  "total": 640,
+  "mfTotal": 492,
+  "total": 639,
   "groups": [
     {
       "key": "inicio",
