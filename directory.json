@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 259,
+      "count": 257,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -21,7 +21,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Nashville",
         "Ocala",
@@ -153,6 +152,15 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -162,17 +170,8 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -273,7 +272,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 146,
+      "count": 144,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -291,7 +290,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Nashville",
         "Ocala",
@@ -431,21 +429,21 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -458,21 +456,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -677,7 +675,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 259,
+      "count": 257,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -707,7 +705,6 @@
         "Lake Mary",
         "Lakeland",
         "Longwood",
-        "Maitland",
         "Melbourne",
         "Nashville",
         "Ocala",
@@ -806,7 +803,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 9,
+      "count": 10,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -853,7 +850,7 @@
     },
     {
       "name": "Orlando",
-      "count": 92
+      "count": 91
     },
     {
       "name": "Lake Mary",
@@ -881,14 +878,14 @@
     },
     {
       "name": "Winter Park",
-      "count": 23
-    },
-    {
-      "name": "Jacksonville",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Sandston",
+      "count": 22
+    },
+    {
+      "name": "Jacksonville",
       "count": 22
     },
     {
@@ -1000,10 +997,6 @@
       "count": 1
     },
     {
-      "name": "Maitland",
-      "count": 1
-    },
-    {
       "name": "Wimauma",
       "count": 1
     },
@@ -1027,7 +1020,7 @@
     },
     {
       "name": "PG2",
-      "count": 19
+      "count": 18
     },
     {
       "name": "PG3",
@@ -1147,17 +1140,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 10,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 10,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 9,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1168,17 +1161,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Westshore Marina Flats",
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1337,7 +1330,7 @@
     }
   ],
   "mfTotal": 490,
-  "total": 636,
+  "total": 634,
   "groups": [
     {
       "key": "inicio",
