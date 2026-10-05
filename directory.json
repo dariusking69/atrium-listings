@@ -2,11 +2,12 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 316,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
+        "Antioch",
         "Apopka",
         "Belleview",
         "Casselberry",
@@ -54,7 +55,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -72,7 +73,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -117,7 +118,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 17,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -143,21 +144,21 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -233,30 +234,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -267,16 +259,26 @@
       "cities": [
         "Richmond"
       ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 144,
+      "count": 203,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
+        "Antioch",
         "Apopka",
         "Belleview",
         "Casselberry",
@@ -331,7 +333,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -358,7 +360,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -394,7 +396,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 17,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -420,21 +422,21 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -528,30 +530,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -582,6 +566,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Jeffersonian",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -606,6 +599,15 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -675,7 +677,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 257,
+      "count": 316,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -691,6 +693,7 @@
       ],
       "cities": [
         "Altamonte Springs",
+        "Antioch",
         "Apopka",
         "Belleview",
         "Casselberry",
@@ -729,7 +732,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 35,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -749,7 +752,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 22,
+      "count": 23,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -773,7 +776,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 17,
+      "count": 19,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -803,7 +806,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 12,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -834,7 +837,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 2,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -846,15 +849,19 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 117
+      "count": 116
     },
     {
       "name": "Orlando",
-      "count": 91
+      "count": 93
     },
     {
       "name": "Lake Mary",
       "count": 69
+    },
+    {
+      "name": "Antioch",
+      "count": 59
     },
     {
       "name": "Tampa",
@@ -866,7 +873,11 @@
     },
     {
       "name": "Winter Springs",
-      "count": 37
+      "count": 35
+    },
+    {
+      "name": "Peachtree Corners",
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -878,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Sandston",
@@ -891,6 +902,10 @@
     {
       "name": "Casselberry",
       "count": 19
+    },
+    {
+      "name": "Nashville",
+      "count": 18
     },
     {
       "name": "Ocoee",
@@ -929,20 +944,8 @@
       "count": 4
     },
     {
-      "name": "Nashville",
-      "count": 3
-    },
-    {
-      "name": "Davenport",
-      "count": 3
-    },
-    {
       "name": "Umatilla",
       "count": 3
-    },
-    {
-      "name": "Peachtree Corners",
-      "count": 2
     },
     {
       "name": "Saint Petersburg",
@@ -961,7 +964,15 @@
       "count": 2
     },
     {
+      "name": "Apopka",
+      "count": 2
+    },
+    {
       "name": "Oxford",
+      "count": 2
+    },
+    {
+      "name": "Davenport",
       "count": 2
     },
     {
@@ -986,10 +997,6 @@
     },
     {
       "name": "Ocala",
-      "count": 1
-    },
-    {
-      "name": "Apopka",
       "count": 1
     },
     {
@@ -1024,7 +1031,7 @@
     },
     {
       "name": "PG3",
-      "count": 6
+      "count": 7
     },
     {
       "name": "PG4",
@@ -1064,7 +1071,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1085,7 +1092,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 22,
+      "count": 23,
       "cities": [
         "Orlando"
       ]
@@ -1113,7 +1120,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 17,
+      "count": 19,
       "cities": [
         "Orlando"
       ]
@@ -1133,17 +1140,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 12,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 12,
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1217,24 +1224,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -1259,6 +1252,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Jeffersonian",
       "count": 2,
       "cities": [
@@ -1277,6 +1277,13 @@
       "count": 2,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 2,
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -1329,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 490,
-  "total": 634,
+  "mfTotal": 491,
+  "total": 741,
   "groups": [
     {
       "key": "inicio",
