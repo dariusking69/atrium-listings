@@ -153,21 +153,21 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -234,15 +234,6 @@
       ]
     },
     {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -258,6 +249,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
       ]
     },
     {
@@ -431,21 +431,21 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -521,15 +521,6 @@
       ]
     },
     {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -563,6 +554,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
       ]
     },
     {
@@ -806,7 +806,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -881,7 +881,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Jacksonville",
@@ -912,11 +912,11 @@
       "count": 6
     },
     {
-      "name": "Charlottesville",
-      "count": 6
+      "name": "Winter Garden",
+      "count": 5
     },
     {
-      "name": "Winter Garden",
+      "name": "Charlottesville",
       "count": 5
     },
     {
@@ -1147,17 +1147,17 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 10,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 10,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 9,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1217,13 +1217,6 @@
       ]
     },
     {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "cities": [
-        "Charlottesville"
-      ]
-    },
-    {
       "name": "Camelot Apartments",
       "count": 4,
       "cities": [
@@ -1249,6 +1242,13 @@
       "count": 3,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Six Hundred West Main",
+      "count": 3,
+      "cities": [
+        "Charlottesville"
       ]
     },
     {
@@ -1336,8 +1336,8 @@
       ]
     }
   ],
-  "mfTotal": 492,
-  "total": 639,
+  "mfTotal": 490,
+  "total": 637,
   "groups": [
     {
       "key": "inicio",
