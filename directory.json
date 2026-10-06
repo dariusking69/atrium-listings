@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 316,
+      "count": 309,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -23,12 +23,10 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
         "Oxford",
-        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -273,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 203,
+      "count": 196,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -293,11 +291,9 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
-        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -677,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 316,
+      "count": 309,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -709,12 +705,10 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Nashville",
         "Ocala",
         "Orlando",
         "Oviedo",
         "Oxford",
-        "Peachtree Corners",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -861,7 +855,7 @@
     },
     {
       "name": "Antioch",
-      "count": 59
+      "count": 57
     },
     {
       "name": "Tampa",
@@ -1337,7 +1331,7 @@
     }
   ],
   "mfTotal": 491,
-  "total": 741,
+  "total": 739,
   "groups": [
     {
       "key": "inicio",
