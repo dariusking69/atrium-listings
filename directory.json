@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 309,
+      "count": 310,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(629) 222-4750",
+      "phone": "(305) 783-9814",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -61,21 +61,21 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -169,6 +169,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -184,6 +193,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -232,6 +250,15 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -239,41 +266,14 @@
       "cities": [
         "Charlottesville"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 196,
+      "count": 197,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(629) 222-4750",
+      "phone": "(305) 783-9814",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -346,21 +346,21 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -445,6 +445,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -478,6 +487,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -535,6 +553,15 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -562,15 +589,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -586,24 +604,6 @@
       "phone": "(352) 268-6987",
       "cities": [
         "Oxford"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 309,
+      "count": 310,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -735,16 +735,6 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 24,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 23,
       "communities": [
@@ -752,6 +742,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square",
+      "count": 23,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -809,6 +809,16 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 8,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 6,
       "communities": [
@@ -828,26 +838,16 @@
       "cities": [
         "Gainesville"
       ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 2,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
     }
   ],
   "cities": [
     {
       "name": "Richmond",
-      "count": 116
+      "count": 120
     },
     {
       "name": "Orlando",
-      "count": 93
+      "count": 98
     },
     {
       "name": "Lake Mary",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Deltona",
@@ -938,6 +938,10 @@
       "count": 4
     },
     {
+      "name": "Davenport",
+      "count": 3
+    },
+    {
       "name": "Umatilla",
       "count": 3
     },
@@ -963,10 +967,6 @@
     },
     {
       "name": "Oxford",
-      "count": 2
-    },
-    {
-      "name": "Davenport",
       "count": 2
     },
     {
@@ -1017,7 +1017,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 36
+      "count": 35
     },
     {
       "name": "PG2",
@@ -1029,7 +1029,7 @@
     },
     {
       "name": "PG4",
-      "count": 12
+      "count": 13
     },
     {
       "name": "PG5",
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "PG7",
-      "count": 8
+      "count": 9
     },
     {
       "name": "PG8",
@@ -1078,17 +1078,17 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 24,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 23,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Aston Square Apartments",
+      "count": 23,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1155,6 +1155,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 8,
       "cities": [
@@ -1180,6 +1187,13 @@
       "count": 7,
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 6,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1225,6 +1239,13 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 3,
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 3,
       "cities": [
@@ -1246,13 +1267,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 2,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 2,
       "cities": [
@@ -1264,20 +1278,6 @@
       "count": 2,
       "cities": [
         "Oxford"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 2,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 2,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -1330,8 +1330,8 @@
       ]
     }
   ],
-  "mfTotal": 491,
-  "total": 739,
+  "mfTotal": 501,
+  "total": 750,
   "groups": [
     {
       "key": "inicio",
