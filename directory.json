@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 310,
+      "count": 309,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -79,21 +79,30 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -110,15 +119,6 @@
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -161,7 +161,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 10,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -170,7 +170,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 196,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -364,15 +364,6 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
@@ -382,19 +373,28 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
+      "name": "Barber Park Apartments",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
@@ -436,24 +436,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -469,6 +451,24 @@
       "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 310,
+      "count": 309,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -755,6 +755,16 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 21,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
       "count": 21,
       "communities": [
@@ -766,16 +776,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 19,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -810,7 +810,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 7,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -847,7 +847,7 @@
     },
     {
       "name": "Orlando",
-      "count": 98
+      "count": 99
     },
     {
       "name": "Lake Mary",
@@ -855,7 +855,7 @@
     },
     {
       "name": "Antioch",
-      "count": 57
+      "count": 56
     },
     {
       "name": "Tampa",
@@ -863,7 +863,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 38
+      "count": 36
     },
     {
       "name": "Winter Springs",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -886,12 +886,12 @@
       "count": 26
     },
     {
-      "name": "Sandston",
+      "name": "Jacksonville",
       "count": 22
     },
     {
-      "name": "Jacksonville",
-      "count": 22
+      "name": "Sandston",
+      "count": 21
     },
     {
       "name": "Casselberry",
@@ -926,11 +926,11 @@
       "count": 5
     },
     {
-      "name": "Titusville",
-      "count": 4
+      "name": "DeLand",
+      "count": 5
     },
     {
-      "name": "DeLand",
+      "name": "Titusville",
       "count": 4
     },
     {
@@ -1029,7 +1029,7 @@
     },
     {
       "name": "PG4",
-      "count": 13
+      "count": 12
     },
     {
       "name": "PG5",
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "PG7",
-      "count": 9
+      "count": 10
     },
     {
       "name": "PG8",
@@ -1092,13 +1092,6 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "cities": [
@@ -1106,15 +1099,22 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 20,
+      "name": "Barber Park Apartments",
+      "count": 21,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 19,
+      "name": "Gerwyn Manor",
+      "count": 21,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 20,
       "cities": [
         "Orlando"
       ]
@@ -1148,20 +1148,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 10,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 8,
       "cities": [
@@ -1173,6 +1159,20 @@
       "count": 8,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 8,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 7,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1330,8 +1330,8 @@
       ]
     }
   ],
-  "mfTotal": 501,
-  "total": 750,
+  "mfTotal": 499,
+  "total": 747,
   "groups": [
     {
       "key": "inicio",
