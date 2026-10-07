@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 308,
+      "count": 306,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -142,6 +142,15 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Cranes Landing",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -196,30 +205,21 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 195,
+      "count": 193,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -418,6 +418,15 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -491,20 +500,11 @@
     },
     {
       "name": "Raven Place",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 308,
+      "count": 306,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -726,7 +726,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -799,6 +799,16 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 13,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Cranes Landing",
       "count": 12,
       "communities": [
@@ -819,16 +829,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 6,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "communities": [
@@ -843,7 +843,7 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 120
+      "count": 119
     },
     {
       "name": "Orlando",
@@ -855,7 +855,7 @@
     },
     {
       "name": "Antioch",
-      "count": 55
+      "count": 54
     },
     {
       "name": "Tampa",
@@ -866,16 +866,16 @@
       "count": 36
     },
     {
-      "name": "Winter Springs",
-      "count": 35
-    },
-    {
       "name": "Peachtree Corners",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Gainesville",
       "count": 33
+    },
+    {
+      "name": "Winter Springs",
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -884,6 +884,10 @@
     {
       "name": "Winter Park",
       "count": 26
+    },
+    {
+      "name": "Nashville",
+      "count": 22
     },
     {
       "name": "Jacksonville",
@@ -898,8 +902,8 @@
       "count": 19
     },
     {
-      "name": "Nashville",
-      "count": 17
+      "name": "Macon",
+      "count": 13
     },
     {
       "name": "Ocoee",
@@ -912,10 +916,6 @@
     {
       "name": "St. Cloud",
       "count": 7
-    },
-    {
-      "name": "Macon",
-      "count": 6
     },
     {
       "name": "Winter Garden",
@@ -934,15 +934,15 @@
       "count": 4
     },
     {
-      "name": "Sanford",
-      "count": 4
-    },
-    {
       "name": "Davenport",
       "count": 3
     },
     {
       "name": "Umatilla",
+      "count": 3
+    },
+    {
+      "name": "Sanford",
       "count": 3
     },
     {
@@ -1021,7 +1021,7 @@
     },
     {
       "name": "PG2",
-      "count": 18
+      "count": 17
     },
     {
       "name": "PG3",
@@ -1065,7 +1065,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1134,6 +1134,13 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 13,
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 12,
       "cities": [
@@ -1191,16 +1198,9 @@
     },
     {
       "name": "Raven Place",
-      "count": 6,
+      "count": 5,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 6,
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -1330,8 +1330,8 @@
       ]
     }
   ],
-  "mfTotal": 499,
-  "total": 745,
+  "mfTotal": 501,
+  "total": 749,
   "groups": [
     {
       "key": "inicio",
