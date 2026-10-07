@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 309,
+      "count": 308,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -79,21 +79,21 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 196,
+      "count": 195,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -364,21 +364,21 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 309,
+      "count": 308,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -756,7 +756,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 21,
+      "count": 22,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -847,7 +847,7 @@
     },
     {
       "name": "Orlando",
-      "count": 98
+      "count": 99
     },
     {
       "name": "Lake Mary",
@@ -855,7 +855,7 @@
     },
     {
       "name": "Antioch",
-      "count": 56
+      "count": 55
     },
     {
       "name": "Tampa",
@@ -1092,17 +1092,17 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 22,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 22,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 21,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1330,7 +1330,7 @@
       ]
     }
   ],
-  "mfTotal": 498,
+  "mfTotal": 499,
   "total": 745,
   "groups": [
     {
