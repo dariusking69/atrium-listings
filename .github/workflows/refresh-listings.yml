@@ -130,10 +130,17 @@ jobs:
           print(f"OK: {len(d)} listings, {tagged} tagged, {len(dr['properties'])} communities, "
                 f"{pg_rows} PG-tagged, {len(dr.get('groups', []))} client groups, {len(warns)} warnings")
           PY
+      - name: Check the no-JavaScript pages
+        # browse/, llms.txt, sitemap.xml and the JSON-LD on homes/ are what AI assistants
+        # and crawlers read. A WARNING on purpose, same reasoning as the tiers above: a
+        # wrong table is worth an annotation, never worth freezing rent and availability.
+        run: python3 check_static.py || echo "::warning::check_static.py found problems in the no-JavaScript pages (they still ship)"
       - name: Commit if changed
         run: |
           git config user.name  "atrium-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add index.html grid.html listings.json homes widget-data.json directory.json groups.json
+          # Everything build.py writes must be named here or it is never published.
+          git add index.html grid.html listings.json homes widget-data.json directory.json groups.json \
+                  browse llms.txt sitemap.xml robots.txt
           git diff --cached --quiet || git commit -m "Refresh listings $(date -u +%FT%TZ)"
           git push

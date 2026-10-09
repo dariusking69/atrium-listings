@@ -51,6 +51,37 @@ Details → our `homes/<id>.html` pages, Apply → the AppFolio application form
 3. Paste everything between the "WIDGET START" / "WIDGET END" markers into a Squarespace
    Code Block, or use the whole file behind an `<iframe>`.
 
+## Readable without JavaScript (AI assistants, crawlers)
+
+`widget.html` renders no listings without JavaScript and `listings.json` is about 3 MB,
+which is more than most assistants' fetch tools accept. So `build.py` also writes a
+plain-HTML copy of the same rows on every refresh:
+
+- `browse/` — one page of every state and city with its count (`browse/`), one table per
+  state (`browse/fl/`) and one per city (`browse/fl/orlando.html`): address, rent, beds,
+  baths, square feet, availability, each row linking to `homes/<id>.html`.
+- `llms.txt` — the [llmstxt.org](https://llmstxt.org) index: what the site is, every
+  browse page, the `listings.json` fields, and the URL filters `widget.html` accepts.
+- `sitemap.xml` + `robots.txt` — every browse page and every `homes/<id>.html`.
+- JSON-LD (`RealEstateListing`) in the head of each `homes/<id>.html`.
+
+`widget.html` carries a `<noscript>` link to `browse/`. `w.html` deliberately does not: it
+is the client-scoped embed, and that link would put Atrium's whole portfolio on an owner's site.
+
+Rules these follow, and `check_static.py` enforces:
+
+- **Fields only.** They repeat what the feed says. No copy describing a home, an area, or
+  who it suits (Fair Housing). The JSON-LD has no `description`.
+- **No timestamps.** The refresh job commits only when a file changed.
+- **llms.txt sections hold only link items.** The reference parser throws on anything else,
+  which is why the Equal Housing line is the last list item rather than a paragraph.
+- **A new generated file must be added to `git add` in `refresh-listings.yml`**, or the
+  bot builds it and never publishes it.
+
+```bash
+python3 build.py --offline && python3 check_static.py
+```
+
 ## Refresh the data
 
 ```bash
