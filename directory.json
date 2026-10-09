@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 304,
+      "count": 302,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(305) 783-9814",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -44,7 +44,7 @@
     },
     {
       "name": "The Hub",
-      "count": 78,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -62,7 +62,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -88,15 +88,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -106,8 +97,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
+      "name": "The Nest",
       "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -124,21 +124,21 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -214,15 +214,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -250,6 +241,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -271,9 +271,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 192,
+      "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(305) 783-9814",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -311,7 +311,7 @@
     },
     {
       "name": "The Hub",
-      "count": 78,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -364,15 +364,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -382,8 +373,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
+      "name": "The Nest",
       "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -400,21 +400,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -499,15 +499,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -541,6 +532,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 304,
+      "count": 302,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -736,7 +736,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 22,
+      "count": 23,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -779,6 +779,16 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 15,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "communities": [
@@ -786,16 +796,6 @@
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 14,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -831,7 +831,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 5,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -843,11 +843,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 118
+      "count": 120
     },
     {
       "name": "Orlando",
-      "count": 96
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -855,7 +855,7 @@
     },
     {
       "name": "Antioch",
-      "count": 56
+      "count": 55
     },
     {
       "name": "Nashville",
@@ -863,7 +863,7 @@
     },
     {
       "name": "Tampa",
-      "count": 42
+      "count": 43
     },
     {
       "name": "Peachtree Corners",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -887,7 +887,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Jacksonville",
@@ -895,11 +895,11 @@
     },
     {
       "name": "Sandston",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Casselberry",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Macon",
@@ -950,10 +950,6 @@
       "count": 2
     },
     {
-      "name": "Saint Cloud",
-      "count": 2
-    },
-    {
       "name": "Altamonte Springs",
       "count": 2
     },
@@ -979,6 +975,10 @@
     },
     {
       "name": "Poinciana",
+      "count": 1
+    },
+    {
+      "name": "Saint Cloud",
       "count": 1
     },
     {
@@ -1029,7 +1029,7 @@
     },
     {
       "name": "PG4",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG5",
@@ -1051,7 +1051,7 @@
   "mfProperties": [
     {
       "name": "The Hub",
-      "count": 78,
+      "count": 81,
       "cities": [
         "Richmond"
       ]
@@ -1092,13 +1092,6 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 22,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 22,
       "cities": [
@@ -1106,8 +1099,15 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
+      "name": "The Nest",
       "count": 21,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
       "cities": [
         "Sandston"
       ]
@@ -1120,17 +1120,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1156,7 +1156,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 9,
+      "count": 10,
       "cities": [
         "Tampa"
       ]
@@ -1197,13 +1197,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 5,
       "cities": [
@@ -1229,6 +1222,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1330,8 +1330,8 @@
       ]
     }
   ],
-  "mfTotal": 491,
-  "total": 774,
+  "mfTotal": 492,
+  "total": 773,
   "groups": [
     {
       "key": "inicio",
@@ -1346,7 +1346,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 22
+      "listings": 23
     }
   ]
 }
