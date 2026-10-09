@@ -15,10 +15,12 @@ Usage:
 
 Output:
   index.html          grid (self-contained, opens via double-click)
-  homes/<id>.html      one custom detail page per listing
+  homes/<id>.html      one custom detail page per listing (with schema.org JSON-LD)
   listings.json        enriched data cache
+  browse/              plain-HTML tables per state and city, for readers without JavaScript
+  llms.txt, sitemap.xml, robots.txt   how an AI agent or crawler finds all of the above
 """
-import json, re, sys, ssl, html, urllib.request
+import datetime, functools, json, re, shutil, sys, ssl, html, urllib.request
 from urllib.parse import quote
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
@@ -245,6 +247,8 @@ def build_detail_page(l):
         "@@PETS@@": (f'<div class="block"><h3>Pet Policy</h3><ul class="terms">{pets}</ul></div>' if pets else ""),
         "@@APPLY@@": esc(l.get("apply_url") or l["appfolio_url"]),
         "@@PHOTOS@@": json.dumps(photos),
+        "@@CANON@@": esc(home_url(l)),
+        "@@JSONLD@@": _jsonld_or_empty(l),
     }
     out = DETAIL_TPL
     for k, v in repl.items():
@@ -288,6 +292,7 @@ def build(listings):
         l["city"] = parse_city(l.get("address", ""))  # re-derive so cached data is corrected too
         m = re.search(r"(\d{5})(?:-\d{4})?\s*$", l.get("address", ""))
         l["zip"] = m.group(1) if m else ""
+        l["state"] = parse_state(l.get("address", ""))
         m = re.search(r"\b(?:unit|apt|apartment|#)\s*([A-Za-z0-9-]+)", l.get("street", ""), re.I)
         l["unit"] = m.group(1) if m else ""
         g = groups.get(str(l.get("uuid") or ""), {})
@@ -318,7 +323,9 @@ def build(listings):
         '<!DOCTYPE html><meta charset="utf-8"><title>Atrium Residential Listings</title>'
         '<meta http-equiv="refresh" content="0; url=widget.html">'
         '<script>location.replace("widget.html"+location.search+location.hash)</script>'
-        '<a href="widget.html">View residential listings</a>', encoding="utf-8")
+        '<a href="widget.html">View residential listings</a> '
+        '<a href="browse/">Browse rentals by state and city (plain HTML, no JavaScript)</a>',
+        encoding="utf-8")
     (HERE / "listings.json").write_text(json.dumps(listings, indent=2), encoding="utf-8")
 
     # Slim feed for the configurable widget (w.html) + generator. Grid fields only —
@@ -421,7 +428,372 @@ def build(listings):
                           for k, v in client_groups.items()), key=lambda x: x["name"]),
     }
     (HERE / "directory.json").write_text(json.dumps(directory, indent=2), encoding="utf-8")
-    print(f"Built index.html + {len(listings)} detail pages in homes/")
+    # Same rule as the refresh job's sanity tiers: these pages are an extra for crawlers,
+    # and a bug in them must never stop rent and availability from publishing. Loud, not fatal.
+    try:
+        n_pages = build_static(listings)
+    except Exception as e:
+        n_pages = 0
+        print(f"::warning::no-JavaScript pages were NOT rebuilt (browse/, llms.txt, sitemap.xml): {e!r}")
+    print(f"Built index.html + {len(listings)} detail pages in homes/ "
+          f"+ {n_pages} browse pages, llms.txt, sitemap.xml, robots.txt")
+
+
+# ---------- plain-HTML surface for readers that do not run JavaScript ----------
+# widget.html renders zero listings without JavaScript and listings.json is ~3 MB, more
+# than most AI-assistant fetch tools will take, so an assistant asked "what does Atrium
+# have in Orlando" had nowhere to look. Everything below is static, small, and rebuilt
+# from the same rows on every refresh, so it cannot drift from the widget.
+#
+# FAIR HOUSING: these pages repeat listing fields and counts and nothing else. Do not add
+# copy that describes a home, a neighborhood, or who a place would suit.
+#
+# NO TIMESTAMPS in any of it (no "updated at", no sitemap <lastmod>): the refresh job
+# commits only when a file changed, and a clock in the output would make that every run.
+COMPANY = "Atrium Management Company"
+COMPANY_URL = "https://www.meetatrium.com/"
+EHO = "Atrium is an Equal Housing Opportunity provider."
+STATE_NAMES = {
+    "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California",
+    "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware", "DC": "District of Columbia",
+    "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho", "IL": "Illinois",
+    "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
+    "ME": "Maine", "MD": "Maryland", "MA": "Massachusetts", "MI": "Michigan",
+    "MN": "Minnesota", "MS": "Mississippi", "MO": "Missouri", "MT": "Montana",
+    "NE": "Nebraska", "NV": "Nevada", "NH": "New Hampshire", "NJ": "New Jersey",
+    "NM": "New Mexico", "NY": "New York", "NC": "North Carolina", "ND": "North Dakota",
+    "OH": "Ohio", "OK": "Oklahoma", "OR": "Oregon", "PA": "Pennsylvania",
+    "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee",
+    "TX": "Texas", "UT": "Utah", "VT": "Vermont", "VA": "Virginia", "WA": "Washington",
+    "WV": "West Virginia", "WI": "Wisconsin", "WY": "Wyoming",
+}
+MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+
+
+@functools.lru_cache(maxsize=None)
+def site_base():
+    """https://<the Pages custom domain>. CNAME is the one place that already names it."""
+    f = HERE / "CNAME"
+    host = f.read_text().strip() if f.exists() else ""
+    return f"https://{host or 'listings.meetatrium.com'}"
+
+
+def home_url(l):
+    return f'{site_base()}/homes/{l["id"]}.html'
+
+
+def parse_state(address):
+    """'..., Kissimmee, FL 34744' -> 'FL'. '' when the address does not end in ST ZIP."""
+    m = re.search(r",\s*([A-Za-z]{2})\.?\s*\d{5}(?:-\d{4})?\s*$", address or "")
+    return m.group(1).upper() if m else ""
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-")
+
+
+def _num(v):
+    """2.0 -> '2', 2.5 -> '2.5', None -> ''."""
+    if v is None:
+        return ""
+    return str(int(v)) if float(v) == int(v) else str(v)
+
+
+def beds_text(b):
+    return "" if b is None else ("Studio" if b == 0 else _num(b))
+
+
+def rent_text(l):
+    return l.get("rent", "") if (l.get("rent_val") or 0) > 0 else "Contact for price"
+
+
+def rent_bounds(l):
+    """'$1,280 - $2,064' -> (1280, 2064); a single amount -> (n, n); unpriced -> None."""
+    n = [int(x.replace(",", "")) for x in re.findall(r"\d[\d,]*", l.get("rent") or "")]
+    n = [x for x in n if x > 0]
+    return (min(n), max(n)) if n and (l.get("rent_val") or 0) > 0 else None
+
+
+def available_iso(av):
+    """'10/19/26' -> '2026-10-19'. '' for NOW or anything that is not a plain US date."""
+    m = re.fullmatch(r"(\d{1,2})/(\d{1,2})/(\d{2}|\d{4})", (av or "").strip())
+    if not m:
+        return ""
+    mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+    try:
+        return datetime.date(y + 2000 if y < 100 else y, mo, d).isoformat()
+    except ValueError:
+        return ""
+
+
+def available_text(av):
+    """Month spelled out: '10/11/26' reads as 10 November to anyone outside the US."""
+    av = (av or "NOW").strip()
+    if av.upper() == "NOW":
+        return "Now"
+    iso = available_iso(av)
+    if not iso:
+        return av
+    d = datetime.date.fromisoformat(iso)
+    return f"{MONTHS[d.month - 1]} {d.day}, {d.year}"
+
+
+# ---- schema.org JSON-LD for a detail page ----
+def listing_jsonld(l):
+    """Built ONLY from the listing's own fields. A field the feed leaves empty is left out
+    rather than guessed, and there is no description: that is marketing copy."""
+    addr = {"@type": "PostalAddress", "addressCountry": "US"}
+    parts = [p.strip() for p in (l.get("address") or "").split(",")]
+    # Street = everything before the city, so a unit that is its own comma segment
+    # ('1600 Neo Landings Loop, Unit 405, Kissimmee, FL 34744') stays in the street line.
+    city = l.get("city") or ""
+    street = ", ".join(parts[:parts.index(city)]) if city in parts else (l.get("street") or "")
+    for k, v in (("streetAddress", street), ("addressLocality", city),
+                 ("addressRegion", l.get("state") or parse_state(l.get("address", ""))),
+                 ("postalCode", l.get("zip") or "")):
+        if v:
+            addr[k] = v
+    home = {"@type": "Accommodation", "name": l.get("address") or l.get("street") or "",
+            "address": addr}
+    if l.get("lat") is not None and l.get("lng") is not None:
+        home["geo"] = {"@type": "GeoCoordinates", "latitude": l["lat"], "longitude": l["lng"]}
+    if l.get("beds") is not None:
+        home["numberOfBedrooms"] = int(l["beds"]) if float(l["beds"]) == int(l["beds"]) else l["beds"]
+    ba = l.get("baths")
+    if ba is not None:
+        if float(ba) == int(ba):
+            home["numberOfBathroomsTotal"] = int(ba)
+        else:
+            # schema.org defines numberOfBathroomsTotal as an integer that counts a half
+            # bath as one, so 2.5 would have to be written 3. Say what the feed says.
+            home["numberOfFullBathrooms"] = int(ba)
+            home["numberOfPartialBathrooms"] = 1
+    if l.get("sqft"):
+        home["floorSize"] = {"@type": "QuantitativeValue", "value": l["sqft"],
+                             "unitCode": "FTK", "unitText": "sq ft"}
+    if l.get("photo"):
+        home["image"] = l["photo"]
+
+    offer = {"@type": "Offer", "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+             "offeredBy": {"@type": "Organization", "name": COMPANY, "url": COMPANY_URL}}
+    rb = rent_bounds(l)
+    if rb:
+        spec = {"@type": "UnitPriceSpecification", "priceCurrency": "USD",
+                "unitCode": "MON", "unitText": "month"}
+        if rb[0] == rb[1]:
+            spec["price"] = rb[0]
+            offer["price"], offer["priceCurrency"] = rb[0], "USD"
+        else:
+            spec["minPrice"], spec["maxPrice"] = rb
+        offer["priceSpecification"] = spec
+    iso = available_iso(l.get("available"))
+    if iso:
+        offer["availabilityStarts"] = iso
+    elif (l.get("available") or "NOW").strip().upper() == "NOW":
+        offer["availability"] = "https://schema.org/InStock"
+
+    ld = {"@context": "https://schema.org", "@type": "RealEstateListing",
+          "url": home_url(l), "name": home["name"], "mainEntity": home, "offers": offer}
+    apply_url = l.get("apply_url") or ""
+    if "rental_applications/new" in apply_url:      # the fallback is a listing page, not a form
+        ld["potentialAction"] = {"@type": "ApplyAction", "name": "Apply", "target": apply_url}
+    return ld
+
+
+def _jsonld_or_empty(l):
+    """A listing the JSON-LD cannot describe still gets its page; see build() on why this
+    is a warning. check_static.py reports the empty block."""
+    try:
+        return _ld_json(listing_jsonld(l))
+    except Exception as e:
+        print(f"::warning::JSON-LD left empty for listing {l.get('id')}: {e!r}")
+        return "{}"
+
+
+def _ld_json(obj):
+    """JSON safe to sit inside <script>: a '</script>' in an address must not end the block."""
+    return json.dumps(obj, separators=(",", ":"), ensure_ascii=False).replace("<", "\\u003c")
+
+
+# ---- browse pages ----
+def group_areas(listings):
+    """[{code, slug, name, rows, cities: [{slug, name, rows}]}], biggest first.
+
+    Keyed on the SLUG, not the display name, so two spellings that would land on the same
+    file are merged into one page instead of the second silently overwriting the first."""
+    states = {}
+    for l in listings:
+        code = l.get("state") or parse_state(l.get("address", ""))
+        st = states.setdefault(slug(code) or "other", {"code": code, "rows": [], "cities": {}})
+        st["rows"].append(l)
+        c = st["cities"].setdefault(slug(l.get("city")) or "other", {"names": {}, "rows": []})
+        c["rows"].append(l)
+        name = (l.get("city") or "").strip()
+        c["names"][name] = c["names"].get(name, 0) + 1
+    by_rent = lambda l: ((l.get("rent_val") or 0) <= 0, l.get("rent_val") or 0, l.get("address") or "")
+    out = []
+    for sslug, st in states.items():
+        cities = [{"slug": cslug, "rows": sorted(c["rows"], key=by_rent),
+                   "name": max(c["names"], key=lambda n: (c["names"][n], n)) or "Other"}
+                  for cslug, c in st["cities"].items()]
+        cities.sort(key=lambda c: (-len(c["rows"]), c["name"]))
+        order = {c["slug"]: i for i, c in enumerate(cities)}
+        rows = sorted(st["rows"], key=lambda l: (order[slug(l.get("city")) or "other"],) + by_rent(l))
+        out.append({"code": st["code"], "slug": sslug, "rows": rows, "cities": cities,
+                    "name": STATE_NAMES.get(st["code"], st["code"] or "Other areas")})
+    out.sort(key=lambda s: (-len(s["rows"]), s["name"]))
+    return out
+
+
+def _n(count):
+    return f"{count} rental" + ("" if count == 1 else "s")
+
+
+BROWSE_CSS = ("body{margin:0 auto;max-width:980px;padding:20px 16px 48px;color:#121212;background:#fff;"
+              "font:15px/1.5 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif}"
+              "a{color:#121212}h1{font-size:26px;line-height:1.2;margin:14px 0 6px}"
+              "h2{font-size:18px;margin:26px 0 6px}.c{color:#424245}"
+              ".t{overflow-x:auto}table{border-collapse:collapse;width:100%;margin-top:14px}"
+              "th,td{text-align:left;padding:8px 14px 8px 0;border-bottom:1px solid #e6e6e6;white-space:nowrap}"
+              "td:first-child{white-space:normal;min-width:220px}"
+              "th{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#424245}"
+              "ul{padding-left:20px;margin:6px 0}footer{margin-top:32px;font-size:13px;color:#424245}")
+
+
+def _browse_page(path, title, crumbs, h1, body):
+    """`path` is relative to browse/. Directory URLs ('fl/') are the canonical form."""
+    canon = f"{site_base()}/browse/{path[:-len('index.html')] if path.endswith('index.html') else path}"
+    crumb = " / ".join(f'<a href="{esc(h)}">{esc(t)}</a>' if h else esc(t) for t, h in crumbs)
+    doc = (f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
+           f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+           f'<title>{esc(title)} | {COMPANY}</title><link rel="canonical" href="{esc(canon)}">'
+           f'<style>{BROWSE_CSS}</style></head><body>\n<nav class="c">{crumb}</nav>\n'
+           f'<h1>{esc(h1)}</h1>\n{body}\n<footer>{EHO}</footer>\n</body></html>\n')
+    f = HERE / "browse" / path
+    f.parent.mkdir(parents=True, exist_ok=True)
+    f.write_text(doc, encoding="utf-8")
+
+
+def _rows_table(rows, up):
+    """`up` climbs from the page to the site root ('../../' for browse/fl/orlando.html)."""
+    tr = "\n".join(
+        f'<tr><td><a href="{up}homes/{l["id"]}.html">{esc(l.get("address") or l.get("street"))}</a></td>'
+        f'<td>{esc(rent_text(l))}</td><td>{beds_text(l.get("beds"))}</td><td>{_num(l.get("baths"))}</td>'
+        f'<td>{l.get("sqft") or ""}</td><td>{esc(available_text(l.get("available")))}</td></tr>'
+        for l in rows)
+    return ('<div class="t"><table><thead><tr><th>Address</th><th>Rent per month</th><th>Beds</th>'
+            f'<th>Baths</th><th>Sq ft</th><th>Available</th></tr></thead><tbody>\n{tr}\n</tbody></table></div>')
+
+
+def build_browse(areas, total):
+    """Write browse/. Returns the page paths (relative to the site root) for the sitemap."""
+    shutil.rmtree(HERE / "browse", ignore_errors=True)   # an area with no listings left loses its page
+    n_cities = sum(len(s["cities"]) for s in areas)
+    paths = ["browse/"]
+    body = [f'<p class="c">{_n(total)} listed by {COMPANY}, in {len(areas)} '
+            f'state{"" if len(areas) == 1 else "s"} and {n_cities} cit{"y" if n_cities == 1 else "ies"}. '
+            f'<a href="../widget.html">Search with a map and filters</a> (needs JavaScript).</p>']
+    for s in areas:
+        body.append(f'<h2><a href="{s["slug"]}/">{esc(s["name"])}</a> ({len(s["rows"])})</h2>\n<ul>' + "".join(
+            f'\n<li><a href="{s["slug"]}/{c["slug"]}.html">{esc(c["name"])}</a> ({len(c["rows"])})</li>'
+            for c in s["cities"]) + "\n</ul>")
+    body.append('<p class="c">For software: <a href="../llms.txt">llms.txt</a>, '
+                '<a href="../listings.json">listings.json</a>, <a href="../sitemap.xml">sitemap.xml</a>.</p>')
+    _browse_page("index.html", "Rentals by state and city", [("All areas", "")],
+                 "Rentals by state and city", "\n".join(body))
+    for s in areas:
+        paths.append(f'browse/{s["slug"]}/')
+        cities = "".join(f'\n<li><a href="{c["slug"]}.html">{esc(c["name"])}</a> ({len(c["rows"])})</li>'
+                         for c in s["cities"])
+        _browse_page(f'{s["slug"]}/index.html', f'Rentals in {s["name"]}',
+                     [("All areas", "../"), (s["name"], "")], f'Rentals in {s["name"]}',
+                     f'<p class="c">{_n(len(s["rows"]))} listed by {COMPANY}.</p>\n<ul>{cities}\n</ul>\n'
+                     + _rows_table(s["rows"], "../../"))
+        for c in s["cities"]:
+            paths.append(f'browse/{s["slug"]}/{c["slug"]}.html')
+            place = f'{c["name"]}, {s["code"]}' if s["code"] else c["name"]
+            _browse_page(f'{s["slug"]}/{c["slug"]}.html', f"Rentals in {place}",
+                         [("All areas", "../"), (s["name"], "./"), (c["name"], "")], f"Rentals in {place}",
+                         f'<p class="c">{_n(len(c["rows"]))} listed by {COMPANY}. '
+                         f'<a href="../../widget.html?city={quote(c["name"])}">Search these with a map and '
+                         f'filters</a> (needs JavaScript).</p>\n' + _rows_table(c["rows"], "../../"))
+    return paths
+
+
+def build_llms_txt(areas, total):
+    """llmstxt.org layout: H1, blockquote, free text, then H2 sections that hold ONLY link
+    lists. The reference parser reads every line under an H2 as '- [name](url): notes' and
+    throws on anything else, which is why the closing Equal Housing line is a list item."""
+    base = site_base()
+    states = [s["name"] for s in areas]
+    where = (", ".join(states[:-1]) + " and " + states[-1]) if len(states) > 1 else "".join(states)
+    out = [f"# {COMPANY}: available rentals", "",
+           f"> Every home and apartment {COMPANY} currently has for rent: {_n(total)} in {where}. "
+           "Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it "
+           "is available, photos and a link to apply online. The data is rebuilt from Atrium's "
+           "property management system several times a day.", "",
+           "The pages linked below are plain HTML and need no JavaScript. To answer a question about "
+           "what is available somewhere, open that city's page: it is one small table with a row per "
+           f"rental, cheapest first. Each row links to the rental's own page at {base}/homes/<id>.html, "
+           "which also carries the same facts as schema.org JSON-LD (RealEstateListing).", "",
+           f"Full feed: {base}/listings.json is one JSON array with every listing (about 3 MB, so "
+           "prefer the city pages when a fetch has a size limit). Fields on each listing:", "",
+           "- id: number. The rental's page is homes/<id>.html.",
+           "- address: full address. Also split into street, unit, city, state (two letters) and zip.",
+           "- rent: monthly rent as text, one amount or a range such as \"$1,280 - $2,064\".",
+           "- rent_val: the lowest monthly rent as a whole number of US dollars. 0 means no price is set yet.",
+           "- beds: bedrooms. 0 is a studio. baths: bathrooms, where 2.5 is two full and one half.",
+           "- sqft: square feet. specs: beds, baths and square feet as one line of text.",
+           "- available: \"NOW\", or the first available date as month/day/year (US order, such as 10/19/26).",
+           "- photo: main photo URL. photos: every photo URL.",
+           "- lat, lng: map coordinates.",
+           "- apply_url: the online rental application for this listing.",
+           "- appfolio_url: the same listing on Atrium's AppFolio site, with contact and showing requests.",
+           "- title, description, terms, pets: the listing's own headline, description, rental terms and pet policy, as published.",
+           "",
+           f"Search page: {base}/widget.html is the map and filter search people use. It needs "
+           "JavaScript, so do not read it; link a person to it. It accepts these URL parameters, "
+           "in any combination:", "",
+           "- q: text to match against address, city or ZIP.",
+           "- city: a city name exactly as it appears in the feed, such as city=Orlando.",
+           "- zip: a five digit ZIP code.",
+           "- beds: 0 for studios only, or 1 to 5 for at least that many bedrooms.",
+           "- baths: 1, 2 or 3 for at least that many bathrooms.",
+           "- min, max: lowest and highest monthly rent in dollars.",
+           "- sort: rent_desc (the default), rent_asc or new.",
+           "- embed=1: a compact layout for a narrow panel.",
+           "",
+           f"Example: {base}/widget.html?city=Orlando&beds=2&max=2000", ""]
+    out += ["## Browse", "",
+            f"- [All areas]({base}/browse/): every state and city with its count of rentals", ""]
+    for s in areas:
+        out += [f"## {s['name']}", "",
+                f"- [{s['name']}]({base}/browse/{s['slug']}/): {_n(len(s['rows']))}"]
+        out += [f"- [{c['name']}, {s['code']}]({base}/browse/{s['slug']}/{c['slug']}.html): {_n(len(c['rows']))}"
+                for c in s["cities"]]
+        out.append("")
+    out += ["## Data", "",
+            f"- [listings.json]({base}/listings.json): every listing as JSON, fields as described above",
+            f"- [sitemap.xml]({base}/sitemap.xml): every browse page and every rental page", "",
+            "## About", "",
+            f"- [{COMPANY}]({COMPANY_URL}): {EHO}"]
+    (HERE / "llms.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
+def build_static(listings):
+    """browse/, llms.txt, sitemap.xml, robots.txt. Returns the number of browse pages."""
+    base = site_base()
+    areas = group_areas(listings)
+    pages = build_browse(areas, len(listings))
+    build_llms_txt(areas, len(listings))
+    urls = [f"{base}/{p}" for p in pages] + [home_url(l) for l in listings]
+    (HERE / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"<url><loc>{esc(u)}</loc></url>\n" for u in urls) + "</urlset>\n", encoding="utf-8")
+    (HERE / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {base}/sitemap.xml\n", encoding="utf-8")
+    return len(pages)
 
 
 # ===================== TEMPLATES =====================
@@ -519,6 +891,8 @@ $('#clear').onclick=()=>{q.value='';beds.value='';price.value='';sort.value='ren
 DETAIL_TPL = r"""<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>@@STREET@@ — Atrium</title>
+<link rel="canonical" href="@@CANON@@">
+<script type="application/ld+json">@@JSONLD@@</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap">
 <style>__CSS__
