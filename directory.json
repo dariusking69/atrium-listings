@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 302,
+      "count": 301,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 190,
+      "count": 189,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 302,
+      "count": 301,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -854,11 +854,11 @@
       "count": 69
     },
     {
-      "name": "Antioch",
-      "count": 55
+      "name": "Nashville",
+      "count": 54
     },
     {
-      "name": "Nashville",
+      "name": "Antioch",
       "count": 54
     },
     {
@@ -1331,7 +1331,7 @@
     }
   ],
   "mfTotal": 493,
-  "total": 774,
+  "total": 773,
   "groups": [
     {
       "key": "inicio",
