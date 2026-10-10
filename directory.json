@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 301,
+      "count": 300,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -62,7 +62,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 23,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 189,
+      "count": 188,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -634,15 +634,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -673,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 301,
+      "count": 300,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -726,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 30,
+      "count": 29,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -736,9 +727,8 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 23,
+      "count": 22,
       "communities": [
-        "Beach Flats",
         "Case Residences",
         "The William at Westshore",
         "Westshore Flats I",
@@ -859,11 +849,11 @@
     },
     {
       "name": "Antioch",
-      "count": 54
+      "count": 53
     },
     {
       "name": "Tampa",
-      "count": 42
+      "count": 41
     },
     {
       "name": "Peachtree Corners",
@@ -883,7 +873,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Winter Park",
@@ -1065,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 29,
       "cities": [
         "Winter Springs"
       ]
@@ -1302,13 +1292,6 @@
       ]
     },
     {
-      "name": "Beach Flats",
-      "count": 1,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "cities": [
@@ -1330,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 493,
-  "total": 773,
+  "mfTotal": 491,
+  "total": 770,
   "groups": [
     {
       "key": "inicio",
@@ -1346,7 +1329,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 23
+      "listings": 22
     }
   ]
 }
