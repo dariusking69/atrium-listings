@@ -854,12 +854,12 @@
       "count": 69
     },
     {
-      "name": "Nashville",
+      "name": "Antioch",
       "count": 55
     },
     {
-      "name": "Antioch",
-      "count": 55
+      "name": "Nashville",
+      "count": 54
     },
     {
       "name": "Tampa",
@@ -1331,7 +1331,7 @@
     }
   ],
   "mfTotal": 493,
-  "total": 776,
+  "total": 775,
   "groups": [
     {
       "key": "inicio",

@@ -1,6 +1,6 @@
 # Atrium Management Company: available rentals
 
-> Every home and apartment Atrium Management Company currently has for rent: 776 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
+> Every home and apartment Atrium Management Company currently has for rent: 775 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
 
 The pages linked below are plain HTML and need no JavaScript. To answer a question about what is available somewhere, open that city's page: it is one small table with a row per rental, cheapest first. Each row links to the rental's own page at https://listings.meetatrium.com/homes/<id>.html, which also carries the same facts as schema.org JSON-LD (RealEstateListing).
 
@@ -85,9 +85,9 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Tennessee
 
-- [Tennessee](https://listings.meetatrium.com/browse/tn/): 110 rentals
+- [Tennessee](https://listings.meetatrium.com/browse/tn/): 109 rentals
 - [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 55 rentals
-- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 55 rentals
+- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 54 rentals
 
 ## Georgia
 
