@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 302,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 191,
+      "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -673,7 +673,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 302,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -918,16 +918,16 @@
       "count": 7
     },
     {
-      "name": "Winter Garden",
-      "count": 5
-    },
-    {
       "name": "Charlottesville",
       "count": 5
     },
     {
       "name": "DeLand",
       "count": 5
+    },
+    {
+      "name": "Winter Garden",
+      "count": 4
     },
     {
       "name": "Titusville",
@@ -1017,7 +1017,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 35
+      "count": 34
     },
     {
       "name": "PG2",
@@ -1331,7 +1331,7 @@
     }
   ],
   "mfTotal": 493,
-  "total": 775,
+  "total": 774,
   "groups": [
     {
       "key": "inicio",
