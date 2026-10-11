@@ -61,15 +61,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
@@ -85,6 +76,15 @@
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -455,7 +455,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -726,19 +726,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 22,
-      "communities": [
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
-      ],
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 22,
       "communities": [
@@ -756,6 +743,19 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 21,
+      "communities": [
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -853,7 +853,7 @@
     },
     {
       "name": "Tampa",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Peachtree Corners",
@@ -1153,7 +1153,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Tampa"
       ]
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 490,
-  "total": 767,
+  "mfTotal": 489,
+  "total": 766,
   "groups": [
     {
       "key": "inicio",
@@ -1329,7 +1329,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 22
+      "listings": 21
     }
   ]
 }
