@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 300,
+      "count": 298,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -241,15 +241,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -266,12 +257,21 @@
       "cities": [
         "Charlottesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 188,
+      "count": 186,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -535,15 +535,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -577,6 +568,15 @@
       "phone": "(352) 332-3199",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 300,
+      "count": 298,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -821,7 +821,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 2,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -837,7 +837,7 @@
     },
     {
       "name": "Orlando",
-      "count": 95
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -849,7 +849,7 @@
     },
     {
       "name": "Antioch",
-      "count": 53
+      "count": 52
     },
     {
       "name": "Tampa",
@@ -861,7 +861,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Gainesville",
@@ -1011,7 +1011,7 @@
     },
     {
       "name": "PG2",
-      "count": 17
+      "count": 16
     },
     {
       "name": "PG3",
@@ -1215,13 +1215,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1247,6 +1240,13 @@
       "count": 3,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 491,
-  "total": 770,
+  "mfTotal": 490,
+  "total": 767,
   "groups": [
     {
       "key": "inicio",
