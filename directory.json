@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 307,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -44,7 +44,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -124,6 +124,15 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -133,17 +142,8 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 195,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -311,7 +311,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -400,6 +400,15 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -409,17 +418,8 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 307,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 34,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -769,6 +769,16 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 15,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "communities": [
@@ -779,18 +789,8 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 14,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 13,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -833,11 +833,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 118
+      "count": 119
     },
     {
       "name": "Orlando",
-      "count": 97
+      "count": 98
     },
     {
       "name": "Lake Mary",
@@ -845,7 +845,7 @@
     },
     {
       "name": "Nashville",
-      "count": 53
+      "count": 52
     },
     {
       "name": "Antioch",
@@ -853,31 +853,31 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 42
+      "count": 44
     },
     {
-      "name": "Tampa",
+      "name": "Winter Park",
       "count": 40
     },
     {
-      "name": "Gainesville",
-      "count": 33
+      "name": "Tampa",
+      "count": 39
     },
     {
       "name": "Winter Springs",
-      "count": 31
+      "count": 34
     },
     {
       "name": "Kissimmee",
+      "count": 32
+    },
+    {
+      "name": "Gainesville",
       "count": 31
     },
     {
       "name": "Deltona",
       "count": 31
-    },
-    {
-      "name": "Winter Park",
-      "count": 27
     },
     {
       "name": "Jacksonville",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Macon",
@@ -928,10 +928,6 @@
       "count": 3
     },
     {
-      "name": "Umatilla",
-      "count": 3
-    },
-    {
       "name": "Sanford",
       "count": 3
     },
@@ -961,6 +957,10 @@
     },
     {
       "name": "Belleview",
+      "count": 2
+    },
+    {
+      "name": "Umatilla",
       "count": 2
     },
     {
@@ -1007,11 +1007,11 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 34
+      "count": 46
     },
     {
       "name": "PG2",
-      "count": 16
+      "count": 17
     },
     {
       "name": "PG3",
@@ -1019,11 +1019,11 @@
     },
     {
       "name": "PG4",
-      "count": 13
+      "count": 11
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 14
     },
     {
       "name": "PG7",
@@ -1041,7 +1041,7 @@
   "mfProperties": [
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "cities": [
         "Richmond"
       ]
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 34,
       "cities": [
         "Winter Springs"
       ]
@@ -1110,6 +1110,13 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "cities": [
@@ -1117,15 +1124,8 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 13,
       "cities": [
         "Winter Park"
       ]
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 491,
-  "total": 771,
+  "mfTotal": 497,
+  "total": 788,
   "groups": [
     {
       "key": "inicio",

@@ -1,6 +1,6 @@
 # Atrium Management Company: available rentals
 
-> Every home and apartment Atrium Management Company currently has for rent: 771 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
+> Every home and apartment Atrium Management Company currently has for rent: 788 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
 
 The pages linked below are plain HTML and need no JavaScript. To answer a question about what is available somewhere, open that city's page: it is one small table with a row per rental, cheapest first. Each row links to the rental's own page at https://listings.meetatrium.com/homes/<id>.html, which also carries the same facts as schema.org JSON-LD (RealEstateListing).
 
@@ -38,17 +38,17 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 470 rentals
-- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 97 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 485 rentals
+- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 98 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 69 rentals
-- [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 40 rentals
-- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 33 rentals
+- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 40 rentals
+- [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 39 rentals
+- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 34 rentals
+- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 32 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
-- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 31 rentals
-- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 31 rentals
-- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 27 rentals
+- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 31 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 22 rentals
-- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 18 rentals
+- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 19 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 12 rentals
 - [Lakeland, FL](https://listings.meetatrium.com/browse/fl/lakeland.html): 7 rentals
 - [St. Cloud, FL](https://listings.meetatrium.com/browse/fl/st-cloud.html): 7 rentals
@@ -57,7 +57,6 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Davenport, FL](https://listings.meetatrium.com/browse/fl/davenport.html): 3 rentals
 - [Sanford, FL](https://listings.meetatrium.com/browse/fl/sanford.html): 3 rentals
 - [Titusville, FL](https://listings.meetatrium.com/browse/fl/titusville.html): 3 rentals
-- [Umatilla, FL](https://listings.meetatrium.com/browse/fl/umatilla.html): 3 rentals
 - [Altamonte Springs, FL](https://listings.meetatrium.com/browse/fl/altamonte-springs.html): 2 rentals
 - [Apopka, FL](https://listings.meetatrium.com/browse/fl/apopka.html): 2 rentals
 - [Belleview, FL](https://listings.meetatrium.com/browse/fl/belleview.html): 2 rentals
@@ -65,6 +64,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Oxford, FL](https://listings.meetatrium.com/browse/fl/oxford.html): 2 rentals
 - [Saint Cloud, FL](https://listings.meetatrium.com/browse/fl/saint-cloud.html): 2 rentals
 - [Saint Petersburg, FL](https://listings.meetatrium.com/browse/fl/saint-petersburg.html): 2 rentals
+- [Umatilla, FL](https://listings.meetatrium.com/browse/fl/umatilla.html): 2 rentals
 - [Celebration, FL](https://listings.meetatrium.com/browse/fl/celebration.html): 1 rental
 - [Haines City, FL](https://listings.meetatrium.com/browse/fl/haines-city.html): 1 rental
 - [Longwood, FL](https://listings.meetatrium.com/browse/fl/longwood.html): 1 rental
@@ -78,21 +78,21 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Virginia
 
-- [Virginia](https://listings.meetatrium.com/browse/va/): 144 rentals
-- [Richmond, VA](https://listings.meetatrium.com/browse/va/richmond.html): 118 rentals
+- [Virginia](https://listings.meetatrium.com/browse/va/): 145 rentals
+- [Richmond, VA](https://listings.meetatrium.com/browse/va/richmond.html): 119 rentals
 - [Sandston, VA](https://listings.meetatrium.com/browse/va/sandston.html): 20 rentals
 - [Charlottesville, VA](https://listings.meetatrium.com/browse/va/charlottesville.html): 6 rentals
 
 ## Tennessee
 
-- [Tennessee](https://listings.meetatrium.com/browse/tn/): 103 rentals
-- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 53 rentals
+- [Tennessee](https://listings.meetatrium.com/browse/tn/): 102 rentals
+- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 52 rentals
 - [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 50 rentals
 
 ## Georgia
 
-- [Georgia](https://listings.meetatrium.com/browse/ga/): 54 rentals
-- [Peachtree Corners, GA](https://listings.meetatrium.com/browse/ga/peachtree-corners.html): 42 rentals
+- [Georgia](https://listings.meetatrium.com/browse/ga/): 56 rentals
+- [Peachtree Corners, GA](https://listings.meetatrium.com/browse/ga/peachtree-corners.html): 44 rentals
 - [Macon, GA](https://listings.meetatrium.com/browse/ga/macon.html): 12 rentals
 
 ## Data
