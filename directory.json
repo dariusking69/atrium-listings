@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 307,
+      "count": 305,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -169,15 +169,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -196,12 +187,30 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -220,15 +229,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 195,
+      "count": 193,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -463,15 +463,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -490,6 +481,24 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Raven Place",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -505,15 +514,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 307,
+      "count": 305,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 35,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 5,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -837,7 +837,7 @@
     },
     {
       "name": "Orlando",
-      "count": 98
+      "count": 100
     },
     {
       "name": "Lake Mary",
@@ -849,7 +849,7 @@
     },
     {
       "name": "Antioch",
-      "count": 50
+      "count": 48
     },
     {
       "name": "Peachtree Corners",
@@ -861,11 +861,11 @@
     },
     {
       "name": "Tampa",
-      "count": 39
+      "count": 38
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Kissimmee",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -1027,7 +1027,7 @@
     },
     {
       "name": "PG7",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PG8",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Winter Springs"
       ]
@@ -1159,13 +1159,6 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 7,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 7,
       "cities": [
@@ -1180,6 +1173,20 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 6,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Raven Place",
       "count": 5,
       "cities": [
@@ -1191,13 +1198,6 @@
       "count": 5,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 497,
-  "total": 788,
+  "mfTotal": 498,
+  "total": 787,
   "groups": [
     {
       "key": "inicio",
