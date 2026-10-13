@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 297,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 185,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 297,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -845,19 +845,19 @@
     },
     {
       "name": "Nashville",
-      "count": 54
+      "count": 53
     },
     {
       "name": "Antioch",
       "count": 50
     },
     {
-      "name": "Tampa",
-      "count": 40
+      "name": "Peachtree Corners",
+      "count": 42
     },
     {
-      "name": "Peachtree Corners",
-      "count": 38
+      "name": "Tampa",
+      "count": 40
     },
     {
       "name": "Gainesville",
@@ -865,7 +865,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Kissimmee",
@@ -936,6 +936,10 @@
       "count": 3
     },
     {
+      "name": "Saint Cloud",
+      "count": 2
+    },
+    {
       "name": "Saint Petersburg",
       "count": 2
     },
@@ -965,10 +969,6 @@
     },
     {
       "name": "Poinciana",
-      "count": 1
-    },
-    {
-      "name": "Saint Cloud",
       "count": 1
     },
     {
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 492,
-  "total": 768,
+  "mfTotal": 491,
+  "total": 771,
   "groups": [
     {
       "key": "inicio",
