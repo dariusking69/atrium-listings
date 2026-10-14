@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 305,
+      "count": 304,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -79,15 +79,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -115,6 +106,15 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -124,21 +124,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -271,7 +271,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 193,
+      "count": 192,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -400,21 +400,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -455,7 +455,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 305,
+      "count": 304,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -746,8 +746,18 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Aston Square",
       "count": 21,
+      "communities": [
+        "Aston Square Apartments"
+      ],
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 20,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -759,26 +769,6 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 21,
-      "communities": [
-        "Aston Square Apartments"
-      ],
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 15,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "communities": [
@@ -786,6 +776,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 14,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -849,7 +849,7 @@
     },
     {
       "name": "Antioch",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Peachtree Corners",
@@ -860,11 +860,11 @@
       "count": 40
     },
     {
-      "name": "Tampa",
-      "count": 38
+      "name": "Winter Springs",
+      "count": 37
     },
     {
-      "name": "Winter Springs",
+      "name": "Tampa",
       "count": 37
     },
     {
@@ -889,7 +889,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Macon",
@@ -1110,17 +1110,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 15,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 14,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1153,7 +1153,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Tampa"
       ]
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 501,
-  "total": 789,
+  "mfTotal": 499,
+  "total": 786,
   "groups": [
     {
       "key": "inicio",
@@ -1329,7 +1329,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 21
+      "listings": 20
     }
   ]
 }
