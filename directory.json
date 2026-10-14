@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 304,
+      "count": 305,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -53,11 +53,20 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -67,15 +76,6 @@
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -133,21 +133,21 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -178,21 +178,21 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -271,9 +271,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 192,
+      "count": 193,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -346,21 +346,21 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -409,21 +409,21 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 9,
+      "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -472,21 +472,21 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -655,7 +655,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 304,
+      "count": 305,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -708,7 +708,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 44,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -748,7 +748,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Case Residences",
         "Westshore Flats I",
@@ -769,6 +769,16 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 15,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 15,
       "communities": [
@@ -776,16 +786,6 @@
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 14,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -827,7 +827,7 @@
     },
     {
       "name": "Orlando",
-      "count": 100
+      "count": 99
     },
     {
       "name": "Lake Mary",
@@ -839,7 +839,11 @@
     },
     {
       "name": "Antioch",
-      "count": 47
+      "count": 48
+    },
+    {
+      "name": "Winter Springs",
+      "count": 44
     },
     {
       "name": "Peachtree Corners",
@@ -847,15 +851,11 @@
     },
     {
       "name": "Winter Park",
-      "count": 40
+      "count": 41
     },
     {
       "name": "Tampa",
-      "count": 37
-    },
-    {
-      "name": "Winter Springs",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Kissimmee",
@@ -871,7 +871,7 @@
     },
     {
       "name": "Sandston",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Jacksonville",
@@ -891,14 +891,14 @@
     },
     {
       "name": "Lakeland",
-      "count": 7
-    },
-    {
-      "name": "St. Cloud",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Charlottesville",
+      "count": 6
+    },
+    {
+      "name": "St. Cloud",
       "count": 6
     },
     {
@@ -1017,7 +1017,7 @@
     },
     {
       "name": "PG7",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG8",
@@ -1025,7 +1025,7 @@
     },
     {
       "name": "PG9",
-      "count": 8
+      "count": 9
     }
   ],
   "mfProperties": [
@@ -1045,7 +1045,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 44,
       "cities": [
         "Winter Springs"
       ]
@@ -1058,17 +1058,17 @@
       ]
     },
     {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 22,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 22,
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -1107,17 +1107,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 15,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 15,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 14,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 9,
+      "count": 8,
       "cities": [
         "Tampa"
       ]
@@ -1156,17 +1156,17 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 7,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 6,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 6,
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -1296,8 +1296,8 @@
       ]
     }
   ],
-  "mfTotal": 507,
-  "total": 796,
+  "mfTotal": 514,
+  "total": 804,
   "groups": [
     {
       "key": "inicio",
@@ -1312,7 +1312,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 19
+      "listings": 18
     }
   ]
 }
