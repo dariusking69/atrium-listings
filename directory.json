@@ -44,7 +44,7 @@
     },
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 85,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -133,21 +133,21 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 85,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -409,21 +409,21 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 37,
+      "count": 36,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -779,6 +779,16 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 14,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 14,
       "communities": [
@@ -786,16 +796,6 @@
       ],
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 13,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -833,7 +833,7 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 119
+      "count": 123
     },
     {
       "name": "Orlando",
@@ -857,27 +857,27 @@
     },
     {
       "name": "Winter Park",
-      "count": 40
-    },
-    {
-      "name": "Winter Springs",
-      "count": 37
+      "count": 41
     },
     {
       "name": "Tampa",
-      "count": 37
+      "count": 38
+    },
+    {
+      "name": "Winter Springs",
+      "count": 36
     },
     {
       "name": "Kissimmee",
       "count": 33
     },
     {
-      "name": "Gainesville",
+      "name": "Deltona",
       "count": 31
     },
     {
-      "name": "Deltona",
-      "count": 31
+      "name": "Gainesville",
+      "count": 30
     },
     {
       "name": "Jacksonville",
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "PG4",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG5",
@@ -1041,7 +1041,7 @@
   "mfProperties": [
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 85,
       "cities": [
         "Richmond"
       ]
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Winter Springs"
       ]
@@ -1117,17 +1117,17 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 14,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 13,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 499,
-  "total": 786,
+  "mfTotal": 503,
+  "total": 790,
   "groups": [
     {
       "key": "inicio",
