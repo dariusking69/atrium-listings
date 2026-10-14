@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -106,21 +106,21 @@
       ]
     },
     {
+      "name": "Aston Square",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Aston Square",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -382,21 +382,21 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 35,
+      "count": 37,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -760,7 +760,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 20,
+      "count": 21,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -853,7 +853,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 44
+      "count": 43
     },
     {
       "name": "Winter Park",
@@ -865,11 +865,11 @@
     },
     {
       "name": "Winter Springs",
-      "count": 35
+      "count": 37
     },
     {
       "name": "Kissimmee",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Gainesville",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 35,
+      "count": 37,
       "cities": [
         "Winter Springs"
       ]
@@ -1096,17 +1096,17 @@
       ]
     },
     {
+      "name": "Aston Square Apartments",
+      "count": 21,
+      "cities": [
+        "Kissimmee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Aston Square Apartments",
-      "count": 20,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 498,
-  "total": 787,
+  "mfTotal": 501,
+  "total": 789,
   "groups": [
     {
       "key": "inicio",
