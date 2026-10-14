@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -61,19 +61,28 @@
       ]
     },
     {
-      "name": "Barber Park",
+      "name": "Baldwin Park",
       "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Gerwyn Manor",
       "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "Barber Park",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -107,7 +116,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -115,12 +124,12 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
+      "name": "Lake Irene",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
@@ -139,15 +148,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -346,19 +346,28 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
+      "name": "Avenues of Baldwin Park",
       "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Gerwyn Manor",
       "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 22,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
       ]
@@ -391,12 +400,12 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
+      "name": "Reserve at Lake Irene",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
@@ -415,15 +424,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -634,15 +634,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -717,7 +708,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 36,
+      "count": 37,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -726,20 +717,20 @@
       ]
     },
     {
-      "name": "Barber Park",
+      "name": "Baldwin Park",
       "count": 22,
       "communities": [
-        "Barber Park Apartments"
+        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Baldwin Park",
+      "name": "Barber Park",
       "count": 22,
       "communities": [
-        "Avenues of Baldwin Park"
+        "Barber Park Apartments"
       ],
       "cities": [
         "Orlando"
@@ -757,15 +748,24 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 20,
+      "count": 19,
       "communities": [
         "Case Residences",
-        "The William at Westshore",
         "Westshore Flats I",
         "Westshore Marina Flats"
       ],
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 16,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -786,16 +786,6 @@
       ],
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 14,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -845,7 +835,7 @@
     },
     {
       "name": "Nashville",
-      "count": 52
+      "count": 54
     },
     {
       "name": "Antioch",
@@ -857,15 +847,15 @@
     },
     {
       "name": "Winter Park",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Tampa",
-      "count": 38
+      "count": 37
     },
     {
       "name": "Winter Springs",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Kissimmee",
@@ -880,16 +870,16 @@
       "count": 30
     },
     {
+      "name": "Sandston",
+      "count": 22
+    },
+    {
       "name": "Jacksonville",
       "count": 21
     },
     {
-      "name": "Sandston",
-      "count": 20
-    },
-    {
       "name": "Casselberry",
-      "count": 18
+      "count": 20
     },
     {
       "name": "Macon",
@@ -916,6 +906,10 @@
       "count": 5
     },
     {
+      "name": "Sanford",
+      "count": 4
+    },
+    {
       "name": "Winter Garden",
       "count": 4
     },
@@ -925,10 +919,6 @@
     },
     {
       "name": "Davenport",
-      "count": 3
-    },
-    {
-      "name": "Sanford",
       "count": 3
     },
     {
@@ -1015,7 +1005,7 @@
     },
     {
       "name": "PG3",
-      "count": 7
+      "count": 6
     },
     {
       "name": "PG4",
@@ -1055,7 +1045,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 36,
+      "count": 37,
       "cities": [
         "Winter Springs"
       ]
@@ -1068,14 +1058,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
+      "name": "Avenues of Baldwin Park",
       "count": 22,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
+      "name": "Gerwyn Manor",
+      "count": 22,
+      "cities": [
+        "Sandston"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
       "count": 22,
       "cities": [
         "Orlando"
@@ -1103,10 +1100,10 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
+      "name": "Reserve at Lake Irene",
+      "count": 16,
       "cities": [
-        "Sandston"
+        "Casselberry"
       ]
     },
     {
@@ -1121,13 +1118,6 @@
       "count": 14,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1292,13 +1282,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 1,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1313,8 +1296,8 @@
       ]
     }
   ],
-  "mfTotal": 503,
-  "total": 790,
+  "mfTotal": 507,
+  "total": 796,
   "groups": [
     {
       "key": "inicio",
@@ -1329,7 +1312,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 20
+      "listings": 19
     }
   ]
 }
