@@ -70,6 +70,15 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -112,15 +121,6 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -508,6 +508,15 @@
       ]
     },
     {
+      "name": "The William at Westshore",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -717,6 +726,19 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 23,
+      "communities": [
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 22,
       "communities": [
@@ -744,18 +766,6 @@
       ],
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 18,
-      "communities": [
-        "Case Residences",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
-      ],
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -855,7 +865,7 @@
     },
     {
       "name": "Tampa",
-      "count": 36
+      "count": 41
     },
     {
       "name": "Kissimmee",
@@ -1184,6 +1194,13 @@
       ]
     },
     {
+      "name": "The William at Westshore",
+      "count": 5,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "cities": [
@@ -1296,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 514,
-  "total": 804,
+  "mfTotal": 519,
+  "total": 809,
   "groups": [
     {
       "key": "inicio",
@@ -1312,7 +1329,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 18
+      "listings": 23
     }
   ]
 }
