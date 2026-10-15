@@ -125,7 +125,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -205,15 +205,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -265,6 +256,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     }
   ],
@@ -401,7 +401,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -499,15 +499,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -577,6 +568,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -770,7 +770,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -889,7 +889,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Macon",
@@ -906,10 +906,6 @@
     {
       "name": "Charlottesville",
       "count": 6
-    },
-    {
-      "name": "St. Cloud",
-      "count": 5
     },
     {
       "name": "DeLand",
@@ -929,6 +925,10 @@
     },
     {
       "name": "Davenport",
+      "count": 3
+    },
+    {
+      "name": "St. Cloud",
       "count": 3
     },
     {
@@ -1111,7 +1111,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Casselberry"
       ]
@@ -1187,13 +1187,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "cities": [
@@ -1247,6 +1240,13 @@
       "count": 3,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 3,
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 532,
-  "total": 819,
+  "mfTotal": 531,
+  "total": 818,
   "groups": [
     {
       "key": "inicio",
