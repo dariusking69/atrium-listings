@@ -4,7 +4,7 @@
       "name": "Atrium Management Company",
       "count": 304,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -80,9 +80,18 @@
     },
     {
       "name": "Barber Park",
-      "count": 25,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -103,15 +112,6 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -214,6 +214,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -250,15 +259,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -282,7 +282,7 @@
       "name": "Atrium Management Company",
       "count": 192,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -347,7 +347,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -374,9 +374,18 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 25,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -388,15 +397,6 @@
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -517,6 +517,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -559,15 +568,6 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -745,7 +745,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 34,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -765,9 +765,19 @@
     },
     {
       "name": "Barber Park",
-      "count": 25,
+      "count": 28,
       "communities": [
         "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Baldwin Park",
+      "count": 23,
+      "communities": [
+        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
@@ -784,16 +794,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 22,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -849,7 +849,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 4,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -865,7 +865,7 @@
     },
     {
       "name": "Orlando",
-      "count": 99
+      "count": 104
     },
     {
       "name": "Winter Garden",
@@ -884,10 +884,6 @@
       "count": 47
     },
     {
-      "name": "Peachtree Corners",
-      "count": 42
-    },
-    {
       "name": "Winter Park",
       "count": 42
     },
@@ -900,8 +896,12 @@
       "count": 40
     },
     {
+      "name": "Peachtree Corners",
+      "count": 39
+    },
+    {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -1090,7 +1090,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 34,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1111,7 +1111,14 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 25,
+      "count": 28,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 23,
       "cities": [
         "Orlando"
       ]
@@ -1121,13 +1128,6 @@
       "count": 23,
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 22,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1222,6 +1222,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
@@ -1254,13 +1261,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 607,
-  "total": 894,
+  "mfTotal": 611,
+  "total": 895,
   "groups": [
     {
       "key": "inicio",
