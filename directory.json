@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 306,
+      "count": 304,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -43,8 +43,17 @@
       ]
     },
     {
+      "name": "Horizon Vue",
+      "count": 88,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/cd8da999-fbc6-4e0a-ba37-ade74628bf29/large.png",
+      "phone": "(689) 400-3965",
+      "cities": [
+        "Winter Garden"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 84,
+      "count": 83,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -53,7 +62,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 39,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -62,7 +71,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 33,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -71,7 +80,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 24,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -134,7 +143,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -143,7 +152,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -196,15 +205,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -220,6 +220,15 @@
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -271,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 194,
+      "count": 192,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -310,8 +319,17 @@
       ]
     },
     {
+      "name": "Horizon Vue Apartments",
+      "count": 88,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/cd8da999-fbc6-4e0a-ba37-ade74628bf29/large.png",
+      "phone": "(689) 400-3965",
+      "cities": [
+        "Winter Garden"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 84,
+      "count": 83,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -329,7 +347,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 39,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -338,7 +356,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 33,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -356,7 +374,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 24,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -410,7 +428,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -419,7 +437,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -481,15 +499,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -514,6 +523,15 @@
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -664,7 +682,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 306,
+      "count": 304,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -716,8 +734,18 @@
       ]
     },
     {
+      "name": "Horizon Vue",
+      "count": 88,
+      "communities": [
+        "Horizon Vue Apartments"
+      ],
+      "cities": [
+        "Winter Garden"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 39,
+      "count": 34,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -727,7 +755,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 33,
+      "count": 31,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -737,7 +765,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 24,
+      "count": 25,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -780,7 +808,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 16,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -790,7 +818,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 15,
+      "count": 14,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -833,11 +861,15 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 123
+      "count": 121
     },
     {
       "name": "Orlando",
-      "count": 98
+      "count": 99
+    },
+    {
+      "name": "Winter Garden",
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -845,15 +877,11 @@
     },
     {
       "name": "Nashville",
-      "count": 54
+      "count": 53
     },
     {
       "name": "Antioch",
       "count": 47
-    },
-    {
-      "name": "Kissimmee",
-      "count": 44
     },
     {
       "name": "Peachtree Corners",
@@ -861,6 +889,10 @@
     },
     {
       "name": "Winter Park",
+      "count": 42
+    },
+    {
+      "name": "Kissimmee",
       "count": 41
     },
     {
@@ -869,19 +901,19 @@
     },
     {
       "name": "Winter Springs",
-      "count": 39
-    },
-    {
-      "name": "Gainesville",
-      "count": 31
+      "count": 34
     },
     {
       "name": "Deltona",
       "count": 31
     },
     {
+      "name": "Gainesville",
+      "count": 30
+    },
+    {
       "name": "Jacksonville",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Sandston",
@@ -902,10 +934,6 @@
     {
       "name": "Lakeland",
       "count": 8
-    },
-    {
-      "name": "Winter Garden",
-      "count": 6
     },
     {
       "name": "Charlottesville",
@@ -1019,7 +1047,7 @@
     },
     {
       "name": "PG4",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG5",
@@ -1040,8 +1068,15 @@
   ],
   "mfProperties": [
     {
+      "name": "Horizon Vue Apartments",
+      "count": 88,
+      "cities": [
+        "Winter Garden"
+      ]
+    },
+    {
       "name": "The Hub",
-      "count": 84,
+      "count": 83,
       "cities": [
         "Richmond"
       ]
@@ -1055,14 +1090,14 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 39,
+      "count": 34,
       "cities": [
         "Winter Springs"
       ]
     },
     {
       "name": "Aston Square Apartments",
-      "count": 33,
+      "count": 31,
       "cities": [
         "Kissimmee"
       ]
@@ -1076,7 +1111,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 24,
+      "count": 25,
       "cities": [
         "Orlando"
       ]
@@ -1118,14 +1153,14 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Winter Park"
       ]
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Jacksonville"
       ]
@@ -1173,13 +1208,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 5,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 5,
       "cities": [
@@ -1198,6 +1226,13 @@
       "count": 4,
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 4,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1313,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 527,
-  "total": 817,
+  "mfTotal": 607,
+  "total": 894,
   "groups": [
     {
       "key": "inicio",
