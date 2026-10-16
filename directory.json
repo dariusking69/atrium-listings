@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 306,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -271,9 +271,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 191,
+      "count": 194,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -664,7 +664,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 306,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -904,6 +904,10 @@
       "count": 8
     },
     {
+      "name": "Winter Garden",
+      "count": 6
+    },
+    {
       "name": "Charlottesville",
       "count": 6
     },
@@ -913,10 +917,6 @@
     },
     {
       "name": "Sanford",
-      "count": 3
-    },
-    {
-      "name": "Winter Garden",
       "count": 3
     },
     {
@@ -1007,7 +1007,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 45
+      "count": 48
     },
     {
       "name": "PG2",
@@ -1314,7 +1314,7 @@
     }
   ],
   "mfTotal": 527,
-  "total": 814,
+  "total": 817,
   "groups": [
     {
       "key": "inicio",
