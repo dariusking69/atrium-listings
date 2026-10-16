@@ -53,7 +53,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 40,
+      "count": 39,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -116,7 +116,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -125,7 +125,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -214,15 +214,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -247,6 +238,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 40,
+      "count": 39,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -392,7 +392,7 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -401,7 +401,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -508,15 +508,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -550,6 +541,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -717,7 +717,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 40,
+      "count": 39,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -770,7 +770,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -821,7 +821,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -837,7 +837,7 @@
     },
     {
       "name": "Orlando",
-      "count": 100
+      "count": 98
     },
     {
       "name": "Lake Mary",
@@ -869,7 +869,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 40
+      "count": 39
     },
     {
       "name": "Gainesville",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Macon",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 40,
+      "count": 39,
       "cities": [
         "Winter Springs"
       ]
@@ -1104,14 +1104,14 @@
     },
     {
       "name": "The Julian",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1194,13 +1194,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
@@ -1226,6 +1219,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       ]
     }
   ],
-  "mfTotal": 531,
-  "total": 818,
+  "mfTotal": 527,
+  "total": 814,
   "groups": [
     {
       "key": "inicio",

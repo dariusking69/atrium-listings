@@ -1,6 +1,6 @@
 # Atrium Management Company: available rentals
 
-> Every home and apartment Atrium Management Company currently has for rent: 818 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
+> Every home and apartment Atrium Management Company currently has for rent: 814 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
 
 The pages linked below are plain HTML and need no JavaScript. To answer a question about what is available somewhere, open that city's page: it is one small table with a row per rental, cheapest first. Each row links to the rental's own page at https://listings.meetatrium.com/homes/<id>.html, which also carries the same facts as schema.org JSON-LD (RealEstateListing).
 
@@ -38,17 +38,17 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 511 rentals
-- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 100 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 507 rentals
+- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 98 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 69 rentals
 - [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 44 rentals
 - [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 41 rentals
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 40 rentals
-- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 40 rentals
+- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 39 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
 - [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 31 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 27 rentals
-- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 22 rentals
+- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 21 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 11 rentals
 - [Lakeland, FL](https://listings.meetatrium.com/browse/fl/lakeland.html): 8 rentals
 - [DeLand, FL](https://listings.meetatrium.com/browse/fl/deland.html): 5 rentals
