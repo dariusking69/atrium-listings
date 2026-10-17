@@ -877,7 +877,7 @@
     },
     {
       "name": "Nashville",
-      "count": 52
+      "count": 51
     },
     {
       "name": "Antioch",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Winter Springs",
@@ -1349,7 +1349,7 @@
     }
   ],
   "mfTotal": 606,
-  "total": 885,
+  "total": 883,
   "groups": [
     {
       "key": "inicio",
