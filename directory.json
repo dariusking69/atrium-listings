@@ -106,21 +106,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 21,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -481,21 +481,21 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -785,7 +785,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 22,
+      "count": 21,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -893,7 +893,7 @@
     },
     {
       "name": "Tampa",
-      "count": 39
+      "count": 38
     },
     {
       "name": "Peachtree Corners",
@@ -1194,17 +1194,17 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 6,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 6,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 5,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 607,
-  "total": 886,
+  "mfTotal": 606,
+  "total": 885,
   "groups": [
     {
       "key": "inicio",
@@ -1364,7 +1364,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 22
+      "listings": 21
     }
   ]
 }

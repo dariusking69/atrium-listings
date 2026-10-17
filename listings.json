@@ -26922,49 +26922,6 @@
     "community": "Gerwyn Manor"
   },
   {
-    "id": 6150,
-    "uuid": "ff3a8a9b-8595-4052-b0c5-d000c103ffa5",
-    "address": "5215 S. West Shore Blvd Unit 27, Tampa, FL 33611",
-    "street": "5215 S. West Shore Blvd Unit 27",
-    "city": "Tampa",
-    "rent": "$1,449",
-    "rent_val": 1449,
-    "specs": "1 bd, 1 ba, 589 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 589,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/fed02f24-74d9-4f0e-bc6a-143e2c326889/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/ff3a8a9b-8595-4052-b0c5-d000c103ffa5",
-    "lat": 27.8885163,
-    "lng": -82.5271816,
-    "title": "Westshore Marina Flats | 1-Bedroom Flats, Westshore Marina District, Tampa",
-    "description": "Choose classic or upgraded finishes in this one-bedroom home at Westshore Marina Flats, where upgraded units feature quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and in-home washer and dryer. Step outside to a resort-style pool, 24/7 fitness center with pool views, and an outdoor grill kitchen, all in the heart of Tampa's walkable Westshore Marina District. Waterfront dining, marina access, and Tampa International Airport are all just minutes away. Pet-friendly community. Schedule a private tour today to choose your finish level.\n\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,449 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $1,449",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/fed02f24-74d9-4f0e-bc6a-143e2c326889/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=ff3a8a9b-8595-4052-b0c5-d000c103ffa5&source=Website",
-    "property": "Inicio Tampa",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-    "phone": "(813) 531-9129",
-    "available": "NOW",
-    "zip": "33611",
-    "state": "FL",
-    "unit": "27",
-    "pg": "",
-    "mf": true,
-    "cg": [
-      "inicio"
-    ],
-    "community": "Westshore Marina Flats"
-  },
-  {
     "id": 6142,
     "uuid": "bfb3afa7-df20-4ea9-b689-d1c8590504f2",
     "address": "5215 S. West Shore Blvd Unit 8, Tampa, FL 33611",
