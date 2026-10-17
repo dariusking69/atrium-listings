@@ -107,7 +107,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 23,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -482,7 +482,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 7,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 531-9129",
       "cities": [
@@ -785,7 +785,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 23,
+      "count": 22,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -893,11 +893,11 @@
     },
     {
       "name": "Tampa",
-      "count": 40
+      "count": 39
     },
     {
       "name": "Peachtree Corners",
-      "count": 39
+      "count": 37
     },
     {
       "name": "Winter Springs",
@@ -1195,7 +1195,7 @@
     },
     {
       "name": "Westshore Marina Flats",
-      "count": 7,
+      "count": 6,
       "cities": [
         "Tampa"
       ]
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 611,
-  "total": 895,
+  "mfTotal": 610,
+  "total": 892,
   "groups": [
     {
       "key": "inicio",
@@ -1364,7 +1364,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 23
+      "listings": 22
     }
   ]
 }
