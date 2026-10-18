@@ -877,7 +877,7 @@
     },
     {
       "name": "Nashville",
-      "count": 51
+      "count": 50
     },
     {
       "name": "Antioch",
@@ -1349,7 +1349,7 @@
     }
   ],
   "mfTotal": 606,
-  "total": 883,
+  "total": 882,
   "groups": [
     {
       "key": "inicio",
