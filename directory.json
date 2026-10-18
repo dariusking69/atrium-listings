@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 302,
+      "count": 303,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -71,7 +71,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -280,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 190,
+      "count": 191,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -356,7 +356,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -682,7 +682,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 302,
+      "count": 303,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -755,7 +755,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -881,7 +881,7 @@
     },
     {
       "name": "Antioch",
-      "count": 46
+      "count": 47
     },
     {
       "name": "Winter Park",
@@ -900,12 +900,12 @@
       "count": 36
     },
     {
-      "name": "Winter Springs",
+      "name": "Deltona",
       "count": 31
     },
     {
-      "name": "Deltona",
-      "count": 31
+      "name": "Winter Springs",
+      "count": 30
     },
     {
       "name": "Gainesville",
@@ -1097,7 +1097,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -1348,7 +1348,7 @@
       ]
     }
   ],
-  "mfTotal": 606,
+  "mfTotal": 605,
   "total": 882,
   "groups": [
     {
