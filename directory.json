@@ -88,6 +88,15 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -143,7 +152,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -166,15 +175,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -382,6 +382,15 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
@@ -428,7 +437,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -451,15 +460,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -774,6 +774,16 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 24,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Baldwin Park",
       "count": 23,
       "communities": [
@@ -808,7 +818,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 16,
+      "count": 15,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -824,16 +834,6 @@
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 12,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -884,11 +884,11 @@
       "count": 47
     },
     {
-      "name": "Winter Park",
-      "count": 42
+      "name": "Kissimmee",
+      "count": 41
     },
     {
-      "name": "Kissimmee",
+      "name": "Winter Park",
       "count": 41
     },
     {
@@ -916,16 +916,16 @@
       "count": 26
     },
     {
+      "name": "Macon",
+      "count": 24
+    },
+    {
       "name": "Sandston",
       "count": 23
     },
     {
       "name": "Casselberry",
       "count": 20
-    },
-    {
-      "name": "Macon",
-      "count": 12
     },
     {
       "name": "Ocoee",
@@ -1117,6 +1117,13 @@
       ]
     },
     {
+      "name": "Timber Pointe Apartments",
+      "count": 24,
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "Avenues of Baldwin Park",
       "count": 23,
       "cities": [
@@ -1153,7 +1160,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Winter Park"
       ]
@@ -1170,13 +1177,6 @@
       "count": 12,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 12,
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 605,
-  "total": 882,
+  "mfTotal": 616,
+  "total": 893,
   "groups": [
     {
       "key": "inicio",
