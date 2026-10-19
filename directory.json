@@ -152,7 +152,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -437,7 +437,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -818,7 +818,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 14,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -889,7 +889,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Tampa",
@@ -1160,7 +1160,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Winter Park"
       ]
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 616,
-  "total": 893,
+  "mfTotal": 615,
+  "total": 892,
   "groups": [
     {
       "key": "inicio",
