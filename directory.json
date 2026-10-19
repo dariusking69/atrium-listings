@@ -61,6 +61,15 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 32,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -76,15 +85,6 @@
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -232,15 +232,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -254,6 +245,15 @@
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
       ]
@@ -346,6 +346,15 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 32,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -370,15 +379,6 @@
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -473,7 +473,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -535,15 +535,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -568,6 +559,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -744,6 +744,16 @@
       ]
     },
     {
+      "name": "Barber Park",
+      "count": 32,
+      "communities": [
+        "Barber Park Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 31,
       "communities": [
@@ -761,16 +771,6 @@
       ],
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Barber Park",
-      "count": 28,
-      "communities": [
-        "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -795,7 +795,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 21,
+      "count": 20,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -861,11 +861,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 121
+      "count": 120
     },
     {
       "name": "Orlando",
-      "count": 103
+      "count": 107
     },
     {
       "name": "Winter Garden",
@@ -893,11 +893,11 @@
     },
     {
       "name": "Tampa",
-      "count": 38
+      "count": 37
     },
     {
       "name": "Peachtree Corners",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Deltona",
@@ -1089,6 +1089,13 @@
       ]
     },
     {
+      "name": "Barber Park Apartments",
+      "count": 32,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 31,
       "cities": [
@@ -1107,13 +1114,6 @@
       "count": 29,
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "Barber Park Apartments",
-      "count": 28,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1188,7 +1188,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Tampa"
       ]
@@ -1236,13 +1236,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 4,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 4,
       "cities": [
@@ -1261,6 +1254,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 615,
-  "total": 892,
+  "mfTotal": 617,
+  "total": 893,
   "groups": [
     {
       "key": "inicio",
@@ -1364,7 +1364,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 21
+      "listings": 20
     }
   ]
 }
