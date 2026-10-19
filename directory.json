@@ -62,7 +62,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -71,7 +71,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -170,7 +170,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 12,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -179,7 +179,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -347,7 +347,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -356,7 +356,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -455,7 +455,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 12,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -464,7 +464,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -745,7 +745,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 31,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -755,7 +755,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 31,
+      "count": 30,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -865,7 +865,7 @@
     },
     {
       "name": "Orlando",
-      "count": 107
+      "count": 106
     },
     {
       "name": "Winter Garden",
@@ -877,7 +877,7 @@
     },
     {
       "name": "Nashville",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Antioch",
@@ -885,7 +885,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Winter Park",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Deltona",
@@ -912,11 +912,11 @@
       "count": 30
     },
     {
-      "name": "Jacksonville",
-      "count": 26
+      "name": "Macon",
+      "count": 24
     },
     {
-      "name": "Macon",
+      "name": "Jacksonville",
       "count": 24
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Lakeland",
@@ -1090,14 +1090,14 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "Aston Square Apartments",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Kissimmee"
       ]
@@ -1174,14 +1174,14 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 12,
+      "count": 10,
       "cities": [
         "Jacksonville"
       ]
     },
     {
       "name": "Ocoee Village",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Ocoee"
       ]
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 617,
-  "total": 893,
+  "mfTotal": 612,
+  "total": 888,
   "groups": [
     {
       "key": "inicio",
