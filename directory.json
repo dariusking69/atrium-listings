@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 302,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -280,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 191,
+      "count": 190,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -682,7 +682,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 303,
+      "count": 302,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -865,7 +865,7 @@
     },
     {
       "name": "Orlando",
-      "count": 105
+      "count": 104
     },
     {
       "name": "Winter Garden",
@@ -1035,7 +1035,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 47
+      "count": 46
     },
     {
       "name": "PG2",
@@ -1349,7 +1349,7 @@
     }
   ],
   "mfTotal": 615,
-  "total": 891,
+  "total": 890,
   "groups": [
     {
       "key": "inicio",
