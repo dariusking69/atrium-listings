@@ -241,15 +241,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -274,6 +265,15 @@
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     }
   ],
@@ -562,15 +562,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -658,6 +649,15 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -849,7 +849,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 1,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -865,7 +865,7 @@
     },
     {
       "name": "Orlando",
-      "count": 106
+      "count": 104
     },
     {
       "name": "Winter Garden",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -1257,13 +1257,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 3,
       "cities": [
@@ -1334,6 +1327,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 1,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 614,
-  "total": 885,
+  "mfTotal": 612,
+  "total": 882,
   "groups": [
     {
       "key": "inicio",
