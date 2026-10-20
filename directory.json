@@ -151,6 +151,15 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Cranes Landing",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -164,15 +173,6 @@
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
       ]
@@ -436,6 +436,15 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -449,15 +458,6 @@
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
       ]
@@ -865,7 +865,7 @@
     },
     {
       "name": "Orlando",
-      "count": 106
+      "count": 105
     },
     {
       "name": "Winter Garden",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Antioch",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Kissimmee",
@@ -912,11 +912,11 @@
       "count": 30
     },
     {
-      "name": "Macon",
-      "count": 24
+      "name": "Jacksonville",
+      "count": 28
     },
     {
-      "name": "Jacksonville",
+      "name": "Macon",
       "count": 24
     },
     {
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "PG2",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG3",
@@ -1159,6 +1159,13 @@
       ]
     },
     {
+      "name": "Oasis at San Marco",
+      "count": 14,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
       "count": 14,
       "cities": [
@@ -1168,13 +1175,6 @@
     {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 10,
       "cities": [
         "Jacksonville"
       ]
@@ -1348,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 612,
-  "total": 888,
+  "mfTotal": 616,
+  "total": 892,
   "groups": [
     {
       "key": "inicio",
