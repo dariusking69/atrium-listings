@@ -61,7 +61,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -93,15 +93,6 @@
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -142,7 +133,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -150,8 +141,17 @@
       ]
     },
     {
-      "name": "Mission Club",
+      "name": "Timber Pointe",
       "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -159,17 +159,8 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -181,6 +172,15 @@
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
       ]
@@ -344,7 +344,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -388,15 +388,6 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 23,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -425,7 +416,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -433,8 +424,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
+      "name": "Timber Pointe Apartments",
       "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -442,17 +442,8 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -464,6 +455,15 @@
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
       ]
@@ -741,7 +741,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 35,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -780,16 +780,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 23,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 18,
       "communities": [
@@ -804,7 +794,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -813,8 +803,18 @@
       ]
     },
     {
-      "name": "Mission Club",
+      "name": "Timber Pointe",
       "count": 16,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 15,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -824,7 +824,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 15,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -857,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 122
+      "count": 123
     },
     {
       "name": "Richmond",
@@ -880,20 +880,20 @@
       "count": 46
     },
     {
-      "name": "Kissimmee",
+      "name": "Winter Park",
+      "count": 40
+    },
+    {
+      "name": "Peachtree Corners",
       "count": 39
     },
     {
-      "name": "Winter Park",
+      "name": "Kissimmee",
       "count": 39
     },
     {
       "name": "Tampa",
       "count": 37
-    },
-    {
-      "name": "Peachtree Corners",
-      "count": 33
     },
     {
       "name": "Winter Springs",
@@ -909,11 +909,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 28
-    },
-    {
-      "name": "Macon",
-      "count": 23
+      "count": 27
     },
     {
       "name": "Sandston",
@@ -921,7 +917,11 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 20
+    },
+    {
+      "name": "Macon",
+      "count": 16
     },
     {
       "name": "Ocoee",
@@ -946,10 +946,6 @@
     {
       "name": "St. Cloud",
       "count": 4
-    },
-    {
-      "name": "Ocala",
-      "count": 2
     },
     {
       "name": "Sanford",
@@ -982,6 +978,10 @@
     {
       "name": "Titusville",
       "count": 2
+    },
+    {
+      "name": "Ocala",
+      "count": 1
     },
     {
       "name": "Oviedo",
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "PG4",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG5",
@@ -1047,7 +1047,7 @@
     },
     {
       "name": "PG7",
-      "count": 11
+      "count": 12
     },
     {
       "name": "PG8",
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1116,13 +1116,6 @@
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 23,
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 22,
       "cities": [
@@ -1145,28 +1138,28 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
     },
     {
-      "name": "Mission Club Apartments",
+      "name": "Timber Pointe Apartments",
       "count": 16,
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 15,
       "cities": [
         "Orlando"
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 14,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 15,
       "cities": [
         "Winter Park"
       ]
@@ -1174,6 +1167,13 @@
     {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 13,
       "cities": [
         "Jacksonville"
       ]
@@ -1340,8 +1340,8 @@
       ]
     }
   ],
-  "mfTotal": 632,
-  "total": 899,
+  "mfTotal": 624,
+  "total": 897,
   "groups": [
     {
       "key": "inicio",
