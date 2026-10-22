@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 295,
+      "count": 296,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -88,7 +88,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -151,20 +151,11 @@
     },
     {
       "name": "Mission Club",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -174,6 +165,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -213,6 +213,15 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -231,21 +240,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -265,21 +274,12 @@
       "cities": [
         "Richmond"
       ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
-      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 183,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -380,7 +380,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -434,20 +434,11 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 15,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -457,6 +448,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -496,6 +496,15 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The William at Westshore",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -532,21 +541,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -574,15 +583,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -679,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 295,
+      "count": 296,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -771,7 +771,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -814,7 +814,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 15,
+      "count": 16,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -824,7 +824,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 14,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -857,7 +857,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 121
+      "count": 122
     },
     {
       "name": "Richmond",
@@ -880,11 +880,11 @@
       "count": 46
     },
     {
-      "name": "Winter Park",
-      "count": 40
+      "name": "Kissimmee",
+      "count": 39
     },
     {
-      "name": "Kissimmee",
+      "name": "Winter Park",
       "count": 39
     },
     {
@@ -892,11 +892,11 @@
       "count": 37
     },
     {
-      "name": "Winter Springs",
+      "name": "Peachtree Corners",
       "count": 33
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Winter Springs",
       "count": 33
     },
     {
@@ -937,15 +937,15 @@
     },
     {
       "name": "DeLand",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "Davenport",
+      "count": 4
     },
     {
       "name": "St. Cloud",
       "count": 4
-    },
-    {
-      "name": "Davenport",
-      "count": 3
     },
     {
       "name": "Ocala",
@@ -1027,7 +1027,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 45
+      "count": 46
     },
     {
       "name": "PG2",
@@ -1110,7 +1110,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -1152,16 +1152,9 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 15,
+      "count": 16,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 15,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1169,6 +1162,13 @@
       "count": 14,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1200,6 +1200,13 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 5,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The William at Westshore",
       "count": 5,
       "cities": [
@@ -1228,17 +1235,17 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 4,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 4,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Chase",
+      "count": 4,
+      "cities": [
+        "Davenport"
       ]
     },
     {
@@ -1260,13 +1267,6 @@
       "count": 3,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 3,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -1340,8 +1340,8 @@
       ]
     }
   ],
-  "mfTotal": 631,
-  "total": 897,
+  "mfTotal": 632,
+  "total": 899,
   "groups": [
     {
       "key": "inicio",
