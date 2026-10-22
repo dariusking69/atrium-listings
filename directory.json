@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 295,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -21,7 +21,6 @@
         "Kissimmee",
         "Lake Mary",
         "Lakeland",
-        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -280,7 +279,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 182,
+      "count": 183,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -297,7 +296,6 @@
         "Haines City",
         "Kissimmee",
         "Lakeland",
-        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -681,7 +679,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 295,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -711,7 +709,6 @@
         "Kissimmee",
         "Lake Mary",
         "Lakeland",
-        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -924,7 +921,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Ocoee",
@@ -1025,10 +1022,6 @@
     {
       "name": "Melbourne",
       "count": 1
-    },
-    {
-      "name": "Longwood",
-      "count": 1
     }
   ],
   "pgs": [
@@ -1038,7 +1031,7 @@
     },
     {
       "name": "PG2",
-      "count": 13
+      "count": 12
     },
     {
       "name": "PG3",
@@ -1348,7 +1341,7 @@
     }
   ],
   "mfTotal": 631,
-  "total": 896,
+  "total": 897,
   "groups": [
     {
       "key": "inicio",
