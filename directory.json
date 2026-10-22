@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 294,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -61,21 +61,21 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 34,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 33,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -151,21 +151,21 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -280,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 182,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -296,7 +296,6 @@
         "Gainesville",
         "Haines City",
         "Kissimmee",
-        "Lake Mary",
         "Lakeland",
         "Longwood",
         "Melbourne",
@@ -346,21 +345,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 34,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Barber Park Apartments",
       "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 33,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -436,21 +435,21 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -682,7 +681,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 294,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -744,16 +743,6 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 34,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Barber Park",
       "count": 34,
       "communities": [
@@ -761,6 +750,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 33,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -817,16 +816,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 16,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 15,
       "communities": [
@@ -834,6 +823,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 15,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -861,7 +860,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 122
+      "count": 121
     },
     {
       "name": "Richmond",
@@ -873,11 +872,11 @@
     },
     {
       "name": "Lake Mary",
-      "count": 69
+      "count": 68
     },
     {
       "name": "Nashville",
-      "count": 51
+      "count": 50
     },
     {
       "name": "Antioch",
@@ -885,7 +884,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Kissimmee",
@@ -897,7 +896,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Peachtree Corners",
@@ -972,10 +971,6 @@
       "count": 2
     },
     {
-      "name": "Apopka",
-      "count": 2
-    },
-    {
       "name": "Oxford",
       "count": 2
     },
@@ -1012,6 +1007,10 @@
       "count": 1
     },
     {
+      "name": "Apopka",
+      "count": 1
+    },
+    {
       "name": "Riverview",
       "count": 1
     },
@@ -1035,15 +1034,15 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 46
+      "count": 45
     },
     {
       "name": "PG2",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG3",
-      "count": 5
+      "count": 4
     },
     {
       "name": "PG4",
@@ -1089,17 +1088,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 34,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Barber Park Apartments",
       "count": 34,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 33,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1159,17 +1158,17 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 16,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 15,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 15,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1348,8 +1347,8 @@
       ]
     }
   ],
-  "mfTotal": 633,
-  "total": 902,
+  "mfTotal": 631,
+  "total": 896,
   "groups": [
     {
       "key": "inicio",
