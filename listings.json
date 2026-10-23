@@ -44001,56 +44001,6 @@
     "community": "Atrium Management Company"
   },
   {
-    "id": 451,
-    "uuid": "a0f3132c-0317-460d-844a-013f5763839e",
-    "address": "3325 N. Westmoreland Drive #2, Orlando, FL 32804",
-    "street": "3325 N. Westmoreland Drive #2",
-    "city": "Orlando",
-    "rent": "$1,325",
-    "rent_val": 1325,
-    "specs": "1 bd, 1 ba, 750 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 750,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/98356d5b-9326-4933-b598-10e5bb1d9ff6/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/a0f3132c-0317-460d-844a-013f5763839e",
-    "lat": 28.5814086,
-    "lng": -81.3941714,
-    "property": "Atrium Management Company",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-    "phone": "(305) 783-9814",
-    "title": "Charming RENOVATED 1 Bed 1 Bath Apartment for Rent in Orlando, FL! SILVER OAKS!!!",
-    "description": "Charming RENOVATED 1 Bed 1 Bath Apartment for Rent in Orlando, FL! \r\n\r\n***This unit is available for showings and/or move in now!!!***\r\n\r\nSPACIOUS living area has been UPDATED with NEW wood laminate floors throughout and fixtures! The kitchen highlights new stainless appliances! Great sized bedroom with direct access to the screened in patio. UPDATED bathroom. MUST SEE!!! \r\n\r\nCommunity includes on-site laundry facility and open parking! Conveniently located to I-4, restaurants and more. Zoned for Lake Silver Elementary School, Lee Middle School and walking distance to Edgewater High School. Pets are negotiable with owner approval. \r\n\r\nProfessionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.\r\n\r\n**BONUS AMENITY INCLUDED** A portion of Tenant's total amount due will be used to have HVAC filters delivered to their home approximately every 60 days under the Utility & Maintenance Reduction Program.**\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,325 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,265 \n\n\n Available Now",
-    "terms": [
-      "Rent: $1,325",
-      "Application Fee: $95",
-      "Security Deposit: $1,265",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/98356d5b-9326-4933-b598-10e5bb1d9ff6/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/ec5bad33-4be3-44a5-b5eb-9532353055c8/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ddbd764-6150-446b-9225-66326da5cb98/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/32724e5e-03e3-4703-a2ed-e49a188a9127/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2b9785c2-f129-4e13-9e9d-fe1bae2aafd7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a64abf35-552e-4e01-ac1d-ad27574fac40/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=a0f3132c-0317-460d-844a-013f5763839e&source=Website",
-    "available": "NOW",
-    "zip": "32804",
-    "state": "FL",
-    "unit": "",
-    "pg": "PG7",
-    "mf": false,
-    "cg": [],
-    "community": "Atrium Management Company"
-  },
-  {
     "id": 449,
     "uuid": "11c9f93a-a559-43c1-b967-3242f6e6ef29",
     "address": "931 West Preston #8, Orlando, FL 32804",
