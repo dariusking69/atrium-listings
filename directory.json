@@ -889,12 +889,12 @@
       "count": 39
     },
     {
-      "name": "Peachtree Corners",
-      "count": 38
-    },
-    {
       "name": "Tampa",
       "count": 37
+    },
+    {
+      "name": "Peachtree Corners",
+      "count": 36
     },
     {
       "name": "Winter Springs",
@@ -1342,7 +1342,7 @@
     }
   ],
   "mfTotal": 620,
-  "total": 890,
+  "total": 888,
   "groups": [
     {
       "key": "inicio",
