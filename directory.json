@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 292,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -25,7 +25,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Oviedo",
         "Oxford",
         "Poinciana",
         "Richmond",
@@ -37,7 +36,6 @@
         "Titusville",
         "Umatilla",
         "Wesley Chapel",
-        "Wimauma",
         "Winter Garden",
         "Winter Park"
       ]
@@ -71,7 +69,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -89,7 +87,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -125,7 +123,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
@@ -160,21 +158,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -280,7 +278,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 180,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -302,7 +300,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Oviedo",
         "Poinciana",
         "Richmond",
         "Riverview",
@@ -313,7 +310,6 @@
         "Titusville",
         "Umatilla",
         "Wesley Chapel",
-        "Wimauma",
         "Winter Garden",
         "Winter Park"
       ]
@@ -356,7 +352,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -383,7 +379,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -445,21 +441,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -482,7 +478,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 7,
+      "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -682,7 +678,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 292,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -716,7 +712,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Oviedo",
         "Oxford",
         "Poinciana",
         "Richmond",
@@ -728,7 +723,6 @@
         "Titusville",
         "Umatilla",
         "Wesley Chapel",
-        "Wimauma",
         "Winter Garden",
         "Winter Park"
       ]
@@ -755,7 +749,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -775,7 +769,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -785,7 +779,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -827,16 +821,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 14,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 14,
       "communities": [
@@ -844,6 +828,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 13,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -861,7 +855,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 122
+      "count": 121
     },
     {
       "name": "Richmond",
@@ -881,27 +875,27 @@
     },
     {
       "name": "Antioch",
-      "count": 45
-    },
-    {
-      "name": "Winter Park",
-      "count": 40
+      "count": 46
     },
     {
       "name": "Kissimmee",
       "count": 39
     },
     {
-      "name": "Tampa",
-      "count": 37
+      "name": "Winter Park",
+      "count": 39
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Tampa",
       "count": 36
     },
     {
+      "name": "Peachtree Corners",
+      "count": 35
+    },
+    {
       "name": "Winter Springs",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -909,7 +903,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Jacksonville",
@@ -988,10 +982,6 @@
       "count": 1
     },
     {
-      "name": "Oviedo",
-      "count": 1
-    },
-    {
       "name": "Saint Petersburg",
       "count": 1
     },
@@ -1016,10 +1006,6 @@
       "count": 1
     },
     {
-      "name": "Wimauma",
-      "count": 1
-    },
-    {
       "name": "Wesley Chapel",
       "count": 1
     },
@@ -1035,11 +1021,11 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 46
+      "count": 45
     },
     {
       "name": "PG2",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG3",
@@ -1047,15 +1033,15 @@
     },
     {
       "name": "PG4",
-      "count": 10
+      "count": 9
     },
     {
       "name": "PG5",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG7",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG8",
@@ -1097,7 +1083,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1118,7 +1104,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1166,17 +1152,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 14,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 13,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1195,7 +1181,7 @@
     },
     {
       "name": "Westshore Flats I",
-      "count": 7,
+      "count": 6,
       "cities": [
         "Tampa"
       ]
@@ -1349,7 +1335,7 @@
     }
   ],
   "mfTotal": 619,
-  "total": 888,
+  "total": 883,
   "groups": [
     {
       "key": "inicio",
@@ -1364,7 +1350,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 18
+      "listings": 17
     }
   ]
 }
