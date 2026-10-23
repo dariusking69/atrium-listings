@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 296,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -21,6 +21,7 @@
         "Kissimmee",
         "Lake Mary",
         "Lakeland",
+        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -61,7 +62,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -96,21 +97,21 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -150,21 +151,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -222,15 +223,6 @@
       ]
     },
     {
-      "name": "Mirabella Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
-      "phone": "(352) 327-9223",
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -267,6 +259,15 @@
       ]
     },
     {
+      "name": "Mirabella Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
+      "phone": "(352) 327-9223",
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Raven Place",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -279,7 +280,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 182,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -297,6 +298,7 @@
         "Kissimmee",
         "Lake Mary",
         "Lakeland",
+        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -345,7 +347,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -389,21 +391,21 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -434,21 +436,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -515,15 +517,6 @@
       ]
     },
     {
-      "name": "Mirabella Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
-      "phone": "(352) 327-9223",
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -573,6 +566,15 @@
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 301-4477",
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "Mirabella Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
+      "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
       ]
@@ -680,7 +682,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 294,
+      "count": 296,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -710,6 +712,7 @@
         "Kissimmee",
         "Lake Mary",
         "Lakeland",
+        "Longwood",
         "Melbourne",
         "Ocala",
         "Orlando",
@@ -742,7 +745,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 36,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -814,16 +817,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 15,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 15,
       "communities": [
@@ -831,6 +824,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 14,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -858,7 +861,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 121
+      "count": 122
     },
     {
       "name": "Richmond",
@@ -870,7 +873,7 @@
     },
     {
       "name": "Lake Mary",
-      "count": 69
+      "count": 70
     },
     {
       "name": "Nashville",
@@ -906,18 +909,18 @@
     },
     {
       "name": "Gainesville",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Jacksonville",
       "count": 27
     },
     {
-      "name": "Sandston",
-      "count": 21
+      "name": "Casselberry",
+      "count": 20
     },
     {
-      "name": "Casselberry",
+      "name": "Sandston",
       "count": 20
     },
     {
@@ -1023,6 +1026,10 @@
     {
       "name": "Melbourne",
       "count": 1
+    },
+    {
+      "name": "Longwood",
+      "count": 1
     }
   ],
   "pgs": [
@@ -1032,7 +1039,7 @@
     },
     {
       "name": "PG2",
-      "count": 12
+      "count": 14
     },
     {
       "name": "PG3",
@@ -1083,7 +1090,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1117,17 +1124,17 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 21,
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 21,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 20,
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -1152,17 +1159,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 15,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 15,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 14,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1215,13 +1222,6 @@
       ]
     },
     {
-      "name": "Mirabella Apartments",
-      "count": 5,
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 4,
       "cities": [
@@ -1258,6 +1258,13 @@
     },
     {
       "name": "Camelot Apartments",
+      "count": 4,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
+      "name": "Mirabella Apartments",
       "count": 4,
       "cities": [
         "Gainesville"
@@ -1341,8 +1348,8 @@
       ]
     }
   ],
-  "mfTotal": 620,
-  "total": 887,
+  "mfTotal": 619,
+  "total": 888,
   "groups": [
     {
       "key": "inicio",
