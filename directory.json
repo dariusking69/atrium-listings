@@ -87,7 +87,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -122,21 +122,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -273,6 +273,15 @@
       "cities": [
         "Richmond"
       ]
+    },
+    {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
+      ]
     }
   ],
   "communities": [
@@ -379,7 +388,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -415,7 +424,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -522,15 +531,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -573,6 +573,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -654,6 +663,15 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
       ]
     },
     {
@@ -769,7 +787,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -778,8 +796,18 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Lake Irene",
       "count": 17,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 16,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -788,16 +816,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 16,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -855,7 +873,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 121
+      "count": 120
     },
     {
       "name": "Richmond",
@@ -871,7 +889,7 @@
     },
     {
       "name": "Nashville",
-      "count": 49
+      "count": 48
     },
     {
       "name": "Antioch",
@@ -886,11 +904,11 @@
       "count": 39
     },
     {
-      "name": "Tampa",
-      "count": 36
+      "name": "Peachtree Corners",
+      "count": 35
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Tampa",
       "count": 35
     },
     {
@@ -911,7 +929,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -1003,6 +1021,10 @@
     },
     {
       "name": "Riverview",
+      "count": 1
+    },
+    {
+      "name": "Triangle",
       "count": 1
     },
     {
@@ -1104,7 +1126,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -1132,7 +1154,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1215,13 +1237,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 4,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 4,
       "cities": [
@@ -1254,6 +1269,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 3,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1320,6 +1342,13 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "The Hammocks by Butler",
       "count": 1,
       "cities": [
@@ -1335,7 +1364,7 @@
     }
   ],
   "mfTotal": 619,
-  "total": 883,
+  "total": 882,
   "groups": [
     {
       "key": "inicio",
@@ -1350,7 +1379,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 17
+      "listings": 16
     }
   ]
 }
