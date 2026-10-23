@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 295,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -279,7 +279,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 183,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -295,6 +295,7 @@
         "Gainesville",
         "Haines City",
         "Kissimmee",
+        "Lake Mary",
         "Lakeland",
         "Melbourne",
         "Ocala",
@@ -679,7 +680,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 296,
+      "count": 295,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -869,7 +870,7 @@
     },
     {
       "name": "Lake Mary",
-      "count": 68
+      "count": 69
     },
     {
       "name": "Nashville",
@@ -877,19 +878,19 @@
     },
     {
       "name": "Antioch",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Winter Park",
       "count": 40
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Kissimmee",
       "count": 39
     },
     {
-      "name": "Kissimmee",
-      "count": 39
+      "name": "Peachtree Corners",
+      "count": 38
     },
     {
       "name": "Tampa",
@@ -937,7 +938,7 @@
     },
     {
       "name": "DeLand",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Davenport",
@@ -1341,7 +1342,7 @@
     }
   ],
   "mfTotal": 620,
-  "total": 892,
+  "total": 890,
   "groups": [
     {
       "key": "inicio",
