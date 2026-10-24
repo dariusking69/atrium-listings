@@ -888,12 +888,12 @@
       "count": 70
     },
     {
-      "name": "Nashville",
+      "name": "Antioch",
       "count": 46
     },
     {
-      "name": "Antioch",
-      "count": 46
+      "name": "Nashville",
+      "count": 45
     },
     {
       "name": "Kissimmee",
@@ -1364,7 +1364,7 @@
     }
   ],
   "mfTotal": 615,
-  "total": 874,
+  "total": 873,
   "groups": [
     {
       "key": "inicio",

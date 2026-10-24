@@ -9332,47 +9332,6 @@
     "community": ""
   },
   {
-    "id": 6981,
-    "uuid": "f5c1c3e0-7def-4282-b6bd-b910df9acaee",
-    "address": "1117 Sugarcreek Circle, Nashville, TN 37214",
-    "street": "1117 Sugarcreek Circle",
-    "city": "Nashville",
-    "rent": "$929 - $1,486",
-    "rent_val": 929,
-    "specs": "1 bd, 1 ba, 569 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 569,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b7ee0556-2749-4610-a1a8-bbfe3e3045ce/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/f5c1c3e0-7def-4282-b6bd-b910df9acaee",
-    "lat": 36.1609286,
-    "lng": -86.6497539,
-    "title": "",
-    "description": "Rental Terms \n \n Rent: $929 - $1,486 \n\n\n\n Admin Fee: $50 \n\n Application Fee: $49 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $929 - $1,486",
-      "Admin Fee: $50",
-      "Application Fee: $49",
-      "Available Now"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/b7ee0556-2749-4610-a1a8-bbfe3e3045ce/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=f5c1c3e0-7def-4282-b6bd-b910df9acaee&source=Website",
-    "property": "",
-    "logo": "",
-    "phone": "",
-    "available": "NOW",
-    "zip": "37214",
-    "state": "TN",
-    "unit": "",
-    "pg": "",
-    "mf": false,
-    "cg": [],
-    "community": ""
-  },
-  {
     "id": 6976,
     "uuid": "7fbcb8c2-1f4d-4936-9ee7-4d6ce8d304ca",
     "address": "433 Peachcreek Crescent, Nashville, TN 37214",
@@ -28982,9 +28941,6 @@
     "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/d6e1259e-88aa-4c07-bd49-63bedf6f851e",
     "lat": 28.572353,
     "lng": -81.307028,
-    "property": "Baldwin Park",
-    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-    "phone": "(689) 215-9531",
     "title": "The Anson \u2013 Spacious 2 Bedroom, 2 Bathroom | 1,023 sq.ft.",
     "description": "Experience comfort and modern living in The Anson, one of our most popular two-bedroom floor plans at The Avenue at Baldwin Park. Featuring a well-designed split layout, this 1,023 sq.ft. home offers privacy, functionality, and style.\r\n\r\nEnjoy a bright, open-concept living and dining area perfect for entertaining, along with a fully equipped kitchen and in-unit washer and dryer for ultimate convenience. Each bedroom includes its own bathroom, making this floor plan ideal for roommates, couples, or anyone who values space and comfort.\r\n\r\nStep outside your home and take advantage of the incredible community amenities \u2014 unwind by the resort-style pool, shoot hoops at the basketball court, let your pets play at the dog park, or spend a relaxing afternoon at the playground.\r\n\r\nRental Terms\r\nAdmin Fee: $250\r\nApplication Fee: $95\r\nPet Policy\r\nCats allowed\r\nDogs allowed\r\nAmenities\r\npool\r\nCommunity Basketball Court\r\ndog park\r\n24/7 Fitness Center\r\nNeighborhood playground\r\nAppliances\r\ndishwasher\r\nGarbage Disposal\r\nrange oven\r\nrefrigerator\r\nwasher/dryer\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,495 - $2,750 \n\n\n\n\n Application Fee: $95 \n\n Security Deposit: $1,563 \n\n\n Available 11/5/26",
     "terms": [
@@ -29002,6 +28958,9 @@
       "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png"
     ],
     "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=d6e1259e-88aa-4c07-bd49-63bedf6f851e&source=Website",
+    "property": "Baldwin Park",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+    "phone": "(689) 215-9531",
     "available": "11/5/26",
     "zip": "32807",
     "state": "FL",
