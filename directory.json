@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 292,
+      "count": 291,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -287,7 +287,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 180,
+      "count": 179,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -696,7 +696,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 292,
+      "count": 291,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -945,7 +945,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Charlottesville",
@@ -1071,7 +1071,7 @@
     },
     {
       "name": "PG9",
-      "count": 9
+      "count": 8
     }
   ],
   "mfProperties": [
@@ -1364,7 +1364,7 @@
     }
   ],
   "mfTotal": 619,
-  "total": 882,
+  "total": 881,
   "groups": [
     {
       "key": "inicio",
