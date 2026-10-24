@@ -11900,55 +11900,6 @@
     "community": ""
   },
   {
-    "id": 6892,
-    "uuid": "175de728-1983-430b-9c9c-e1780bface63",
-    "address": "308 Tree Corners Parkway, Peachtree Corners, GA 30092",
-    "street": "308 Tree Corners Parkway",
-    "city": "Peachtree Corners",
-    "rent": "$999",
-    "rent_val": 999,
-    "specs": "1 bd, 1 ba, 883 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 883,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f588ba8f-243e-429b-b3b3-faff5c051f15/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/175de728-1983-430b-9c9c-e1780bface63",
-    "lat": 33.9512961,
-    "lng": -84.2435733,
-    "property": "",
-    "logo": "",
-    "phone": "",
-    "title": "The Roswell Floorplan",
-    "description": "Experience luxurious apartment living in this spacious 883-square-foot, 1-bedroom, 1-bathroom apartment featuring a stylish and inviting layout. The spacious living room offers a cozy fireplace, creating the perfect setting for relaxing or entertaining. The modern kitchen showcases stainless steel appliances and beautiful white cabinetry, creating a bright and sophisticated space. Enjoy the added convenience of an in-unit washer and dryer, along with a versatile sunroom that\u2019s perfect for a home office, reading nook, or relaxing retreat. With modern finishes, thoughtful features, and plenty of space to make your own, this luxurious apartment is the perfect place to call home. Schedule your tour today and experience the comfort and style for yourself!\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $999 \n\n\n\n\n Application Fee: $95 \n\n\n\n Available Now",
-    "terms": [
-      "Rent: $999",
-      "Application Fee: $95",
-      "Available Now"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/f588ba8f-243e-429b-b3b3-faff5c051f15/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/67ddc40e-8297-48e3-9ead-0d7bf860471e/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/2ba6bfa3-12a2-4e52-9312-489b0bec4a2d/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/c114d44b-c618-4331-a466-c77256f61577/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f833ca78-826e-48f1-8510-ea061511d371/large.png",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6c70f04c-6642-4460-b009-a307b8eff7d4/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/466c0b79-eac8-4ebb-bfe7-5c5ff33c3300/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=175de728-1983-430b-9c9c-e1780bface63&source=Website",
-    "available": "NOW",
-    "zip": "30092",
-    "state": "GA",
-    "unit": "",
-    "pg": "",
-    "mf": false,
-    "cg": [],
-    "community": ""
-  },
-  {
     "id": 6890,
     "uuid": "45217543-4c28-459b-834d-6c72ffeb351b",
     "address": "630 Bell Rd. #353, Antioch, TN 37013",
