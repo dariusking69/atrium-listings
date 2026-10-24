@@ -4,7 +4,7 @@
       "name": "Atrium Management Company",
       "count": 291,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(407) 205-8418",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -149,15 +149,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -182,6 +173,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -289,7 +289,7 @@
       "name": "Atrium Management Company",
       "count": 179,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(407) 205-8418",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -441,15 +441,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -474,6 +465,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -829,16 +829,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 14,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 13,
       "communities": [
@@ -856,6 +846,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 13,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -881,7 +881,7 @@
     },
     {
       "name": "Winter Garden",
-      "count": 94
+      "count": 93
     },
     {
       "name": "Lake Mary",
@@ -889,7 +889,7 @@
     },
     {
       "name": "Nashville",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Antioch",
@@ -901,7 +901,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 37
+      "count": 38
     },
     {
       "name": "Tampa",
@@ -925,7 +925,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Casselberry",
@@ -1167,13 +1167,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 14,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 13,
       "cities": [
@@ -1192,6 +1185,13 @@
       "count": 13,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 13,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1363,8 +1363,8 @@
       ]
     }
   ],
-  "mfTotal": 616,
-  "total": 876,
+  "mfTotal": 615,
+  "total": 874,
   "groups": [
     {
       "key": "inicio",
