@@ -69,7 +69,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -149,15 +149,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -182,6 +173,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -361,7 +361,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -441,15 +441,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -474,6 +465,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -767,7 +767,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -829,16 +829,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 15,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 14,
       "communities": [
@@ -856,6 +846,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 13,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -889,7 +889,7 @@
     },
     {
       "name": "Nashville",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Antioch",
@@ -901,7 +901,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 39
+      "count": 37
     },
     {
       "name": "Peachtree Corners",
@@ -913,7 +913,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Deltona",
@@ -1105,7 +1105,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1167,13 +1167,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 15,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
       "cities": [
@@ -1192,6 +1185,13 @@
       "count": 13,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1363,8 +1363,8 @@
       ]
     }
   ],
-  "mfTotal": 619,
-  "total": 881,
+  "mfTotal": 616,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
