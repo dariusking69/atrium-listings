@@ -131,21 +131,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -576,15 +576,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
@@ -607,6 +598,15 @@
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
       "cities": [
         "Tampa"
       ]
@@ -806,8 +806,18 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Timber Pointe",
       "count": 16,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 15,
       "communities": [
         "Case Residences",
         "The William at Westshore",
@@ -816,16 +826,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 16,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -904,11 +904,11 @@
       "count": 38
     },
     {
-      "name": "Tampa",
-      "count": 35
+      "name": "Peachtree Corners",
+      "count": 34
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Tampa",
       "count": 34
     },
     {
@@ -1272,13 +1272,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 3,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 3,
       "cities": [
@@ -1294,6 +1287,13 @@
     },
     {
       "name": "Case Residences",
+      "count": 2,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
       "count": 2,
       "cities": [
         "Tampa"
@@ -1363,8 +1363,8 @@
       ]
     }
   ],
-  "mfTotal": 615,
-  "total": 873,
+  "mfTotal": 614,
+  "total": 872,
   "groups": [
     {
       "key": "inicio",
@@ -1379,7 +1379,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 16
+      "listings": 15
     }
   ]
 }
