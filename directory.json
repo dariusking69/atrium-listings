@@ -149,6 +149,15 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Mission Club",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -164,15 +173,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -441,6 +441,15 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -456,15 +465,6 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -829,6 +829,16 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 14,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Mission Club",
       "count": 13,
       "communities": [
@@ -836,16 +846,6 @@
       ],
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Cranes Landing",
-      "count": 13,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -896,12 +896,12 @@
       "count": 45
     },
     {
-      "name": "Kissimmee",
+      "name": "Winter Park",
       "count": 39
     },
     {
-      "name": "Winter Park",
-      "count": 38
+      "name": "Kissimmee",
+      "count": 39
     },
     {
       "name": "Peachtree Corners",
@@ -1167,6 +1167,13 @@
       ]
     },
     {
+      "name": "Cranes Landing Apartments",
+      "count": 14,
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Mission Club Apartments",
       "count": 13,
       "cities": [
@@ -1178,13 +1185,6 @@
       "count": 13,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Cranes Landing Apartments",
-      "count": 13,
-      "cities": [
-        "Winter Park"
       ]
     },
     {
@@ -1363,8 +1363,8 @@
       ]
     }
   ],
-  "mfTotal": 613,
-  "total": 871,
+  "mfTotal": 614,
+  "total": 872,
   "groups": [
     {
       "key": "inicio",
