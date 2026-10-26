@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 291,
+      "count": 289,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -50,7 +50,7 @@
     },
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 80,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -68,7 +68,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -118,6 +118,15 @@
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -175,15 +184,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
@@ -217,6 +217,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -256,15 +265,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -286,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 179,
+      "count": 177,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -332,7 +332,7 @@
     },
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 80,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -421,6 +421,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -463,15 +472,6 @@
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -520,6 +520,15 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -562,15 +571,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 291,
+      "count": 289,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -773,7 +773,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 33,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -895,11 +895,11 @@
       "count": 70
     },
     {
-      "name": "Antioch",
-      "count": 46
+      "name": "Nashville",
+      "count": 45
     },
     {
-      "name": "Nashville",
+      "name": "Antioch",
       "count": 45
     },
     {
@@ -915,11 +915,11 @@
       "count": 35
     },
     {
-      "name": "Peachtree Corners",
-      "count": 34
+      "name": "Winter Springs",
+      "count": 33
     },
     {
-      "name": "Winter Springs",
+      "name": "Peachtree Corners",
       "count": 32
     },
     {
@@ -943,20 +943,16 @@
       "count": 20
     },
     {
+      "name": "Ocoee",
+      "count": 16
+    },
+    {
       "name": "Macon",
       "count": 16
     },
     {
-      "name": "Ocoee",
-      "count": 9
-    },
-    {
       "name": "Lakeland",
       "count": 7
-    },
-    {
-      "name": "DeLand",
-      "count": 5
     },
     {
       "name": "Charlottesville",
@@ -968,6 +964,10 @@
     },
     {
       "name": "St. Cloud",
+      "count": 4
+    },
+    {
+      "name": "DeLand",
       "count": 4
     },
     {
@@ -1046,7 +1046,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 45
+      "count": 44
     },
     {
       "name": "PG2",
@@ -1087,7 +1087,7 @@
     },
     {
       "name": "The Hub",
-      "count": 81,
+      "count": 80,
       "cities": [
         "Richmond"
       ]
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Winter Springs"
       ]
@@ -1156,6 +1156,13 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 16,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 16,
       "cities": [
@@ -1188,13 +1195,6 @@
       "count": 11,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 9,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -1233,6 +1233,13 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 4,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 4,
       "cities": [
@@ -1265,13 +1272,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 3,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 606,
-  "total": 864,
+  "mfTotal": 614,
+  "total": 868,
   "groups": [
     {
       "key": "inicio",
