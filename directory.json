@@ -30,7 +30,6 @@
         "Richmond",
         "Riverview",
         "Saint Cloud",
-        "Saint Petersburg",
         "Sanford",
         "Tampa",
         "Titusville",
@@ -122,6 +121,15 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -140,39 +148,12 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -185,12 +166,30 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -218,15 +217,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -275,6 +265,15 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -313,7 +312,6 @@
         "Richmond",
         "Riverview",
         "Saint Cloud",
-        "Saint Petersburg",
         "Sanford",
         "Tampa",
         "Titusville",
@@ -450,24 +448,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -477,12 +457,30 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -519,15 +517,6 @@
       "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
-      "phone": "(434) 231-4999",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -603,6 +592,15 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
+      "phone": "(434) 231-4999",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -663,6 +661,15 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Beach Flats",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -735,7 +742,6 @@
         "Richmond",
         "Riverview",
         "Saint Cloud",
-        "Saint Petersburg",
         "Sanford",
         "Tampa",
         "Titusville",
@@ -796,6 +802,20 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 16,
+      "communities": [
+        "Beach Flats",
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 16,
       "communities": [
@@ -816,19 +836,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 15,
-      "communities": [
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
-      ],
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 14,
       "communities": [
@@ -839,16 +846,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 13,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 13,
       "communities": [
@@ -856,6 +853,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 11,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -873,7 +880,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 120
+      "count": 118
     },
     {
       "name": "Richmond",
@@ -904,11 +911,11 @@
       "count": 39
     },
     {
-      "name": "Peachtree Corners",
-      "count": 34
+      "name": "Tampa",
+      "count": 35
     },
     {
-      "name": "Tampa",
+      "name": "Peachtree Corners",
       "count": 34
     },
     {
@@ -925,7 +932,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 26
+      "count": 21
     },
     {
       "name": "Casselberry",
@@ -948,12 +955,12 @@
       "count": 7
     },
     {
-      "name": "Charlottesville",
-      "count": 6
-    },
-    {
       "name": "DeLand",
       "count": 5
+    },
+    {
+      "name": "Charlottesville",
+      "count": 4
     },
     {
       "name": "Davenport",
@@ -965,7 +972,7 @@
     },
     {
       "name": "Sanford",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Saint Cloud",
@@ -997,10 +1004,6 @@
     },
     {
       "name": "Ocala",
-      "count": 1
-    },
-    {
-      "name": "Saint Petersburg",
       "count": 1
     },
     {
@@ -1047,7 +1050,7 @@
     },
     {
       "name": "PG2",
-      "count": 13
+      "count": 14
     },
     {
       "name": "PG3",
@@ -1059,7 +1062,7 @@
     },
     {
       "name": "PG5",
-      "count": 13
+      "count": 12
     },
     {
       "name": "PG7",
@@ -1174,20 +1177,6 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 13,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Oasis at San Marco",
-      "count": 13,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 13,
       "cities": [
@@ -1195,10 +1184,24 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 11,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 9,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 8,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1227,13 +1230,6 @@
       "count": 5,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Six Hundred West Main",
-      "count": 4,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1293,6 +1289,13 @@
       ]
     },
     {
+      "name": "Six Hundred West Main",
+      "count": 2,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Westshore Marina Flats",
       "count": 2,
       "cities": [
@@ -1342,6 +1345,13 @@
       ]
     },
     {
+      "name": "Beach Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "cities": [
@@ -1363,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 614,
-  "total": 872,
+  "mfTotal": 606,
+  "total": 864,
   "groups": [
     {
       "key": "inicio",
@@ -1379,7 +1389,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 15
+      "listings": 16
     }
   ]
 }
