@@ -68,7 +68,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -773,7 +773,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 33,
+      "count": 32,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -895,12 +895,12 @@
       "count": 70
     },
     {
-      "name": "Nashville",
+      "name": "Antioch",
       "count": 45
     },
     {
-      "name": "Antioch",
-      "count": 45
+      "name": "Nashville",
+      "count": 44
     },
     {
       "name": "Winter Park",
@@ -916,7 +916,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Peachtree Corners",
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Winter Springs"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 614,
-  "total": 868,
+  "mfTotal": 613,
+  "total": 866,
   "groups": [
     {
       "key": "inicio",
