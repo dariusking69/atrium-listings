@@ -68,7 +68,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -86,27 +86,9 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
@@ -121,12 +103,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
+      "name": "The Nest",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Ocoee"
+        "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -157,8 +148,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -386,27 +386,9 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 21,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
       ]
@@ -421,12 +403,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
+      "name": "The Nest",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
       "cities": [
-        "Ocoee"
+        "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -448,8 +439,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -773,7 +773,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 31,
+      "count": 30,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -793,7 +793,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -837,7 +837,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 13,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -880,11 +880,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 121
+      "count": 119
     },
     {
       "name": "Richmond",
-      "count": 117
+      "count": 116
     },
     {
       "name": "Winter Garden",
@@ -908,7 +908,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 39
+      "count": 38
     },
     {
       "name": "Tampa",
@@ -916,15 +916,15 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 32
-    },
-    {
-      "name": "Winter Springs",
       "count": 31
     },
     {
       "name": "Deltona",
       "count": 31
+    },
+    {
+      "name": "Winter Springs",
+      "count": 30
     },
     {
       "name": "Gainesville",
@@ -943,12 +943,12 @@
       "count": 20
     },
     {
-      "name": "Ocoee",
+      "name": "Macon",
       "count": 16
     },
     {
-      "name": "Macon",
-      "count": 16
+      "name": "Ocoee",
+      "count": 15
     },
     {
       "name": "Lakeland",
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Winter Springs"
       ]
@@ -1129,21 +1129,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 21,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 20,
+      "count": 26,
       "cities": [
         "Orlando"
       ]
@@ -1156,10 +1142,17 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 16,
+      "name": "The Nest",
+      "count": 20,
       "cities": [
-        "Ocoee"
+        "Richmond"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 19,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1177,8 +1170,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 15,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Winter Park"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 615,
-  "total": 866,
+  "mfTotal": 609,
+  "total": 859,
   "groups": [
     {
       "key": "inicio",
