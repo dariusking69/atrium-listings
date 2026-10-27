@@ -38,15 +38,15 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 587 rentals
-- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 119 rentals
-- [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 93 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 589 rentals
+- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 121 rentals
+- [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 94 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 70 rentals
-- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 39 rentals
+- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 40 rentals
 - [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 39 rentals
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 35 rentals
-- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 32 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
+- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 31 rentals
 - [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 27 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 21 rentals
 - [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 20 rentals
@@ -59,7 +59,6 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Altamonte Springs, FL](https://listings.meetatrium.com/browse/fl/altamonte-springs.html): 2 rentals
 - [Belleview, FL](https://listings.meetatrium.com/browse/fl/belleview.html): 2 rentals
 - [Daytona Beach, FL](https://listings.meetatrium.com/browse/fl/daytona-beach.html): 2 rentals
-- [Oxford, FL](https://listings.meetatrium.com/browse/fl/oxford.html): 2 rentals
 - [Saint Cloud, FL](https://listings.meetatrium.com/browse/fl/saint-cloud.html): 2 rentals
 - [Titusville, FL](https://listings.meetatrium.com/browse/fl/titusville.html): 2 rentals
 - [Umatilla, FL](https://listings.meetatrium.com/browse/fl/umatilla.html): 2 rentals
@@ -69,6 +68,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Longwood, FL](https://listings.meetatrium.com/browse/fl/longwood.html): 1 rental
 - [Melbourne, FL](https://listings.meetatrium.com/browse/fl/melbourne.html): 1 rental
 - [Ocala, FL](https://listings.meetatrium.com/browse/fl/ocala.html): 1 rental
+- [Oxford, FL](https://listings.meetatrium.com/browse/fl/oxford.html): 1 rental
 - [Poinciana, FL](https://listings.meetatrium.com/browse/fl/poinciana.html): 1 rental
 - [Riverview, FL](https://listings.meetatrium.com/browse/fl/riverview.html): 1 rental
 - [Wesley Chapel, FL](https://listings.meetatrium.com/browse/fl/wesley-chapel.html): 1 rental
@@ -83,9 +83,9 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Tennessee
 
-- [Tennessee](https://listings.meetatrium.com/browse/tn/): 89 rentals
-- [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 45 rentals
-- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 44 rentals
+- [Tennessee](https://listings.meetatrium.com/browse/tn/): 87 rentals
+- [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 44 rentals
+- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 43 rentals
 
 ## Georgia
 

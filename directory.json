@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 288,
+      "count": 287,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 36,
+      "count": 38,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -68,7 +68,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -86,7 +86,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -194,7 +194,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -211,21 +211,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -288,7 +288,7 @@
       "name": "Atrium Management Company",
       "count": 176,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -350,7 +350,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 36,
+      "count": 38,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -386,7 +386,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -484,17 +484,8 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -502,12 +493,12 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
+      "name": "Westshore Flats I",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -526,6 +517,15 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -619,15 +619,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 268-6987",
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "The Hammocks at Camelot",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -673,6 +664,15 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(352) 268-6987",
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 288,
+      "count": 287,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -763,7 +763,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 36,
+      "count": 38,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -773,7 +773,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 32,
+      "count": 31,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -793,7 +793,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -880,7 +880,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 119
+      "count": 121
     },
     {
       "name": "Richmond",
@@ -888,7 +888,7 @@
     },
     {
       "name": "Winter Garden",
-      "count": 93
+      "count": 94
     },
     {
       "name": "Lake Mary",
@@ -896,18 +896,18 @@
     },
     {
       "name": "Antioch",
-      "count": 45
-    },
-    {
-      "name": "Nashville",
       "count": 44
     },
     {
-      "name": "Winter Park",
-      "count": 39
+      "name": "Nashville",
+      "count": 43
     },
     {
       "name": "Kissimmee",
+      "count": 40
+    },
+    {
+      "name": "Winter Park",
       "count": 39
     },
     {
@@ -915,12 +915,12 @@
       "count": 35
     },
     {
-      "name": "Winter Springs",
+      "name": "Peachtree Corners",
       "count": 32
     },
     {
-      "name": "Peachtree Corners",
-      "count": 32
+      "name": "Winter Springs",
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -987,10 +987,6 @@
       "count": 2
     },
     {
-      "name": "Oxford",
-      "count": 2
-    },
-    {
       "name": "Belleview",
       "count": 2
     },
@@ -1027,6 +1023,10 @@
       "count": 1
     },
     {
+      "name": "Oxford",
+      "count": 1
+    },
+    {
       "name": "Triangle",
       "count": 1
     },
@@ -1046,7 +1046,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 44
+      "count": 45
     },
     {
       "name": "PG2",
@@ -1101,14 +1101,14 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 36,
+      "count": 38,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 32,
+      "count": 31,
       "cities": [
         "Winter Springs"
       ]
@@ -1129,7 +1129,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1205,24 +1205,17 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
-      "count": 6,
+      "count": 7,
       "cities": [
         "Kissimmee"
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 5,
+      "name": "Westshore Flats I",
+      "count": 6,
       "cities": [
-        "Orlando"
+        "Tampa"
       ]
     },
     {
@@ -1237,6 +1230,13 @@
       "count": 4,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1310,13 +1310,6 @@
       ]
     },
     {
-      "name": "Keys at Wildwood",
-      "count": 2,
-      "cities": [
-        "Oxford"
-      ]
-    },
-    {
       "name": "The Hammocks at Camelot",
       "count": 2,
       "cities": [
@@ -1352,6 +1345,13 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 1,
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "cities": [
@@ -1373,7 +1373,7 @@
       ]
     }
   ],
-  "mfTotal": 614,
+  "mfTotal": 615,
   "total": 866,
   "groups": [
     {
