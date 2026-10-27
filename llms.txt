@@ -39,7 +39,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 ## Florida
 
 - [Florida](https://listings.meetatrium.com/browse/fl/): 587 rentals
-- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 118 rentals
+- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 119 rentals
 - [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 93 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 70 rentals
 - [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 39 rentals
@@ -47,7 +47,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 35 rentals
 - [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 32 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
-- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 28 rentals
+- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 27 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 21 rentals
 - [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 20 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 16 rentals

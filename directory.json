@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 289,
+      "count": 288,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -103,21 +103,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -286,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 177,
+      "count": 176,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -403,21 +403,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 289,
+      "count": 288,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -880,7 +880,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 118
+      "count": 119
     },
     {
       "name": "Richmond",
@@ -928,7 +928,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Jacksonville",
@@ -1058,7 +1058,7 @@
     },
     {
       "name": "PG4",
-      "count": 9
+      "count": 8
     },
     {
       "name": "PG5",
@@ -1142,17 +1142,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 20,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 20,
       "cities": [
         "Sandston"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 19,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1373,7 +1373,7 @@
       ]
     }
   ],
-  "mfTotal": 613,
+  "mfTotal": 614,
   "total": 866,
   "groups": [
     {
