@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 293,
+      "count": 288,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -85,7 +85,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -120,17 +120,8 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -156,6 +147,15 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Cranes Landing",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -174,21 +174,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 181,
+      "count": 177,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -384,7 +384,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -420,7 +420,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -464,21 +464,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -500,21 +500,21 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -572,15 +572,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -632,6 +623,15 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(813) 355-9968",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 293,
+      "count": 288,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -790,7 +790,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 26,
+      "count": 27,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -799,22 +799,8 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 16,
-      "communities": [
-        "Beach Flats",
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
-      ],
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -830,6 +816,20 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 15,
+      "communities": [
+        "Beach Flats",
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -877,7 +877,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 118
+      "count": 119
     },
     {
       "name": "Richmond",
@@ -885,7 +885,7 @@
     },
     {
       "name": "Winter Garden",
-      "count": 94
+      "count": 92
     },
     {
       "name": "Lake Mary",
@@ -893,7 +893,7 @@
     },
     {
       "name": "Nashville",
-      "count": 67
+      "count": 65
     },
     {
       "name": "Antioch",
@@ -909,7 +909,7 @@
     },
     {
       "name": "Tampa",
-      "count": 35
+      "count": 33
     },
     {
       "name": "Peachtree Corners",
@@ -929,11 +929,11 @@
     },
     {
       "name": "Jacksonville",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -949,7 +949,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Charlottesville",
@@ -985,10 +985,6 @@
     },
     {
       "name": "Belleview",
-      "count": 2
-    },
-    {
-      "name": "Umatilla",
       "count": 2
     },
     {
@@ -1028,6 +1024,10 @@
       "count": 1
     },
     {
+      "name": "Umatilla",
+      "count": 1
+    },
+    {
       "name": "Melbourne",
       "count": 1
     },
@@ -1039,7 +1039,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 45
+      "count": 42
     },
     {
       "name": "PG2",
@@ -1055,7 +1055,7 @@
     },
     {
       "name": "PG5",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG7",
@@ -1067,7 +1067,7 @@
     },
     {
       "name": "PG9",
-      "count": 8
+      "count": 7
     }
   ],
   "mfProperties": [
@@ -1122,7 +1122,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 26,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1150,7 +1150,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1184,17 +1184,17 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 10,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Mission Club Apartments",
       "count": 10,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1212,17 +1212,17 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 5,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 4,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 4,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1268,13 +1268,6 @@
       ]
     },
     {
-      "name": "Janie B Apartments",
-      "count": 3,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Hammocks off Newberry",
       "count": 3,
       "cities": [
@@ -1314,6 +1307,13 @@
       "count": 2,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 2,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1366,8 +1366,8 @@
       ]
     }
   ],
-  "mfTotal": 611,
-  "total": 890,
+  "mfTotal": 610,
+  "total": 883,
   "groups": [
     {
       "key": "inicio",
@@ -1382,7 +1382,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 16
+      "listings": 15
     }
   ]
 }
