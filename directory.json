@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 286,
+      "count": 293,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -28,7 +28,6 @@
         "Oxford",
         "Poinciana",
         "Richmond",
-        "Riverview",
         "Saint Cloud",
         "Sanford",
         "Tampa",
@@ -50,7 +49,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -68,7 +67,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -94,17 +93,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 20,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -118,6 +108,15 @@
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -158,7 +157,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -175,21 +174,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -217,15 +216,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -265,6 +255,15 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
@@ -286,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 175,
+      "count": 181,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(629) 222-4750",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -310,7 +309,6 @@
         "Orlando",
         "Poinciana",
         "Richmond",
-        "Riverview",
         "Saint Cloud",
         "Sanford",
         "Tampa",
@@ -332,7 +330,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -359,7 +357,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -394,17 +392,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 20,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -418,6 +407,15 @@
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -449,7 +447,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -466,21 +464,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -517,15 +515,6 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Valencia Isle",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -571,6 +560,24 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(813) 355-9968",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -625,15 +632,6 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -703,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 286,
+      "count": 293,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -740,7 +738,6 @@
         "Oxford",
         "Poinciana",
         "Richmond",
-        "Riverview",
         "Saint Cloud",
         "Sanford",
         "Tampa",
@@ -773,7 +770,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 30,
+      "count": 29,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -837,7 +834,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 13,
+      "count": 14,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -857,7 +854,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -880,11 +877,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 119
+      "count": 118
     },
     {
       "name": "Richmond",
-      "count": 116
+      "count": 118
     },
     {
       "name": "Winter Garden",
@@ -895,12 +892,12 @@
       "count": 70
     },
     {
-      "name": "Antioch",
-      "count": 44
+      "name": "Nashville",
+      "count": 67
     },
     {
-      "name": "Nashville",
-      "count": 43
+      "name": "Antioch",
+      "count": 50
     },
     {
       "name": "Kissimmee",
@@ -908,11 +905,11 @@
     },
     {
       "name": "Winter Park",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Tampa",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Peachtree Corners",
@@ -924,7 +921,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Gainesville",
@@ -940,7 +937,7 @@
     },
     {
       "name": "Sandston",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Macon",
@@ -1019,10 +1016,6 @@
       "count": 1
     },
     {
-      "name": "Riverview",
-      "count": 1
-    },
-    {
       "name": "Oxford",
       "count": 1
     },
@@ -1054,7 +1047,7 @@
     },
     {
       "name": "PG3",
-      "count": 4
+      "count": 5
     },
     {
       "name": "PG4",
@@ -1087,7 +1080,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 81,
       "cities": [
         "Richmond"
       ]
@@ -1108,7 +1101,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 30,
+      "count": 29,
       "cities": [
         "Winter Springs"
       ]
@@ -1135,15 +1128,8 @@
       ]
     },
     {
-      "name": "Gerwyn Manor",
-      "count": 20,
-      "cities": [
-        "Sandston"
-      ]
-    },
-    {
       "name": "The Nest",
-      "count": 20,
+      "count": 21,
       "cities": [
         "Richmond"
       ]
@@ -1153,6 +1139,13 @@
       "count": 19,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 19,
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -1178,7 +1171,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 13,
+      "count": 14,
       "cities": [
         "Winter Park"
       ]
@@ -1191,17 +1184,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 11,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1230,13 +1223,6 @@
       "count": 4,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Valencia Isle",
-      "count": 4,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1272,6 +1258,20 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 3,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1314,13 +1314,6 @@
       "count": 2,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1374,7 +1367,7 @@
     }
   ],
   "mfTotal": 611,
-  "total": 860,
+  "total": 890,
   "groups": [
     {
       "key": "inicio",
