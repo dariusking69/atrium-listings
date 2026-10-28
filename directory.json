@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 287,
+      "count": 286,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -185,7 +185,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -286,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 176,
+      "count": 175,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -476,7 +476,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 287,
+      "count": 286,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -912,7 +912,7 @@
     },
     {
       "name": "Tampa",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Peachtree Corners",
@@ -932,7 +932,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 21
+      "count": 23
     },
     {
       "name": "Casselberry",
@@ -1199,7 +1199,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 10,
       "cities": [
         "Jacksonville"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 609,
-  "total": 859,
+  "mfTotal": 611,
+  "total": 860,
   "groups": [
     {
       "key": "inicio",
