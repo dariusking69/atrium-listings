@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Widget Embed Check</title>
+<meta name="robots" content="noindex">
+<!--
+  Embeds w.html the way a host site does (iframe + embed.js) and checks the map in three
+  layouts. Open it next to the w.html you want to test: locally at
+  http://localhost:8731/tests/embed-check.html, live at
+  https://listings.meetatrium.com/tests/embed-check.html. Every row turns PASS or FAIL
+  within about 20 seconds.
+
+  The scope is Kimaya Homes' embed (kimaya.homes/availability), where both faults were
+  reported on 2026-10-29:
+    - wide:  a frame wider than 900px sized its map from 100vh, which inside an iframe is
+             the iframe's own height. embed.js grows the iframe to fit, the map grows with
+             it, and the pair ran to embed.js's 20,000px cap with the pins far below.
+    - late:  a frame laid out at ~0px wide when the map first fitted its pins. Leaflet's
+             zoom maths comes back infinite at that size, so the map sat at maxZoom over
+             the middle of the pins with none of them on screen, and never re-fitted.
+    - plain: the ordinary case, as a control.
+  Must be served from the same origin as w.html: it reads the map inside each frame.
+-->
+<style>
+:root{--bg:#111418;--ink:#e9ecef;--muted:#9aa4ad;--line:#2a3036;--pass:#3fb950;--fail:#f85149}
+@media (prefers-color-scheme: light){:root{--bg:#fff;--ink:#111418;--muted:#5b6570;--line:#e3e6e8;--pass:#1a7f37;--fail:#cf222e}}
+body{margin:0;padding:24px 16px;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,sans-serif}
+h1{font-size:20px;margin:0 0 4px}
+p{margin:0 0 16px;color:var(--muted)}
+table{border-collapse:collapse;margin-bottom:28px;width:100%;max-width:900px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+td.s{font-weight:700;width:70px}
+td.s.pass{color:var(--pass)} td.s.fail{color:var(--fail)}
+h2{font-size:15px;margin:24px 0 6px}
+.stage{overflow:hidden;background:#fff}
+iframe{display:block;width:100%;border:0;height:1500px}
+</style>
+</head>
+<body>
+<h1>Widget embed check</h1>
+<p>Three frames of w.html, embedded the way a host site embeds them. Each row settles to PASS or FAIL.</p>
+<table>
+  <thead><tr><th>Status</th><th>Case</th><th>Detail</th></tr></thead>
+  <tbody id="rows">
+    <tr data-case="wide"><td class="s">…</td><td>Wide frame (1100px)</td><td class="d">waiting</td></tr>
+    <tr data-case="late"><td class="s">…</td><td>Frame that starts 0px wide, then 628px</td><td class="d">waiting</td></tr>
+    <tr data-case="plain"><td class="s">…</td><td>Plain frame (628px)</td><td class="d">waiting</td></tr>
+  </tbody>
+</table>
+
+<h2>Wide</h2>
+<div class="stage" id="stage-wide" style="width:1100px;max-width:none">
+  <iframe id="f-wide" title="Wide" src="../w.html?props=Champions+Chase%7COcoee+Village%7CValencia+Isle%7CSutton+Fields&accent=da6e16&name=&map=1&details=appfolio"></iframe>
+</div>
+<h2>Late</h2>
+<div class="stage" id="stage-late" style="width:0">
+  <iframe id="f-late" title="Late" src="../w.html?props=Champions+Chase%7COcoee+Village%7CValencia+Isle%7CSutton+Fields&accent=da6e16&name=&map=1&details=appfolio"></iframe>
+</div>
+<h2>Plain</h2>
+<div class="stage" id="stage-plain" style="width:628px">
+  <iframe id="f-plain" title="Plain" src="../w.html?props=Champions+Chase%7COcoee+Village%7CValencia+Isle%7CSutton+Fields&accent=da6e16&name=&map=1&details=appfolio"></iframe>
+</div>
+<script src="../embed.js" async></script>
+
+<script>
+(function(){
+  var MAP_MAX = 700;          // a framed map taller than this is the 100vh feedback loop
+  var CAP = 19000;            // embed.js refuses heights past 20,000px
+
+  function report(name, ok, detail){
+    var tr = document.querySelector('tr[data-case="'+name+'"]');
+    var s = tr.querySelector('.s');
+    s.textContent = ok ? 'PASS' : 'FAIL';
+    s.className = 's ' + (ok ? 'pass' : 'fail');
+    tr.querySelector('.d').textContent = detail;
+    window.__results = window.__results || {};
+    window.__results[name] = {ok: ok, detail: detail};
+  }
+
+  function inside(frameId){
+    var f = document.getElementById(frameId);
+    var doc;
+    try { doc = f.contentDocument; } catch (e) { return null; }
+    if (!doc) return null;
+    var map = doc.getElementById('atr-map');
+    var pins = doc.querySelectorAll('#atr-map .leaflet-marker-icon');
+    if (!map || !pins.length) return null;
+    var m = map.getBoundingClientRect(), out = 0;
+    pins.forEach(function(p){
+      var r = p.getBoundingClientRect(), x = r.left + r.width/2, y = r.bottom;
+      if (x < m.left || x > m.right || y < m.top || y > m.bottom) out++;
+    });
+    return {pins: pins.length, out: out, mapH: Math.round(m.height), frameH: f.offsetHeight};
+  }
+
+  // Wait until the frame has pins and its height has held still for 2s, then judge.
+  function settle(frameId, judge, timeout){
+    var start = Date.now(), last = null, still = 0;
+    (function tick(){
+      var s = inside(frameId);
+      if (s && last && s.frameH === last.frameH && s.out === last.out) still += 250; else still = 0;
+      last = s;
+      if (s && still >= 2000) return judge(s);
+      if (Date.now() - start > timeout) return judge(s, true);
+      setTimeout(tick, 250);
+    })();
+  }
+
+  function pinsLine(s){ return s.pins + ' pins, ' + (s.pins - s.out) + ' in view; map ' + s.mapH + 'px; frame ' + s.frameH + 'px'; }
+
+  settle('f-wide', function(s, timedOut){
+    if (!s) return report('wide', false, 'no pins rendered' + (timedOut ? ' (timed out)' : ''));
+    var ok = s.out === 0 && s.mapH <= MAP_MAX && s.frameH < CAP;
+    report('wide', ok, pinsLine(s) + (s.mapH > MAP_MAX ? ' (map is sizing itself off the frame height)' : ''));
+  }, 25000);
+
+  settle('f-plain', function(s, timedOut){
+    if (!s) return report('plain', false, 'no pins rendered' + (timedOut ? ' (timed out)' : ''));
+    report('plain', s.out === 0, pinsLine(s));
+  }, 25000);
+
+  // Late: let the map draw its pins while the frame is 0px wide, then give it its width.
+  var t0 = Date.now();
+  (function waitHidden(){
+    var f = document.getElementById('f-late'), doc = null;
+    try { doc = f.contentDocument; } catch (e) {}
+    var drawn = doc && doc.querySelectorAll('#atr-map .leaflet-marker-icon').length;
+    if (!drawn && Date.now() - t0 < 20000) return setTimeout(waitHidden, 150);
+    setTimeout(function(){
+      document.getElementById('stage-late').style.width = '628px';
+      settle('f-late', function(s, timedOut){
+        if (!s) return report('late', false, 'no pins rendered' + (timedOut ? ' (timed out)' : ''));
+        report('late', s.out === 0, pinsLine(s));
+      }, 20000);
+    }, 400);
+  })();
+})();
+</script>
+</body>
+</html>
