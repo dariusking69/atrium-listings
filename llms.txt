@@ -46,8 +46,8 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 39 rentals
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 33 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
-- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 29 rentals
-- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 27 rentals
+- [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 28 rentals
+- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 28 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 22 rentals
 - [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 21 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 15 rentals

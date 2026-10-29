@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 288,
+      "count": 289,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -66,21 +66,21 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 177,
+      "count": 178,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -356,15 +356,6 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -380,6 +371,15 @@
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 288,
+      "count": 289,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -769,16 +769,6 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 29,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Aston Square",
       "count": 29,
       "communities": [
@@ -786,6 +776,16 @@
       ],
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 28,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -921,11 +921,11 @@
     },
     {
       "name": "Winter Springs",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Gainesville",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Jacksonville",
@@ -1051,7 +1051,7 @@
     },
     {
       "name": "PG4",
-      "count": 8
+      "count": 9
     },
     {
       "name": "PG5",
@@ -1100,13 +1100,6 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 29,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 29,
       "cities": [
@@ -1118,6 +1111,13 @@
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 28,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1366,7 +1366,7 @@
       ]
     }
   ],
-  "mfTotal": 610,
+  "mfTotal": 609,
   "total": 883,
   "groups": [
     {
