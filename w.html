@@ -175,10 +175,14 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 .leaflet-popup-content{margin:10px}
 #atr-map .leaflet-div-icon{background:transparent;border:0}
 #atr-map .atr-pin{filter:drop-shadow(0 1px 1px rgba(0,0,0,.3))}
+/* Framed, the host page scrolls, not us: 100vh is the iframe's own height, and embed.js sets
+   that from our content height. A vh-sized map fed that loop until the iframe hit embed.js's
+   20,000px cap with the pins thousands of pixels down (kimaya.homes, 2026-10-29). */
+.atr-framed #atr-map{height:620px;min-height:0}
 @media(max-width:900px){
   .atr-split{flex-direction:column}
   .atr-map-wrap{position:relative;top:0;flex:none;width:100%}
-  #atr-map{height:300px;min-height:0}
+  #atr-map,.atr-framed #atr-map{height:300px;min-height:0}
   .atr-grid{width:100%;grid-template-columns:repeat(auto-fill,minmax(165px,1fr))}
 }
 </style>
@@ -193,6 +197,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   // detail page's own "All listings" link points at the full portfolio, so an owner's
   // scoped widget would be two clicks from every listing we manage. Open a new tab.
   var IN_IFRAME=(function(){try{return window.self!==window.top;}catch(e){return true;}})();
+  if(IN_IFRAME) document.documentElement.classList.add('atr-framed');
   var LINK_ATTR=IN_IFRAME?' target="_blank" rel="noopener"':'';
 
   // ---------- config from URL (sanitised) ----------
@@ -730,7 +735,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       addBasemap(api.map);
       api.layer=L.layerGroup().addTo(api.map);
       api.map.on('click',function(e){ if(api._onClick)api._onClick(e.latlng.lat,e.latlng.lng); });
-      try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
+      // Once someone pans, zooms or clicks the map, the view is theirs and a resize only
+      // re-measures. Until then a resize re-fits, so a fit taken at the wrong size heals.
+      var cont=document.getElementById('atr-map');
+      ['pointerdown','keydown'].forEach(function(t){cont.addEventListener(t,function(){api.touched=true;});});
+      try{var ro=new ResizeObserver(function(){if(!api.map)return; api.map.invalidateSize(); if(!api.touched&&api.last)api.fit();});ro.observe(cont);}catch(e){}
       api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();
         if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}
         if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}
@@ -740,12 +749,20 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     },LEAFLET_JS_SRI);
     var icon=function(){return L.divIcon({className:'atr-pin',html:pinSvg(),iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
     api.render=function(rows){
-      api.last=rows; api.map.invalidateSize(); api.layer.clearLayers();
+      api.last=rows; api.touched=false; api.map.invalidateSize(); api.layer.clearLayers();
       var pts=[];
       rows.forEach(function(l){ if(l.lat==null||l.lng==null)return;
         var m=L.marker([l.lat,l.lng],{icon:icon()}).bindPopup(popHtml(l));
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
+      api.pts=pts; api.fit();
+    };
+    api.fit=function(){
+      // A map laid out at ~0px (its frame hidden or not yet sized) gets an infinite zoom from
+      // Leaflet, so fitBounds parks at maxZoom over the middle of the pins with none of them
+      // in view. Skip it; the ResizeObserver calls fit() again once the map has a real size.
+      var sz=api.map.getSize(), pts=api.pts||[];
+      if(sz.x<100||sz.y<100)return;
       if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
       else if(api._poly){ api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]}); }
       else if(pts.length){
