@@ -38,17 +38,17 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 577 rentals
-- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 119 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 574 rentals
+- [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 117 rentals
 - [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 92 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 70 rentals
-- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 40 rentals
-- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 39 rentals
+- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 40 rentals
+- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 38 rentals
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 34 rentals
-- [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 31 rentals
+- [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 30 rentals
 - [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 28 rentals
 - [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 27 rentals
-- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 21 rentals
+- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 22 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 21 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 14 rentals
 - [Lakeland, FL](https://listings.meetatrium.com/browse/fl/lakeland.html): 6 rentals
@@ -74,10 +74,10 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Virginia
 
-- [Virginia](https://listings.meetatrium.com/browse/va/): 142 rentals
+- [Virginia](https://listings.meetatrium.com/browse/va/): 145 rentals
 - [Richmond, VA](https://listings.meetatrium.com/browse/va/richmond.html): 118 rentals
 - [Sandston, VA](https://listings.meetatrium.com/browse/va/sandston.html): 19 rentals
-- [Charlottesville, VA](https://listings.meetatrium.com/browse/va/charlottesville.html): 4 rentals
+- [Charlottesville, VA](https://listings.meetatrium.com/browse/va/charlottesville.html): 7 rentals
 - [Triangle, VA](https://listings.meetatrium.com/browse/va/triangle.html): 1 rental
 
 ## Tennessee

@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 290,
+      "count": 292,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(629) 222-4750",
+      "phone": "(434) 443-6987",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -102,15 +102,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -121,11 +112,20 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -192,21 +192,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 179,
+      "count": 178,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -348,7 +348,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -401,15 +401,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -420,11 +411,20 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -438,7 +438,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -465,7 +465,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -482,15 +482,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -500,12 +491,30 @@
       ]
     },
     {
+      "name": "The Jeffersonian",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(434) 443-6987",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "The William at Westshore",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 513-0814",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -608,15 +617,6 @@
       ]
     },
     {
-      "name": "The Jeffersonian",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(434) 443-6987",
-      "cities": [
-        "Charlottesville"
-      ]
-    },
-    {
       "name": "The Hammocks at Camelot",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 290,
+      "count": 292,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -760,7 +760,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 37,
+      "count": 36,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -800,7 +800,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -834,7 +834,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 14,
+      "count": 15,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -854,7 +854,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 11,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -876,12 +876,12 @@
   ],
   "cities": [
     {
-      "name": "Orlando",
-      "count": 119
-    },
-    {
       "name": "Richmond",
       "count": 118
+    },
+    {
+      "name": "Orlando",
+      "count": 117
     },
     {
       "name": "Winter Garden",
@@ -900,23 +900,23 @@
       "count": 50
     },
     {
-      "name": "Kissimmee",
+      "name": "Winter Park",
       "count": 40
     },
     {
-      "name": "Winter Park",
-      "count": 39
+      "name": "Kissimmee",
+      "count": 38
     },
     {
       "name": "Tampa",
       "count": 34
     },
     {
-      "name": "Deltona",
-      "count": 31
+      "name": "Peachtree Corners",
+      "count": 30
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Deltona",
       "count": 30
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Jacksonville",
@@ -948,12 +948,12 @@
       "count": 14
     },
     {
-      "name": "Lakeland",
-      "count": 6
+      "name": "Charlottesville",
+      "count": 7
     },
     {
-      "name": "Charlottesville",
-      "count": 4
+      "name": "Lakeland",
+      "count": 6
     },
     {
       "name": "Davenport",
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "PG2",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG3",
@@ -1094,7 +1094,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1135,13 +1135,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 19,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 19,
       "cities": [
@@ -1150,9 +1143,16 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1164,7 +1164,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 14,
+      "count": 15,
       "cities": [
         "Winter Park"
       ]
@@ -1185,7 +1185,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 11,
       "cities": [
         "Orlando"
       ]
@@ -1198,13 +1198,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 7,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 6,
       "cities": [
@@ -1212,10 +1205,24 @@
       ]
     },
     {
+      "name": "The Jeffersonian",
+      "count": 5,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "The William at Westshore",
       "count": 5,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1296,13 +1303,6 @@
       ]
     },
     {
-      "name": "The Jeffersonian",
-      "count": 2,
-      "cities": [
-        "Charlottesville"
-      ]
-    },
-    {
       "name": "The Hammocks at Camelot",
       "count": 2,
       "cities": [
@@ -1366,7 +1366,7 @@
       ]
     }
   ],
-  "mfTotal": 606,
+  "mfTotal": 607,
   "total": 879,
   "groups": [
     {
