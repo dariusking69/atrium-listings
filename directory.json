@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 289,
+      "count": 290,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -75,21 +75,21 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 27,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -129,30 +129,21 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -165,8 +156,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 178,
+      "count": 179,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-4750",
       "cities": [
@@ -348,7 +348,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 38,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -374,21 +374,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 27,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -437,15 +437,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
@@ -455,8 +446,17 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -500,21 +500,21 @@
       ]
     },
     {
+      "name": "The William at Westshore",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Raven Place",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 289,
+      "count": 290,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -760,7 +760,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 38,
+      "count": 37,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -779,16 +779,6 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 28,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Baldwin Park",
       "count": 27,
       "communities": [
@@ -796,6 +786,16 @@
       ],
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 27,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -809,18 +809,8 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 16,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
-      "count": 15,
+      "count": 16,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -830,6 +820,16 @@
       ],
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 16,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -844,7 +844,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 13,
+      "count": 12,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -893,7 +893,7 @@
     },
     {
       "name": "Nashville",
-      "count": 65
+      "count": 64
     },
     {
       "name": "Antioch",
@@ -909,30 +909,30 @@
     },
     {
       "name": "Tampa",
-      "count": 33
-    },
-    {
-      "name": "Peachtree Corners",
-      "count": 31
+      "count": 34
     },
     {
       "name": "Deltona",
       "count": 31
     },
     {
-      "name": "Winter Springs",
-      "count": 28
+      "name": "Peachtree Corners",
+      "count": 30
     },
     {
       "name": "Gainesville",
       "count": 28
     },
     {
-      "name": "Jacksonville",
-      "count": 22
+      "name": "Winter Springs",
+      "count": 27
     },
     {
       "name": "Casselberry",
+      "count": 21
+    },
+    {
+      "name": "Jacksonville",
       "count": 21
     },
     {
@@ -945,7 +945,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 15
+      "count": 14
     },
     {
       "name": "Lakeland",
@@ -1047,7 +1047,7 @@
     },
     {
       "name": "PG3",
-      "count": 5
+      "count": 6
     },
     {
       "name": "PG4",
@@ -1094,7 +1094,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 38,
+      "count": 37,
       "cities": [
         "Orlando"
       ]
@@ -1114,17 +1114,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 28,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Avenues of Baldwin Park",
       "count": 27,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 27,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1163,13 +1163,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 15,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Cranes Landing Apartments",
       "count": 14,
       "cities": [
@@ -1177,8 +1170,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 14,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 13,
+      "count": 12,
       "cities": [
         "Jacksonville"
       ]
@@ -1212,17 +1212,17 @@
       ]
     },
     {
+      "name": "The William at Westshore",
+      "count": 5,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Raven Place",
       "count": 4,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The William at Westshore",
-      "count": 4,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1366,8 +1366,8 @@
       ]
     }
   ],
-  "mfTotal": 609,
-  "total": 883,
+  "mfTotal": 606,
+  "total": 879,
   "groups": [
     {
       "key": "inicio",
@@ -1382,7 +1382,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 15
+      "listings": 16
     }
   ]
 }
