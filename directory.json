@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 291,
+      "count": 290,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(434) 443-6987",
+      "phone": "(804) 426-8360",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -285,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 177,
+      "count": 176,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(629) 222-9366",
+      "phone": "(804) 426-8360",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -411,7 +411,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 291,
+      "count": 290,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -800,7 +800,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -877,11 +877,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 117
+      "count": 118
     },
     {
       "name": "Orlando",
-      "count": 115
+      "count": 114
     },
     {
       "name": "Winter Garden",
@@ -921,19 +921,19 @@
     },
     {
       "name": "Gainesville",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Winter Springs",
       "count": 25
     },
     {
-      "name": "Casselberry",
+      "name": "Jacksonville",
       "count": 21
     },
     {
-      "name": "Jacksonville",
-      "count": 21
+      "name": "Casselberry",
+      "count": 20
     },
     {
       "name": "Sandston",
@@ -1051,7 +1051,7 @@
     },
     {
       "name": "PG4",
-      "count": 9
+      "count": 8
     },
     {
       "name": "PG5",
@@ -1059,7 +1059,7 @@
     },
     {
       "name": "PG7",
-      "count": 10
+      "count": 9
     },
     {
       "name": "PG8",
@@ -1143,7 +1143,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
@@ -1366,8 +1366,8 @@
       ]
     }
   ],
-  "mfTotal": 600,
-  "total": 871,
+  "mfTotal": 599,
+  "total": 869,
   "groups": [
     {
       "key": "inicio",
