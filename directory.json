@@ -85,7 +85,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 27,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -121,20 +121,11 @@
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4193",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -153,6 +144,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4193",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -207,15 +207,6 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -252,6 +243,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -384,7 +384,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 27,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -411,7 +411,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -420,7 +420,7 @@
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -465,7 +465,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -482,21 +482,21 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -515,15 +515,6 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -569,6 +560,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -790,7 +790,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 27,
+      "count": 25,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -800,26 +800,12 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 16,
-      "communities": [
-        "Beach Flats",
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
-      ],
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -843,6 +829,20 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 15,
+      "communities": [
+        "Beach Flats",
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 12,
       "communities": [
@@ -854,7 +854,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -877,11 +877,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 118
+      "count": 117
     },
     {
       "name": "Orlando",
-      "count": 117
+      "count": 115
     },
     {
       "name": "Winter Garden",
@@ -909,7 +909,7 @@
     },
     {
       "name": "Tampa",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Peachtree Corners",
@@ -925,11 +925,11 @@
     },
     {
       "name": "Winter Springs",
-      "count": 27
+      "count": 25
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Jacksonville",
@@ -1122,7 +1122,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 27,
+      "count": 25,
       "cities": [
         "Winter Springs"
       ]
@@ -1143,14 +1143,14 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -1185,7 +1185,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Orlando"
       ]
@@ -1198,17 +1198,17 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 6,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 5,
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 5,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1223,13 +1223,6 @@
       "count": 5,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 4,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1265,6 +1258,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 3,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1366,8 +1366,8 @@
       ]
     }
   ],
-  "mfTotal": 607,
-  "total": 879,
+  "mfTotal": 600,
+  "total": 872,
   "groups": [
     {
       "key": "inicio",
@@ -1382,7 +1382,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 16
+      "listings": 15
     }
   ]
 }
