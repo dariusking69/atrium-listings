@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 292,
+      "count": 291,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(434) 443-6987",
       "cities": [
@@ -285,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 178,
+      "count": 177,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(629) 222-4750",
+      "phone": "(629) 222-9366",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 292,
+      "count": 291,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Antioch",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Winter Park",
@@ -1367,7 +1367,7 @@
     }
   ],
   "mfTotal": 600,
-  "total": 872,
+  "total": 871,
   "groups": [
     {
       "key": "inicio",
