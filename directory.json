@@ -57,7 +57,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -346,7 +346,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -757,7 +757,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 33,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -878,7 +878,7 @@
     },
     {
       "name": "Orlando",
-      "count": 111
+      "count": 110
     },
     {
       "name": "Winter Garden",
@@ -890,7 +890,7 @@
     },
     {
       "name": "Nashville",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Antioch",
@@ -909,12 +909,12 @@
       "count": 33
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Deltona",
-      "count": 30
+      "name": "Peachtree Corners",
+      "count": 29
     },
     {
       "name": "Gainesville",
@@ -1087,7 +1087,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1359,8 +1359,8 @@
       ]
     }
   ],
-  "mfTotal": 589,
-  "total": 857,
+  "mfTotal": 588,
+  "total": 854,
   "groups": [
     {
       "key": "inicio",
