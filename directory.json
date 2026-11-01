@@ -119,21 +119,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -417,21 +417,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -796,16 +796,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 16,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 16,
       "communities": [
@@ -813,6 +803,16 @@
       ],
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 15,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -925,12 +925,12 @@
       "count": 22
     },
     {
-      "name": "Casselberry",
+      "name": "Jacksonville",
       "count": 20
     },
     {
-      "name": "Jacksonville",
-      "count": 20
+      "name": "Casselberry",
+      "count": 19
     },
     {
       "name": "Sandston",
@@ -1142,17 +1142,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 16,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1359,8 +1359,8 @@
       ]
     }
   ],
-  "mfTotal": 585,
-  "total": 850,
+  "mfTotal": 584,
+  "total": 849,
   "groups": [
     {
       "key": "inicio",
