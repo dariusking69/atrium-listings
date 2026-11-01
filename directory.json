@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 290,
+      "count": 284,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 391-5092",
       "cities": [
@@ -32,7 +32,6 @@
         "Tampa",
         "Titusville",
         "Umatilla",
-        "Wesley Chapel",
         "Winter Garden",
         "Winter Park"
       ]
@@ -66,7 +65,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -284,7 +283,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 176,
+      "count": 170,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 391-5092",
       "cities": [
@@ -312,7 +311,6 @@
         "Tampa",
         "Titusville",
         "Umatilla",
-        "Wesley Chapel",
         "Winter Garden",
         "Winter Park"
       ]
@@ -355,7 +353,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 30,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -699,7 +697,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 290,
+      "count": 284,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -740,7 +738,6 @@
         "Tampa",
         "Titusville",
         "Umatilla",
-        "Wesley Chapel",
         "Winter Garden",
         "Winter Park"
       ]
@@ -767,7 +764,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 30,
+      "count": 29,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -902,11 +899,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 38
-    },
-    {
-      "name": "Tampa",
-      "count": 32
+      "count": 37
     },
     {
       "name": "Deltona",
@@ -915,6 +908,10 @@
     {
       "name": "Peachtree Corners",
       "count": 28
+    },
+    {
+      "name": "Tampa",
+      "count": 27
     },
     {
       "name": "Gainesville",
@@ -1013,10 +1010,6 @@
       "count": 1
     },
     {
-      "name": "Wesley Chapel",
-      "count": 1
-    },
-    {
       "name": "Umatilla",
       "count": 1
     },
@@ -1048,7 +1041,7 @@
     },
     {
       "name": "PG5",
-      "count": 11
+      "count": 5
     },
     {
       "name": "PG7",
@@ -1094,7 +1087,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 30,
+      "count": 29,
       "cities": [
         "Kissimmee"
       ]
@@ -1359,8 +1352,8 @@
       ]
     }
   ],
-  "mfTotal": 584,
-  "total": 849,
+  "mfTotal": 583,
+  "total": 842,
   "groups": [
     {
       "key": "inicio",
