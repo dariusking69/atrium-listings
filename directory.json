@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 293,
+      "count": 298,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -31,6 +31,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wildwood",
         "Winter Garden",
         "Winter Park"
@@ -83,7 +84,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 23,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -110,7 +111,7 @@
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -283,7 +284,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 179,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -311,6 +312,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wildwood",
         "Winter Garden",
         "Winter Park"
@@ -381,7 +383,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 23,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -408,7 +410,7 @@
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -689,7 +691,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 293,
+      "count": 298,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -728,6 +730,7 @@
         "Tampa",
         "Titusville",
         "Umatilla",
+        "Wesley Chapel",
         "Wildwood",
         "Winter Garden",
         "Winter Park"
@@ -775,7 +778,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 23,
+      "count": 21,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -866,7 +869,7 @@
     },
     {
       "name": "Orlando",
-      "count": 110
+      "count": 109
     },
     {
       "name": "Winter Garden",
@@ -893,12 +896,12 @@
       "count": 35
     },
     {
-      "name": "Deltona",
-      "count": 30
+      "name": "Tampa",
+      "count": 32
     },
     {
-      "name": "Tampa",
-      "count": 28
+      "name": "Deltona",
+      "count": 30
     },
     {
       "name": "Gainesville",
@@ -910,7 +913,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 23
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -1001,6 +1004,10 @@
       "count": 1
     },
     {
+      "name": "Wesley Chapel",
+      "count": 1
+    },
+    {
       "name": "Umatilla",
       "count": 1
     },
@@ -1032,7 +1039,7 @@
     },
     {
       "name": "PG5",
-      "count": 5
+      "count": 10
     },
     {
       "name": "PG7",
@@ -1099,7 +1106,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 23,
+      "count": 21,
       "cities": [
         "Winter Springs"
       ]
@@ -1120,7 +1127,7 @@
     },
     {
       "name": "The Julian",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
@@ -1336,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 585,
-  "total": 873,
+  "mfTotal": 582,
+  "total": 875,
   "groups": [
     {
       "key": "inicio",

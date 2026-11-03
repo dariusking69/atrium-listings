@@ -7,8 +7,8 @@
 <url><loc>https://listings.meetatrium.com/browse/fl/lake-mary.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/winter-park.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/kissimmee.html</loc></url>
-<url><loc>https://listings.meetatrium.com/browse/fl/deltona.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/tampa.html</loc></url>
+<url><loc>https://listings.meetatrium.com/browse/fl/deltona.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/gainesville.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/winter-springs.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/casselberry.html</loc></url>
@@ -31,6 +31,7 @@
 <url><loc>https://listings.meetatrium.com/browse/fl/ocala.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/poinciana.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/umatilla.html</loc></url>
+<url><loc>https://listings.meetatrium.com/browse/fl/wesley-chapel.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/fl/wildwood.html</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/va/</loc></url>
 <url><loc>https://listings.meetatrium.com/browse/va/richmond.html</loc></url>
@@ -110,13 +111,11 @@
 <url><loc>https://listings.meetatrium.com/homes/7213.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7211.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7210.html</loc></url>
-<url><loc>https://listings.meetatrium.com/homes/7209.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7207.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7206.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7205.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7204.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7202.html</loc></url>
-<url><loc>https://listings.meetatrium.com/homes/7201.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7200.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7198.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/7197.html</loc></url>
@@ -454,6 +453,7 @@
 <url><loc>https://listings.meetatrium.com/homes/6748.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/6747.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/6743.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/6740.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/6737.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/6736.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/6733.html</loc></url>
@@ -748,7 +748,6 @@
 <url><loc>https://listings.meetatrium.com/homes/5070.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/5063.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/5057.html</loc></url>
-<url><loc>https://listings.meetatrium.com/homes/5040.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/5015.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4977.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4893.html</loc></url>
@@ -767,7 +766,6 @@
 <url><loc>https://listings.meetatrium.com/homes/4766.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4739.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4706.html</loc></url>
-<url><loc>https://listings.meetatrium.com/homes/4692.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4644.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4638.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/4618.html</loc></url>
@@ -839,6 +837,7 @@
 <url><loc>https://listings.meetatrium.com/homes/3421.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/3386.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/3382.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/3377.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/3347.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/3342.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/3340.html</loc></url>
@@ -862,6 +861,7 @@
 <url><loc>https://listings.meetatrium.com/homes/2858.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2850.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2837.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/2810.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2713.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2687.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2682.html</loc></url>
@@ -869,6 +869,7 @@
 <url><loc>https://listings.meetatrium.com/homes/2659.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2572.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2527.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/2451.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2394.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2344.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/2332.html</loc></url>
@@ -894,7 +895,9 @@
 <url><loc>https://listings.meetatrium.com/homes/1753.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1746.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1710.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/1467.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1465.html</loc></url>
+<url><loc>https://listings.meetatrium.com/homes/1463.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1426.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1425.html</loc></url>
 <url><loc>https://listings.meetatrium.com/homes/1420.html</loc></url>
