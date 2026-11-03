@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 298,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -48,7 +48,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -84,7 +84,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -102,20 +102,11 @@
     },
     {
       "name": "The Nest",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -137,15 +128,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 15,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -155,12 +137,30 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -206,15 +206,6 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
-      ]
-    },
-    {
-      "name": "Champions Village",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -242,6 +233,15 @@
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -284,7 +284,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 183,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -329,7 +329,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -347,7 +347,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -383,7 +383,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -401,20 +401,11 @@
     },
     {
       "name": "The Nest",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -454,6 +445,15 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -473,7 +473,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -517,15 +517,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
@@ -562,12 +553,12 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
+      "name": "Champions Village",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
       "cities": [
-        "Tampa"
+        "Kissimmee"
       ]
     },
     {
@@ -613,6 +604,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -691,7 +691,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 298,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -748,7 +748,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 31,
+      "count": 30,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -778,7 +778,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 21,
+      "count": 20,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -807,8 +807,18 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Lake Irene",
       "count": 15,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 14,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -818,16 +828,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 15,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -865,11 +865,11 @@
   "cities": [
     {
       "name": "Richmond",
-      "count": 115
+      "count": 112
     },
     {
       "name": "Orlando",
-      "count": 110
+      "count": 108
     },
     {
       "name": "Winter Garden",
@@ -893,11 +893,11 @@
     },
     {
       "name": "Kissimmee",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Tampa",
-      "count": 32
+      "count": 30
     },
     {
       "name": "Deltona",
@@ -905,7 +905,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Peachtree Corners",
@@ -913,7 +913,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Sandston",
@@ -925,7 +925,7 @@
     },
     {
       "name": "Jacksonville",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Macon",
@@ -952,12 +952,12 @@
       "count": 4
     },
     {
-      "name": "Sanford",
-      "count": 3
+      "name": "DeLand",
+      "count": 4
     },
     {
-      "name": "DeLand",
-      "count": 3
+      "name": "Sanford",
+      "count": 2
     },
     {
       "name": "Saint Cloud",
@@ -1023,7 +1023,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 42
+      "count": 43
     },
     {
       "name": "PG2",
@@ -1035,7 +1035,7 @@
     },
     {
       "name": "PG4",
-      "count": 8
+      "count": 9
     },
     {
       "name": "PG5",
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "PG7",
-      "count": 9
+      "count": 10
     },
     {
       "name": "PG8",
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "The Hub",
-      "count": 80,
+      "count": 79,
       "cities": [
         "Richmond"
       ]
@@ -1078,7 +1078,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Orlando"
       ]
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Winter Springs"
       ]
@@ -1120,16 +1120,9 @@
     },
     {
       "name": "The Nest",
-      "count": 20,
+      "count": 19,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1161,6 +1154,13 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 13,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 11,
       "cities": [
@@ -1176,7 +1176,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Jacksonville"
       ]
@@ -1210,13 +1210,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 4,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Sutton Fields",
       "count": 4,
       "cities": [
@@ -1245,10 +1238,10 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
+      "name": "Champions Village",
       "count": 3,
       "cities": [
-        "Tampa"
+        "Kissimmee"
       ]
     },
     {
@@ -1284,6 +1277,13 @@
       "count": 2,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Westshore Marina Flats",
+      "count": 2,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1343,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 582,
-  "total": 874,
+  "mfTotal": 572,
+  "total": 865,
   "groups": [
     {
       "key": "inicio",
@@ -1359,7 +1359,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 15
+      "listings": 14
     }
   ]
 }
