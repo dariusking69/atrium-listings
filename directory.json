@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 298,
+      "count": 297,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -75,7 +75,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -173,21 +173,21 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -284,7 +284,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 183,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -374,7 +374,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -463,21 +463,21 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -691,7 +691,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 298,
+      "count": 297,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -768,7 +768,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -842,7 +842,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 9,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -869,7 +869,7 @@
     },
     {
       "name": "Orlando",
-      "count": 109
+      "count": 110
     },
     {
       "name": "Winter Garden",
@@ -885,7 +885,7 @@
     },
     {
       "name": "Antioch",
-      "count": 58
+      "count": 57
     },
     {
       "name": "Winter Park",
@@ -893,7 +893,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Tampa",
@@ -1099,7 +1099,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Kissimmee"
       ]
@@ -1168,17 +1168,17 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 9,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 8,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 8,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1344,7 +1344,7 @@
     }
   ],
   "mfTotal": 582,
-  "total": 875,
+  "total": 874,
   "groups": [
     {
       "key": "inicio",
