@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 298,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -284,7 +284,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 183,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -691,7 +691,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 297,
+      "count": 298,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Tampa",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Deltona",
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "PG5",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PG7",
@@ -1344,7 +1344,7 @@
     }
   ],
   "mfTotal": 571,
-  "total": 862,
+  "total": 863,
   "groups": [
     {
       "key": "inicio",
