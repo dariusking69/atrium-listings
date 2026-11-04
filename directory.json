@@ -57,7 +57,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 29,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -128,15 +128,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -161,6 +152,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -346,21 +346,21 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
-      "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
+      "phone": "(689) 215-6283",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -427,15 +427,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
@@ -451,6 +442,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 29,
+      "count": 28,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -869,7 +869,7 @@
     },
     {
       "name": "Orlando",
-      "count": 107
+      "count": 105
     },
     {
       "name": "Winter Garden",
@@ -1077,17 +1077,17 @@
       ]
     },
     {
-      "name": "Barber Park Apartments",
-      "count": 29,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Barber Park Apartments",
+      "count": 28,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1140,13 +1140,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 14,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 14,
       "cities": [
@@ -1158,6 +1151,13 @@
       "count": 14,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 13,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1343,8 +1343,8 @@
       ]
     }
   ],
-  "mfTotal": 571,
-  "total": 863,
+  "mfTotal": 569,
+  "total": 861,
   "groups": [
     {
       "key": "inicio",
