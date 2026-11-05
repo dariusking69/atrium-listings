@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 299,
+      "count": 298,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(804) 426-8360",
       "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 30,
+      "count": 39,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -85,7 +85,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -156,21 +156,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 184,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(804) 426-8360",
       "cities": [
@@ -349,7 +349,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 30,
+      "count": 39,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -385,7 +385,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 21,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -447,21 +447,21 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -693,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 299,
+      "count": 298,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 30,
+      "count": 39,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -781,7 +781,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 21,
+      "count": 22,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -867,12 +867,12 @@
   ],
   "cities": [
     {
-      "name": "Richmond",
-      "count": 111
+      "name": "Orlando",
+      "count": 113
     },
     {
-      "name": "Orlando",
-      "count": 105
+      "name": "Richmond",
+      "count": 111
     },
     {
       "name": "Winter Garden",
@@ -880,15 +880,15 @@
     },
     {
       "name": "Nashville",
-      "count": 81
+      "count": 80
     },
     {
       "name": "Lake Mary",
-      "count": 70
+      "count": 69
     },
     {
       "name": "Antioch",
-      "count": 55
+      "count": 54
     },
     {
       "name": "Winter Park",
@@ -916,7 +916,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Jacksonville",
@@ -959,6 +959,10 @@
       "count": 4
     },
     {
+      "name": "Belleview",
+      "count": 3
+    },
+    {
       "name": "Sanford",
       "count": 2
     },
@@ -968,10 +972,6 @@
     },
     {
       "name": "Altamonte Springs",
-      "count": 2
-    },
-    {
-      "name": "Belleview",
       "count": 2
     },
     {
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "PG2",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG3",
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "PG4",
-      "count": 9
+      "count": 10
     },
     {
       "name": "PG5",
@@ -1085,7 +1085,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 30,
+      "count": 39,
       "cities": [
         "Orlando"
       ]
@@ -1113,7 +1113,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 21,
+      "count": 22,
       "cities": [
         "Winter Springs"
       ]
@@ -1161,17 +1161,17 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 11,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 10,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 10,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1350,8 +1350,8 @@
       ]
     }
   ],
-  "mfTotal": 567,
-  "total": 860,
+  "mfTotal": 576,
+  "total": 867,
   "groups": [
     {
       "key": "inicio",
