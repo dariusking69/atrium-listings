@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 298,
+      "count": 299,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(804) 426-8360",
       "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 39,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -94,11 +94,20 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 20,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -112,20 +121,11 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -156,21 +156,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -237,15 +237,6 @@
       ]
     },
     {
-      "name": "Raven Place",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -273,6 +264,15 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 184,
+      "count": 185,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(804) 426-8360",
       "cities": [
@@ -349,7 +349,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 39,
+      "count": 37,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -394,11 +394,20 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 20,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -412,20 +421,11 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 16,
+      "count": 15,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -447,21 +447,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -475,7 +475,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -543,15 +543,6 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -654,6 +645,15 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Beach Flats",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -693,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 298,
+      "count": 299,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 39,
+      "count": 37,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -790,23 +790,23 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 16,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 14,
+      "count": 20,
       "communities": [
         "Reserve at Lake Irene"
       ],
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Cranes Landing",
+      "count": 15,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -845,7 +845,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 8,
+      "count": 9,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -868,11 +868,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 113
+      "count": 115
     },
     {
       "name": "Richmond",
-      "count": 111
+      "count": 109
     },
     {
       "name": "Winter Garden",
@@ -892,7 +892,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 41
+      "count": 40
     },
     {
       "name": "Kissimmee",
@@ -915,20 +915,20 @@
       "count": 27
     },
     {
+      "name": "Casselberry",
+      "count": 24
+    },
+    {
       "name": "Winter Springs",
       "count": 22
     },
     {
+      "name": "Sandston",
+      "count": 21
+    },
+    {
       "name": "Jacksonville",
       "count": 20
-    },
-    {
-      "name": "Sandston",
-      "count": 20
-    },
-    {
-      "name": "Casselberry",
-      "count": 18
     },
     {
       "name": "Ocoee",
@@ -1030,7 +1030,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 43
+      "count": 42
     },
     {
       "name": "PG2",
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "PG7",
-      "count": 10
+      "count": 12
     },
     {
       "name": "PG8",
@@ -1085,7 +1085,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 39,
+      "count": 37,
       "cities": [
         "Orlando"
       ]
@@ -1120,9 +1120,16 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 20,
+      "count": 21,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 20,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1134,16 +1141,9 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 16,
+      "count": 15,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 14,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1161,17 +1161,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 10,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1183,7 +1183,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 9,
       "cities": [
         "Orlando"
       ]
@@ -1235,13 +1235,6 @@
       "count": 4,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 3,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1322,6 +1315,13 @@
       ]
     },
     {
+      "name": "Raven Place",
+      "count": 1,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Beach Flats",
       "count": 1,
       "cities": [
@@ -1350,8 +1350,8 @@
       ]
     }
   ],
-  "mfTotal": 576,
-  "total": 867,
+  "mfTotal": 581,
+  "total": 873,
   "groups": [
     {
       "key": "inicio",
