@@ -59,7 +59,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -94,21 +94,21 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 36,
+      "count": 35,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -395,21 +395,21 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 20,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -754,7 +754,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 36,
+      "count": 35,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -783,16 +783,6 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 20,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Lake Irene",
       "count": 19,
       "communities": [
@@ -800,6 +790,16 @@
       ],
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Ave. at Winter Springs",
+      "count": 19,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -871,7 +871,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 115
+      "count": 114
     },
     {
       "name": "Richmond",
@@ -931,7 +931,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Ocoee",
@@ -1088,7 +1088,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 36,
+      "count": 35,
       "cities": [
         "Orlando"
       ]
@@ -1122,17 +1122,17 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 20,
-      "cities": [
-        "Winter Springs"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
       "count": 19,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Avenues at Winter Springs",
+      "count": 19,
+      "cities": [
+        "Winter Springs"
       ]
     },
     {
@@ -1353,8 +1353,8 @@
       ]
     }
   ],
-  "mfTotal": 574,
-  "total": 877,
+  "mfTotal": 572,
+  "total": 875,
   "groups": [
     {
       "key": "inicio",
