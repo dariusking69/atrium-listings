@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 299,
+      "count": 311,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(804) 426-8360",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -12,6 +12,7 @@
         "Casselberry",
         "Celebration",
         "Charlottesville",
+        "Davenport",
         "Daytona Beach",
         "DeBary",
         "DeLand",
@@ -58,18 +59,9 @@
     },
     {
       "name": "Barber Park",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 27,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
       ]
@@ -84,12 +76,12 @@
       ]
     },
     {
-      "name": "Ave. at Winter Springs",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
+      "name": "Baldwin Park",
+      "count": 26,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
-        "Winter Springs"
+        "Orlando"
       ]
     },
     {
@@ -102,8 +94,17 @@
       ]
     },
     {
-      "name": "Lake Irene",
+      "name": "Ave. at Winter Springs",
       "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -121,7 +122,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -138,15 +139,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -156,8 +148,17 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
       "name": "The Julian",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -174,21 +175,21 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -201,21 +202,21 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -285,15 +286,16 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 185,
+      "count": 196,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(804) 426-8360",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
         "Belleview",
         "Casselberry",
         "Celebration",
+        "Davenport",
         "Daytona Beach",
         "DeBary",
         "DeLand",
@@ -349,7 +351,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 37,
+      "count": 36,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -366,15 +368,6 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 27,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
@@ -384,12 +377,12 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 22,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
+      "name": "Avenues of Baldwin Park",
+      "count": 26,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
       "cities": [
-        "Winter Springs"
+        "Orlando"
       ]
     },
     {
@@ -402,8 +395,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Avenues at Winter Springs",
       "count": 20,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -421,7 +423,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -439,7 +441,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -448,7 +450,7 @@
     },
     {
       "name": "The Julian",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -465,6 +467,15 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -474,30 +485,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 6,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Champions Village",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -516,6 +509,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -561,6 +563,15 @@
       "phone": "(804) 977-1161",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(813) 355-9968",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -615,15 +626,6 @@
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(813) 355-9968",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -693,7 +695,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 299,
+      "count": 311,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -713,6 +715,7 @@
         "Casselberry",
         "Celebration",
         "Charlottesville",
+        "Davenport",
         "Daytona Beach",
         "DeBary",
         "DeLand",
@@ -751,19 +754,9 @@
     },
     {
       "name": "Barber Park",
-      "count": 37,
+      "count": 36,
       "communities": [
         "Barber Park Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 27,
-      "communities": [
-        "Avenues of Baldwin Park"
       ],
       "cities": [
         "Orlando"
@@ -780,8 +773,18 @@
       ]
     },
     {
+      "name": "Baldwin Park",
+      "count": 26,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 22,
+      "count": 20,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -791,7 +794,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 20,
+      "count": 19,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -801,22 +804,12 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 15,
+      "count": 14,
       "communities": [
         "Cranes Landing Apartments"
       ],
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 14,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -834,6 +827,26 @@
       ]
     },
     {
+      "name": "Timber Pointe",
+      "count": 13,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 10,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
       "count": 10,
       "communities": [
@@ -841,16 +854,6 @@
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 9,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -892,15 +895,15 @@
     },
     {
       "name": "Winter Park",
-      "count": 40
-    },
-    {
-      "name": "Kissimmee",
-      "count": 36
+      "count": 39
     },
     {
       "name": "Tampa",
-      "count": 30
+      "count": 36
+    },
+    {
+      "name": "Kissimmee",
+      "count": 35
     },
     {
       "name": "Deltona",
@@ -908,7 +911,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Peachtree Corners",
@@ -916,11 +919,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 24
-    },
-    {
-      "name": "Winter Springs",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Sandston",
@@ -931,12 +930,20 @@
       "count": 20
     },
     {
+      "name": "Winter Springs",
+      "count": 20
+    },
+    {
       "name": "Ocoee",
       "count": 14
     },
     {
       "name": "Macon",
-      "count": 14
+      "count": 13
+    },
+    {
+      "name": "Lakeland",
+      "count": 8
     },
     {
       "name": "Charlottesville",
@@ -944,11 +951,7 @@
     },
     {
       "name": "Davenport",
-      "count": 4
-    },
-    {
-      "name": "Lakeland",
-      "count": 4
+      "count": 5
     },
     {
       "name": "St. Cloud",
@@ -1038,19 +1041,19 @@
     },
     {
       "name": "PG3",
-      "count": 9
-    },
-    {
-      "name": "PG4",
       "count": 10
     },
     {
+      "name": "PG4",
+      "count": 9
+    },
+    {
       "name": "PG5",
-      "count": 11
+      "count": 14
     },
     {
       "name": "PG7",
-      "count": 12
+      "count": 13
     },
     {
       "name": "PG8",
@@ -1058,7 +1061,7 @@
     },
     {
       "name": "PG9",
-      "count": 5
+      "count": 10
     }
   ],
   "mfProperties": [
@@ -1085,7 +1088,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 37,
+      "count": 36,
       "cities": [
         "Orlando"
       ]
@@ -1098,13 +1101,6 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 27,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Aston Square Apartments",
       "count": 27,
       "cities": [
@@ -1112,10 +1108,10 @@
       ]
     },
     {
-      "name": "The Avenues at Winter Springs",
-      "count": 22,
+      "name": "Avenues of Baldwin Park",
+      "count": 26,
       "cities": [
-        "Winter Springs"
+        "Orlando"
       ]
     },
     {
@@ -1126,8 +1122,15 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Avenues at Winter Springs",
       "count": 20,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
       "cities": [
         "Casselberry"
       ]
@@ -1141,7 +1144,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 15,
+      "count": 14,
       "cities": [
         "Winter Park"
       ]
@@ -1155,14 +1158,14 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Macon"
       ]
     },
     {
       "name": "The Julian",
-      "count": 12,
+      "count": 11,
       "cities": [
         "Orlando"
       ]
@@ -1175,6 +1178,13 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 10,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
       "count": 10,
       "cities": [
@@ -1182,24 +1192,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The Jeffersonian",
       "count": 6,
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Champions Village",
-      "count": 5,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1214,6 +1210,13 @@
       "count": 4,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 4,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1249,6 +1252,13 @@
       "count": 3,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Janie B Apartments",
+      "count": 3,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1291,13 +1301,6 @@
       "count": 2,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Janie B Apartments",
-      "count": 2,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1350,8 +1353,8 @@
       ]
     }
   ],
-  "mfTotal": 581,
-  "total": 873,
+  "mfTotal": 574,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
