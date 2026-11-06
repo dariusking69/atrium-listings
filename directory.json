@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 311,
+      "count": 314,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -94,15 +94,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
@@ -118,6 +109,15 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -166,21 +166,21 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -286,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 196,
+      "count": 199,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -395,15 +395,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
@@ -419,6 +410,15 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -458,21 +458,21 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -695,7 +695,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 311,
+      "count": 314,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -783,16 +783,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 19,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
       "count": 19,
       "communities": [
@@ -800,6 +790,16 @@
       ],
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 18,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 11,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -871,7 +871,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 114
+      "count": 115
     },
     {
       "name": "Richmond",
@@ -887,7 +887,7 @@
     },
     {
       "name": "Lake Mary",
-      "count": 69
+      "count": 71
     },
     {
       "name": "Antioch",
@@ -919,7 +919,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Sandston",
@@ -962,12 +962,12 @@
       "count": 4
     },
     {
-      "name": "Belleview",
+      "name": "Sanford",
       "count": 3
     },
     {
-      "name": "Sanford",
-      "count": 2
+      "name": "Belleview",
+      "count": 3
     },
     {
       "name": "Saint Cloud",
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "PG2",
-      "count": 11
+      "count": 14
     },
     {
       "name": "PG3",
@@ -1122,13 +1122,6 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 19,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 19,
       "cities": [
@@ -1140,6 +1133,13 @@
       "count": 19,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1171,17 +1171,17 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 11,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Oasis at San Marco",
       "count": 10,
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1354,7 +1354,7 @@
     }
   ],
   "mfTotal": 572,
-  "total": 875,
+  "total": 878,
   "groups": [
     {
       "key": "inicio",
