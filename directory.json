@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 314,
+      "count": 313,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -24,7 +24,6 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -50,7 +49,7 @@
     },
     {
       "name": "The Hub",
-      "count": 77,
+      "count": 76,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -94,8 +93,17 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -104,7 +112,7 @@
     },
     {
       "name": "The Nest",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -112,12 +120,12 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "name": "Timber Pointe",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
       "cities": [
-        "Casselberry"
+        "Macon"
       ]
     },
     {
@@ -148,15 +156,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -176,7 +175,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -185,7 +184,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -286,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 199,
+      "count": 198,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -307,7 +306,6 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -333,7 +331,7 @@
     },
     {
       "name": "The Hub",
-      "count": 77,
+      "count": 76,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -395,8 +393,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -405,7 +412,7 @@
     },
     {
       "name": "The Nest",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
@@ -413,12 +420,12 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
+      "name": "Timber Pointe Apartments",
+      "count": 14,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
       "cities": [
-        "Casselberry"
+        "Macon"
       ]
     },
     {
@@ -437,15 +444,6 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -468,7 +466,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -477,7 +475,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
@@ -695,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 314,
+      "count": 313,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -727,7 +725,6 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
-        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -783,8 +780,18 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 18,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 18,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -793,13 +800,13 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 18,
+      "name": "Timber Pointe",
+      "count": 14,
       "communities": [
-        "Reserve at Lake Irene"
+        "Timber Pointe Apartments"
       ],
       "cities": [
-        "Casselberry"
+        "Macon"
       ]
     },
     {
@@ -827,16 +834,6 @@
       ]
     },
     {
-      "name": "Timber Pointe",
-      "count": 13,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 11,
       "communities": [
@@ -848,7 +845,7 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
@@ -875,7 +872,7 @@
     },
     {
       "name": "Richmond",
-      "count": 109
+      "count": 107
     },
     {
       "name": "Winter Garden",
@@ -899,7 +896,7 @@
     },
     {
       "name": "Tampa",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Kissimmee",
@@ -910,12 +907,12 @@
       "count": 30
     },
     {
-      "name": "Gainesville",
+      "name": "Peachtree Corners",
       "count": 27
     },
     {
-      "name": "Peachtree Corners",
-      "count": 27
+      "name": "Gainesville",
+      "count": 26
     },
     {
       "name": "Casselberry",
@@ -927,19 +924,19 @@
     },
     {
       "name": "Jacksonville",
-      "count": 20
+      "count": 18
     },
     {
       "name": "Winter Springs",
-      "count": 19
+      "count": 18
+    },
+    {
+      "name": "Macon",
+      "count": 14
     },
     {
       "name": "Ocoee",
       "count": 14
-    },
-    {
-      "name": "Macon",
-      "count": 13
     },
     {
       "name": "Lakeland",
@@ -983,10 +980,6 @@
     },
     {
       "name": "DeBary",
-      "count": 1
-    },
-    {
-      "name": "Ocala",
       "count": 1
     },
     {
@@ -1045,11 +1038,11 @@
     },
     {
       "name": "PG4",
-      "count": 9
+      "count": 7
     },
     {
       "name": "PG5",
-      "count": 14
+      "count": 15
     },
     {
       "name": "PG7",
@@ -1074,7 +1067,7 @@
     },
     {
       "name": "The Hub",
-      "count": 77,
+      "count": 76,
       "cities": [
         "Richmond"
       ]
@@ -1122,24 +1115,31 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Winter Springs"
       ]
     },
     {
       "name": "The Nest",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Richmond"
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 18,
+      "name": "Timber Pointe Apartments",
+      "count": 14,
       "cities": [
-        "Casselberry"
+        "Macon"
       ]
     },
     {
@@ -1154,13 +1154,6 @@
       "count": 14,
       "cities": [
         "Ocoee"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 13,
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -1179,14 +1172,14 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 10,
+      "count": 9,
       "cities": [
         "Jacksonville"
       ]
     },
     {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
+      "count": 9,
       "cities": [
         "Jacksonville"
       ]
@@ -1353,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 572,
-  "total": 878,
+  "mfTotal": 568,
+  "total": 873,
   "groups": [
     {
       "key": "inicio",
