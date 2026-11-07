@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 313,
+      "count": 312,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -94,7 +94,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -103,7 +103,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -112,20 +112,11 @@
     },
     {
       "name": "The Nest",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -147,8 +138,17 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Timber Pointe",
       "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 198,
+      "count": 197,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -349,7 +349,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 35,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -394,7 +394,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -403,7 +403,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -412,20 +412,11 @@
     },
     {
       "name": "The Nest",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -444,6 +435,15 @@
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -600,15 +600,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -663,6 +654,15 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -693,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 313,
+      "count": 312,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -751,7 +751,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 35,
+      "count": 33,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -781,7 +781,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -791,22 +791,12 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 17,
       "communities": [
         "The Avenues at Winter Springs"
       ],
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 14,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -820,8 +810,18 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
+      "name": "Timber Pointe",
       "count": 13,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 12,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -868,11 +868,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 115
+      "count": 113
     },
     {
       "name": "Richmond",
-      "count": 107
+      "count": 106
     },
     {
       "name": "Winter Garden",
@@ -880,7 +880,7 @@
     },
     {
       "name": "Nashville",
-      "count": 80
+      "count": 79
     },
     {
       "name": "Lake Mary",
@@ -888,7 +888,7 @@
     },
     {
       "name": "Antioch",
-      "count": 54
+      "count": 53
     },
     {
       "name": "Winter Park",
@@ -896,7 +896,7 @@
     },
     {
       "name": "Tampa",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Kissimmee",
@@ -916,7 +916,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Sandston",
@@ -928,15 +928,15 @@
     },
     {
       "name": "Winter Springs",
-      "count": 18
-    },
-    {
-      "name": "Macon",
-      "count": 14
+      "count": 17
     },
     {
       "name": "Ocoee",
       "count": 14
+    },
+    {
+      "name": "Macon",
+      "count": 13
     },
     {
       "name": "Lakeland",
@@ -1081,7 +1081,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 35,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1116,30 +1116,23 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Winter Springs"
       ]
     },
     {
       "name": "The Nest",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 14,
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -1154,6 +1147,13 @@
       "count": 14,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 13,
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -1276,13 +1276,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 2,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Valencia Isle",
       "count": 2,
       "cities": [
@@ -1325,6 +1318,13 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "cities": [
@@ -1346,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 568,
-  "total": 873,
+  "mfTotal": 561,
+  "total": 864,
   "groups": [
     {
       "key": "inicio",
@@ -1362,7 +1362,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 13
+      "listings": 12
     }
   ]
 }
