@@ -102,21 +102,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -147,21 +147,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -402,21 +402,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -492,21 +492,21 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -780,16 +780,6 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 16,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
       "count": 16,
       "communities": [
@@ -797,6 +787,16 @@
       ],
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 15,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -821,7 +821,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 12,
+      "count": 11,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -896,7 +896,7 @@
     },
     {
       "name": "Tampa",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Kissimmee",
@@ -920,7 +920,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Jacksonville",
@@ -1122,17 +1122,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
       "count": 16,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 15,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1192,17 +1192,17 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 5,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 4,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 4,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1346,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 558,
-  "total": 864,
+  "mfTotal": 556,
+  "total": 862,
   "groups": [
     {
       "key": "inicio",
@@ -1362,7 +1362,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 12
+      "listings": 11
     }
   ]
 }
