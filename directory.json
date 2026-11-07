@@ -93,8 +93,17 @@
       ]
     },
     {
-      "name": "Lake Irene",
+      "name": "The Nest",
       "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -103,20 +112,11 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -393,8 +393,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Nest",
       "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -403,20 +412,11 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -457,7 +457,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -781,7 +781,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -791,7 +791,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 17,
+      "count": 16,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -835,7 +835,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -868,7 +868,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 114
+      "count": 113
     },
     {
       "name": "Richmond",
@@ -915,12 +915,12 @@
       "count": 26
     },
     {
-      "name": "Casselberry",
+      "name": "Sandston",
       "count": 21
     },
     {
-      "name": "Sandston",
-      "count": 21
+      "name": "Casselberry",
+      "count": 20
     },
     {
       "name": "Jacksonville",
@@ -928,7 +928,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Ocoee",
@@ -1115,24 +1115,24 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
+      "name": "The Nest",
       "count": 17,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 16,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "The Nest",
-      "count": 17,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1165,7 +1165,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Orlando"
       ]
@@ -1346,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 561,
-  "total": 867,
+  "mfTotal": 558,
+  "total": 864,
   "groups": [
     {
       "key": "inicio",
