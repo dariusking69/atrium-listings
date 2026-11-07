@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 312,
+      "count": 315,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(305) 783-9814",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -285,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 197,
+      "count": 200,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(305) 783-9814",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -693,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 312,
+      "count": 315,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -868,7 +868,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 113
+      "count": 114
     },
     {
       "name": "Richmond",
@@ -884,7 +884,7 @@
     },
     {
       "name": "Lake Mary",
-      "count": 71
+      "count": 72
     },
     {
       "name": "Antioch",
@@ -967,6 +967,10 @@
       "count": 3
     },
     {
+      "name": "DeBary",
+      "count": 2
+    },
+    {
       "name": "Saint Cloud",
       "count": 2
     },
@@ -977,10 +981,6 @@
     {
       "name": "Titusville",
       "count": 2
-    },
-    {
-      "name": "DeBary",
-      "count": 1
     },
     {
       "name": "Poinciana",
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "PG7",
-      "count": 13
+      "count": 14
     },
     {
       "name": "PG8",
@@ -1347,7 +1347,7 @@
     }
   ],
   "mfTotal": 561,
-  "total": 864,
+  "total": 867,
   "groups": [
     {
       "key": "inicio",
