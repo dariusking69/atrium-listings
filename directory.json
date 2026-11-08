@@ -891,6 +891,10 @@
       "count": 53
     },
     {
+      "name": "Peachtree Corners",
+      "count": 41
+    },
+    {
       "name": "Winter Park",
       "count": 38
     },
@@ -905,10 +909,6 @@
     {
       "name": "Deltona",
       "count": 30
-    },
-    {
-      "name": "Peachtree Corners",
-      "count": 27
     },
     {
       "name": "Gainesville",
@@ -1347,7 +1347,7 @@
     }
   ],
   "mfTotal": 554,
-  "total": 860,
+  "total": 874,
   "groups": [
     {
       "key": "inicio",
