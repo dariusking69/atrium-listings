@@ -120,15 +120,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -147,6 +138,15 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "The Julian",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
@@ -420,15 +420,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
-      "phone": "(689) 300-6288",
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
@@ -444,6 +435,15 @@
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
+      "phone": "(689) 300-6288",
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -546,15 +546,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 513-0814",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -606,6 +597,15 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 513-0814",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -800,16 +800,6 @@
       ]
     },
     {
-      "name": "Cranes Landing",
-      "count": 14,
-      "communities": [
-        "Cranes Landing Apartments"
-      ],
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 13,
       "communities": [
@@ -820,8 +810,18 @@
       ]
     },
     {
+      "name": "Cranes Landing",
+      "count": 13,
+      "communities": [
+        "Cranes Landing Apartments"
+      ],
+      "cities": [
+        "Winter Park"
+      ]
+    },
+    {
       "name": "Inicio Tampa",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -892,15 +892,15 @@
     },
     {
       "name": "Winter Park",
-      "count": 39
-    },
-    {
-      "name": "Tampa",
-      "count": 35
+      "count": 38
     },
     {
       "name": "Kissimmee",
       "count": 35
+    },
+    {
+      "name": "Tampa",
+      "count": 34
     },
     {
       "name": "Deltona",
@@ -1136,13 +1136,6 @@
       ]
     },
     {
-      "name": "Cranes Landing Apartments",
-      "count": 14,
-      "cities": [
-        "Winter Park"
-      ]
-    },
-    {
       "name": "Ocoee Village",
       "count": 14,
       "cities": [
@@ -1154,6 +1147,13 @@
       "count": 13,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Cranes Landing Apartments",
+      "count": 13,
+      "cities": [
+        "Winter Park"
       ]
     },
     {
@@ -1234,13 +1234,6 @@
       ]
     },
     {
-      "name": "The William at Westshore",
-      "count": 3,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Coliseum Lofts",
       "count": 3,
       "cities": [
@@ -1280,6 +1273,13 @@
       "count": 2,
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "The William at Westshore",
+      "count": 2,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1346,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 556,
-  "total": 862,
+  "mfTotal": 554,
+  "total": 860,
   "groups": [
     {
       "key": "inicio",
@@ -1362,7 +1362,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 11
+      "listings": 10
     }
   ]
 }
