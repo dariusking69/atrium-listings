@@ -198,6 +198,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 }
 </style>
 
+<!-- The shared Atrium search (typos, best match first). Same origin as listings.json. -->
+<script src="static/smart_search.js"></script>
 <script>
 (function(){
   // ================= CONFIG =================
@@ -419,7 +421,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       var zip=(l.address||'').match(/(\d{5})(?:-\d{4})?\s*$/);
       return {
         id:l.id, uuid:l.uuid||'', title:l.title||l.street||l.address, street:l.street||parts[0]||'',
-        city:l.city||parts[1]||'', zip: zip?zip[1]:'',
+        city:l.city||parts[1]||'', zip: zip?zip[1]:'', community:l.community||'',
         address:l.address||'', rent:l.rent||'', rent_val:l.rent_val||0,
         beds:(l.beds==null?null:l.beds), baths:(l.baths==null?null:l.baths),
         sqft:l.sqft||null, photo:l.photo||(l.photos&&l.photos[0])||'',
@@ -604,6 +606,19 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         || (l.zip||'').indexOf(q)>=0
         || (l.city||'').toLowerCase().indexOf(q)>=0;
   }
+  // The same fields through the shared Atrium search (static/smart_search.js,
+  // Alex 2026-11-05: misspellings, close matches, best match first), with the
+  // community name added and put first, so "Cardnal" leads with Cardinal
+  // Village. Returns the homes best match first; ties keep the order of
+  // `pool`. Anything the plain check above finds is kept as well, after the
+  // ranked ones, so no search finds less than it did before.
+  function searchFields(l){ return [l.community, l.title, l.address, l.city, l.zip]; }
+  function textHits(qRaw,q,pool){
+    var hits=window.SmartSearch ? window.SmartSearch.rank(qRaw,pool,searchFields) : [];
+    var seen={}; hits.forEach(function(l){ seen[l.id]=1; });
+    pool.forEach(function(l){ if(!seen[l.id] && matchesText(l,q)) hits.push(l); });
+    return hits;
+  }
   // How many listings sit inside an area — used to refuse a geocoded place that
   // turns up nothing (almost always a same-named spot in another metro).
   function countNear(a){
@@ -623,9 +638,17 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     var st=(!EMBED && PF.ready)?$('#atr-status').value:'';
     var pfSel=PF.ready?$('#atr-pf').value:'';
     var pool=(st==='leased')?PF.leased:(st==='all')?DATA.concat(PF.leased):DATA;
+    var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
+    // Leased portfolio ids are strings ('pf-<guid>'); the 'new' sort must not
+    // NaN on them.
+    var numId=function(x){ return typeof x==='number'?x:0; };
+    var bySort=function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?numId(b.id)-numId(a.id):b.rent_val-a.rent_val; };
     // ===== SEARCH TIERS — our own data always beats an outside map lookup =====
-    // 1. literal match on address/title/city/zip  (unchanged behavior)
+    // 1. literal match on address/title/city/zip  (decides tier 2, as before)
     // 2. a known area alias                       ("four corners", "near disney")
+    //    1 again, through the shared search: community, title, address, city,
+    //    ZIP, typos forgiven, best match first ("Cardnal" -> Cardinal Village).
+    //    It runs whenever 2 did not answer, so a typo never hides an area.
     // 3. community name in the marketing copy     ("Hammocks", "Champions")
     // 4. geocode the phrase                       — ONLY if it yields listings
     // Tier 3 exists because community names live only in the description: a
@@ -634,11 +657,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // searched when the normal fields already match, because that would wreck
     // ordinary searches ("orlando" 73 -> 105 since other listings say "20
     // minutes from Orlando"; "pool" 5 -> 273).
-    var AREA=null, USE_DESC=false;
+    var AREA=null, USE_DESC=false, HITS=null;
     var hasLiteral = !!q && pool.some(function(l){ return matchesText(l,q); });
-    if(q && !hasLiteral){
-      AREA=matchArea(qRaw);                                        // tier 2
-      if(!AREA){
+    if(q && !hasLiteral) AREA=matchArea(qRaw);                     // tier 2
+    if(q && !AREA){
+      HITS=textHits(qRaw,q,pool.slice().sort(bySort));             // tier 1, ranked
+      if(!HITS.length){
+        HITS=null;
         if(pool.some(function(l){ return l.desc.indexOf(q)>=0; })) USE_DESC=true;  // tier 3
         else {
           var g=GEO_CACHE[normQ(qRaw)];                            // tier 4
@@ -649,13 +674,14 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     setAreaNotice(AREA);
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value, ci=$('#atr-city').value, zp=$('#atr-zip').value;
-    var rows=pool.filter(function(l){
+    // HITS holds only the homes the search found, best match first.
+    var rows=(HITS||pool).filter(function(l){
       if(pfSel && !(l.pf && l.pf.indexOf(pfSel)>=0))return false;
       if(AREA){                                   // geographic search
         if(l.lat==null||l.lng==null)return false;
         if(milesBetween(AREA.lat,AREA.lng,l.lat,l.lng)>AREA.mi)return false;
       }
-      else if(q && !matchesText(l,q) && !(USE_DESC && l.desc.indexOf(q)>=0))return false;
+      else if(q && !HITS && !(USE_DESC && l.desc.indexOf(q)>=0))return false;
       if(mn!=null && l.rent_val<mn)return false;
       if(mx!=null && l.rent_val>0 && l.rent_val>mx)return false;
       if(bd!=='' ){ if(bd==='0'){ if(l.beds!==0)return false; } else if((l.beds||0)<+bd)return false; }
@@ -672,7 +698,6 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(AREA && AREA.geocoded && !rows.length){
       AREA=null; setAreaNotice(null);
     }
-    var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
     if(AREA && !SORT_TOUCHED){
       // Area search: closest homes first, so the ones actually IN the area lead
       // (a rent sort would top the list with the farthest, priciest outliers).
@@ -680,12 +705,13 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       rows.sort(function(a,b){
         return milesBetween(AREA.lat,AREA.lng,a.lat,a.lng)-milesBetween(AREA.lat,AREA.lng,b.lat,b.lng);
       });
+    } else if(HITS && !SORT_TOUCHED){
+      // Text search: already best match first, ties in the chosen sort. The
+      // same rule as the area order: an explicit sort choice still wins.
     } else {
-      // Leased portfolio ids are strings ('pf-<guid>'); the 'new' sort must not
-      // NaN on them, and this must stay INSIDE the else or it clobbers the
-      // area closest-first order above (it did once - caught in review).
-      var numId=function(x){ return typeof x==='number'?x:0; };
-      rows.sort(function(a,b){ return s==='rent_asc'?asc(a.rent_val)-asc(b.rent_val):s==='new'?numId(b.id)-numId(a.id):b.rent_val-a.rent_val; });
+      // This must stay INSIDE the else or it clobbers the closest-first and
+      // best-match-first orders above (it did once - caught in review).
+      rows.sort(bySort);
     }
     // In the combined view, homes you can actually rent always lead. Stable
     // sort, so the chosen order is preserved inside each group.
@@ -726,7 +752,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // the "empty map" case. Look it up ONCE per query, and only redraw if the
     // result actually contains listings (GEO_TRIED plus that check stop a
     // cached, fruitless hit from re-entering apply() forever).
-    if(qRaw && !AREA && !USE_DESC && rows.length===0 && !GEO_TRIED[normQ(qRaw)]){
+    if(qRaw && !AREA && !USE_DESC && !HITS && rows.length===0 && !GEO_TRIED[normQ(qRaw)]){
       GEO_TRIED[normQ(qRaw)]=1;
       geocodeArea(qRaw, function(hit){ if(hit && countNear(hit)>0) apply(); });
     }
@@ -826,10 +852,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 
   // ================= EVENTS =================
   function wire(){
+    // Remember an explicit sort choice so it outranks the area "closest first" and
+    // the search "best match first" defaults. Wired BEFORE apply(), or the first
+    // pick runs apply() with the flag still unset and nothing re-sorts.
+    $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
     ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort','#atr-status','#atr-pf']
       .forEach(function(s){$(s).addEventListener('input',apply);});
-    // Remember an explicit sort choice so it outranks the area "closest first" default.
-    $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
     $('#atr-reset').addEventListener('click',function(){
       ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-status','#atr-pf'].forEach(function(s){$(s).value='';});

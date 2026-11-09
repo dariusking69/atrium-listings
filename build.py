@@ -285,6 +285,13 @@ def _groups():
     return d, (meta.get("groups") or {})
 
 
+def grid_html(listings):
+    """grid.html for these listings: the plain card grid with its own search box."""
+    return INDEX_TPL.replace("/*__DATA__*/", json.dumps(
+        [{k: l.get(k) for k in ("id", "street", "city", "rent", "rent_val", "specs", "beds", "photo", "address", "community")} for l in listings],
+        separators=(",", ":"))).replace("__COUNT__", str(len(listings)))
+
+
 def build(listings):
     groups, client_groups = _groups()
     for l in listings:
@@ -313,11 +320,8 @@ def build(listings):
     for f in (HERE / "homes").glob("*.html"):
         if f.stem not in ids:
             f.unlink()
-    grid = INDEX_TPL.replace("/*__DATA__*/", json.dumps(
-        [{k: l.get(k) for k in ("id", "street", "city", "rent", "rent_val", "specs", "beds", "photo", "address")} for l in listings],
-        separators=(",", ":"))).replace("__COUNT__", str(len(listings)))
     # widget.html (map + grid) is the canonical listings page; keep the plain grid as grid.html
-    (HERE / "grid.html").write_text(grid, encoding="utf-8")
+    (HERE / "grid.html").write_text(grid_html(listings), encoding="utf-8")
     # index.html / bare site URL -> redirect to the widget so there is one listings page
     (HERE / "index.html").write_text(
         '<!DOCTYPE html><meta charset="utf-8"><title>Atrium Residential Listings</title>'
@@ -866,6 +870,7 @@ INDEX_TPL = r"""<!DOCTYPE html><html lang="en"><head>
 <main><div class="grid" id="grid"></div>
   <div class="empty" id="empty" style="display:none">No homes match your filters.</div></main>
 <footer>Listings sourced live from Atrium’s property management system. Equal Housing Opportunity.</footer>
+<script src="static/smart_search.js"></script>
 <script>
 const LISTINGS=/*__DATA__*/;const $=s=>document.querySelector(s);
 const grid=$('#grid'),q=$('#q'),beds=$('#beds'),price=$('#price'),sort=$('#sort');
@@ -875,17 +880,27 @@ function card(l){const a=document.createElement('a');a.className='card';a.href='
    <div class="body"><div class="specs">${l.specs||''}</div><div class="addr">${l.street}</div>
    <div class="city">${l.city||''}</div><div class="cta"><span>View details &amp; apply →</span></div></div>`;
   const img=a.querySelector('img');if(img){img.onload=()=>img.classList.add('on');if(img.complete)img.classList.add('on');}return a;}
-function apply(){const t=q.value.trim().toLowerCase();
+// The search is the shared Atrium one (static/smart_search.js): typos forgiven, best match
+// first, ties in the chosen sort; a sort picked by hand still wins. What the old plain
+// "contains" check found is kept too, after the ranked ones.
+let sortTouched=false;
+function apply(){const raw=q.value.trim(),t=raw.toLowerCase();
   const mb=beds.value===''?null:parseFloat(beds.value),mp=price.value===''?null:parseInt(price.value);
-  let rows=LISTINGS.filter(l=>{if(t&&!(l.address||'').toLowerCase().includes(t))return false;
+  const s=sort.value,asc=v=>v>0?v:Infinity;
+  const bySort=(a,b)=>s==='rent_desc'?b.rent_val-a.rent_val:s==='new'?(b.id||0)-(a.id||0):asc(a.rent_val)-asc(b.rent_val);
+  let pool=LISTINGS;
+  if(t){const all=LISTINGS.slice().sort(bySort);
+    pool=window.SmartSearch?SmartSearch.rank(raw,all,l=>[l.community,l.street,l.address,l.city]):[];
+    const seen=new Set(pool);all.forEach(l=>{if(!seen.has(l)&&(l.address||'').toLowerCase().includes(t))pool.push(l);});}
+  let rows=pool.filter(l=>{
     if(mb!==null){if(mb===0){if(l.beds!==0)return false;}else if((l.beds||0)<mb)return false;}
     if(mp!==null&&(l.rent_val||0)>mp)return false;return true;});
-  const s=sort.value,asc=v=>v>0?v:Infinity;
-  rows.sort((a,b)=>s==='rent_desc'?b.rent_val-a.rent_val:s==='new'?(b.id||0)-(a.id||0):asc(a.rent_val)-asc(b.rent_val));
+  if(!(t&&!sortTouched))rows.sort(bySort);
   grid.innerHTML='';rows.forEach(l=>grid.appendChild(card(l)));
   $('#shown').textContent=rows.length;$('#empty').style.display=rows.length?'none':'block';}
+sort.addEventListener('input',()=>{sortTouched=true;});
 [q,beds,price,sort].forEach(e=>e.addEventListener('input',apply));
-$('#clear').onclick=()=>{q.value='';beds.value='';price.value='';sort.value='rent_asc';apply();};apply();
+$('#clear').onclick=()=>{q.value='';beds.value='';price.value='';sort.value='rent_asc';sortTouched=false;apply();};apply();
 </script></body></html>""".replace("__CSS__", SHARED_CSS)
 
 DETAIL_TPL = r"""<!DOCTYPE html><html lang="en"><head>
