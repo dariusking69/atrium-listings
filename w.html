@@ -187,12 +187,15 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 }
 </style>
 
+<!-- The shared Atrium search (typos, best match first). Same origin as widget-data.json. -->
+<script src="static/smart_search.js"></script>
 <script>
 (function(){
   var DATA_URL='widget-data.json', DETAIL_BASE='homes/';
   var P=new URLSearchParams(location.search);
   var $=function(s){return document.querySelector(s);};
   var DATA=[], MAP=null, RADIUS=null, POLY=null, pickMode=false, drawMode=false;
+  var SORT_TOUCHED=false;   // the visitor picked a sort, so it beats best-match-first
   // Embedded on someone else's site, a detail page must NOT navigate the iframe: the
   // detail page's own "All listings" link points at the full portfolio, so an owner's
   // scoped widget would be two clicks from every listing we manage. Open a new tab.
@@ -530,12 +533,35 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     var y=+m[3]; if(y<100)y+=2000; return new Date(y,(+m[1])-1,+m[2]).getTime();
   }
   function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function matchesText(l,q){
+    return l.address.toLowerCase().indexOf(q)>=0 || (l.city||'').toLowerCase().indexOf(q)>=0 || (l.zip||'').indexOf(q)>=0;
+  }
+  // The shared Atrium search (static/smart_search.js, Alex 2026-11-05:
+  // misspellings, close matches, best match first) over the community name,
+  // address, city and ZIP. Best match first; ties keep the order of `pool`.
+  // Anything the plain check above finds is kept too, after the ranked ones,
+  // so no search finds less than it did before.
+  function searchFields(l){ return [l.property, l.address, l.city, l.zip]; }
+  function textHits(qRaw,q,pool){
+    var hits=window.SmartSearch ? window.SmartSearch.rank(qRaw,pool,searchFields) : [];
+    var seen={}; hits.forEach(function(l){ seen[l.id]=1; });
+    pool.forEach(function(l){ if(!seen[l.id] && matchesText(l,q)) hits.push(l); });
+    return hits;
+  }
   function apply(){
-    var q=$('#atr-q').value.trim().toLowerCase();
+    var qRaw=$('#atr-q').value.trim(), q=qRaw.toLowerCase();
     var mn=parseInt($('#atr-min').value)||null, mx=parseInt($('#atr-max').value)||null;
     var bd=$('#atr-beds').value, ba=$('#atr-baths').value;
-    var rows=DATA.filter(function(l){
-      if(q && l.address.toLowerCase().indexOf(q)<0 && (l.city||'').toLowerCase().indexOf(q)<0 && (l.zip||'').indexOf(q)<0) return false;
+    var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
+    var bySort=function(a,b){
+      if(s==='rent_asc') return asc(a.rent_val)-asc(b.rent_val);
+      if(s==='sqft')     return (b.sqft||0)-(a.sqft||0);
+      if(s==='soonest')  return availTime(a.available)-availTime(b.available);
+      return b.rent_val-a.rent_val;
+    };
+    // Only the homes the search found, best match first, ties in the chosen sort.
+    var hits=q ? textHits(qRaw,q,DATA.slice().sort(bySort)) : null;
+    var rows=(hits||DATA).filter(function(l){
       if(mn!=null && l.rent_val<mn) return false;
       if(mx!=null && l.rent_val>0 && l.rent_val>mx) return false;
       if(bd!==''){ if(bd==='0'){ if(l.beds!==0) return false; } else if((l.beds||0)<+bd) return false; }
@@ -544,13 +570,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(POLY){ if(l.lat==null) return false; if(!inPolygon(l.lat,l.lng,POLY)) return false; }
       return true;
     });
-    var s=$('#atr-sort').value, asc=function(v){return v>0?v:Infinity;};
-    rows.sort(function(a,b){
-      if(s==='rent_asc') return asc(a.rent_val)-asc(b.rent_val);
-      if(s==='sqft')     return (b.sqft||0)-(a.sqft||0);
-      if(s==='soonest')  return availTime(a.available)-availTime(b.available);
-      return b.rent_val-a.rent_val;
-    });
+    // A search keeps its best-match-first order unless the visitor picks a sort.
+    if(!(hits && !SORT_TOUCHED)) rows.sort(bySort);
     render(rows); if(MAP)MAP.setData(rows);
     var word=SCOPE.property?' unit':' home';
     $('#atr-count').textContent=rows.length+word+(rows.length===1?' available':'s available');
@@ -627,7 +648,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function reset(){
     ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
     ['#atr-beds','#atr-baths'].forEach(function(s){$(s).value='';});
-    $('#atr-sort').value='rent_desc';
+    $('#atr-sort').value='rent_desc'; SORT_TOUCHED=false;
     RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
     $('#atr-radius-mi').style.display='none';
     var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='Radius';
@@ -636,6 +657,8 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     apply();
   }
   function wire(){
+    // Before apply() is wired, so the first pick already counts.
+    $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
     Object.keys(FILTERS).forEach(function(k){ $(FILTERS[k]).addEventListener('input',apply); });
     $('#atr-reset').addEventListener('click',reset);
     $('#atr-share').addEventListener('click',share);
