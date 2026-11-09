@@ -104,9 +104,17 @@ def parse_specs(spec):
     return beds, baths, sqft
 
 
+def rent_amounts(rent):
+    """Every amount in a rent string, in whole dollars: '$1,630.50' -> [1630],
+    '$1,280 - $2,064' -> [1280, 2064]. The cents are dropped with the amount they belong
+    to, never read as an amount of their own: '$1,630.50' once put "$50 to $1,630" in a
+    home's JSON-LD. rent_val and the JSON-LD price both come from here so they agree."""
+    return [int(x.replace(",", "")) for x in re.findall(r"(\d[\d,]*)(?:\.\d+)?", rent or "")]
+
+
 def rent_to_int(rent):
-    n = re.findall(r"[\d,]+", rent or "")
-    return int(n[0].replace(",", "")) if n else 0
+    n = rent_amounts(rent)
+    return n[0] if n else 0
 
 
 # Normalize source-data city spelling/casing variants so the City dropdown doesn't duplicate.
@@ -513,8 +521,7 @@ def rent_text(l):
 
 def rent_bounds(l):
     """'$1,280 - $2,064' -> (1280, 2064); a single amount -> (n, n); unpriced -> None."""
-    n = [int(x.replace(",", "")) for x in re.findall(r"\d[\d,]*", l.get("rent") or "")]
-    n = [x for x in n if x > 0]
+    n = [x for x in rent_amounts(l.get("rent")) if x > 0]
     return (min(n), max(n)) if n and (l.get("rent_val") or 0) > 0 else None
 
 
