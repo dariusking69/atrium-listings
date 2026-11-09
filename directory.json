@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 315,
+      "count": 314,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -66,21 +66,21 @@
       ]
     },
     {
+      "name": "Baldwin Park",
+      "count": 27,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -165,21 +165,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -255,21 +255,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 200,
+      "count": 199,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(305) 783-9814",
       "cities": [
@@ -366,21 +366,21 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 27,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 26,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -456,21 +456,21 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -591,15 +591,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -663,6 +654,15 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
@@ -693,7 +693,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 315,
+      "count": 314,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -760,6 +760,16 @@
       ]
     },
     {
+      "name": "Baldwin Park",
+      "count": 27,
+      "communities": [
+        "Avenues of Baldwin Park"
+      ],
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square",
       "count": 27,
       "communities": [
@@ -767,16 +777,6 @@
       ],
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Baldwin Park",
-      "count": 26,
-      "communities": [
-        "Avenues of Baldwin Park"
-      ],
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -835,7 +835,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -868,7 +868,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 113
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -880,7 +880,7 @@
     },
     {
       "name": "Nashville",
-      "count": 79
+      "count": 78
     },
     {
       "name": "Lake Mary",
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "PG7",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG8",
@@ -1094,17 +1094,17 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 27,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Aston Square Apartments",
       "count": 27,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 26,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1164,17 +1164,17 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
-      "count": 10,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Oasis at San Marco",
       "count": 9,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 9,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1269,13 +1269,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 2,
       "cities": [
@@ -1325,6 +1318,13 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 1,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Southampton Apartments",
       "count": 1,
       "cities": [
@@ -1346,8 +1346,8 @@
       ]
     }
   ],
-  "mfTotal": 554,
-  "total": 874,
+  "mfTotal": 553,
+  "total": 871,
   "groups": [
     {
       "key": "inicio",
