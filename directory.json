@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 318,
+      "count": 317,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(863) 591-3978",
       "cities": [
@@ -10,7 +10,6 @@
         "Antioch",
         "Belleview",
         "Casselberry",
-        "Celebration",
         "Charlottesville",
         "Davenport",
         "Daytona Beach",
@@ -93,17 +92,8 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
-      "count": 16,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -112,11 +102,20 @@
     },
     {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -148,7 +147,7 @@
     },
     {
       "name": "The Julian",
-      "count": 11,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -175,7 +174,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -285,7 +284,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 203,
+      "count": 202,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(863) 591-3978",
       "cities": [
@@ -293,7 +292,6 @@
         "Antioch",
         "Belleview",
         "Casselberry",
-        "Celebration",
         "Davenport",
         "Daytona Beach",
         "DeBary",
@@ -393,17 +391,8 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
-      "phone": "(804) 409-4983",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
-      "count": 16,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -412,11 +401,20 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
+      "phone": "(804) 409-4983",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -448,7 +446,7 @@
     },
     {
       "name": "The Julian",
-      "count": 11,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -466,7 +464,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -693,7 +691,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 318,
+      "count": 317,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -711,7 +709,6 @@
         "Antioch",
         "Belleview",
         "Casselberry",
-        "Celebration",
         "Charlottesville",
         "Davenport",
         "Daytona Beach",
@@ -781,7 +778,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 16,
+      "count": 19,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -791,7 +788,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -835,7 +832,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -920,15 +917,15 @@
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 21
+    },
+    {
+      "name": "Winter Springs",
+      "count": 19
     },
     {
       "name": "Jacksonville",
       "count": 17
-    },
-    {
-      "name": "Winter Springs",
-      "count": 16
     },
     {
       "name": "Ocoee",
@@ -984,10 +981,6 @@
     },
     {
       "name": "Poinciana",
-      "count": 1
-    },
-    {
-      "name": "Celebration",
       "count": 1
     },
     {
@@ -1115,24 +1108,24 @@
       ]
     },
     {
-      "name": "The Nest",
-      "count": 17,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "The Avenues at Winter Springs",
-      "count": 16,
+      "count": 19,
       "cities": [
         "Winter Springs"
       ]
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 16,
+      "count": 17,
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "The Nest",
+      "count": 17,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1158,7 +1151,7 @@
     },
     {
       "name": "The Julian",
-      "count": 11,
+      "count": 12,
       "cities": [
         "Orlando"
       ]
@@ -1172,7 +1165,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 10,
+      "count": 9,
       "cities": [
         "Orlando"
       ]
@@ -1346,8 +1339,8 @@
       ]
     }
   ],
-  "mfTotal": 565,
-  "total": 885,
+  "mfTotal": 569,
+  "total": 888,
   "groups": [
     {
       "key": "inicio",
