@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 320,
+      "count": 322,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 234-3496",
       "cities": [
@@ -24,6 +24,7 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
+        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -102,21 +103,21 @@
       ]
     },
     {
-      "name": "Lake Irene",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -210,21 +211,21 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -285,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 204,
+      "count": 206,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 234-3496",
       "cities": [
@@ -306,6 +307,7 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
+        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -402,21 +404,21 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -510,21 +512,21 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
+      "phone": "(863) 204-1180",
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
-      "phone": "(863) 204-1180",
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -693,7 +695,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 320,
+      "count": 322,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -725,6 +727,7 @@
         "Lakeland",
         "Longwood",
         "Melbourne",
+        "Ocala",
         "Orlando",
         "Poinciana",
         "Richmond",
@@ -791,7 +794,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 16,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -912,7 +915,7 @@
     },
     {
       "name": "Gainesville",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Sandston",
@@ -920,7 +923,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Jacksonville",
@@ -948,7 +951,7 @@
     },
     {
       "name": "Davenport",
-      "count": 5
+      "count": 6
     },
     {
       "name": "St. Cloud",
@@ -995,6 +998,10 @@
       "count": 1
     },
     {
+      "name": "Ocala",
+      "count": 1
+    },
+    {
       "name": "Wildwood",
       "count": 1
     },
@@ -1034,7 +1041,7 @@
     },
     {
       "name": "PG4",
-      "count": 7
+      "count": 9
     },
     {
       "name": "PG5",
@@ -1118,17 +1125,17 @@
       ]
     },
     {
-      "name": "Reserve at Lake Irene",
-      "count": 17,
-      "cities": [
-        "Casselberry"
-      ]
-    },
-    {
       "name": "The Nest",
       "count": 17,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 16,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1202,17 +1209,17 @@
       ]
     },
     {
+      "name": "Champions Chase",
+      "count": 5,
+      "cities": [
+        "Davenport"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "cities": [
         "St. Cloud"
-      ]
-    },
-    {
-      "name": "Champions Chase",
-      "count": 4,
-      "cities": [
-        "Davenport"
       ]
     },
     {
@@ -1343,7 +1350,7 @@
     }
   ],
   "mfTotal": 566,
-  "total": 883,
+  "total": 885,
   "groups": [
     {
       "key": "inicio",
