@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 322,
+      "count": 323,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(352) 268-6987",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -26,6 +26,7 @@
         "Melbourne",
         "Ocala",
         "Orlando",
+        "Oxford",
         "Poinciana",
         "Richmond",
         "Saint Cloud",
@@ -59,7 +60,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 30,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -286,7 +287,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 206,
+      "count": 205,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(352) 234-3496",
       "cities": [
@@ -351,7 +352,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 30,
+      "count": 31,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -584,6 +585,15 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(352) 268-6987",
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -695,12 +705,13 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 322,
+      "count": 323,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
         "Hammocks off Newberry",
         "Janie B Apartments",
+        "Keys at Wildwood",
         "Proxi  Lake Mary",
         "The Hammocks by Butler",
         "The Hammocks off 6th",
@@ -729,6 +740,7 @@
         "Melbourne",
         "Ocala",
         "Orlando",
+        "Oxford",
         "Poinciana",
         "Richmond",
         "Saint Cloud",
@@ -754,7 +766,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 30,
+      "count": 31,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -871,7 +883,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 112
     },
     {
       "name": "Richmond",
@@ -882,11 +894,11 @@
       "count": 92
     },
     {
-      "name": "Nashville",
-      "count": 73
+      "name": "Lake Mary",
+      "count": 72
     },
     {
-      "name": "Lake Mary",
+      "name": "Nashville",
       "count": 72
     },
     {
@@ -942,12 +954,12 @@
       "count": 13
     },
     {
-      "name": "Lakeland",
+      "name": "Charlottesville",
       "count": 8
     },
     {
-      "name": "Charlottesville",
-      "count": 8
+      "name": "Lakeland",
+      "count": 7
     },
     {
       "name": "Davenport",
@@ -968,6 +980,10 @@
     {
       "name": "Belleview",
       "count": 3
+    },
+    {
+      "name": "Oxford",
+      "count": 2
     },
     {
       "name": "DeBary",
@@ -1057,7 +1073,7 @@
     },
     {
       "name": "PG9",
-      "count": 10
+      "count": 9
     }
   ],
   "mfProperties": [
@@ -1084,7 +1100,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 30,
+      "count": 31,
       "cities": [
         "Orlando"
       ]
@@ -1265,6 +1281,13 @@
       ]
     },
     {
+      "name": "Keys at Wildwood",
+      "count": 2,
+      "cities": [
+        "Oxford"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 2,
       "cities": [
@@ -1349,8 +1372,8 @@
       ]
     }
   ],
-  "mfTotal": 563,
-  "total": 882,
+  "mfTotal": 566,
+  "total": 883,
   "groups": [
     {
       "key": "inicio",
