@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 323,
+      "count": 320,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 268-6987",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -86,6 +86,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -104,21 +113,21 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -140,15 +149,6 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "The Julian",
       "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
@@ -158,21 +158,21 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -194,21 +194,21 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -287,9 +287,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 205,
+      "count": 203,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Antioch",
@@ -387,6 +387,15 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 24,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
@@ -405,21 +414,21 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -438,15 +447,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -487,20 +487,11 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 6,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(434) 443-6987",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -522,12 +513,30 @@
       ]
     },
     {
+      "name": "The Jeffersonian",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(434) 443-6987",
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
       "phone": "(689) 210-4518",
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -555,15 +564,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -705,7 +705,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 323,
+      "count": 320,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -806,7 +806,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 16,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -836,7 +836,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 9,
+      "count": 10,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -859,16 +859,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 8,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 8,
       "communities": [
@@ -878,12 +868,22 @@
       "cities": [
         "Gainesville"
       ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 7,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
+      ]
     }
   ],
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 109
     },
     {
       "name": "Richmond",
@@ -899,7 +899,7 @@
     },
     {
       "name": "Nashville",
-      "count": 72
+      "count": 70
     },
     {
       "name": "Antioch",
@@ -910,16 +910,16 @@
       "count": 41
     },
     {
-      "name": "Peachtree Corners",
-      "count": 40
-    },
-    {
       "name": "Kissimmee",
       "count": 39
     },
     {
+      "name": "Peachtree Corners",
+      "count": 37
+    },
+    {
       "name": "Tampa",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Deltona",
@@ -930,12 +930,16 @@
       "count": 29
     },
     {
+      "name": "Ocoee",
+      "count": 24
+    },
+    {
       "name": "Sandston",
       "count": 23
     },
     {
       "name": "Casselberry",
-      "count": 20
+      "count": 22
     },
     {
       "name": "Jacksonville",
@@ -950,15 +954,11 @@
       "count": 13
     },
     {
-      "name": "Ocoee",
-      "count": 13
-    },
-    {
-      "name": "Charlottesville",
+      "name": "Lakeland",
       "count": 8
     },
     {
-      "name": "Lakeland",
+      "name": "Charlottesville",
       "count": 7
     },
     {
@@ -986,10 +986,6 @@
       "count": 2
     },
     {
-      "name": "DeBary",
-      "count": 2
-    },
-    {
       "name": "Saint Cloud",
       "count": 2
     },
@@ -1000,6 +996,10 @@
     {
       "name": "Titusville",
       "count": 2
+    },
+    {
+      "name": "DeBary",
+      "count": 1
     },
     {
       "name": "Poinciana",
@@ -1049,7 +1049,7 @@
     },
     {
       "name": "PG2",
-      "count": 14
+      "count": 13
     },
     {
       "name": "PG3",
@@ -1065,7 +1065,7 @@
     },
     {
       "name": "PG7",
-      "count": 13
+      "count": 12
     },
     {
       "name": "PG8",
@@ -1073,7 +1073,7 @@
     },
     {
       "name": "PG9",
-      "count": 9
+      "count": 10
     }
   ],
   "mfProperties": [
@@ -1127,6 +1127,13 @@
       ]
     },
     {
+      "name": "Ocoee Village",
+      "count": 24,
+      "cities": [
+        "Ocoee"
+      ]
+    },
+    {
       "name": "Gerwyn Manor",
       "count": 23,
       "cities": [
@@ -1141,17 +1148,17 @@
       ]
     },
     {
+      "name": "Reserve at Lake Irene",
+      "count": 18,
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "The Nest",
       "count": 17,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 16,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1166,13 +1173,6 @@
       "count": 13,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Ocoee Village",
-      "count": 13,
-      "cities": [
-        "Ocoee"
       ]
     },
     {
@@ -1205,16 +1205,9 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 6,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1232,10 +1225,24 @@
       ]
     },
     {
+      "name": "The Jeffersonian",
+      "count": 5,
+      "cities": [
+        "Charlottesville"
+      ]
+    },
+    {
       "name": "Sutton Fields",
       "count": 5,
       "cities": [
         "St. Cloud"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 4,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1257,13 +1264,6 @@
       "count": 3,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Westshore Flats I",
-      "count": 3,
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -1372,8 +1372,8 @@
       ]
     }
   ],
-  "mfTotal": 566,
-  "total": 883,
+  "mfTotal": 578,
+  "total": 888,
   "groups": [
     {
       "key": "inicio",
@@ -1388,7 +1388,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 9
+      "listings": 10
     }
   ]
 }
