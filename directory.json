@@ -59,7 +59,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -121,15 +121,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -157,6 +148,15 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -175,15 +175,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
@@ -199,6 +190,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 31,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -422,15 +422,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 13,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
@@ -458,21 +449,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -491,6 +482,15 @@
       "phone": "(904) 527-2336",
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -754,7 +754,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 31,
+      "count": 30,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -837,16 +837,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 9,
-      "communities": [
-        "Mission Club Apartments"
-      ],
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Renaissance at Strawberry Creek",
       "count": 9,
       "communities": [
@@ -854,6 +844,16 @@
       ],
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 8,
+      "communities": [
+        "Mission Club Apartments"
+      ],
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -871,7 +871,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 114
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -1084,7 +1084,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 31,
+      "count": 30,
       "cities": [
         "Orlando"
       ]
@@ -1139,13 +1139,6 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 13,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 13,
       "cities": [
@@ -1167,17 +1160,17 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 12,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 9,
       "cities": [
         "Kissimmee"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 9,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1192,6 +1185,13 @@
       "count": 8,
       "cities": [
         "Jacksonville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 8,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1349,8 +1349,8 @@
       ]
     }
   ],
-  "mfTotal": 566,
-  "total": 885,
+  "mfTotal": 563,
+  "total": 882,
   "groups": [
     {
       "key": "inicio",
