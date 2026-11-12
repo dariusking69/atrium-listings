@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 320,
+      "count": 318,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -185,21 +185,21 @@
       ]
     },
     {
-      "name": "Oasis at San Marco",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
-      "phone": "(904) 527-2336",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Oasis at San Marco",
+      "count": 7,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
+      "phone": "(904) 527-2336",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -287,7 +287,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 203,
+      "count": 201,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -478,7 +478,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/804f9870-de7b-465d-ae88-b8f3d1be6f27/large.png",
       "phone": "(904) 527-2336",
       "cities": [
@@ -705,7 +705,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 320,
+      "count": 318,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -894,12 +894,12 @@
       "count": 92
     },
     {
-      "name": "Lake Mary",
-      "count": 72
+      "name": "Nashville",
+      "count": 83
     },
     {
-      "name": "Nashville",
-      "count": 70
+      "name": "Lake Mary",
+      "count": 72
     },
     {
       "name": "Antioch",
@@ -919,7 +919,7 @@
     },
     {
       "name": "Tampa",
-      "count": 35
+      "count": 33
     },
     {
       "name": "Deltona",
@@ -942,11 +942,11 @@
       "count": 22
     },
     {
-      "name": "Jacksonville",
-      "count": 19
+      "name": "Winter Springs",
+      "count": 18
     },
     {
-      "name": "Winter Springs",
+      "name": "Jacksonville",
       "count": 18
     },
     {
@@ -1061,7 +1061,7 @@
     },
     {
       "name": "PG5",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG7",
@@ -1198,7 +1198,7 @@
     },
     {
       "name": "Oasis at San Marco",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Jacksonville"
       ]
@@ -1372,8 +1372,8 @@
       ]
     }
   ],
-  "mfTotal": 578,
-  "total": 888,
+  "mfTotal": 577,
+  "total": 898,
   "groups": [
     {
       "key": "inicio",
