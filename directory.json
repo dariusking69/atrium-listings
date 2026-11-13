@@ -105,7 +105,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -406,7 +406,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -796,7 +796,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 18,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -943,7 +943,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Jacksonville",
@@ -1142,7 +1142,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Winter Springs"
       ]
@@ -1372,8 +1372,8 @@
       ]
     }
   ],
-  "mfTotal": 577,
-  "total": 883,
+  "mfTotal": 576,
+  "total": 882,
   "groups": [
     {
       "key": "inicio",
