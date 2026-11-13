@@ -1,6 +1,6 @@
 # Atrium Management Company: available rentals
 
-> Every home and apartment Atrium Management Company currently has for rent: 877 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
+> Every home and apartment Atrium Management Company currently has for rent: 872 rentals in Florida, Virginia, Tennessee and Georgia. Each listing has its address, monthly rent, bedrooms, bathrooms, square feet, the date it is available, photos and a link to apply online. The data is rebuilt from Atrium's property management system several times a day.
 
 The pages linked below are plain HTML and need no JavaScript. To answer a question about what is available somewhere, open that city's page: it is one small table with a row per rental, cheapest first. Each row links to the rental's own page at https://listings.meetatrium.com/homes/<id>.html, which also carries the same facts as schema.org JSON-LD (RealEstateListing).
 
@@ -38,25 +38,25 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 573 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 569 rentals
 - [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 111 rentals
-- [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 92 rentals
+- [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 91 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 72 rentals
-- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 41 rentals
-- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 39 rentals
+- [Winter Park, FL](https://listings.meetatrium.com/browse/fl/winter-park.html): 42 rentals
+- [Kissimmee, FL](https://listings.meetatrium.com/browse/fl/kissimmee.html): 38 rentals
 - [Tampa, FL](https://listings.meetatrium.com/browse/fl/tampa.html): 32 rentals
 - [Deltona, FL](https://listings.meetatrium.com/browse/fl/deltona.html): 30 rentals
 - [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 29 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 24 rentals
-- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 21 rentals
-- [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 18 rentals
+- [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 22 rentals
 - [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 17 rentals
+- [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 16 rentals
 - [Lakeland, FL](https://listings.meetatrium.com/browse/fl/lakeland.html): 8 rentals
 - [Davenport, FL](https://listings.meetatrium.com/browse/fl/davenport.html): 6 rentals
-- [St. Cloud, FL](https://listings.meetatrium.com/browse/fl/st-cloud.html): 5 rentals
 - [DeLand, FL](https://listings.meetatrium.com/browse/fl/deland.html): 4 rentals
 - [Sanford, FL](https://listings.meetatrium.com/browse/fl/sanford.html): 4 rentals
 - [Belleview, FL](https://listings.meetatrium.com/browse/fl/belleview.html): 3 rentals
+- [St. Cloud, FL](https://listings.meetatrium.com/browse/fl/st-cloud.html): 3 rentals
 - [Oxford, FL](https://listings.meetatrium.com/browse/fl/oxford.html): 2 rentals
 - [Saint Cloud, FL](https://listings.meetatrium.com/browse/fl/saint-cloud.html): 2 rentals
 - [Titusville, FL](https://listings.meetatrium.com/browse/fl/titusville.html): 2 rentals
@@ -81,8 +81,8 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Tennessee
 
-- [Tennessee](https://listings.meetatrium.com/browse/tn/): 121 rentals
-- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 68 rentals
+- [Tennessee](https://listings.meetatrium.com/browse/tn/): 120 rentals
+- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 67 rentals
 - [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 53 rentals
 
 ## Georgia
