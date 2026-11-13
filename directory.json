@@ -158,15 +158,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -182,6 +173,15 @@
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -459,21 +459,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -835,16 +835,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 10,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Inicio Tampa",
       "count": 9,
       "communities": [
@@ -856,6 +846,16 @@
       ],
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 9,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -899,7 +899,7 @@
     },
     {
       "name": "Nashville",
-      "count": 71
+      "count": 70
     },
     {
       "name": "Antioch",
@@ -915,7 +915,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Tampa",
@@ -942,12 +942,12 @@
       "count": 22
     },
     {
-      "name": "Jacksonville",
+      "name": "Winter Springs",
       "count": 19
     },
     {
-      "name": "Winter Springs",
-      "count": 19
+      "name": "Jacksonville",
+      "count": 18
     },
     {
       "name": "Macon",
@@ -1183,17 +1183,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 10,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 9,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 9,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1372,8 +1372,8 @@
       ]
     }
   ],
-  "mfTotal": 578,
-  "total": 886,
+  "mfTotal": 577,
+  "total": 883,
   "groups": [
     {
       "key": "inicio",
