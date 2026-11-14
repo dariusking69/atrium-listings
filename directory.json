@@ -112,21 +112,21 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Ave. at Winter Springs",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -412,21 +412,21 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
+      "phone": "(689) 300-4121",
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
-      "phone": "(689) 300-4121",
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -792,6 +792,16 @@
       ]
     },
     {
+      "name": "Ave. at Winter Springs",
+      "count": 18,
+      "communities": [
+        "The Avenues at Winter Springs"
+      ],
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Lake Irene",
       "count": 18,
       "communities": [
@@ -799,16 +809,6 @@
       ],
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "Ave. at Winter Springs",
-      "count": 17,
-      "communities": [
-        "The Avenues at Winter Springs"
-      ],
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -912,7 +912,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 33
+      "count": 37
     },
     {
       "name": "Tampa",
@@ -940,7 +940,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Jacksonville",
@@ -1134,17 +1134,17 @@
       ]
     },
     {
+      "name": "The Avenues at Winter Springs",
+      "count": 18,
+      "cities": [
+        "Winter Springs"
+      ]
+    },
+    {
       "name": "Reserve at Lake Irene",
       "count": 18,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "The Avenues at Winter Springs",
-      "count": 17,
-      "cities": [
-        "Winter Springs"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 571,
-  "total": 872,
+  "mfTotal": 572,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
