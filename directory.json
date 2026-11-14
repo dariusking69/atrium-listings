@@ -220,6 +220,15 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Mission Club",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -244,15 +253,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -520,6 +520,15 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -562,15 +571,6 @@
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -896,7 +896,7 @@
     },
     {
       "name": "Nashville",
-      "count": 67
+      "count": 66
     },
     {
       "name": "Antioch",
@@ -963,16 +963,16 @@
       "count": 6
     },
     {
+      "name": "St. Cloud",
+      "count": 5
+    },
+    {
       "name": "Sanford",
       "count": 4
     },
     {
       "name": "DeLand",
       "count": 4
-    },
-    {
-      "name": "St. Cloud",
-      "count": 3
     },
     {
       "name": "Belleview",
@@ -1218,6 +1218,13 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 4,
       "cities": [
@@ -1250,13 +1257,6 @@
       "count": 3,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Sutton Fields",
-      "count": 3,
-      "cities": [
-        "St. Cloud"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 572,
-  "total": 877,
+  "mfTotal": 574,
+  "total": 878,
   "groups": [
     {
       "key": "inicio",
