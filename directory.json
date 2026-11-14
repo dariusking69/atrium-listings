@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 264,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -77,7 +77,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 28,
+      "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -94,21 +94,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -286,7 +286,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 148,
+      "count": 147,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 205-8418",
       "cities": [
@@ -367,21 +367,21 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 29,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 28,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -394,21 +394,21 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 264,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -773,7 +773,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 28,
+      "count": 29,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -880,7 +880,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 112
     },
     {
       "name": "Richmond",
@@ -924,15 +924,15 @@
     },
     {
       "name": "Gainesville",
-      "count": 29
-    },
-    {
-      "name": "Ocoee",
-      "count": 24
+      "count": 28
     },
     {
       "name": "Sandston",
       "count": 24
+    },
+    {
+      "name": "Ocoee",
+      "count": 23
     },
     {
       "name": "Casselberry",
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "PG4",
-      "count": 9
+      "count": 8
     },
     {
       "name": "PG5",
@@ -1099,17 +1099,17 @@
       ]
     },
     {
+      "name": "Avenues of Baldwin Park",
+      "count": 29,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
-      ]
-    },
-    {
-      "name": "Avenues of Baldwin Park",
-      "count": 28,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1120,17 +1120,17 @@
       ]
     },
     {
-      "name": "Ocoee Village",
-      "count": 24,
-      "cities": [
-        "Ocoee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
       "count": 24,
       "cities": [
         "Sandston"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 23,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -1359,7 +1359,7 @@
     }
   ],
   "mfTotal": 574,
-  "total": 878,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
