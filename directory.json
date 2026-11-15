@@ -59,7 +59,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 53,
+      "count": 52,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -350,7 +350,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 53,
+      "count": 52,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -896,11 +896,11 @@
     },
     {
       "name": "Nashville",
-      "count": 66
+      "count": 64
     },
     {
       "name": "Antioch",
-      "count": 53
+      "count": 52
     },
     {
       "name": "Winter Park",
@@ -1359,7 +1359,7 @@
     }
   ],
   "mfTotal": 574,
-  "total": 877,
+  "total": 874,
   "groups": [
     {
       "key": "inicio",
