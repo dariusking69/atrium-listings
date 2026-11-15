@@ -38,7 +38,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Florida
 
-- [Florida](https://listings.meetatrium.com/browse/fl/): 570 rentals
+- [Florida](https://listings.meetatrium.com/browse/fl/): 571 rentals
 - [Orlando, FL](https://listings.meetatrium.com/browse/fl/orlando.html): 112 rentals
 - [Winter Garden, FL](https://listings.meetatrium.com/browse/fl/winter-garden.html): 91 rentals
 - [Lake Mary, FL](https://listings.meetatrium.com/browse/fl/lake-mary.html): 72 rentals
@@ -49,7 +49,7 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 - [Gainesville, FL](https://listings.meetatrium.com/browse/fl/gainesville.html): 28 rentals
 - [Ocoee, FL](https://listings.meetatrium.com/browse/fl/ocoee.html): 23 rentals
 - [Casselberry, FL](https://listings.meetatrium.com/browse/fl/casselberry.html): 22 rentals
-- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 18 rentals
+- [Winter Springs, FL](https://listings.meetatrium.com/browse/fl/winter-springs.html): 19 rentals
 - [Jacksonville, FL](https://listings.meetatrium.com/browse/fl/jacksonville.html): 16 rentals
 - [Lakeland, FL](https://listings.meetatrium.com/browse/fl/lakeland.html): 8 rentals
 - [Davenport, FL](https://listings.meetatrium.com/browse/fl/davenport.html): 6 rentals
@@ -81,8 +81,8 @@ Example: https://listings.meetatrium.com/widget.html?city=Orlando&beds=2&max=200
 
 ## Tennessee
 
-- [Tennessee](https://listings.meetatrium.com/browse/tn/): 116 rentals
-- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 64 rentals
+- [Tennessee](https://listings.meetatrium.com/browse/tn/): 115 rentals
+- [Nashville, TN](https://listings.meetatrium.com/browse/tn/nashville.html): 63 rentals
 - [Antioch, TN](https://listings.meetatrium.com/browse/tn/antioch.html): 52 rentals
 
 ## Georgia
