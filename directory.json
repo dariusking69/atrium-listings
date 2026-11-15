@@ -158,7 +158,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -458,7 +458,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -823,7 +823,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 13,
+      "count": 12,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -904,7 +904,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 42
+      "count": 41
     },
     {
       "name": "Kissimmee",
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 13,
+      "count": 12,
       "cities": [
         "Winter Park"
       ]
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 574,
-  "total": 874,
+  "mfTotal": 573,
+  "total": 873,
   "groups": [
     {
       "key": "inicio",
