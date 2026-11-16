@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 270,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(863) 591-3978",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 52,
+      "count": 51,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -68,7 +68,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 23,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -122,7 +122,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -140,7 +140,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -149,7 +149,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -158,7 +158,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -167,7 +167,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 9,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -184,6 +184,15 @@
       ]
     },
     {
+      "name": "Camelot Properties",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
+      "phone": "(352) 559-3304",
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Champions Village",
       "count": 8,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -193,12 +202,12 @@
       ]
     },
     {
-      "name": "Camelot Properties",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
-      "phone": "(352) 559-3304",
+      "name": "Mission Club",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
       "cities": [
-        "Gainesville"
+        "Orlando"
       ]
     },
     {
@@ -229,15 +238,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Mirabella Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -256,21 +256,21 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -286,9 +286,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 151,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 205-8418",
+      "phone": "(863) 591-3978",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -350,7 +350,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 52,
+      "count": 51,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 34,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -404,7 +404,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 23,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -422,7 +422,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -440,7 +440,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -449,7 +449,7 @@
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 13,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -458,7 +458,7 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -485,11 +485,20 @@
     },
     {
       "name": "Camelot Apartments",
-      "count": 6,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -499,15 +508,6 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(434) 443-6987",
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -538,12 +538,12 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
+      "name": "The Jeffersonian",
       "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(434) 443-6987",
       "cities": [
-        "Orlando"
+        "Charlottesville"
       ]
     },
     {
@@ -565,6 +565,15 @@
       ]
     },
     {
+      "name": "The Hammocks by Butler",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(407) 258-1332",
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Valencia Isle",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
@@ -574,12 +583,12 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
+      "name": "Case Residences",
       "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(727) 591-4130",
       "cities": [
-        "Richmond"
+        "Tampa"
       ]
     },
     {
@@ -601,21 +610,21 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(727) 591-4130",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -682,15 +691,6 @@
       ]
     },
     {
-      "name": "The Hammocks by Butler",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 258-1332",
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "The Hammocks on 34th",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 270,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -763,7 +763,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 34,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -813,7 +813,7 @@
     },
     {
       "name": "Timber Pointe",
-      "count": 13,
+      "count": 12,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -823,7 +823,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 12,
+      "count": 11,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -833,7 +833,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 9,
+      "count": 10,
       "communities": [
         "Beach Flats",
         "Case Residences",
@@ -857,7 +857,7 @@
     },
     {
       "name": "Camelot Properties",
-      "count": 8,
+      "count": 9,
       "communities": [
         "Camelot Apartments",
         "The Hammocks at Camelot"
@@ -868,7 +868,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 6,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -880,11 +880,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 118
     },
     {
       "name": "Richmond",
-      "count": 106
+      "count": 105
     },
     {
       "name": "Winter Garden",
@@ -896,15 +896,15 @@
     },
     {
       "name": "Nashville",
-      "count": 63
+      "count": 60
     },
     {
       "name": "Antioch",
-      "count": 52
+      "count": 51
     },
     {
       "name": "Winter Park",
-      "count": 41
+      "count": 45
     },
     {
       "name": "Kissimmee",
@@ -912,19 +912,19 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Tampa",
-      "count": 32
+      "count": 33
+    },
+    {
+      "name": "Gainesville",
+      "count": 31
     },
     {
       "name": "Deltona",
       "count": 30
-    },
-    {
-      "name": "Gainesville",
-      "count": 28
     },
     {
       "name": "Sandston",
@@ -932,11 +932,11 @@
     },
     {
       "name": "Ocoee",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Winter Springs",
@@ -948,18 +948,18 @@
     },
     {
       "name": "Macon",
-      "count": 13
+      "count": 12
     },
     {
       "name": "Lakeland",
       "count": 8
     },
     {
-      "name": "Charlottesville",
-      "count": 7
+      "name": "Davenport",
+      "count": 6
     },
     {
-      "name": "Davenport",
+      "name": "Charlottesville",
       "count": 6
     },
     {
@@ -1038,7 +1038,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 46
+      "count": 51
     },
     {
       "name": "PG2",
@@ -1093,7 +1093,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 34,
       "cities": [
         "Orlando"
       ]
@@ -1128,7 +1128,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 23,
+      "count": 22,
       "cities": [
         "Ocoee"
       ]
@@ -1142,7 +1142,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1156,21 +1156,21 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 16,
       "cities": [
         "Orlando"
       ]
     },
     {
       "name": "Timber Pointe Apartments",
-      "count": 13,
+      "count": 12,
       "cities": [
         "Macon"
       ]
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 12,
+      "count": 11,
       "cities": [
         "Winter Park"
       ]
@@ -1191,9 +1191,16 @@
     },
     {
       "name": "Camelot Apartments",
-      "count": 6,
+      "count": 7,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 6,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1201,13 +1208,6 @@
       "count": 5,
       "cities": [
         "Davenport"
-      ]
-    },
-    {
-      "name": "The Jeffersonian",
-      "count": 5,
-      "cities": [
-        "Charlottesville"
       ]
     },
     {
@@ -1232,10 +1232,10 @@
       ]
     },
     {
-      "name": "Mission Club Apartments",
+      "name": "The Jeffersonian",
       "count": 4,
       "cities": [
-        "Orlando"
+        "Charlottesville"
       ]
     },
     {
@@ -1253,6 +1253,13 @@
       ]
     },
     {
+      "name": "The Hammocks by Butler",
+      "count": 4,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Valencia Isle",
       "count": 3,
       "cities": [
@@ -1260,10 +1267,10 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
+      "name": "Case Residences",
       "count": 3,
       "cities": [
-        "Richmond"
+        "Tampa"
       ]
     },
     {
@@ -1281,17 +1288,17 @@
       ]
     },
     {
-      "name": "Case Residences",
-      "count": 2,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Six Hundred West Main",
       "count": 2,
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 2,
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -1344,13 +1351,6 @@
       ]
     },
     {
-      "name": "The Hammocks by Butler",
-      "count": 1,
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "The Hammocks on 34th",
       "count": 1,
       "cities": [
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 574,
-  "total": 873,
+  "mfTotal": 579,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
@@ -1374,7 +1374,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 9
+      "listings": 10
     }
   ]
 }
