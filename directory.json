@@ -77,7 +77,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 29,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -367,21 +367,21 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 29,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
-      "phone": "(689) 215-9531",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 349-7054",
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 28,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
+      "phone": "(689) 215-9531",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -773,7 +773,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 29,
+      "count": 28,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -880,7 +880,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 116
+      "count": 115
     },
     {
       "name": "Richmond",
@@ -1099,17 +1099,17 @@
       ]
     },
     {
-      "name": "Avenues of Baldwin Park",
-      "count": 29,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Cardinal Village",
       "count": 29,
       "cities": [
         "Deltona"
+      ]
+    },
+    {
+      "name": "Avenues of Baldwin Park",
+      "count": 28,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 575,
-  "total": 878,
+  "mfTotal": 574,
+  "total": 877,
   "groups": [
     {
       "key": "inicio",
