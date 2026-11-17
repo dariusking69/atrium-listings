@@ -50,7 +50,7 @@
     },
     {
       "name": "The Hub",
-      "count": 76,
+      "count": 75,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -59,7 +59,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 51,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -68,7 +68,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -118,6 +118,15 @@
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -136,15 +145,6 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -194,7 +194,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -203,7 +203,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -332,7 +332,7 @@
     },
     {
       "name": "The Hub",
-      "count": 76,
+      "count": 75,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -350,7 +350,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 51,
+      "count": 50,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -404,7 +404,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 22,
+      "count": 21,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -418,6 +418,15 @@
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -436,15 +445,6 @@
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -476,7 +476,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 8,
+      "count": 7,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
@@ -494,7 +494,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 6,
+      "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -763,7 +763,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 33,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -868,7 +868,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 6,
+      "count": 5,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -880,11 +880,11 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 118
+      "count": 116
     },
     {
       "name": "Richmond",
-      "count": 105
+      "count": 104
     },
     {
       "name": "Winter Garden",
@@ -896,11 +896,11 @@
     },
     {
       "name": "Nashville",
-      "count": 60
+      "count": 66
     },
     {
       "name": "Antioch",
-      "count": 51
+      "count": 50
     },
     {
       "name": "Winter Park",
@@ -908,7 +908,7 @@
     },
     {
       "name": "Kissimmee",
-      "count": 38
+      "count": 37
     },
     {
       "name": "Peachtree Corners",
@@ -916,7 +916,7 @@
     },
     {
       "name": "Tampa",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Gainesville",
@@ -932,7 +932,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Casselberry",
@@ -1038,7 +1038,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 51
+      "count": 50
     },
     {
       "name": "PG2",
@@ -1054,7 +1054,7 @@
     },
     {
       "name": "PG5",
-      "count": 15
+      "count": 16
     },
     {
       "name": "PG7",
@@ -1079,7 +1079,7 @@
     },
     {
       "name": "The Hub",
-      "count": 76,
+      "count": 75,
       "cities": [
         "Richmond"
       ]
@@ -1093,7 +1093,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1128,7 +1128,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 22,
+      "count": 21,
       "cities": [
         "Ocoee"
       ]
@@ -1138,6 +1138,13 @@
       "count": 19,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "The Julian",
+      "count": 17,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1152,13 +1159,6 @@
       "count": 17,
       "cities": [
         "Richmond"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1184,7 +1184,7 @@
     },
     {
       "name": "Champions Village",
-      "count": 8,
+      "count": 7,
       "cities": [
         "Kissimmee"
       ]
@@ -1198,7 +1198,7 @@
     },
     {
       "name": "Mission Club Apartments",
-      "count": 6,
+      "count": 5,
       "cities": [
         "Orlando"
       ]
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 579,
-  "total": 877,
+  "mfTotal": 575,
+  "total": 878,
   "groups": [
     {
       "key": "inicio",
