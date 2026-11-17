@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 268,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(863) 591-3978",
       "cities": [
@@ -68,7 +68,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -95,7 +95,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 24,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -113,7 +113,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -121,17 +121,8 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -139,12 +130,30 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -158,7 +167,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
@@ -172,15 +181,6 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -238,6 +238,15 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -248,11 +257,20 @@
     },
     {
       "name": "Valencia Isle",
-      "count": 3,
+      "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
       "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -263,30 +281,12 @@
       "cities": [
         "Charlottesville"
       ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
-      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 151,
+      "count": 149,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(863) 591-3978",
       "cities": [
@@ -359,7 +359,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 33,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -395,7 +395,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 24,
+      "count": 22,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -413,7 +413,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -421,17 +421,8 @@
       ]
     },
     {
-      "name": "The Julian",
-      "count": 17,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -439,12 +430,30 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 16,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
-      "count": 17,
+      "count": 16,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/47df631c-9314-432e-937b-ec443f03d7a7/large.png",
       "phone": "(804) 409-4983",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 13,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -458,20 +467,11 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 12,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8437f848-15eb-4e13-aaa7-ba654b444edc/large.png",
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -529,6 +529,15 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -574,15 +583,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -610,21 +610,30 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
+      "phone": "(804) 977-2457",
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/08452386-1292-4c79-b616-940555606fce/large.png",
       "phone": "(434) 231-4999",
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -652,15 +661,6 @@
       "phone": "(352) 375-3077",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
-      "phone": "(804) 977-2457",
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 268,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -763,7 +763,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 33,
+      "count": 32,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -793,7 +793,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 19,
+      "count": 20,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -803,12 +803,22 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
       "cities": [
         "Casselberry"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 13,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -823,7 +833,7 @@
     },
     {
       "name": "Cranes Landing",
-      "count": 11,
+      "count": 12,
       "communities": [
         "Cranes Landing Apartments"
       ],
@@ -843,16 +853,6 @@
       ],
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 9,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -880,15 +880,15 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 115
+      "count": 112
     },
     {
       "name": "Richmond",
-      "count": 104
+      "count": 106
     },
     {
       "name": "Winter Garden",
-      "count": 91
+      "count": 90
     },
     {
       "name": "Lake Mary",
@@ -896,7 +896,7 @@
     },
     {
       "name": "Nashville",
-      "count": 66
+      "count": 64
     },
     {
       "name": "Antioch",
@@ -904,19 +904,19 @@
     },
     {
       "name": "Winter Park",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Kissimmee",
       "count": 37
     },
     {
-      "name": "Peachtree Corners",
-      "count": 36
-    },
-    {
       "name": "Tampa",
       "count": 34
+    },
+    {
+      "name": "Peachtree Corners",
+      "count": 32
     },
     {
       "name": "Gainesville",
@@ -928,23 +928,23 @@
     },
     {
       "name": "Sandston",
-      "count": 24
+      "count": 22
+    },
+    {
+      "name": "Casselberry",
+      "count": 22
     },
     {
       "name": "Ocoee",
       "count": 21
     },
     {
-      "name": "Casselberry",
-      "count": 21
+      "name": "Jacksonville",
+      "count": 20
     },
     {
       "name": "Winter Springs",
-      "count": 19
-    },
-    {
-      "name": "Jacksonville",
-      "count": 16
+      "count": 20
     },
     {
       "name": "Macon",
@@ -975,15 +975,15 @@
       "count": 4
     },
     {
-      "name": "Belleview",
-      "count": 3
-    },
-    {
       "name": "Oxford",
       "count": 2
     },
     {
       "name": "Saint Cloud",
+      "count": 2
+    },
+    {
+      "name": "Belleview",
       "count": 2
     },
     {
@@ -1038,7 +1038,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 50
+      "count": 48
     },
     {
       "name": "PG2",
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "PG4",
-      "count": 8
+      "count": 7
     },
     {
       "name": "PG5",
@@ -1058,7 +1058,7 @@
     },
     {
       "name": "PG7",
-      "count": 13
+      "count": 14
     },
     {
       "name": "PG8",
@@ -1093,7 +1093,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 33,
+      "count": 32,
       "cities": [
         "Orlando"
       ]
@@ -1121,7 +1121,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 24,
+      "count": 22,
       "cities": [
         "Sandston"
       ]
@@ -1135,30 +1135,37 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 19,
+      "count": 20,
       "cities": [
         "Winter Springs"
       ]
     },
     {
-      "name": "The Julian",
-      "count": 17,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Casselberry"
       ]
     },
     {
+      "name": "The Julian",
+      "count": 16,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "The Nest",
-      "count": 17,
+      "count": 16,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 13,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1170,16 +1177,9 @@
     },
     {
       "name": "Cranes Landing Apartments",
-      "count": 11,
+      "count": 12,
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 9,
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -1225,6 +1225,13 @@
       ]
     },
     {
+      "name": "Coliseum Lofts",
+      "count": 4,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Westshore Flats I",
       "count": 4,
       "cities": [
@@ -1260,13 +1267,6 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 3,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
@@ -1288,17 +1288,24 @@
       ]
     },
     {
+      "name": "Valencia Isle",
+      "count": 2,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
+      "name": "Raven Place",
+      "count": 2,
+      "cities": [
+        "Richmond"
+      ]
+    },
+    {
       "name": "Six Hundred West Main",
       "count": 2,
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Coliseum Lofts",
-      "count": 2,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1320,13 +1327,6 @@
       "count": 2,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Raven Place",
-      "count": 1,
-      "cities": [
-        "Richmond"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 574,
-  "total": 877,
+  "mfTotal": 578,
+  "total": 873,
   "groups": [
     {
       "key": "inicio",
