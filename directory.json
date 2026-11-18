@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 272,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(352) 234-3496",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -26,7 +26,6 @@
         "Ocala",
         "Orlando",
         "Oxford",
-        "Poinciana",
         "Richmond",
         "Saint Cloud",
         "Sanford",
@@ -104,7 +103,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -113,7 +112,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 20,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -140,20 +139,11 @@
     },
     {
       "name": "The Julian",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -163,6 +153,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -193,15 +192,6 @@
       ]
     },
     {
-      "name": "Champions Village",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Mission Club",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
@@ -217,6 +207,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -248,7 +247,7 @@
     },
     {
       "name": "Mirabella Apartments",
-      "count": 4,
+      "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
       "phone": "(352) 327-9223",
       "cities": [
@@ -286,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 151,
+      "count": 153,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 585-2721",
+      "phone": "(352) 234-3496",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -308,7 +307,6 @@
         "Melbourne",
         "Ocala",
         "Orlando",
-        "Poinciana",
         "Richmond",
         "Saint Cloud",
         "Sanford",
@@ -404,7 +402,7 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 21,
+      "count": 20,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
@@ -413,7 +411,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 20,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -440,20 +438,11 @@
     },
     {
       "name": "The Julian",
-      "count": 15,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 14,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -466,21 +455,21 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Timber Pointe Apartments",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Champions Village",
-      "count": 7,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
-      "phone": "(321) 395-8432",
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -508,6 +497,15 @@
       "phone": "(863) 204-1180",
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
+      "phone": "(321) 395-8432",
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -556,15 +554,6 @@
       ]
     },
     {
-      "name": "Mirabella Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
-      "phone": "(352) 327-9223",
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Janie B Apartments",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -589,6 +578,15 @@
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Mirabella Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
+      "phone": "(352) 327-9223",
+      "cities": [
+        "Gainesville"
       ]
     },
     {
@@ -703,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 270,
+      "count": 272,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -738,7 +736,6 @@
         "Ocala",
         "Orlando",
         "Oxford",
-        "Poinciana",
         "Richmond",
         "Saint Cloud",
         "Sanford",
@@ -793,7 +790,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 20,
+      "count": 18,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -812,16 +809,6 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 14,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Cranes Landing",
       "count": 12,
       "communities": [
@@ -829,6 +816,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 11,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -880,7 +877,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -896,7 +893,7 @@
     },
     {
       "name": "Nashville",
-      "count": 60
+      "count": 59
     },
     {
       "name": "Antioch",
@@ -907,19 +904,19 @@
       "count": 46
     },
     {
-      "name": "Kissimmee",
-      "count": 36
-    },
-    {
       "name": "Tampa",
       "count": 34
     },
     {
-      "name": "Gainesville",
-      "count": 31
+      "name": "Kissimmee",
+      "count": 34
     },
     {
       "name": "Peachtree Corners",
+      "count": 30
+    },
+    {
+      "name": "Gainesville",
       "count": 30
     },
     {
@@ -931,20 +928,20 @@
       "count": 23
     },
     {
-      "name": "Jacksonville",
-      "count": 21
-    },
-    {
-      "name": "Ocoee",
-      "count": 21
-    },
-    {
       "name": "Casselberry",
       "count": 21
     },
     {
-      "name": "Winter Springs",
+      "name": "Jacksonville",
       "count": 20
+    },
+    {
+      "name": "Ocoee",
+      "count": 20
+    },
+    {
+      "name": "Winter Springs",
+      "count": 18
     },
     {
       "name": "Macon",
@@ -975,6 +972,10 @@
       "count": 4
     },
     {
+      "name": "Titusville",
+      "count": 3
+    },
+    {
       "name": "Oxford",
       "count": 2
     },
@@ -987,15 +988,7 @@
       "count": 2
     },
     {
-      "name": "Titusville",
-      "count": 2
-    },
-    {
       "name": "DeBary",
-      "count": 1
-    },
-    {
-      "name": "Poinciana",
       "count": 1
     },
     {
@@ -1042,7 +1035,7 @@
     },
     {
       "name": "PG2",
-      "count": 12
+      "count": 11
     },
     {
       "name": "PG3",
@@ -1062,7 +1055,7 @@
     },
     {
       "name": "PG8",
-      "count": 3
+      "count": 4
     },
     {
       "name": "PG9",
@@ -1128,14 +1121,14 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 21,
+      "count": 20,
       "cities": [
         "Ocoee"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 20,
+      "count": 18,
       "cities": [
         "Winter Springs"
       ]
@@ -1156,16 +1149,9 @@
     },
     {
       "name": "The Julian",
-      "count": 15,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek Apartments",
       "count": 14,
       "cities": [
-        "Jacksonville"
+        "Orlando"
       ]
     },
     {
@@ -1176,17 +1162,17 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 11,
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Timber Pointe Apartments",
       "count": 11,
       "cities": [
         "Macon"
-      ]
-    },
-    {
-      "name": "Champions Village",
-      "count": 7,
-      "cities": [
-        "Kissimmee"
       ]
     },
     {
@@ -1208,6 +1194,13 @@
       "count": 5,
       "cities": [
         "Davenport"
+      ]
+    },
+    {
+      "name": "Champions Village",
+      "count": 5,
+      "cities": [
+        "Kissimmee"
       ]
     },
     {
@@ -1246,13 +1239,6 @@
       ]
     },
     {
-      "name": "Mirabella Apartments",
-      "count": 4,
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Janie B Apartments",
       "count": 4,
       "cities": [
@@ -1271,6 +1257,13 @@
       "count": 3,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Mirabella Apartments",
+      "count": 3,
+      "cities": [
+        "Gainesville"
       ]
     },
     {
@@ -1358,8 +1351,8 @@
       ]
     }
   ],
-  "mfTotal": 576,
-  "total": 866,
+  "mfTotal": 566,
+  "total": 857,
   "groups": [
     {
       "key": "inicio",
