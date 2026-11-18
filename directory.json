@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 270,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(863) 591-3978",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 50,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -86,7 +86,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -95,7 +95,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -122,20 +122,11 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -148,21 +139,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -172,6 +163,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -286,9 +286,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 149,
+      "count": 151,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(863) 591-3978",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -350,7 +350,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 50,
+      "count": 49,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -386,7 +386,7 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 26,
+      "count": 25,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
       "phone": "(689) 215-8516",
       "cities": [
@@ -395,7 +395,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 22,
+      "count": 23,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -422,20 +422,11 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
-      "phone": "(689) 220-0831",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -448,21 +439,21 @@
       ]
     },
     {
+      "name": "The Julian",
+      "count": 15,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+      "phone": "(689) 220-0831",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
       "phone": "(904) 664-2823",
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe Apartments",
-      "count": 12,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
-      "phone": "(478) 330-3584",
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -472,6 +463,15 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 11,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
+      "phone": "(478) 330-3584",
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -703,7 +703,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 270,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -783,7 +783,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 26,
+      "count": 25,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -803,7 +803,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -813,22 +813,12 @@
     },
     {
       "name": "Renaissance at Strawberry Creek",
-      "count": 13,
+      "count": 14,
       "communities": [
         "Renaissance at Strawberry Creek Apartments"
       ],
       "cities": [
         "Jacksonville"
-      ]
-    },
-    {
-      "name": "Timber Pointe",
-      "count": 12,
-      "communities": [
-        "Timber Pointe Apartments"
-      ],
-      "cities": [
-        "Macon"
       ]
     },
     {
@@ -839,6 +829,16 @@
       ],
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Timber Pointe",
+      "count": 11,
+      "communities": [
+        "Timber Pointe Apartments"
+      ],
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -896,11 +896,11 @@
     },
     {
       "name": "Nashville",
-      "count": 64
+      "count": 60
     },
     {
       "name": "Antioch",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Winter Park",
@@ -908,19 +908,19 @@
     },
     {
       "name": "Kissimmee",
-      "count": 37
+      "count": 36
     },
     {
       "name": "Tampa",
       "count": 34
     },
     {
-      "name": "Peachtree Corners",
-      "count": 32
-    },
-    {
       "name": "Gainesville",
       "count": 31
+    },
+    {
+      "name": "Peachtree Corners",
+      "count": 30
     },
     {
       "name": "Deltona",
@@ -928,19 +928,19 @@
     },
     {
       "name": "Sandston",
-      "count": 22
+      "count": 23
     },
     {
-      "name": "Casselberry",
-      "count": 22
+      "name": "Jacksonville",
+      "count": 21
     },
     {
       "name": "Ocoee",
       "count": 21
     },
     {
-      "name": "Jacksonville",
-      "count": 20
+      "name": "Casselberry",
+      "count": 21
     },
     {
       "name": "Winter Springs",
@@ -948,11 +948,11 @@
     },
     {
       "name": "Macon",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Lakeland",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Davenport",
@@ -1066,7 +1066,7 @@
     },
     {
       "name": "PG9",
-      "count": 10
+      "count": 11
     }
   ],
   "mfProperties": [
@@ -1114,14 +1114,14 @@
     },
     {
       "name": "Aston Square Apartments",
-      "count": 26,
+      "count": 25,
       "cities": [
         "Kissimmee"
       ]
     },
     {
       "name": "Gerwyn Manor",
-      "count": 22,
+      "count": 23,
       "cities": [
         "Sandston"
       ]
@@ -1142,16 +1142,9 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
-      ]
-    },
-    {
-      "name": "The Julian",
-      "count": 16,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1162,17 +1155,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 13,
+      "name": "The Julian",
+      "count": 15,
       "cities": [
-        "Jacksonville"
+        "Orlando"
       ]
     },
     {
-      "name": "Timber Pointe Apartments",
-      "count": 12,
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 14,
       "cities": [
-        "Macon"
+        "Jacksonville"
       ]
     },
     {
@@ -1180,6 +1173,13 @@
       "count": 12,
       "cities": [
         "Winter Park"
+      ]
+    },
+    {
+      "name": "Timber Pointe Apartments",
+      "count": 11,
+      "cities": [
+        "Macon"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       ]
     }
   ],
-  "mfTotal": 578,
-  "total": 873,
+  "mfTotal": 576,
+  "total": 866,
   "groups": [
     {
       "key": "inicio",
