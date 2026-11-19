@@ -58,7 +58,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 46,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -348,7 +348,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 46,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -901,7 +901,7 @@
     },
     {
       "name": "Antioch",
-      "count": 46
+      "count": 44
     },
     {
       "name": "Tampa",
@@ -1352,7 +1352,7 @@
     }
   ],
   "mfTotal": 567,
-  "total": 849,
+  "total": 847,
   "groups": [
     {
       "key": "inicio",
