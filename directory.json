@@ -67,7 +67,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -94,7 +94,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -121,7 +121,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -139,7 +139,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -153,15 +153,6 @@
       "phone": "(689) 300-6288",
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -180,6 +171,15 @@
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 33,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -393,7 +393,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -411,7 +411,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -420,7 +420,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -438,7 +438,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -455,21 +455,21 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 11,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 10,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -760,7 +760,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 33,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -790,7 +790,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 19,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -800,7 +800,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 17,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -816,16 +816,6 @@
       ],
       "cities": [
         "Winter Park"
-      ]
-    },
-    {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 11,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
       ]
     },
     {
@@ -850,6 +840,16 @@
       ],
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 10,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -925,23 +925,23 @@
     },
     {
       "name": "Sandston",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Casselberry",
-      "count": 21
-    },
-    {
-      "name": "Jacksonville",
-      "count": 20
+      "count": 22
     },
     {
       "name": "Ocoee",
       "count": 20
     },
     {
+      "name": "Jacksonville",
+      "count": 19
+    },
+    {
       "name": "Winter Springs",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Macon",
@@ -1086,7 +1086,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 33,
       "cities": [
         "Orlando"
       ]
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "cities": [
         "Sandston"
       ]
@@ -1128,14 +1128,14 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 19,
       "cities": [
         "Winter Springs"
       ]
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Casselberry"
       ]
@@ -1149,7 +1149,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Orlando"
       ]
@@ -1162,17 +1162,17 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 11,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
       "count": 11,
       "cities": [
         "Macon"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 10,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1351,8 +1351,8 @@
       ]
     }
   ],
-  "mfTotal": 567,
-  "total": 847,
+  "mfTotal": 569,
+  "total": 849,
   "groups": [
     {
       "key": "inicio",
