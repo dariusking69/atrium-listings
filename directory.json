@@ -2,9 +2,9 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 273,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -49,7 +49,7 @@
     },
     {
       "name": "The Hub",
-      "count": 75,
+      "count": 76,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 49,
+      "count": 46,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -285,9 +285,9 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 153,
+      "count": 154,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 234-3496",
+      "phone": "(407) 585-2721",
       "cities": [
         "Altamonte Springs",
         "Belleview",
@@ -330,7 +330,7 @@
     },
     {
       "name": "The Hub",
-      "count": 75,
+      "count": 76,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/51a42c5e-f62c-4243-9564-74191de4e001/large.png",
       "phone": "(804) 409-2858",
       "cities": [
@@ -348,7 +348,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 49,
+      "count": 46,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 272,
+      "count": 273,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -881,7 +881,7 @@
     },
     {
       "name": "Richmond",
-      "count": 106
+      "count": 107
     },
     {
       "name": "Winter Garden",
@@ -893,19 +893,19 @@
     },
     {
       "name": "Nashville",
-      "count": 59
-    },
-    {
-      "name": "Antioch",
-      "count": 49
+      "count": 52
     },
     {
       "name": "Winter Park",
       "count": 46
     },
     {
+      "name": "Antioch",
+      "count": 46
+    },
+    {
       "name": "Tampa",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Kissimmee",
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "The Hub",
-      "count": 75,
+      "count": 76,
       "cities": [
         "Richmond"
       ]
@@ -1351,8 +1351,8 @@
       ]
     }
   ],
-  "mfTotal": 566,
-  "total": 857,
+  "mfTotal": 567,
+  "total": 849,
   "groups": [
     {
       "key": "inicio",
