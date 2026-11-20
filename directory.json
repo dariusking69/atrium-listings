@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 267,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -67,7 +67,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -76,7 +76,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -121,7 +121,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 10,
+      "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 150,
+      "count": 148,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -357,7 +357,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 32,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -375,7 +375,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -411,7 +411,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 19,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -420,7 +420,7 @@
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
@@ -671,15 +671,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 1,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 531-9129",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -701,7 +692,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 269,
+      "count": 267,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -760,7 +751,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 34,
+      "count": 32,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -770,7 +761,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 28,
+      "count": 27,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -790,7 +781,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 19,
+      "count": 18,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -800,7 +791,7 @@
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 17,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -840,13 +831,12 @@
     },
     {
       "name": "Inicio Tampa",
-      "count": 10,
+      "count": 9,
       "communities": [
         "Beach Flats",
         "Case Residences",
         "The William at Westshore",
-        "Westshore Flats I",
-        "Westshore Marina Flats"
+        "Westshore Flats I"
       ],
       "cities": [
         "Tampa"
@@ -877,7 +867,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 111
+      "count": 108
     },
     {
       "name": "Richmond",
@@ -893,19 +883,19 @@
     },
     {
       "name": "Nashville",
-      "count": 50
-    },
-    {
-      "name": "Winter Park",
-      "count": 45
+      "count": 49
     },
     {
       "name": "Antioch",
       "count": 45
     },
     {
+      "name": "Winter Park",
+      "count": 44
+    },
+    {
       "name": "Tampa",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Kissimmee",
@@ -917,7 +907,7 @@
     },
     {
       "name": "Peachtree Corners",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Gainesville",
@@ -929,7 +919,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Jacksonville",
@@ -941,7 +931,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Macon",
@@ -949,7 +939,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Davenport",
@@ -1031,7 +1021,7 @@
   "pgs": [
     {
       "name": "PG1",
-      "count": 48
+      "count": 47
     },
     {
       "name": "PG2",
@@ -1059,7 +1049,7 @@
     },
     {
       "name": "PG9",
-      "count": 11
+      "count": 10
     }
   ],
   "mfProperties": [
@@ -1086,7 +1076,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 34,
+      "count": 32,
       "cities": [
         "Orlando"
       ]
@@ -1100,7 +1090,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 28,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1128,14 +1118,14 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 19,
+      "count": 18,
       "cities": [
         "Casselberry"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Winter Springs"
       ]
@@ -1330,13 +1320,6 @@
       ]
     },
     {
-      "name": "Westshore Marina Flats",
-      "count": 1,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "The William at Westshore",
       "count": 1,
       "cities": [
@@ -1351,8 +1334,8 @@
       ]
     }
   ],
-  "mfTotal": 569,
-  "total": 843,
+  "mfTotal": 563,
+  "total": 833,
   "groups": [
     {
       "key": "inicio",
@@ -1367,7 +1350,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 10
+      "listings": 9
     }
   ]
 }
