@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 269,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -76,7 +76,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -103,11 +103,20 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -117,15 +126,6 @@
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -192,15 +192,6 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Champions Chase",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -246,6 +237,15 @@
       ]
     },
     {
+      "name": "Mission Club",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Mirabella Apartments",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7e7744ef-3324-47db-8d93-72b4debf1662/large.png",
@@ -285,7 +285,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 152,
+      "count": 150,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -375,7 +375,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 28,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
@@ -402,11 +402,20 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 20,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
       "phone": "(689) 407-7964",
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
+      "phone": "(689) 300-5868",
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -416,15 +425,6 @@
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 18,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
-      "phone": "(689) 300-5868",
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -479,15 +479,6 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -551,6 +542,15 @@
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -701,7 +701,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 271,
+      "count": 269,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -770,7 +770,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 28,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -789,6 +789,16 @@
       ]
     },
     {
+      "name": "Lake Irene",
+      "count": 19,
+      "communities": [
+        "Reserve at Lake Irene"
+      ],
+      "cities": [
+        "Casselberry"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
       "count": 18,
       "communities": [
@@ -796,16 +806,6 @@
       ],
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Lake Irene",
-      "count": 18,
-      "communities": [
-        "Reserve at Lake Irene"
-      ],
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -865,7 +865,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 5,
+      "count": 4,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -877,7 +877,7 @@
   "cities": [
     {
       "name": "Orlando",
-      "count": 112
+      "count": 111
     },
     {
       "name": "Richmond",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Winter Park",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Antioch",
@@ -929,7 +929,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Jacksonville",
@@ -937,7 +937,7 @@
     },
     {
       "name": "Ocoee",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Winter Springs",
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "PG3",
-      "count": 10
+      "count": 9
     },
     {
       "name": "PG4",
@@ -1100,7 +1100,7 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 28,
       "cities": [
         "Orlando"
       ]
@@ -1121,9 +1121,16 @@
     },
     {
       "name": "Ocoee Village",
-      "count": 20,
+      "count": 19,
       "cities": [
         "Ocoee"
+      ]
+    },
+    {
+      "name": "Reserve at Lake Irene",
+      "count": 19,
+      "cities": [
+        "Casselberry"
       ]
     },
     {
@@ -1131,13 +1138,6 @@
       "count": 18,
       "cities": [
         "Winter Springs"
-      ]
-    },
-    {
-      "name": "Reserve at Lake Irene",
-      "count": 18,
-      "cities": [
-        "Casselberry"
       ]
     },
     {
@@ -1180,13 +1180,6 @@
       "count": 7,
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 5,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1236,6 +1229,13 @@
       "count": 4,
       "cities": [
         "Charlottesville"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1352,7 +1352,7 @@
     }
   ],
   "mfTotal": 569,
-  "total": 845,
+  "total": 843,
   "groups": [
     {
       "key": "inicio",
