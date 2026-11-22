@@ -175,21 +175,21 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 9,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 8,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -520,15 +520,6 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -571,6 +562,15 @@
       "phone": "(407) 258-1332",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 285-4812",
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -833,19 +833,6 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 9,
-      "communities": [
-        "Beach Flats",
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I"
-      ],
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Camelot Properties",
       "count": 9,
       "communities": [
@@ -854,6 +841,19 @@
       ],
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Inicio Tampa",
+      "count": 8,
+      "communities": [
+        "Beach Flats",
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I"
+      ],
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "name": "Tampa",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Kissimmee",
@@ -1208,13 +1208,6 @@
       ]
     },
     {
-      "name": "Westshore Flats I",
-      "count": 4,
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "cities": [
@@ -1247,6 +1240,13 @@
       "count": 4,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Westshore Flats I",
+      "count": 3,
+      "cities": [
+        "Tampa"
       ]
     },
     {
@@ -1341,8 +1341,8 @@
       ]
     }
   ],
-  "mfTotal": 559,
-  "total": 827,
+  "mfTotal": 558,
+  "total": 826,
   "groups": [
     {
       "key": "inicio",
@@ -1357,7 +1357,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 9
+      "listings": 8
     }
   ]
 }
