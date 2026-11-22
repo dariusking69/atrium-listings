@@ -886,7 +886,7 @@
     },
     {
       "name": "Nashville",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Winter Park",
@@ -1342,7 +1342,7 @@
     }
   ],
   "mfTotal": 558,
-  "total": 826,
+  "total": 825,
   "groups": [
     {
       "key": "inicio",

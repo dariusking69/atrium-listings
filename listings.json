@@ -5854,46 +5854,6 @@
     "community": ""
   },
   {
-    "id": 7225,
-    "uuid": "001f3e56-8998-41f3-a347-9ba2b0a45ebb",
-    "address": "112 Creekstone Circle, Nashville, TN 37214",
-    "street": "112 Creekstone Circle",
-    "city": "Nashville",
-    "rent": "$1,088 - $1,741",
-    "rent_val": 1088,
-    "specs": "2 bd, 2 ba, 957 Sq. Ft.",
-    "beds": 2.0,
-    "baths": 2.0,
-    "sqft": 957,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/b0f81690-4d5a-4e54-bddb-44e32973adee/large.png",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/001f3e56-8998-41f3-a347-9ba2b0a45ebb",
-    "lat": 36.1608192,
-    "lng": -86.6467978,
-    "title": "",
-    "description": "Rental Terms \n \n Rent: $1,088 - $1,741 \n\n\n\n Admin Fee: $50 \n\n\n\n\n\n Available 11/30/26",
-    "terms": [
-      "Rent: $1,088 - $1,741",
-      "Admin Fee: $50",
-      "Available 11/30/26"
-    ],
-    "pets": [],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/b0f81690-4d5a-4e54-bddb-44e32973adee/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=001f3e56-8998-41f3-a347-9ba2b0a45ebb&source=Website",
-    "property": "",
-    "logo": "",
-    "phone": "",
-    "available": "11/30/26",
-    "zip": "37214",
-    "state": "TN",
-    "unit": "",
-    "pg": "",
-    "mf": false,
-    "cg": [],
-    "community": ""
-  },
-  {
     "id": 7224,
     "uuid": "c51800ce-cc94-455e-8818-9cae60921879",
     "address": "245 Trails Circle, Nashville, TN 37214",
