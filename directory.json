@@ -59,7 +59,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 45,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -113,7 +113,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -350,7 +350,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 45,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -413,7 +413,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8ab8add5-aa91-46b7-bc9d-ebbb105f00e6/large.png",
       "phone": "(689) 300-5868",
       "cities": [
@@ -784,7 +784,7 @@
     },
     {
       "name": "Lake Irene",
-      "count": 18,
+      "count": 17,
       "communities": [
         "Reserve at Lake Irene"
       ],
@@ -886,14 +886,14 @@
     },
     {
       "name": "Nashville",
-      "count": 49
-    },
-    {
-      "name": "Antioch",
-      "count": 45
+      "count": 47
     },
     {
       "name": "Winter Park",
+      "count": 44
+    },
+    {
+      "name": "Antioch",
       "count": 44
     },
     {
@@ -922,7 +922,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 22
+      "count": 21
     },
     {
       "name": "Jacksonville",
@@ -1125,7 +1125,7 @@
     },
     {
       "name": "Reserve at Lake Irene",
-      "count": 18,
+      "count": 17,
       "cities": [
         "Casselberry"
       ]
@@ -1341,8 +1341,8 @@
       ]
     }
   ],
-  "mfTotal": 560,
-  "total": 831,
+  "mfTotal": 559,
+  "total": 827,
   "groups": [
     {
       "key": "inicio",
