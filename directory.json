@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 265,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -12,7 +12,6 @@
         "Charlottesville",
         "Davenport",
         "Daytona Beach",
-        "DeBary",
         "DeLand",
         "Deltona",
         "Gainesville",
@@ -68,7 +67,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -77,20 +76,11 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -100,6 +90,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -140,7 +139,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -175,21 +174,21 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 9,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 9,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/71609a82-2a14-49c8-94ca-38312f6f60aa/large.png",
       "phone": "(352) 559-3304",
       "cities": [
         "Gainesville"
-      ]
-    },
-    {
-      "name": "Inicio Tampa",
-      "count": 8,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
-      "phone": "(813) 285-4812",
-      "cities": [
-        "Tampa"
       ]
     },
     {
@@ -220,15 +219,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -239,7 +229,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
       "phone": "(689) 215-0812",
       "cities": [
@@ -253,6 +243,15 @@
       "phone": "(352) 327-9223",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Coliseum Lofts",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
+      "cities": [
+        "Richmond"
       ]
     },
     {
@@ -281,12 +280,21 @@
       "cities": [
         "Charlottesville"
       ]
+    },
+    {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
+      ]
     }
   ],
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 149,
+      "count": 146,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -295,7 +303,6 @@
         "Casselberry",
         "Davenport",
         "Daytona Beach",
-        "DeBary",
         "DeLand",
         "Deltona",
         "Gainesville",
@@ -359,7 +366,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 30,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -377,20 +384,11 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/5ffad584-3e83-431e-b36d-cfe29feedb6f/large.png",
       "phone": "(689) 215-9531",
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
-      "phone": "(804) 626-5885",
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -400,6 +398,15 @@
       "phone": "(689) 215-8516",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
+      "phone": "(804) 626-5885",
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -440,7 +447,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -511,15 +518,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
-      "phone": "(804) 977-1161",
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -535,15 +533,6 @@
       "phone": "(434) 443-6987",
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -574,12 +563,30 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(727) 591-4130",
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Hammocks off Newberry",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(352) 332-3199",
+      "cities": [
+        "Gainesville"
       ]
     },
     {
@@ -592,12 +599,12 @@
       ]
     },
     {
-      "name": "Hammocks off Newberry",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(352) 332-3199",
+      "name": "Coliseum Lofts",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
+      "phone": "(804) 977-1161",
       "cities": [
-        "Gainesville"
+        "Richmond"
       ]
     },
     {
@@ -664,6 +671,15 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
+      "phone": "(813) 531-9129",
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Beach Flats",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
@@ -682,6 +698,15 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/a41e3897-a2de-478c-891e-9045ef29b4c0/large.png",
+      "phone": "(703) 420-3619",
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "The Hammocks on 34th",
       "count": 1,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
@@ -694,7 +719,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 268,
+      "count": 265,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -715,7 +740,6 @@
         "Charlottesville",
         "Davenport",
         "Daytona Beach",
-        "DeBary",
         "DeLand",
         "Deltona",
         "Gainesville",
@@ -754,7 +778,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 32,
+      "count": 30,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -764,7 +788,7 @@
     },
     {
       "name": "Baldwin Park",
-      "count": 27,
+      "count": 26,
       "communities": [
         "Avenues of Baldwin Park"
       ],
@@ -833,6 +857,20 @@
       ]
     },
     {
+      "name": "Inicio Tampa",
+      "count": 9,
+      "communities": [
+        "Beach Flats",
+        "Case Residences",
+        "The William at Westshore",
+        "Westshore Flats I",
+        "Westshore Marina Flats"
+      ],
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Camelot Properties",
       "count": 9,
       "communities": [
@@ -844,21 +882,8 @@
       ]
     },
     {
-      "name": "Inicio Tampa",
-      "count": 8,
-      "communities": [
-        "Beach Flats",
-        "Case Residences",
-        "The William at Westshore",
-        "Westshore Flats I"
-      ],
-      "cities": [
-        "Tampa"
-      ]
-    },
-    {
       "name": "Mission Club",
-      "count": 4,
+      "count": 3,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -869,12 +894,12 @@
   ],
   "cities": [
     {
-      "name": "Orlando",
-      "count": 108
+      "name": "Richmond",
+      "count": 104
     },
     {
-      "name": "Richmond",
-      "count": 106
+      "name": "Orlando",
+      "count": 103
     },
     {
       "name": "Winter Garden",
@@ -902,23 +927,23 @@
     },
     {
       "name": "Kissimmee",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Peachtree Corners",
-      "count": 28
-    },
-    {
       "name": "Gainesville",
       "count": 28
     },
     {
+      "name": "Peachtree Corners",
+      "count": 27
+    },
+    {
       "name": "Sandston",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Casselberry",
@@ -985,10 +1010,6 @@
       "count": 1
     },
     {
-      "name": "DeBary",
-      "count": 1
-    },
-    {
       "name": "Altamonte Springs",
       "count": 1
     },
@@ -1006,6 +1027,10 @@
     },
     {
       "name": "Wildwood",
+      "count": 1
+    },
+    {
+      "name": "Triangle",
       "count": 1
     },
     {
@@ -1036,7 +1061,7 @@
     },
     {
       "name": "PG3",
-      "count": 9
+      "count": 8
     },
     {
       "name": "PG4",
@@ -1083,7 +1108,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 32,
+      "count": 30,
       "cities": [
         "Orlando"
       ]
@@ -1097,16 +1122,9 @@
     },
     {
       "name": "Avenues of Baldwin Park",
-      "count": 27,
+      "count": 26,
       "cities": [
         "Orlando"
-      ]
-    },
-    {
-      "name": "Gerwyn Manor",
-      "count": 24,
-      "cities": [
-        "Sandston"
       ]
     },
     {
@@ -1114,6 +1132,13 @@
       "count": 24,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Gerwyn Manor",
+      "count": 23,
+      "cities": [
+        "Sandston"
       ]
     },
     {
@@ -1146,7 +1171,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Orlando"
       ]
@@ -1201,13 +1226,6 @@
       ]
     },
     {
-      "name": "Coliseum Lofts",
-      "count": 4,
-      "cities": [
-        "Richmond"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "cities": [
@@ -1219,13 +1237,6 @@
       "count": 4,
       "cities": [
         "Charlottesville"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 4,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1250,10 +1261,24 @@
       ]
     },
     {
+      "name": "Mission Club Apartments",
+      "count": 3,
+      "cities": [
+        "Orlando"
+      ]
+    },
+    {
       "name": "Case Residences",
       "count": 3,
       "cities": [
         "Tampa"
+      ]
+    },
+    {
+      "name": "Hammocks off Newberry",
+      "count": 3,
+      "cities": [
+        "Gainesville"
       ]
     },
     {
@@ -1264,10 +1289,10 @@
       ]
     },
     {
-      "name": "Hammocks off Newberry",
-      "count": 3,
+      "name": "Coliseum Lofts",
+      "count": 2,
       "cities": [
-        "Gainesville"
+        "Richmond"
       ]
     },
     {
@@ -1320,6 +1345,13 @@
       ]
     },
     {
+      "name": "Westshore Marina Flats",
+      "count": 1,
+      "cities": [
+        "Tampa"
+      ]
+    },
+    {
       "name": "Beach Flats",
       "count": 1,
       "cities": [
@@ -1334,6 +1366,13 @@
       ]
     },
     {
+      "name": "Southampton Apartments",
+      "count": 1,
+      "cities": [
+        "Triangle"
+      ]
+    },
+    {
       "name": "The Hammocks on 34th",
       "count": 1,
       "cities": [
@@ -1341,8 +1380,8 @@
       ]
     }
   ],
-  "mfTotal": 558,
-  "total": 824,
+  "mfTotal": 552,
+  "total": 814,
   "groups": [
     {
       "key": "inicio",
@@ -1357,7 +1396,7 @@
         "Westshore Marina Flats"
       ],
       "units": 197,
-      "listings": 8
+      "listings": 9
     }
   ]
 }
