@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 266,
+      "count": 264,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -15,7 +15,6 @@
         "DeLand",
         "Deltona",
         "Gainesville",
-        "Haines City",
         "Jacksonville",
         "Kissimmee",
         "Lake Mary",
@@ -58,7 +57,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 44,
+      "count": 42,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -102,21 +101,30 @@
       ]
     },
     {
-      "name": "Ocoee Village",
+      "name": "Renaissance at Strawberry Creek",
       "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
       "cities": [
-        "Ocoee"
+        "Jacksonville"
       ]
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -156,17 +164,8 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -192,6 +191,15 @@
       ]
     },
     {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
+      ]
+    },
+    {
       "name": "Champions Chase",
       "count": 5,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/f16438ee-18ff-4909-b813-d81ac269ebd8/large.png",
@@ -210,15 +218,6 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
@@ -228,10 +227,10 @@
       ]
     },
     {
-      "name": "Mission Club",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
       "cities": [
         "Orlando"
       ]
@@ -255,21 +254,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -294,7 +293,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 146,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -306,7 +305,6 @@
         "DeLand",
         "Deltona",
         "Gainesville",
-        "Haines City",
         "Jacksonville",
         "Kissimmee",
         "Lake Mary",
@@ -357,7 +355,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 44,
+      "count": 42,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -410,21 +408,30 @@
       ]
     },
     {
-      "name": "Ocoee Village",
+      "name": "Renaissance at Strawberry Creek Apartments",
       "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
-      "phone": "(689) 407-7964",
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
       "cities": [
-        "Ocoee"
+        "Jacksonville"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 17,
+      "count": 18,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/78e87719-722a-4f91-8d03-023128dda87a/large.png",
+      "phone": "(689) 407-7964",
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -464,17 +471,8 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 11,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
-      "count": 11,
+      "count": 10,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/91212c4b-5020-4d5e-a123-14b022b30c3c/large.png",
       "phone": "(478) 330-3584",
       "cities": [
@@ -488,6 +486,15 @@
       "phone": "(352) 301-4477",
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 5,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
+      "phone": "(689) 210-4518",
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -509,21 +516,21 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/30018874-25b7-4832-ba9b-f02a0f4c23b4/large.png",
-      "phone": "(689) 210-4518",
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/309eb1e6-744f-496d-97fa-d4da81fe0800/large.png",
       "phone": "(321) 395-8432",
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
+      "phone": "(689) 219-7477",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -545,30 +552,12 @@
       ]
     },
     {
-      "name": "The Hammocks by Butler",
-      "count": 4,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
-      "phone": "(407) 258-1332",
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 3,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7900367a-82a5-47a4-bbf2-a32ade9b11cd/large.png",
       "phone": "(813) 285-4812",
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
-      "phone": "(689) 215-0812",
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -599,6 +588,15 @@
       ]
     },
     {
+      "name": "The Hammocks by Butler",
+      "count": 3,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
+      "phone": "(407) 258-1332",
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/66efa439-6dc5-4e6f-b5be-536259bcac71/large.png",
@@ -617,21 +615,21 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/1afadc51-d75b-4599-9af2-f4ac3cb27684/large.png",
-      "phone": "(689) 219-7477",
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 2,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7af9437b-43c1-4c68-9f14-e8d155c1da27/large.png",
       "phone": "(804) 977-2457",
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/d9e5d679-3d9f-443a-a782-5f4c7fc02475/large.png",
+      "phone": "(689) 215-0812",
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -719,7 +717,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 266,
+      "count": 264,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -743,7 +741,6 @@
         "DeLand",
         "Deltona",
         "Gainesville",
-        "Haines City",
         "Jacksonville",
         "Kissimmee",
         "Lake Mary",
@@ -807,8 +804,18 @@
       ]
     },
     {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 19,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
+      ]
+    },
+    {
       "name": "Ave. at Winter Springs",
-      "count": 17,
+      "count": 18,
       "communities": [
         "The Avenues at Winter Springs"
       ],
@@ -837,18 +844,8 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 11,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe",
-      "count": 11,
+      "count": 10,
       "communities": [
         "Timber Pointe Apartments"
       ],
@@ -883,7 +880,7 @@
     },
     {
       "name": "Mission Club",
-      "count": 3,
+      "count": 2,
       "communities": [
         "Mission Club Apartments"
       ],
@@ -899,7 +896,7 @@
     },
     {
       "name": "Orlando",
-      "count": 101
+      "count": 103
     },
     {
       "name": "Winter Garden",
@@ -914,16 +911,16 @@
       "count": 44
     },
     {
-      "name": "Antioch",
-      "count": 44
-    },
-    {
       "name": "Nashville",
       "count": 43
     },
     {
+      "name": "Antioch",
+      "count": 42
+    },
+    {
       "name": "Tampa",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Kissimmee",
@@ -934,8 +931,12 @@
       "count": 30
     },
     {
+      "name": "Jacksonville",
+      "count": 28
+    },
+    {
       "name": "Gainesville",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Peachtree Corners",
@@ -950,20 +951,16 @@
       "count": 21
     },
     {
-      "name": "Jacksonville",
-      "count": 20
+      "name": "Winter Springs",
+      "count": 18
     },
     {
       "name": "Ocoee",
-      "count": 19
-    },
-    {
-      "name": "Winter Springs",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Macon",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Lakeland",
@@ -1018,10 +1015,6 @@
       "count": 1
     },
     {
-      "name": "Haines City",
-      "count": 1
-    },
-    {
       "name": "Ocala",
       "count": 1
     },
@@ -1061,7 +1054,7 @@
     },
     {
       "name": "PG3",
-      "count": 8
+      "count": 9
     },
     {
       "name": "PG4",
@@ -1069,7 +1062,7 @@
     },
     {
       "name": "PG5",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PG7",
@@ -1081,7 +1074,7 @@
     },
     {
       "name": "PG9",
-      "count": 10
+      "count": 9
     }
   ],
   "mfProperties": [
@@ -1142,17 +1135,24 @@
       ]
     },
     {
-      "name": "Ocoee Village",
+      "name": "Renaissance at Strawberry Creek Apartments",
       "count": 19,
       "cities": [
-        "Ocoee"
+        "Jacksonville"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 17,
+      "count": 18,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Ocoee Village",
+      "count": 18,
+      "cities": [
+        "Ocoee"
       ]
     },
     {
@@ -1184,15 +1184,8 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 11,
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Timber Pointe Apartments",
-      "count": 11,
+      "count": 10,
       "cities": [
         "Macon"
       ]
@@ -1202,6 +1195,13 @@
       "count": 7,
       "cities": [
         "Gainesville"
+      ]
+    },
+    {
+      "name": "Sutton Fields",
+      "count": 5,
+      "cities": [
+        "St. Cloud"
       ]
     },
     {
@@ -1219,17 +1219,17 @@
       ]
     },
     {
-      "name": "Sutton Fields",
-      "count": 5,
-      "cities": [
-        "St. Cloud"
-      ]
-    },
-    {
       "name": "Champions Village",
       "count": 4,
       "cities": [
         "Kissimmee"
+      ]
+    },
+    {
+      "name": "Valencia Isle",
+      "count": 4,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1247,24 +1247,10 @@
       ]
     },
     {
-      "name": "The Hammocks by Butler",
-      "count": 4,
-      "cities": [
-        "Gainesville"
-      ]
-    },
-    {
       "name": "Westshore Flats I",
       "count": 3,
       "cities": [
         "Tampa"
-      ]
-    },
-    {
-      "name": "Mission Club Apartments",
-      "count": 3,
-      "cities": [
-        "Orlando"
       ]
     },
     {
@@ -1289,6 +1275,13 @@
       ]
     },
     {
+      "name": "The Hammocks by Butler",
+      "count": 3,
+      "cities": [
+        "Gainesville"
+      ]
+    },
+    {
       "name": "Coliseum Lofts",
       "count": 2,
       "cities": [
@@ -1303,17 +1296,17 @@
       ]
     },
     {
-      "name": "Valencia Isle",
-      "count": 2,
-      "cities": [
-        "Orlando"
-      ]
-    },
-    {
       "name": "Raven Place",
       "count": 2,
       "cities": [
         "Richmond"
+      ]
+    },
+    {
+      "name": "Mission Club Apartments",
+      "count": 2,
+      "cities": [
+        "Orlando"
       ]
     },
     {
@@ -1380,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 551,
-  "total": 812,
+  "mfTotal": 558,
+  "total": 816,
   "groups": [
     {
       "key": "inicio",
