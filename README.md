@@ -51,6 +51,35 @@ Details → our `homes/<id>.html` pages, Apply → the AppFolio application form
 3. Paste everything between the "WIDGET START" / "WIDGET END" markers into a Squarespace
    Code Block, or use the whole file behind an `<iframe>`.
 
+## Featured homes first, and the map narrows the list
+
+From the 11/25 marketing meeting (Trey, Alex): the full list opened on floor plans and long
+runs of one apartment building.
+
+- **`featured.json`** holds about 20 homes Claude picked from their thumbnails: a real
+  exterior or a bright room as the first photo, a spread of areas, prices and sizes, at most
+  two from one building. Each has its listing `id`, the `photo` that was picked and a
+  one-line `why`. `widget.html` shows them first, in the file's order, then everything else
+  in the normal order, **only in the default view**: any search, filter, sort, radius, drawn
+  area or map move wins. Never in a scoped view (`?embed=1`, `props=`, `p=`, `property=`,
+  `group=`, `pg=`, `mf=`); `w.html` never reads the file.
+- A pick drops out by itself once it leaves the feed (leased), has no price, or its first
+  photo is no longer the one picked. Under `min_live` (12) picks left, the widget shows the
+  normal order and logs a console warning, and `check_featured.py` puts a warning on the
+  refresh run: time to pick again. People write this file, never `build.py`, so it is not in
+  the bot's `git add` list. orlandorentals.com reads the same file at
+  `https://listings.meetatrium.com/featured.json`.
+- **Search as I move the map** (a checkbox on the map, on by default): once the visitor pans
+  or zooms, the list holds only the homes inside the visible map, and the share URL carries
+  `view=south_west_north_east`. The map's own fitting and a popup panning into view do not
+  count. Searching a place, city or ZIP, or picking a radius or drawn area, lets go of the
+  box; Reset clears it. Leaflet only (the Google engine hides the checkbox), and off in
+  `?embed=1`.
+
+```bash
+python3 check_featured.py && python3 -m pytest tests -q
+```
+
 ## Readable without JavaScript (AI assistants, crawlers)
 
 `widget.html` renders no listings without JavaScript and `listings.json` is about 3 MB,

@@ -55,7 +55,8 @@
   </div>
   <div id="atr-area-note" class="atr-area-note" style="display:none"></div>
   <div class="atr-split">
-    <div class="atr-map-wrap"><div id="atr-map"></div></div>
+    <div class="atr-map-wrap"><div id="atr-map"></div>
+      <label id="atr-mapsearch" class="atr-mapsearch" style="display:none"><input type="checkbox" checked>Search as I move the map</label></div>
     <div id="atr-grid" class="atr-grid"></div>
   </div>
   <div id="atr-empty" class="atr-empty" style="display:none">No homes match your filters.</div>
@@ -130,6 +131,12 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 .atr-poplast{font-size:12px;color:#555;font-weight:500}
 .atr-area-note{font-size:13px;color:#444;background:#faf7f2;border:1px solid var(--line);
   border-left:3px solid var(--red);border-radius:6px;padding:8px 12px;margin:0 4px 12px}
+/* "Search as I move the map" - floats over the top of the map, like Zillow's */
+.atr-mapsearch{position:absolute;top:10px;left:50%;transform:translateX(-50%);z-index:1000;
+  display:inline-flex;align-items:center;gap:7px;background:#fff;border:1px solid var(--line);
+  border-radius:999px;padding:7px 13px;font-size:13px;font-weight:600;color:var(--ink);
+  box-shadow:0 2px 8px rgba(7,7,7,.18);cursor:pointer;white-space:nowrap;user-select:none;-webkit-user-select:none}
+.atr-mapsearch input{width:16px;height:16px;margin:0;accent-color:var(--red);cursor:pointer}
 
 /* ===== EMBED MODE (?embed=1) — sized for a narrow chat panel =====
    The full page spends ~250px of height on the filter bar + a tall map, which
@@ -213,6 +220,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // Local dev: served same-origin when the parent Work/Claude dir is hosted.
     PORTFOLIO_BASE: (/^(localhost|127\.)/.test(location.hostname)
                      ? '/atrium-portfolio/site' : 'https://portfolio.meetatrium.com'),
+    FEATURED_URL: 'featured.json',      // hand-picked homes that lead the default view (optional)
     SMART_GEOCODE: true,                // look up unknown place names (free OSM) when a search finds nothing
     MAP_CENTER: [28.4, -81.3], MAP_ZOOM: 8
   };
@@ -235,6 +243,22 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   // portfolio-related renders or filters until then.
   var PF = {ready:false, leased:[], catalogue:[], jk:{}};
   var AREA_CIRCLE = null;                // the radius ring WE drew for an area search
+  // ===== FEATURED HOMES (featured.json, 11/25 marketing meeting) =====
+  // About 20 homes picked by hand from their thumbnails lead the DEFAULT view,
+  // then everything else in the normal order. Any filter, search, sort, area
+  // or map move the visitor makes wins, the same rule as the area order in
+  // apply(). Never in a scoped view: Marty's embed, or a URL naming a
+  // community or group. (w.html, the community widget, never reads the file.)
+  var FEATURED = {ids:[], photo:{}, min:12, warned:false};
+  var SCOPED = EMBED || ['group','props','property','p','pg','mf'].some(function(k){ return INIT_PARAMS.has(k); });
+  // ===== SEARCH AS I MOVE THE MAP =====
+  // Once the visitor pans or zooms, the list holds only the homes inside the
+  // visible map, like Zillow. VIEW is that box; it filters in apply() next to
+  // the radius and the drawn area, rides in the share URL as view=s_w_n_e, and
+  // Reset clears it. It is its own box rather than a rewrite of POLY, so moving
+  // the map never throws away an area the visitor drew. Off in the embed.
+  var VIEW = null;                       // {s,w,n,e}
+  var MAP_SEARCH = !EMBED;               // the toggle on the map; on by default
   function milesBetween(la1,lo1,la2,lo2){
     var R=3958.8, r=Math.PI/180, dLa=(la2-la1)*r, dLo=(lo2-lo1)*r;
     var a=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*r)*Math.cos(la2*r)*Math.sin(dLo/2)*Math.sin(dLo/2);
@@ -382,6 +406,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   function onMapPick(lat,lng){                 // fired when the map is clicked in radius pick mode
     if(!pickMode) return;
     pickMode=false;
+    VIEW=null;                                 // a new area picked: the map fits to it
     RADIUS={lat:lat,lng:lng,mi:+$('#atr-radius-mi').value||5};
     $('#atr-radius-mi').style.display='';
     var b=$('#atr-radius'); b.classList.add('active'); b.textContent='◎ Radius ✕';
@@ -409,13 +434,22 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     if(MAP&&MAP.stopDraw)MAP.stopDraw();
     if(!latlngs || latlngs.length<3){ b.classList.toggle('active',!!POLY); b.textContent=POLY?'✏️ Area ✕':'✏️ Draw'; return; }
     POLY=simplifyPoly(latlngs,40);
+    VIEW=null;                                 // a new area picked: the map fits to it
     if(MAP&&MAP.drawPolygon)MAP.drawPolygon(POLY);
     b.classList.add('active'); b.textContent='✏️ Area ✕';
     apply();
   }
 
   // ================= LOAD =================
-  var LISTINGS_READY = fetch(CONFIG.DATA_URL).then(function(r){return r.json();}).then(function(rows){
+  // featured.json is optional and tiny: fetched alongside the feed so the first
+  // paint is already in its final order. Missing or broken means normal order.
+  var FEATURED_READY = SCOPED ? Promise.resolve(null)
+    : fetch(CONFIG.FEATURED_URL).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; });
+  var LISTINGS_READY = Promise.all([
+    fetch(CONFIG.DATA_URL).then(function(r){return r.json();}), FEATURED_READY
+  ]).then(function(res){
+    var rows=res[0];
+    readFeatured(res[1]);
     DATA = rows.map(function(l){
       var parts=(l.address||'').split(',').map(function(s){return s.trim();});
       var zip=(l.address||'').match(/(\d{5})(?:-\d{4})?\s*$/);
@@ -436,8 +470,14 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     buildOptions(); readParams(); wire(); initEmbed();
     MAP = makeMap();
     if(MAP.onClick) MAP.onClick(onMapPick);
+    if(MAP.onUserMove && !EMBED){               // Leaflet only; the Google engine has no toggle
+      MAP.onUserMove(onMapMoved);
+      $('#atr-mapsearch').style.display='';
+    }
+    if(MAP.hold) MAP.hold(!!VIEW);              // a shared view= link: leave the map on that box
     if(RADIUS && MAP.drawCircle) MAP.drawCircle(RADIUS.lat,RADIUS.lng,RADIUS.mi);
     if(POLY && MAP.drawPolygon) MAP.drawPolygon(POLY);
+    if(VIEW && MAP.fitView) MAP.fitView(VIEW);
     apply();
   }).catch(function(e){ $('#atr-grid').innerHTML='<p style="color:#a00">Could not load listings.</p>'; console.error(e); });
 
@@ -534,6 +574,62 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     });
   }
 
+  // ================= FEATURED HOMES =================
+  function readFeatured(f){
+    if(!f || !Array.isArray(f.homes)) return;
+    f.homes.forEach(function(h){
+      if(h && h.id!=null && FEATURED.photo[h.id]===undefined){ FEATURED.ids.push(h.id); FEATURED.photo[h.id]=h.photo||''; }
+    });
+    if(f.min_live>0) FEATURED.min=f.min_live;
+  }
+  // The view nobody has narrowed: no search, filter, sort, area or map move.
+  function defaultView(st,pfSel){
+    if(SCOPED || SORT_TOUCHED || RADIUS || POLY || VIEW || st || pfSel) return false;
+    if($('#atr-sort').value!=='rent_desc') return false;
+    return ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip']
+      .every(function(s){ return $(s).value.trim()===''; });
+  }
+  // Picks first, in featured.json's order, then every other home in the order
+  // it already had. A pick is skipped once it leaves the feed (leased), loses
+  // its price, or its first photo is no longer the one that was picked (the
+  // card would lead with something nobody looked at, maybe a floor plan).
+  // Under min_live picks left, the normal order, and say so once.
+  function featuredFirst(rows){
+    if(!FEATURED.ids.length) return rows;
+    var byId={}; rows.forEach(function(l){ byId[l.id]=l; });
+    var lead=[], taken={};
+    FEATURED.ids.forEach(function(id){
+      var l=byId[id], want=FEATURED.photo[id];
+      if(!l || l._leased || !(l.rent_val>0) || (want && l.photo!==want)) return;
+      taken[l.id]=1; lead.push(l);
+    });
+    if(lead.length<FEATURED.min){
+      if(!FEATURED.warned){
+        FEATURED.warned=true;
+        console.warn('featured.json: '+lead.length+' of '+FEATURED.ids.length+' picks are still listed (minimum '+
+          FEATURED.min+'), so the list is in the normal order. Pick the featured homes again.');
+      }
+      return rows;
+    }
+    return lead.concat(rows.filter(function(l){ return !taken[l.id]; }));
+  }
+
+  // ================= SEARCH AS I MOVE THE MAP =================
+  function onMapMoved(b){                       // the visitor panned or zoomed
+    if(!MAP_SEARCH) return;
+    VIEW=b; apply();
+  }
+  function wireMapSearch(){
+    var box=$('#atr-mapsearch input');
+    box.checked=MAP_SEARCH;
+    box.addEventListener('change',function(){
+      MAP_SEARCH=box.checked;
+      // On: search the map as it is now, as Zillow does. Off: the whole list again.
+      VIEW = MAP_SEARCH ? ((MAP&&MAP.bounds&&MAP.bounds())||null) : null;
+      apply();
+    });
+  }
+
   // ================= FILTER OPTIONS =================
   function buildOptions(){
     var cities={}, zips={};
@@ -559,6 +655,11 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       var pl=[]; for(var i=0;i+1<nums.length;i+=2) pl.push([nums[i],nums[i+1]]);
       if(pl.length>=3){ POLY=pl; var db=$('#atr-draw'); db.classList.add('active'); db.textContent='✏️ Area ✕'; }
     }
+    if(p.has('view')){                                      // s_w_n_e: the map box from "Search as I move the map"
+      var v=p.get('view').split('_').map(parseFloat);
+      if(v.length===4 && v.every(function(n){ return isFinite(n); }) && v[0]<v[2] && v[1]<v[3])
+        VIEW={s:v[0],w:v[1],n:v[2],e:v[3]};
+    }
   }
   function syncUrl(){                                       // reflect current filters back into the URL
     var p=new URLSearchParams();
@@ -568,6 +669,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     });
     if(RADIUS){ p.set('rlat',RADIUS.lat.toFixed(5)); p.set('rlng',RADIUS.lng.toFixed(5)); p.set('rmi',RADIUS.mi); }
     if(POLY && POLY.length>=3){ p.set('poly', POLY.map(function(pt){return pt[0].toFixed(4)+'_'+pt[1].toFixed(4);}).join('_')); }
+    if(VIEW){ p.set('view', [VIEW.s,VIEW.w,VIEW.n,VIEW.e].map(function(n){return n.toFixed(4);}).join('_')); }
     var qs=p.toString();
     try{ history.replaceState(null,'', qs ? location.pathname+'?'+qs : location.pathname); }catch(e){}
   }
@@ -690,6 +792,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       if(zp && l.zip!==zp)return false;
       if(RADIUS){ if(l.lat==null||l.lng==null)return false; if(milesBetween(RADIUS.lat,RADIUS.lng,l.lat,l.lng)>RADIUS.mi)return false; }
       if(POLY){ if(l.lat==null||l.lng==null)return false; if(!inPolygon(l.lat,l.lng,POLY))return false; }
+      if(VIEW){ if(l.lat==null||l.lng==null)return false; if(l.lat<VIEW.s||l.lat>VIEW.n||l.lng<VIEW.w||l.lng>VIEW.e)return false; }
       return true;
     });
     // A GEOCODED area that turns up nothing is almost certainly the wrong place
@@ -713,10 +816,15 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       // best-match-first orders above (it did once - caught in review).
       rows.sort(bySort);
     }
+    // Nobody narrowed anything: the hand-picked homes lead. See FEATURED.
+    if(defaultView(st,pfSel)) rows=featuredFirst(rows);
     // In the combined view, homes you can actually rent always lead. Stable
     // sort, so the chosen order is preserved inside each group.
     if(st==='all') rows.sort(function(a,b){ return (a._leased?1:0)-(b._leased?1:0); });
-    renderGrid(rows); if(MAP)MAP.setData(rows);
+    renderGrid(rows);
+    // While the list follows the map, the map stays where the visitor put it:
+    // re-fitting it to the pins would move it, which would narrow the list again.
+    if(MAP){ if(MAP.hold)MAP.hold(!!VIEW); MAP.setData(rows); }
     // Draw the search radius for an area search: it shows the prospect exactly
     // what "near Four Corners" means, and gives fitBounds a deterministic target
     // (fitting to a short, wide container from scattered points zoomed oddly).
@@ -856,12 +964,18 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     // the search "best match first" defaults. Wired BEFORE apply(), or the first
     // pick runs apply() with the flag still unset and nothing re-sorts.
     $('#atr-sort').addEventListener('input',function(){ SORT_TOUCHED=true; });
+    // Searching a place, city or ZIP picks a new area, so the list stops
+    // following the old map box and the map fits to the results (Zillow does
+    // the same). Price, beds, baths and sort keep the box. Wired BEFORE apply.
+    ['#atr-q','#atr-city','#atr-zip'].forEach(function(s){ $(s).addEventListener('input',function(){ VIEW=null; }); });
     ['#atr-q','#atr-min','#atr-max','#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-sort','#atr-status','#atr-pf']
       .forEach(function(s){$(s).addEventListener('input',apply);});
+    wireMapSearch();
     $('#atr-reset').addEventListener('click',function(){
       ['#atr-q','#atr-min','#atr-max'].forEach(function(s){$(s).value='';});
       ['#atr-beds','#atr-baths','#atr-city','#atr-zip','#atr-status','#atr-pf'].forEach(function(s){$(s).value='';});
       $('#atr-sort').value='rent_desc'; SORT_TOUCHED=false;
+      VIEW=null;
       RADIUS=null; pickMode=false; if(MAP&&MAP.clearCircle)MAP.clearCircle();
       $('#atr-radius-mi').style.display='none';
       var rb=$('#atr-radius'); rb.classList.remove('active'); rb.textContent='◎ Radius';
@@ -967,17 +1081,52 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
   }
 
   function makeLeaflet(){
-    var api={pending:null,map:null,layer:null};
+    var api={pending:null,map:null,layer:null,held:false};
+    // Every fit WE make goes through here. While the list follows the map
+    // (held) it does nothing; otherwise it flags the move it starts, so
+    // "Search as I move the map" never takes it for the visitor's.
+    api.fit=function(bounds,opts){
+      if(api.held) return;
+      api._prog=true;
+      try{ api.map.fitBounds(bounds,opts); }catch(e){ api._prog=false; throw e; }
+    };
     loadCss('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css');
     loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',function(){
       api.map=L.map('atr-map',{scrollWheelZoom:false}).setView(CONFIG.MAP_CENTER,CONFIG.MAP_ZOOM);
       addBasemap(api.map);
       api.layer=L.layerGroup().addTo(api.map);
       api.map.on('click',function(e){ if(api._onClick) api._onClick(e.latlng.lat,e.latlng.lng); });
+      watchUserMoves();
       try{var ro=new ResizeObserver(function(){if(api.map)api.map.invalidateSize();});ro.observe(document.getElementById('atr-map'));}catch(e){}
-      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}if(api._pendingDraw){api._pendingDraw();api._pendingDraw=null;}if(api.last)api.render(api.last);},60);});
+      api.map.whenReady(function(){setTimeout(function(){api.map.invalidateSize();if(api._pendingCircle){api._pendingCircle();api._pendingCircle=null;}if(api._pendingPoly){api._pendingPoly();api._pendingPoly=null;}if(api._pendingDraw){api._pendingDraw();api._pendingDraw=null;}if(api._pendingView){api._pendingView();api._pendingView=null;}if(api.last)api.render(api.last);},60);});
       if(api.pending){api.render(api.pending);api.pending=null;}
     });
+    // Leaflet fires movestart/moveend alike for a move the visitor made (drag,
+    // the +/- buttons, double-click, pinch, keyboard), one we made (api.fit,
+    // fitView) and one Leaflet made itself (a popup panning into view, a
+    // resize). Only the visitor's narrow the list: a drag, or a move that
+    // starts while a finger or the mouse is on the map, or just was.
+    function watchUserMoves(){
+      var map=api.map, cont=map.getContainer(), touched=0, down=false;
+      var mark=function(){ touched=Date.now(); };
+      ['pointerdown','pointerup','touchstart','touchend','keydown','dblclick'].forEach(function(t){ cont.addEventListener(t,mark,true); });
+      cont.addEventListener('pointerdown',function(){ down=true; },true);
+      window.addEventListener('pointerup',function(){ down=false; },true);
+      window.addEventListener('pointercancel',function(){ down=false; },true);
+      map.on('autopanstart',function(){ api._prog=true; });
+      map.on('dragstart',function(){ api._user=true; });
+      map.on('movestart',function(){ if(!api._prog && (down || Date.now()-touched<700)) api._user=true; });
+      map.on('moveend',function(){
+        if(api._prog){ api._prog=false; api._user=false; return; }
+        if(api._user){ api._user=false; if(api._onUserMove) api._onUserMove(api.bounds()); }
+      });
+    }
+    api.bounds=function(){ var b=api.map.getBounds(); return {s:b.getSouth(),w:b.getWest(),n:b.getNorth(),e:b.getEast()}; };
+    // A shared view= link: put the map back on that box (ignores held - it IS the held view).
+    api.fitView=function(v){
+      var f=function(){ api._prog=true; api.map.fitBounds([[v.s,v.w],[v.n,v.e]]); };
+      if(api.map) f(); else api._pendingView=f;
+    };
     var icon=function(l){return L.divIcon({className:'atr-pin',html:(l&&l._leased)?GRAY_PIN:RED_PIN,iconSize:[26,38],iconAnchor:[13,38],popupAnchor:[0,-34]});};
     api.render=function(rows){
       api.last=rows; api.map.invalidateSize();
@@ -986,9 +1135,9 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         var m=L.marker([l.lat,l.lng],{icon:icon(l)}).bindPopup(popHtml(l));
         m.on('click',function(){highlight(l.id);}); m.addTo(api.layer); pts.push([l.lat,l.lng]);
       });
-      if(api._circle){ api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]}); }
-      else if(api._poly){ api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]}); }
-      else if(pts.length){ api.map.fitBounds(pts,{padding:[40,40],maxZoom:13}); }
+      if(api._circle){ api.fit(api._circle.getBounds(),{padding:[30,30]}); }
+      else if(api._poly){ api.fit(api._poly.getBounds(),{padding:[30,30]}); }
+      else if(pts.length){ api.fit(pts,{padding:[40,40],maxZoom:13}); }
     };
     api.drawCircle=function(lat,lng,mi){
       var doDraw=function(){
@@ -996,7 +1145,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
         if(api._center)api.map.removeLayer(api._center);
         api._circle=L.circle([lat,lng],{radius:mi*1609.34,color:'#f13d3d',weight:2,fillColor:'#f13d3d',fillOpacity:.07,interactive:false}).addTo(api.map);
         api._center=L.circleMarker([lat,lng],{radius:5,color:'#fff',weight:2,fillColor:'#f13d3d',fillOpacity:1,interactive:false}).addTo(api.map);
-        api.map.fitBounds(api._circle.getBounds(),{padding:[30,30]});
+        api.fit(api._circle.getBounds(),{padding:[30,30]});
       };
       if(api.map)doDraw(); else api._pendingCircle=doDraw;
     };
@@ -1009,7 +1158,7 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
       var doDraw=function(){
         if(api._poly)api.map.removeLayer(api._poly);
         api._poly=L.polygon(latlngs,{color:'#f13d3d',weight:2,fillColor:'#f13d3d',fillOpacity:.08,interactive:false}).addTo(api.map);
-        try{api.map.fitBounds(api._poly.getBounds(),{padding:[30,30]});}catch(e){}
+        try{api.fit(api._poly.getBounds(),{padding:[30,30]});}catch(e){}
       };
       if(api.map)doDraw(); else api._pendingPoly=doDraw;
     };
@@ -1033,9 +1182,15 @@ select.atr-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     return {setData:function(rows){ if(api.map)api.render(rows); else api.pending=rows; },
             refresh:function(){ if(api.map&&api.last)api.render(api.last); else if(api.map)api.map.invalidateSize(); },
             onClick:function(cb){ api._onClick=cb; }, drawCircle:api.drawCircle, clearCircle:api.clearCircle,
-            drawPolygon:api.drawPolygon, clearPolygon:api.clearPolygon, startDraw:api.startDraw, stopDraw:api.stopDraw};
+            drawPolygon:api.drawPolygon, clearPolygon:api.clearPolygon, startDraw:api.startDraw, stopDraw:api.stopDraw,
+            // Search as I move the map
+            onUserMove:function(cb){ api._onUserMove=cb; }, hold:function(on){ api.held=!!on; },
+            bounds:function(){ return api.map?api.bounds():null; }, fitView:api.fitView};
   }
 
+  // NB: no onUserMove/hold/bounds/fitView here, so with a Google key the
+  // "Search as I move the map" toggle stays hidden. A view= link still
+  // narrows the list. Build it here before turning the Google engine on.
   function makeGoogle(){
     var api={map:null,markers:[],pending:null,info:null};
     window.__atrGmapInit=function(){

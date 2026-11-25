@@ -1,0 +1,139 @@
+{
+ "about": "Homes that lead the default view of widget.html, in this order. Picked by Claude from the listing thumbnails on 2026-11-25 (marketing meeting, Trey and Alex: about 20 good-looking homes first, then everything else). A pick is skipped once it leaves listings.json or its first photo is no longer the one picked here. Under min_live live picks the widget shows the normal order and the refresh run warns: pick again.",
+ "picked": "2026-11-25",
+ "min_live": 12,
+ "homes": [
+  {
+   "id": 1342,
+   "address": "905 Pickfair Ter, Lake Mary, FL 32746",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/98e05c87-52ba-40c7-bcc4-936f581f7fdb/large.jpeg",
+   "why": "Two-story single-family house from the street: lawn, palms, blue sky."
+  },
+  {
+   "id": 6450,
+   "address": "11 East Smith Street Unit 215, Winter Garden, FL 34787",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e432093a-3a22-46eb-ae8e-4684f332b108/large.jpeg",
+   "why": "White Spanish-style building on a brick street, blue sky."
+  },
+  {
+   "id": 2089,
+   "address": "5309 Seminole Ave  - Unit A, Tampa, FL 33603",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/ade34ed6-a091-42e9-8a87-75ae708bbfc5/large.jpeg",
+   "why": "Craftsman bungalow with a deep front porch and stone steps."
+  },
+  {
+   "id": 5565,
+   "address": "3618 East Broad Street #A205, Richmond, VA 23223",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/dc797399-3b4a-4e46-8486-571845ad0b17/large.jpg",
+   "why": "New apartment building above a green lawn and trees, blue sky."
+  },
+  {
+   "id": 2451,
+   "address": "4359 Paraglider Place, Wesley Chapel, FL 33545",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8de80558-d248-40f3-9e7a-a5f63f9e22ab/large.jpg",
+   "why": "Bright open living room and kitchen, staged."
+  },
+  {
+   "id": 7448,
+   "address": "7557 Arlington Expressway Unit M101, Jacksonville, FL 32211",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9a8bb3b2-43c4-45f7-8d26-59e7d4d6d762/large.jpg",
+   "why": "Community pool and clubhouse under a blue sky."
+  },
+  {
+   "id": 5730,
+   "address": "309 Vizcay Way, Davenport, FL 33837",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/9468e30f-2b4b-409d-9892-d2c394756dae/large.jpg",
+   "why": "Single-family house with a paver drive and palms, blue sky."
+  },
+  {
+   "id": 2215,
+   "address": "106 S Foushee Street #205, Richmond, VA 23220",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/0e525039-34cb-488d-ae51-d7d2a367282e/large.png",
+   "why": "Loft with an exposed brick wall, a big window and a new kitchen."
+  },
+  {
+   "id": 7188,
+   "address": "300 NE Triplet Dr, Casselberry, FL 32707",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/23e06be0-d0ff-440c-9263-751bfeb2bb0d/large.jpg",
+   "why": "Two-story townhome with a garage and paver drive, blue sky."
+  },
+  {
+   "id": 7341,
+   "address": "3270 Overstreet East #109, Kissimmee, FL 34747",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/e4143a21-09df-41de-be95-bc7acf0ae3bd/large.jpeg",
+   "why": "Garden courtyard with a live oak and palms."
+  },
+  {
+   "id": 7309,
+   "address": "1218 E New Orleans Ave, Tampa, FL 33603",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cd867843-82cd-468e-b6ae-ef101b95775e/large.jpeg",
+   "why": "Blue house behind a green lawn, blue sky."
+  },
+  {
+   "id": 7419,
+   "address": "5125 Airview Court, Sandston, VA 23150",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/cb736794-1e8d-46fa-8870-dfe7f6e28ad3/large.jpg",
+   "why": "Townhome front door with a porch and garden, sunny."
+  },
+  {
+   "id": 7442,
+   "address": "232 Kings Pond Ave, Winter Haven, FL 33880",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3b60dc7c-e008-4d6e-9cf5-4856f833de3f/large.png",
+   "why": "Bright staged living room with a vaulted ceiling."
+  },
+  {
+   "id": 730,
+   "address": "954-22 Courtyard Lane, Orlando, FL 32825",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/c47507f1-054d-474e-a23c-47c9e410fcc9/large.jpg",
+   "why": "Pond with a fountain in front of the buildings, blue sky."
+  },
+  {
+   "id": 7044,
+   "address": "861 Belles Ferry Loop, Sanford, FL 32771",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/6779ef64-6224-45c0-ae59-4cabe892487a/large.jpg",
+   "why": "Two-story townhomes with palms out front."
+  },
+  {
+   "id": 6916,
+   "address": "152 Trails Circle, Nashville, TN 37214",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/leads_marketing_photos/8acd9fcb-797f-46ca-9090-4b091101269e/original.png",
+   "why": "Sunny clubhouse exterior; the other Nashville first photos are floor plans."
+  },
+  {
+   "id": 2189,
+   "address": "3425 SW 2nd Ave  - 151, Gainesville, FL 32607",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/f39e00f4-42a1-4852-b2dc-f13030d37773/large.jpg",
+   "why": "Bright living room under a wood loft, stone fireplace."
+  },
+  {
+   "id": 6728,
+   "address": "1101 N Combee Rd, Lakeland, FL 33801",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/5884d448-bdb5-435d-80d1-ba87e3660632/large.png",
+   "why": "Bungalow with a front porch, blue sky."
+  },
+  {
+   "id": 7423,
+   "address": "2189 Harrison St, Titusville, FL 32780",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/bf6d7f18-63dc-49ee-a3b7-f4bc365d6305/large.jpg",
+   "why": "Townhome with a porch and palms, blue sky."
+  },
+  {
+   "id": 2041,
+   "address": "4010 San Gallo Dr, UNIT 106, Kissimmee, FL 34741",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/8d37524b-34b7-4c45-a21c-b0b61bf19eb3/large.jpg",
+   "why": "Townhome with a picket fence, blue sky."
+  },
+  {
+   "id": 2318,
+   "address": "83 N. Central Avenue, Unit 202, Umatilla, FL 32784",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/3b5a1900-235d-46d8-9ad1-ac33569828eb/large.jpeg",
+   "why": "Two-story main-street building with a balcony, blue sky."
+  },
+  {
+   "id": 7255,
+   "address": "1507 E Muriel St, Orlando, FL 32806",
+   "photo": "https://images.cdn.appfolio.com/atriummanagement/images/28bb9ec7-57a2-4105-a67d-900717803cb8/large.jpeg",
+   "why": "Sage-green house with a screened side porch."
+  }
+ ]
+}
