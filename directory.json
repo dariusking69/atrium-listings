@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 265,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 42,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -83,17 +83,8 @@
       ]
     },
     {
-      "name": "Aston Square",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -101,21 +92,30 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
+      "name": "Aston Square",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
       "cities": [
-        "Jacksonville"
+        "Kissimmee"
       ]
     },
     {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -293,7 +293,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 146,
+      "count": 147,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -355,7 +355,7 @@
     },
     {
       "name": "Preakness Apartments",
-      "count": 42,
+      "count": 44,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(629) 222-9366",
       "cities": [
@@ -390,17 +390,8 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 24,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
-      "phone": "(689) 215-8516",
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/7268efcb-600f-4dbd-bf79-9d77bc6fcf6d/large.png",
       "phone": "(804) 626-5885",
       "cities": [
@@ -408,21 +399,30 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 19,
-      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
-      "phone": "(904) 664-2823",
+      "name": "Aston Square Apartments",
+      "count": 23,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/50cc472d-e637-4ae6-a538-82368e13f295/large.png",
+      "phone": "(689) 215-8516",
       "cities": [
-        "Jacksonville"
+        "Kissimmee"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 19,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/435e5c84-ef0c-40e4-8389-b5037a0841fc/large.png",
       "phone": "(689) 300-4121",
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 18,
+      "logo": "https://images.cdn.appfolio.com/atriummanagement/images/8c3ebd29-bfce-4527-a646-f78570dab8b3/large.png",
+      "phone": "(904) 664-2823",
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -454,7 +454,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -717,7 +717,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 264,
+      "count": 265,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -795,7 +795,7 @@
     },
     {
       "name": "Aston Square",
-      "count": 24,
+      "count": 23,
       "communities": [
         "Aston Square Apartments"
       ],
@@ -804,23 +804,23 @@
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek",
-      "count": 19,
-      "communities": [
-        "Renaissance at Strawberry Creek Apartments"
-      ],
-      "cities": [
-        "Jacksonville"
-      ]
-    },
-    {
       "name": "Ave. at Winter Springs",
-      "count": 18,
+      "count": 19,
       "communities": [
         "The Avenues at Winter Springs"
       ],
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek",
+      "count": 18,
+      "communities": [
+        "Renaissance at Strawberry Creek Apartments"
+      ],
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -891,12 +891,12 @@
   ],
   "cities": [
     {
-      "name": "Richmond",
+      "name": "Orlando",
       "count": 104
     },
     {
-      "name": "Orlando",
-      "count": 103
+      "name": "Richmond",
+      "count": 104
     },
     {
       "name": "Winter Garden",
@@ -911,12 +911,12 @@
       "count": 44
     },
     {
-      "name": "Nashville",
-      "count": 43
+      "name": "Antioch",
+      "count": 44
     },
     {
-      "name": "Antioch",
-      "count": 42
+      "name": "Nashville",
+      "count": 43
     },
     {
       "name": "Tampa",
@@ -924,27 +924,27 @@
     },
     {
       "name": "Kissimmee",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Deltona",
       "count": 30
     },
     {
-      "name": "Jacksonville",
-      "count": 28
-    },
-    {
       "name": "Gainesville",
       "count": 28
     },
     {
-      "name": "Peachtree Corners",
+      "name": "Jacksonville",
       "count": 27
     },
     {
+      "name": "Peachtree Corners",
+      "count": 26
+    },
+    {
       "name": "Sandston",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Casselberry",
@@ -952,7 +952,7 @@
     },
     {
       "name": "Winter Springs",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Ocoee",
@@ -964,7 +964,7 @@
     },
     {
       "name": "Lakeland",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Davenport",
@@ -1074,7 +1074,7 @@
     },
     {
       "name": "PG9",
-      "count": 9
+      "count": 10
     }
   ],
   "mfProperties": [
@@ -1121,31 +1121,31 @@
       ]
     },
     {
-      "name": "Aston Square Apartments",
-      "count": 24,
-      "cities": [
-        "Kissimmee"
-      ]
-    },
-    {
       "name": "Gerwyn Manor",
-      "count": 23,
+      "count": 24,
       "cities": [
         "Sandston"
       ]
     },
     {
-      "name": "Renaissance at Strawberry Creek Apartments",
-      "count": 19,
+      "name": "Aston Square Apartments",
+      "count": 23,
       "cities": [
-        "Jacksonville"
+        "Kissimmee"
       ]
     },
     {
       "name": "The Avenues at Winter Springs",
-      "count": 18,
+      "count": 19,
       "cities": [
         "Winter Springs"
+      ]
+    },
+    {
+      "name": "Renaissance at Strawberry Creek Apartments",
+      "count": 18,
+      "cities": [
+        "Jacksonville"
       ]
     },
     {
@@ -1171,7 +1171,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "cities": [
         "Orlando"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 558,
-  "total": 816,
+  "mfTotal": 559,
+  "total": 819,
   "groups": [
     {
       "key": "inicio",
