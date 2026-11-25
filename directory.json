@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 264,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -293,7 +293,7 @@
   "communities": [
     {
       "name": "Atrium Management Company",
-      "count": 147,
+      "count": 146,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png",
       "phone": "(407) 585-2721",
       "cities": [
@@ -717,7 +717,7 @@
   "portfolios": [
     {
       "name": "Atrium Management Company",
-      "count": 265,
+      "count": 264,
       "communities": [
         "Atrium Management Company",
         "Cardinal Village",
@@ -948,7 +948,7 @@
     },
     {
       "name": "Casselberry",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Winter Springs",
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "PG2",
-      "count": 11
+      "count": 10
     },
     {
       "name": "PG3",
@@ -1374,7 +1374,7 @@
     }
   ],
   "mfTotal": 559,
-  "total": 819,
+  "total": 818,
   "groups": [
     {
       "key": "inicio",
