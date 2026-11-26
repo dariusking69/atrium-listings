@@ -66,7 +66,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -147,7 +147,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -373,7 +373,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 28,
+      "count": 27,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/2dd9bc73-c2f4-43e4-9a45-3103706e490d/large.png",
       "phone": "(689) 215-6283",
       "cities": [
@@ -454,7 +454,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -775,7 +775,7 @@
     },
     {
       "name": "Barber Park",
-      "count": 28,
+      "count": 27,
       "communities": [
         "Barber Park Apartments"
       ],
@@ -896,7 +896,7 @@
     },
     {
       "name": "Orlando",
-      "count": 100
+      "count": 98
     },
     {
       "name": "Winter Garden",
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "Barber Park Apartments",
-      "count": 28,
+      "count": 27,
       "cities": [
         "Orlando"
       ]
@@ -1171,7 +1171,7 @@
     },
     {
       "name": "The Julian",
-      "count": 14,
+      "count": 13,
       "cities": [
         "Orlando"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 552,
-  "total": 810,
+  "mfTotal": 550,
+  "total": 808,
   "groups": [
     {
       "key": "inicio",
