@@ -1,5 +1,50 @@
 [
   {
+    "id": 7454,
+    "uuid": "08d2ae0c-702f-4250-9343-b07856c4dc17",
+    "address": "480 N Terry Ave Unit 0113, Orlando, FL 32801",
+    "street": "480 N Terry Ave Unit 0113",
+    "city": "Orlando",
+    "rent": "$1,154 - $2,092",
+    "rent_val": 1154,
+    "specs": "Studio, 1 ba, 414 Sq. Ft.",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 414,
+    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/08d2ae0c-702f-4250-9343-b07856c4dc17",
+    "lat": 28.549462,
+    "lng": -81.3873209,
+    "property": "The Julian",
+    "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
+    "phone": "(689) 220-0831",
+    "title": "Studio Apartment in Downtown Orlando \u2013 The DaVinci",
+    "description": "Studio, 1 Bath, 414 Sq. Ft. apartment at The Julian in Downtown Orlando's Creative Village. A smart, efficient studio with a full kitchen and private outdoor space, steps from Lake Eola.\r\n\r\nApartment Features: Exposed Cement Ceilings, Efficient Modern Appliances, Private Patio/Balcony, Disposal, Dishwasher, Air Conditioning, Microwave\r\n\r\nCommunity Features: Rooftop Pool & Clubhouse, Open Air Fitness Center, The Monroe Restaurant, Secured Access Parking, Pet-Friendly (cats & dogs, up to 75 lbs)\r\n\r\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,154 - $2,092 \n\n\n\n Admin Fee: $250 \n\n\n Application Fee: $95 \n\n\n\n Available 12/10/26",
+    "terms": [
+      "Rent: $1,154 - $2,092",
+      "Admin Fee: $250",
+      "Application Fee: $95",
+      "Available 12/10/26"
+    ],
+    "pets": [
+      "Cats allowed",
+      "Dogs allowed"
+    ],
+    "photos": [
+      "https://images.cdn.appfolio.com/atriummanagement/images/83930c78-0763-4fe0-aac7-21268a35a106/large.jpg",
+      "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png"
+    ],
+    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=08d2ae0c-702f-4250-9343-b07856c4dc17&source=Website",
+    "available": "12/10/26",
+    "zip": "32801",
+    "state": "FL",
+    "unit": "0113",
+    "pg": "",
+    "mf": true,
+    "cg": [],
+    "community": "The Julian"
+  },
+  {
     "id": 7453,
     "uuid": "bc5464da-1457-4125-94b4-71ca37adff7a",
     "address": "700 Suncrest Loop # 310, Casselberry, FL 32707",

@@ -147,7 +147,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -454,7 +454,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "logo": "https://images.cdn.appfolio.com/atriummanagement/images/987c274c-3f00-461a-bb4f-80cfe5bacc34/large.png",
       "phone": "(689) 220-0831",
       "cities": [
@@ -896,7 +896,7 @@
     },
     {
       "name": "Orlando",
-      "count": 98
+      "count": 99
     },
     {
       "name": "Winter Garden",
@@ -1171,7 +1171,7 @@
     },
     {
       "name": "The Julian",
-      "count": 13,
+      "count": 14,
       "cities": [
         "Orlando"
       ]
@@ -1373,8 +1373,8 @@
       ]
     }
   ],
-  "mfTotal": 549,
-  "total": 805,
+  "mfTotal": 550,
+  "total": 806,
   "groups": [
     {
       "key": "inicio",
