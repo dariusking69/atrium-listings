@@ -916,7 +916,7 @@
     },
     {
       "name": "Nashville",
-      "count": 43
+      "count": 42
     },
     {
       "name": "Tampa",
@@ -1374,7 +1374,7 @@
     }
   ],
   "mfTotal": 549,
-  "total": 807,
+  "total": 806,
   "groups": [
     {
       "key": "inicio",
